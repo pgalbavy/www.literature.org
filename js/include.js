@@ -61,28 +61,19 @@ function contentsJSON() {
 			if (this.status == 200) {
 			// process JSON	
 			var contents = JSON.parse(this.responseText);
-			var html = "<ul class=\"w3-ul w3-hoverable\">";
-			/*
-			html += "<li><h2><a href=\"index.html\">" + contents.title + "</a></h2>";
-			html += "<h2><a href=\"../\">" + contents.author + "</a></h2></li>";
-			
-			<i class=\"material-icons\">home</i>
-			
-			<i class=\"material-icons\">person</i>
-			<i class=\"material-icons\">menu_book</i>
-			<i class=\"material-icons\">library_books</i>
-			*/
+			var html = "<ul class=\"w3-bar-block w3-ul w3-hoverable\">";
+
 			for (var c of contents.chapters) {
-				html += "<li><a href=\"" + c.href + "\">";
+				html += "<li><a href=\"" + c.href + "\" class=\"w3-bar-item w3-button\">";
 				
 				if (c.href == "authors") {
-					html += "<i class=\"material-icons\">people</i> ";
+					html += "<i class=\"material-icons md-lit\">people</i> ";
 				} else if (contents.title == "Authors") {
-					html += "<i class=\"material-icons\">person</i> ";
+					html += "<i class=\"material-icons md-lit\">person</i> ";
 				} else if (c.href && c.href.endsWith(".html")) {
-					html += "<i class=\"material-icons\">library_books</i> ";
+					html += "<i class=\"material-icons md-lit\">library_books</i> ";
 				} else {
-					html += "<i class=\"material-icons\">menu_book</i> ";
+					html += "<i class=\"material-icons md-lit\">menu_book</i> ";
 				}
 				
 				html += c.title + "</a></li>";
