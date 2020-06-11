@@ -180,13 +180,13 @@ function literatureNav() {
 							html += "<div class=\"w3-bar-item w3-button w3-disabled\"><i class=\"material-icons\">arrow_forward</i></div>";
 						}
 
-						// update link rel="next" values
+						// update link rel="next"/"prev" values
 						var links = document.head.getElementsByTagName("link");
+						var gotnext = false, gotprev = false;
 						for (var l = 0; l < links.length; l++) {
-							var gotnext = false, gotprev = false;
 							if (links[l].rel == "next") {
 								gotnext = true;
-							} else if (links[i].rel == "prev") {
+							} else if (links[l].rel == "prev") {
 								gotprev = true;
 							}
 						}
