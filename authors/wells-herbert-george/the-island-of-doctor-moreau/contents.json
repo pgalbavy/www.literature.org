@@ -1,0 +1,30 @@
+{
+	"title": "The Island of Doctor Moreau",
+	"author": "H. G. Wells",
+	"chapters": [
+		{ "href": "introduction.html", "title": "Introduction" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - In The Dingey Of The &quot;Lady Vain&quot;" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Man Who Was Going Nowhere" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Strange Face" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - At The Schooner's Rail" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Man Who Had Nowhere To Go" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Evil-Looking Boatmen" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - &quot;The Locked Door&quot;" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Crying Of The Puma" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - The Thing In The Forest" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Crying Of The Man" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - The Hunting Of The Man" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - The Sayers Of The Law" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - A Parley" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Doctor Moreau Explains" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Concerning The Beast Folk" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - How The Beast Folk Taste Blood" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - A Catastrophe" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - The Finding Of Moreau" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - Montgomery's &quot;Bank Holiday&quot;" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - Alone With The Beast Folk" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - The Reversion Of The Beast Folk" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - The Man Alone" }
+	]
+}
+

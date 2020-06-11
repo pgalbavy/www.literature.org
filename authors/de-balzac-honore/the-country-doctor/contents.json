@@ -1,0 +1,13 @@
+{
+	"title": "The Country Doctor",
+	"author": "Honoré de Balzac",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Countryside And The Man" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - A Doctor's Round" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Napoleon Of The People" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Country Doctor'S Confession" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Elegies" },
+		{ "href": "addendum.html", "title": "Addendum" }
+	]
+}
+

@@ -1,0 +1,13 @@
+{
+	"title": "The Poison Belt",
+	"author": "Arthur Conan Doyle",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Blurring Of Lines" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Tide Of Death" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Submerged" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - A Diary Of The Dying" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Dead World" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Great Awakening" }
+	]
+}
+

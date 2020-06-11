@@ -1,0 +1,26 @@
+{
+	"title": "An Old Fashioned Girl",
+	"author": "Louisa May Alcott",
+	"chapters": [
+		{ "href": "preface.html", "title": "Preface" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Polly Arrives" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - New Fashions" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Polly's Troubles" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Little Things" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Scrapes" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Grandma" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Good-By" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Six Years Afterward" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Lessons" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Needles And Tongues" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Forbidden Fruit" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - The Sunny Side" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Nipped In The Bud" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Breakers Ahead" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - A Dress Parade" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - Playing Grandmother" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - The Woman Who Did Not Dare" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - Tom's Success" }
+	]
+}
+

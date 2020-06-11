@@ -1,0 +1,25 @@
+{
+	"title": "The Kangaroo",
+	"author": "D. H. Lawrence",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Torestin" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Neighbours" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Larboard Watch Ahoy!" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Jack And Jaz" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Coo-Ee" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Kangaroo" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Battle Of Tongues" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Volcanic Evidence" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Harriet And Lovat At Sea In Marriage" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Diggers" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Willie Struthers And Kangaroo" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - The Nightmare" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - &quot;Revenge!&quot; Timotheus Cries" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Bits" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Jack Slaps Back" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - A Row In Town" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - Kangaroo Is Killed" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - Adieu Australia" }
+	]
+}
+

@@ -1,0 +1,24 @@
+{
+	"title": "Beyond the City",
+	"author": "Arthur Conan Doyle",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The New-Comers" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Breaking The Ice" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Dwellers In The Wilderness" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - A Sister's Secret" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - A Naval Conquest" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - An Old Story" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Venit Tandem Felicitas" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Shadows Before" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - A Family Plot" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Women Of The Future" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - A Blot From The Blue" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Friends In Need" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - In Strange Waters" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Eastward Ho" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Still Among Shoals" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - A Midnight Visitor" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - In Port At Last" }
+	]
+}
+

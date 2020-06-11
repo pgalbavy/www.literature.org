@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>literature.org</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="/js/include.js"></script>
+</head>
+
+<body>
+<div w3-include-html="/inc/header.html"></div>
+
+<article class="w3-container w3-justify">
+
+<ul>
+<li><a href="preface.html">Preface</a></li>
+<li><a href="chapter-01.html">Chapter 1</a></li>
+<li><a href="chapter-02.html">Chapter 2</a></li>
+<li><a href="chapter-03.html">Chapter 3</a></li>
+<li><a href="chapter-04.html">Chapter 4</a></li>
+<li><a href="chapter-05.html">Chapter 5</a></li>
+<li><a href="chapter-06.html">Chapter 6</a></li>
+<li><a href="chapter-07.html">Chapter 7</a></li>
+<li><a href="chapter-08.html">Chapter 8</a></li>
+<li><a href="chapter-09.html">Chapter 9</a></li>
+<li><a href="chapter-10.html">Chapter 10</a></li>
+<li><a href="chapter-11.html">Chapter 11</a></li>
+<li><a href="chapter-12.html">Chapter 12</a></li>
+<li><a href="chapter-13.html">Chapter 13</a></li>
+<li><a href="chapter-14.html">Chapter 14</a></li>
+<li><a href="chapter-15.html">Chapter 15</a></li>
+<li><a href="chapter-16.html">Chapter 16</a></li>
+<li><a href="chapter-17.html">Chapter 17</a></li>
+<li><a href="chapter-18.html">Chapter 18</a></li>
+<li><a href="chapter-19.html">Chapter 19</a></li>
+<li><a href="chapter-20.html">Chapter 20</a></li>
+</ul>
+
+</div>
+</td>
+<td width="120" valign="top">
+</td></tr>
+</table>
+<div w3-include-html="/footer.html"></div>
+
+</div>
+
+<script>
+literatureFuncs(); 
+</script>
+
+
+</body>
+</html>
+

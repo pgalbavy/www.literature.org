@@ -1,0 +1,30 @@
+{
+	"title": "The Gods of Mars",
+	"author": "Edgar Rice Burroughs",
+	"chapters": [
+		{ "href": "foreword.html", "title": "Foreword" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Plant Men" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - A Forest Battle" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Chamber of Mystery" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Thuvia" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Corridors of Peril" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Black Pirates of Barsoom" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - A Fair Goddess" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Depths of Omean" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Issus, Goddess of Life Eternal" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Prison Isle of Shador" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - When Hell Broke Loose" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Doomed to Die" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - A Break for Liberty" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - The Eyes in the Dark" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Flight and Pursuit" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - Under Arrest" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - The Death Sentence" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - Sola's Story" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - Black Despair" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - The Air Battle" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - Through Flood and Flame" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - Victory and Defeat" }
+	]
+}
+

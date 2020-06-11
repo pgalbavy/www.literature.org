@@ -1,0 +1,25 @@
+{
+	"title": "Tom Brown's Schooldays",
+	"author": "Thomas Hughes",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Part 1 - Chapter 1 - The Brown Family" },
+		{ "href": "chapter-02.html", "title": "Part 1 - Chapter 2 - The &quot;Veast&quot;" },
+		{ "href": "chapter-03.html", "title": "Part 1 - Chapter 3 - Sundry Wars And Alliances" },
+		{ "href": "chapter-04.html", "title": "Part 1 - Chapter 4 - The Stage Coach" },
+		{ "href": "chapter-05.html", "title": "Part 1 - Chapter 5 - Rugby And Football" },
+		{ "href": "chapter-06.html", "title": "Part 1 - Chapter 6 - After The Match" },
+		{ "href": "chapter-07.html", "title": "Part 1 - Chapter 7 - Settling To The Collar" },
+		{ "href": "chapter-08.html", "title": "Part 1 - Chapter 8 - The War Of Independence" },
+		{ "href": "chapter-09.html", "title": "Part 1 - Chapter 9 - A Part 1 - Chapter Of Accidents" },
+		{ "href": "chapter-10.html", "title": "Part 2 - Chapter 1 - How The Tide Turned" },
+		{ "href": "chapter-11.html", "title": "Part 2 - Chapter 2 - The New Boy" },
+		{ "href": "chapter-12.html", "title": "Part 2 - Chapter 3 - Arthur Makes A Friend" },
+		{ "href": "chapter-13.html", "title": "Part 2 - Chapter 4 - The Bird-Fanciers" },
+		{ "href": "chapter-14.html", "title": "Part 2 - Chapter 5 - The Fight" },
+		{ "href": "chapter-15.html", "title": "Part 2 - Chapter 6 - Fever In The School" },
+		{ "href": "chapter-16.html", "title": "Part 2 - Chapter 7 - Harry East's Dilemmas And Deliverances" },
+		{ "href": "chapter-17.html", "title": "Part 2 - Chapter 8 - Tom Brown's Last Match" },
+		{ "href": "chapter-18.html", "title": "Part 2 - Chapter 9 - Finis" }
+	]
+}
+

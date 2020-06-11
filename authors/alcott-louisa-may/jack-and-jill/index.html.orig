@@ -1,0 +1,149 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+	<title>Literature.org - The Online Literature Library</title>
+	<style type="text/css" media="screen"> 
+	<!--
+		@import "/css/literature2.css"; 
+	-->
+	</style>
+
+<script type="text/javascript" language="JavaScript">
+    var agt      = navigator.userAgent.toLowerCase();
+    var is_major = parseInt(navigator.appVersion);
+    var is_minor = parseFloat(navigator.appVersion);
+    var is_ie    = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+    var is_ie3   = (is_ie && (is_major < 4));
+    var is_ie4   = (is_ie && (is_major == 4) && (agt.indexOf("msie 4")!=-1) );
+    var is_ie4up = (is_ie && (is_major >= 4));
+    var is_ie5   = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) );
+    var is_ie5_5 = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.5") !=-1));
+    var is_ie5up = (is_ie && !is_ie3 && !is_ie4);
+    var is_ie5_5up =(is_ie && !is_ie3 && !is_ie4 && !is_ie5);
+
+    if (is_ie5up) {
+	document.write ('<link rel="STYLESHEET" type="text/css" href="/css/ie.css">');
+    }
+</script>
+</head>
+
+<body>
+<!-- Main Header -->
+<div id="header">
+
+<table cellpadding="4" cellspacing="0" width="100%" border="0">
+<tr>
+	<td width="245">
+	<a href="/"><img src="/images/literature2.gif" width="245" height="56" alt="Literature.org" border="0"></a>
+	</td>
+	<td align="right" valign="bottom">
+
+
+
+	</td>
+</tr>
+</table>
+</div>
+<!-- End Header -->
+
+<!-- Left Hand Margin -->
+<div id="leftmargin">
+<!-- navigation -->
+<div id="nav">
+<strong>By This Author</strong>:<br>
+<a title="Eight Cousins" href="/authors/alcott-louisa-may/eight-cousins">Eight Cousins</a><br>
+<a href="/authors/alcott-louisa-may/hospital-sketches" title="Hospital Sketches">Hospital Ske...</a><br>
+<a href="/authors/alcott-louisa-may/jack-and-jill" title="Jack And Jill">Jack And Jill</a><br>
+<a title="Jo's Boys" href="/authors/alcott-louisa-may/jos-boys">Jo's Boys</a><br>
+<a title="Little Men" href="/authors/alcott-louisa-may/little-men">Little Men</a><br>
+<a title="Little Women" href="/authors/alcott-louisa-may/little-women">Little Women</a><br>
+<a href="/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened" title="The Mysterious Key And What It Opened">The Mysterio...</a><br>
+<a title="An Old-Fashioned Girl" href="/authors/alcott-louisa-may/an-old-fashioned-girl">An Old-Fashi...</a><br>
+<a href="/authors/alcott-louisa-may/paulines-passion-and-punishment" title="Pauline's Passion And Punishment">Pauline's Pa...</a><br>
+<a title="Rose In Bloom" href="/authors/alcott-louisa-may/rose-in-bloom">Rose In Bloom</a><br>
+<a href="/authors/alcott-louisa-may/under-the-lilacs" title="Under The Lilacs">Under The Li...</a><br>
+<a title="Work: A Stort Of Experience" href="/authors/alcott-louisa-may/work-a-story-of-experience">Work: A Stor...</a><br>
+
+<p>
+<strong>Literature.org</strong>:<br>
+<a href="/faq.html">Contact</a>
+<br>
+
+</div>
+<br />
+<hr>
+<p>
+<p>
+<p>
+
+
+</div>
+<!-- End Left Hand Margin -->
+<!-- main body -->
+	
+<div id="content">
+<table cellpadding="5" border="0" width="100%">
+<tr>
+<td valign="top">
+
+<div id="pagetext" align="left">
+<!-- Page text -->
+
+<h1><a href="index.html">Jack And Jill</a></h1><h2><a href="../">Louisa May Alcott</a></h2><hr/>
+<p>
+
+<blockquote>
+<p class="hft-paras">Jack and Jill</p>
+
+<p class="hft-paras">Jack and Jill went up the hill<br>
+To coast with fun and laughter;<br>
+Jack fell down and broke his crown,<br>
+And Jill came tumbling after.</p>
+</blockquote>
+
+<ul>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-01.html">Chapter 1 - The Catastrophe</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-02.html">Chapter 2 - Two Penitents</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-03.html">Chapter 3 - Ward No. 1</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-04.html">Chapter 4 - Ward No. 2</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-05.html">Chapter 5 - Secrets</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-06.html">Chapter 6 - Surprises</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-07.html">Chapter 7 - Jill's Mission</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-08.html">Chapter 8 - Merry And Molly</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-09.html">Chapter 9 - The Debating Club</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-10.html">Chapter 10 - The Dramatic Club</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-11.html">Chapter 11 - "Down Brakes"</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-12.html">Chapter 12 - The Twenty-Second Of February</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-13.html">Chapter 13 - Jack Has A Mystery</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-14.html">Chapter 14 - And Jill Finds It Out</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-15.html">Chapter 15 - Saint Lucy</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-16.html">Chapter 16 - Up At Merry's</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-17.html">Chapter 17 - Down At Molly's</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-18.html">Chapter 18 - May Baskets</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-19.html">Chapter 19 - Good Templars</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-20.html">Chapter 20 - A Sweet Memory</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-21.html">Chapter 21 - Pebbly Beach</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-22.html">Chapter 22 - A Happy Day</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-23.html">Chapter 23 - Cattle Show</a></li>
+<li><a href="/authors/alcott-louisa-may/jack-and-jill/chapter-24.html">Chapter 24 - Down The River</a></li>
+</ul>
+
+<hr /><h3>Bibliographic Details</h3><table style="border: solid black 1px;" width="100%"> <tr><th>Origin</th> <td><a href="http://www.gutenberg.net/">Project Gutenberg</a></td></tr> <tr><th>Source File</th> <td><a href="http://www.gutenberg.org/dirs/etext01/jandj11.txt">etext01/jandj11.txt</a>  (unknown, 523052 bytes)</td></tr>   <tr><th>Published</th> <td>unknown</td></tr> </table>
+</div>
+</td>
+<td valign="top" width="120">
+</td></tr>
+</table>
+<div w3-include-html="/footer.html"></div>
+
+</div>
+
+<script>
+literatureFuncs(); 
+</script>
+
+
+</body>
+</html>
+

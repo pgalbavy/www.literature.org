@@ -1,0 +1,15 @@
+{
+	"title": "God The Invisible King",
+	"author": "H. G. Wells",
+	"chapters": [
+		{ "href": "preface.html", "title": "Preface" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Cosmogony Of Modern Religion" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Heresies; Or The Things That God Is Not" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Likeness Of God" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Religion Of Atheists" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Invisible King" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Modern Ideas Of Sin And Damnation" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Idea Of A Church" }
+	]
+}
+

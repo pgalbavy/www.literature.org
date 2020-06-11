@@ -1,0 +1,29 @@
+{
+	"title": "Little Men",
+	"author": "Louisa May Alcott",
+	"chapters": [
+		{ "href": "preface.html", "title": "Preface" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Nat" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Boys" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Sunday" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Stepping-Stones" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Pattypans" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - A Fire Brand" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Naughty Nan" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Pranks And Plays" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Daisy's Ball" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Home Again" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Uncle Teddy" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Huckleberries" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Goldilocks" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Damon And Pythias" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - In The Willow" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - Taming The Colt" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - Composition Day" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - Crops" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - John Brooke" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - Round The Fire" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - Thanksgiving" }
+	]
+}
+

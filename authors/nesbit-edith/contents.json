@@ -1,0 +1,18 @@
+{
+	"title": "Edith Nesbit",
+	"author": "",
+	"chapters": [
+		{ "href": "five-children-and-it", "title": "Five Children and It" },
+		{ "href": "the-enchanted-castle", "title": "The Enchanted Castle" },
+		{ "href": "the-incomplete-amorist", "title": "The Incomplete Amorist" },
+		{ "href": "the-phoenix-and-the-carpet", "title": "The Phoenix and the Carpet" },
+		{ "href": "the-railway-children", "title": "The Railway Children" },
+		{ "href": "the-story-of-the-amulet", "title": "The Story of the Amulet" },
+		{ "href": "the-story-of-the-treasure-seekers", "title": "The Story of the Treasure Seekers" },
+		{ "href": "the-wouldbegoods", "title": "The Woodbegoods" }
+	],
+	"notyet": [
+		{ "href": "in-homespun", "title": "In Homespun" }
+	]
+}
+

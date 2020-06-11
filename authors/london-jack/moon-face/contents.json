@@ -1,0 +1,15 @@
+{
+	"title": "Mood-Face and Other Stories",
+	"author": "Jack London",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Moon-Face" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Leopard Man's Story" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Local Color" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Amateur Night" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Minions Of Midas" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Shadow And The Flash" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - All Gold Canyon" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Planchette" }
+	]
+}
+

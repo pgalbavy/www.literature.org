@@ -1,0 +1,17 @@
+{
+	"title": "Paradise Lost",
+	"author": "John Milton",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Book 1" },
+		{ "href": "chapter-02.html", "title": "Book 2" },
+		{ "href": "chapter-03.html", "title": "Book 3" },
+		{ "href": "chapter-04.html", "title": "Book 4" },
+		{ "href": "chapter-05.html", "title": "Book 5" },
+		{ "href": "chapter-06.html", "title": "Book 6" },
+		{ "href": "chapter-07.html", "title": "Book 7" },
+		{ "href": "chapter-08.html", "title": "Book 8" },
+		{ "href": "chapter-09.html", "title": "Book 9" },
+		{ "href": "chapter-10.html", "title": "Book 10" }
+	]
+}
+

@@ -1,0 +1,14 @@
+{
+	"title": "The World Set Free",
+	"author": "H. G. Wells",
+	"chapters": [
+		{ "href": "preface.html", "title": "Preface" },
+		{ "href": "prelude.html", "title": "Prelude - The Sun Snarers" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The New Source Of Energy" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Last War" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Ending Of War" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The New Phase" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Last Days Of Marcus Karenin" }
+	]
+}
+

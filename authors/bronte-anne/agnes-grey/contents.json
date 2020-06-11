@@ -1,0 +1,32 @@
+{
+	"title": "Agnes Grey",
+	"author": "Anne Brontë",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Parsonage" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - First Lessons In The Art Of Instruction" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - A Few More Lessons" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Grandmamma" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Uncle" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Parsonage Again" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Horton Lodge" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The 'Coming Out'" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - The Ball" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Church" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - The Cottagers" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - The Shower" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - The Primroses" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - The Rector" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - The Walk" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - The Substitution" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - Confessions" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - Mirth And Mourning" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - The Letter" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - The Farewell" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - The School" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - The Visit" },
+		{ "href": "chapter-23.html", "title": "Chapter 23 - The Park" },
+		{ "href": "chapter-24.html", "title": "Chapter 24 - The Sands" },
+		{ "href": "chapter-25.html", "title": "Chapter 25 - Conclusion" }
+	]
+}
+

@@ -1,0 +1,21 @@
+{
+	"title": "L. Frank Baum",
+	"author": "",
+	"chapters": [
+		{ "href": "the-wonderful-wizard-of-oz/", "title": "The Wonderful Wizard of Oz" },
+		{ "href": "the-marvelous-land-of-oz/", "title": "The Marvelous Land of Oz" },
+		{ "href": "ozma-of-oz/", "title": "Ozma of Oz" },
+		{ "href": "dorothy-and-the-wizard-in-oz/", "title": "Dorothy and the Wizard in Oz" },
+		{ "href": "the-road-to-oz/", "title": "The Road to Oz" },
+		{ "href": "the-emerald-city-of-oz/", "title": "The Emerald City of Oz" },
+		{ "href": "the-patchwork-girl-of-oz/", "title": "The Patchwork Girl of Oz" },
+		{ "href": "tik-tok-of-oz/", "title": "Tik-Tok of Oz" },
+		{ "href": "the-scarecrow-of-oz/", "title": "The Scarecrow of Oz" },
+		{ "href": "rinkitink-in-oz/", "title": "Rinkitink in Oz" },
+		{ "href": "the-lost-princess-of-oz/", "title": "The Lost Princess of Oz" },
+		{ "href": "the-tin-woodman-of-oz/", "title": "The Tin Woodman of Oz" },
+		{ "href": "the-magic-of-oz/", "title": "The Magic of Oz" },
+		{ "href": "glinda-of-oz/", "title": "Glinda of Oz" }
+	]
+}
+

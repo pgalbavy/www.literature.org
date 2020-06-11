@@ -1,0 +1,17 @@
+{
+	"title": "The Night-Born and Other Stories",
+	"author": "Jack London",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Night-Born" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Madness Of John Harned" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - When The World Was Young" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Benefit Of The Doubt" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Winged Blackmail" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Bunches Of Knuckles" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - War" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Under The Deck Awnings" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - To Kill A Man" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Mexican" }
+	]
+}
+

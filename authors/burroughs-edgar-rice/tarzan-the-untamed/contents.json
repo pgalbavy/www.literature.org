@@ -1,0 +1,31 @@
+{
+	"title": "Tarzan the Untamed",
+	"author": "Edgar Rice Burroughs",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Murder And Pillage" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Lion's Cave" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - In The German Lines" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - When The Lion Fed" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Golden Locket" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Vengeance And Mercy" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - When Blood Told" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Tarzan And The Great Apes" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Dropped From The Sky" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - In The Hands Of Savages" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Finding The Airplane" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - The Black Flier" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Usanga's Reward" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - The Black Lion" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Mysterious Footprints" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - The Night Attack" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - The Walled City" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - Among The Maniacs" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - The Queen's Story" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - Came Tarzan" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - In The Alcove" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - Out Of The Niche" },
+		{ "href": "chapter-23.html", "title": "Chapter 23 - The Flight From Xuja" },
+		{ "href": "chapter-24.html", "title": "Chapter 24 - The Tommies" }
+	]
+}
+

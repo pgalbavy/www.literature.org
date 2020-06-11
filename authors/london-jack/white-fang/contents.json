@@ -1,0 +1,32 @@
+{
+	"title": "White Fang",
+	"author": "Jack London",
+	"chapters": [
+		{ "href": "part-01-chapter-01.html", "title": "Part 1 - Chapter 1 - The Trail Of The Meat" },
+		{ "href": "part-01-chapter-02.html", "title": "Part 1 - Chapter 2 - The She-Wolf" },
+		{ "href": "part-01-chapter-03.html", "title": "Part 1 - Chapter 3 - The Hunger Cry" },
+		{ "href": "part-02-chapter-01.html", "title": "Part 2 - Chapter 1 - The Battle Of The Fangs" },
+		{ "href": "part-02-chapter-02.html", "title": "Part 2 - Chapter 2 - The Lair" },
+		{ "href": "part-02-chapter-03.html", "title": "Part 2 - Chapter 3 - The Grey Cub" },
+		{ "href": "part-02-chapter-04.html", "title": "Part 2 - Chapter 4 - The Wall Of The World" },
+		{ "href": "part-02-chapter-05.html", "title": "Part 2 - Chapter 5 - The Law Of Meat" },
+		{ "href": "part-03-chapter-01.html", "title": "Part 3 - Chapter 1 - The Makers Of Fire" },
+		{ "href": "part-03-chapter-02.html", "title": "Part 3 - Chapter 2 - The Bondage" },
+		{ "href": "part-03-chapter-03.html", "title": "Part 3 - Chapter 3 - The Outcast" },
+		{ "href": "part-03-chapter-04.html", "title": "Part 3 - Chapter 4 - The Trail Of The Gods" },
+		{ "href": "part-03-chapter-05.html", "title": "Part 3 - Chapter 5 - The Covenant" },
+		{ "href": "part-03-chapter-06.html", "title": "Part 3 - Chapter 6 - The Famine" },
+		{ "href": "part-04-chapter-01.html", "title": "Part 4 - Chapter 1 - The Enemy Of His Kind" },
+		{ "href": "part-04-chapter-02.html", "title": "Part 4 - Chapter 2 - The Mad God" },
+		{ "href": "part-04-chapter-03.html", "title": "Part 4 - Chapter 3 - The Reign Of Hate" },
+		{ "href": "part-04-chapter-04.html", "title": "Part 4 - Chapter 4 - The Clinging Death" },
+		{ "href": "part-04-chapter-05.html", "title": "Part 4 - Chapter 5 - The Indomitable" },
+		{ "href": "part-04-chapter-06.html", "title": "Part 4 - Chapter 6 - The Love-Master" },
+		{ "href": "part-05-chapter-01.html", "title": "Part 5 - Chapter 1 - The Long Trail" },
+		{ "href": "part-05-chapter-02.html", "title": "Part 5 - Chapter 2 - The Southland" },
+		{ "href": "part-05-chapter-03.html", "title": "Part 5 - Chapter 3 - The God's Domain" },
+		{ "href": "part-05-chapter-04.html", "title": "Part 5 - Chapter 4 - The Call Of Kind" },
+		{ "href": "part-05-chapter-05.html", "title": "Part 5 - Chapter 5 - The Sleeping Wolf" }
+	]
+}
+

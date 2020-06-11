@@ -1,0 +1,28 @@
+{
+	"title": "Aaron's Rod",
+	"author": "D. H. Lawrence",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Blue Ball" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Royal Oak" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - &quot;The Lighted Tree&quot;" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - &quot;The Pillar Of Salt&quot;" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - At The Opera" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Talk" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Dark Square Garden" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - A Punch In The Wind" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Low-Water Mark" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The War Again" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - More Pillar Of Salt" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Novara" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Wie Es Ihnen Gefaellt" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - XX Settembre" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - A Railway Journey" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - Florence" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - High Up Over The Cathedral Square" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - The Marchesa" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - Cleopatra, But Not Anthony" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - The Broken Rod" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - Words" }
+	]
+}
+

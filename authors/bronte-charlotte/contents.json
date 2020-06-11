@@ -1,0 +1,10 @@
+{
+	"title": "Charlotte Brontë",
+	"author": "",
+	"chapters": [
+		{ "href": "jane-eyre/", "title": "Jane Eyre" },
+		{ "href": "the-professor/", "title": "The Professor" },
+		{ "href": "villette/", "title": "Villette" }
+	]
+}
+

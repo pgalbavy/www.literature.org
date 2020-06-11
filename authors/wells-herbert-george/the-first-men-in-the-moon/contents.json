@@ -1,0 +1,33 @@
+{
+	"title": "The First Men in the Moon",
+	"author": "H. G. Wells",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Mr. Bedford Meets Mr. Cavor At Lympne" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The First Making Of Cavorite" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Building Of The Sphere" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Inside The Sphere" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Journey To The Moon" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Landing On The Moon" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Sunrise On The Moon" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - A Lunar Morning" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Prospecting Begins" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Lost Men In The Moon" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - The Mooncalf Pastures" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - The Selenite's Face" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Mr. Cavor Makes Some Sugestions" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Chapter  14 Experiments In Intercourse" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - The Giddy Bridge" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - Points Of View" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - The Fight In The Cave Of The Moon Butchers" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - In The Sunlight" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - Mr. Bedford Alone" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - Mr. Bedford In Infinite Space" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - Mr. Bedford At Littlestone" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - The Astonishing Communication Of Mr. Julius Wendigee" },
+		{ "href": "chapter-23.html", "title": "Chapter 23 - An Abstract Of The Six Messages First Received From Mr. Cavor" },
+		{ "href": "chapter-24.html", "title": "Chapter 24 - The Natural History Of The Selenites" },
+		{ "href": "chapter-25.html", "title": "Chapter 25 - The Grand Lunar" },
+		{ "href": "chapter-26.html", "title": "Chapter 26 - The Last Message Cavor Sent To The Earth" }
+	]
+}
+

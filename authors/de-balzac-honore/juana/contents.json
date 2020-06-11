@@ -1,0 +1,10 @@
+{
+	"title": "Juana",
+	"author": "Honoré de Balzac",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Exposition" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Auction" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The History Of Madame Diard" }
+	]
+}
+

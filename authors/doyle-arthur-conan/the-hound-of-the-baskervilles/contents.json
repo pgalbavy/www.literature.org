@@ -1,0 +1,22 @@
+{
+	"title": "The Hound of the Baskervilles",
+	"author": "Arthur Conan Doyle",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Mr. Sherlock Holmes" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Curse of the Baskervilles" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Problem" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Sir Henry Baskerville" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Three Broken Threads" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Baskerville Hall" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Stapletons of Merripit House" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - First Report of Dr. Watson" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Second Report of Dr. Watson" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Extract from the Diary of Dr. Watson" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - The Man on the Tor" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Death on the Moor" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Fixing the Nets" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - The Hound of the Baskervilles" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - A Retrospection" }
+	]
+}
+

@@ -1,0 +1,16 @@
+{
+	"title": "The Hunting of the Snark",
+	"author": "Lewis Carroll",
+	"chapters": [
+		{ "href": "preface.html", "title": "Preface" },
+		{ "href": "chapter-01.html", "title": "Fit the First - The Landing" },
+		{ "href": "chapter-02.html", "title": "Fit the Second - The Bellman's Speech" },
+		{ "href": "chapter-03.html", "title": "Fit the Third - The Bakers Tale" },
+		{ "href": "chapter-04.html", "title": "Fit the Fourth - The Hunting" },
+		{ "href": "chapter-05.html", "title": "Fit the Fifth - The Beaver's Lesson" },
+		{ "href": "chapter-06.html", "title": "Fit the Sixth - The Barrister's Dream" },
+		{ "href": "chapter-07.html", "title": "Fit the Seventh - The Banker's Fate" },
+		{ "href": "chapter-08.html", "title": "Fit the Eigth - The Vanishing" }
+	]
+}
+

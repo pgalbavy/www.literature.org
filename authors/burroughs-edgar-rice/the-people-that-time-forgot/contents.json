@@ -1,0 +1,14 @@
+{
+	"title": "The People That Time Forgot",
+	"author": "Edgar Rice Burroughs",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1" },
+		{ "href": "chapter-02.html", "title": "Chapter 2" },
+		{ "href": "chapter-03.html", "title": "Chapter 3" },
+		{ "href": "chapter-04.html", "title": "Chapter 4" },
+		{ "href": "chapter-05.html", "title": "Chapter 5" },
+		{ "href": "chapter-06.html", "title": "Chapter 6" },
+		{ "href": "chapter-07.html", "title": "Chapter 7" }
+	]
+}
+

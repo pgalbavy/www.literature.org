@@ -1,0 +1,19 @@
+{
+	"title": "Jungle Tales of Tarzan",
+	"author": "Edgar Rice Burroughs",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Tarzan's First Love" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Capture of Tarzan" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Fight for the Balu" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The God of Tarzan" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Tarzan and the Black Boy" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Witch-Doctor Seeks Vengeance" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The End of Bukawai" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Lion" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - The Nightmare" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Battle for Teeka" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - A Jungle Joke" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Tarzan Rescues the Moon" }
+	]
+}
+

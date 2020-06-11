@@ -1,0 +1,23 @@
+{
+	"title": "The Origin of Species",
+	"author": "Charles Darwin",
+	"chapters": [
+		{ "href": "preface.html", "title": "Preface" },
+		{ "href": "introduction.html", "title": "Introduction" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Variation Under Domestication" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Variation Under Nature" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Struggle for Existence" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Natural Selection" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Laws of Variation" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Difficulties on Theory" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Instinct" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Hybridism" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - On the Imperfection of the Geological Record" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - On The Geological Succession of Organic Beings" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Geographical Distribution" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Geographical Distribution <I>continued</I>" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Mutual Affinities of Organic Beings: Morphology: Embryology: Rudimentary Organs " },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Recapitulation and Conclusion" },
+		{ "href": "glossary.html", "title": "Glossary" }
+	]
+}

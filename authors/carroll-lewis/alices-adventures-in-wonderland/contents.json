@@ -1,0 +1,18 @@
+{
+	"title": "Alice's Adventures in Wonderland",
+	"author": "Lewis Carroll",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Down the Rabbit-Hole" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Pool of Tears" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - A Caucus-Race and a Long Tale" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Rabbit Sends in a Little Bill" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Advice from a Caterpillar" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Pig and Pepper" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - A Mad Tea-Party" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Queen's Croquet-Ground" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - The Mock Turtle's Story" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Lobster Quadrille" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Who Stole the Tarts?" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Alice's Evidence" }
+	]
+}

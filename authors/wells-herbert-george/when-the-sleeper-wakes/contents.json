@@ -1,0 +1,30 @@
+{
+	"title": "When the Sleeper Awakes",
+	"author": "H. G. Wells",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Insomnia" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Trance" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Awakening" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Sound Of A Tumult" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Moving Ways" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Hall Of The Atlas" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - In The Silent Rooms" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Roof Spaces" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - The People March" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Battle Of The Darkness" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - The Old Man Who Knew Everything" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Ostrog" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - The End Of The Old Order" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - From The Crow S Nest" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Prominent People" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - The Aerophile" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - Three Days" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - Graham Remembers" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - Ostrog's Point Of View" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - In The City Ways" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - The Under Side" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - The: Struggle In The Council House" },
+		{ "href": "chapter-23.html", "title": "Chapter 23 - While The Aerolanes Were Coming" },
+		{ "href": "chapter-24.html", "title": "Chapter 24 - The Coming Of The Aeroplanes" }
+	]
+}

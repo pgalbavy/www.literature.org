@@ -1,0 +1,48 @@
+{
+	"title": "Authors",
+	"author": "",
+	"chapters": [
+		{ "href": "aesop", "title": "<strong>Aesop</strong>" },
+		{ "href": "alcott-louisa-may", "title": "Louisa May <strong>Alcott</strong>" },
+		{ "href": "barrie-james-matthew", "title": "James Matthew <strong>Barrie</strong>" },
+		{ "href": "baum-l-frank", "title": "L. Frank <strong>Baum</strong>" },
+		{ "href": "bronte-anne", "title": "Anne <strong>Brontë</strong>" },
+		{ "href": "bronte-charlotte", "title": "Charlotte <strong>Brontë</strong>" },
+		{ "href": "bronte-emily", "title": "Emily <strong>Brontë</strong>" },
+		{ "href": "burroughs-edgar-rice", "title": "Edgar Rice <strong>Burroughs</strong>" },
+		{ "href": "carroll-lewis", "title": "Lewis <strong>Carroll</strong>" },
+		{ "href": "cather-willa", "title": "Willa <strong>Cather</strong>" },
+		{ "href": "collins-wilkie", "title": "Wilkie <strong>Collins</strong>" },
+		{ "href": "crane-stephen", "title": "Stephen <strong>Crane</strong>" },
+		{ "href": "darwin-charles", "title": "Charles <strong>Darwin</strong>" },
+		{ "href": "de-balzac-honore", "title": "Honore de <strong>Balzac</strong>" },
+		{ "href": "defoe-daniel", "title": "Daniel <strong>Defoe</strong>" },
+		{ "href": "descartes-rene", "title": "Rene <strong>Descartes</strong>" },
+		{ "href": "dickens-charles", "title": "Charles <strong>Dickens</strong>" },
+		{ "href": "dostoevsky-fyodor", "title": "Fyodor <strong>Dostoevsky</strong>" },
+		{ "href": "doyle-arthur-conan", "title": "Arthur Conan <strong>Doyle</strong>" },
+		{ "href": "dumas-alexandre", "title": "Alexandre <strong>Dumas</strong>" },
+		{ "href": "eliot-george", "title": "George <strong>Eliot</strong> (Mary Ann <strong>Evans</strong>)" },
+		{ "href": "hobbes-thomas", "title": "Thomas <strong>Hobbes</strong>" },
+		{ "href": "holley-marietta", "title": "Marietta <strong>Holley</strong>" },
+		{ "href": "hughes-thomas", "title": "Thomas <strong>Hughes</strong>" },
+		{ "href": "lawrence-david-herbert", "title": "D. H. <strong>Lawrence</strong>" },
+		{ "href": "london-jack", "title": "Jack <strong>London</strong>" },
+		{ "href": "milton-john", "title": "John <strong>Milton</strong>" },
+		{ "href": "montgomery-lucy-maud", "title": "Lucy Maud <strong>Montgomery</strong>" },
+		{ "href": "nesbit-edith", "title": "E. <strong>Nesbit</strong>" },
+		{ "href": "oppenheim-e-phillips", "title": "E. Phillips <strong>Oppenheim</strong>" },
+		{ "href": "shelley-mary", "title": "Mary <strong>Shelley</strong>" },
+		{ "href": "stoker-bram", "title": "Bram <strong>Stoker</strong>" },
+		{ "href": "tolstoy-leo", "title": "Leo <strong>Tolstoy</strong>" },
+		{ "href": "twain-mark", "title": "Mark <strong>Twain</strong>" },
+		{ "href": "verne-jules", "title": "Jules <strong>Verne</strong>" },
+		{ "href": "voltaire", "title": "<strong>Voltaire</strong>" },
+		{ "href": "wells-herbert-george", "title": "H. G. <strong>Wells</strong>" }
+	],
+	"notyet": [
+		{ "href": "kemp-william", "title": "William <strong>Kemp</strong>" },
+		{ "href": "poe-edgar-allan", "title": "Edgar Allan <strong>Poe</strong>" }
+	]
+}
+

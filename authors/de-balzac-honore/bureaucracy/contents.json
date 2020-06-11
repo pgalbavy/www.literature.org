@@ -1,0 +1,17 @@
+{
+	"title": "Bureaucracy",
+	"author": "Honoré de Balzac",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Rabourdin Household" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Monsieur Des Lupeaulx" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Teredos Navalis, Otherwise Called Ship-Worm" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Three-Quarter Length Portraits Of Certain Government Officials" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Machine In Motion" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Worms At Work" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Scenes From Domestic Life" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Forward, Mollusks!" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - The Resignation" },
+		{ "href": "addendum.html", "title": "Addendum" }
+	]
+}
+

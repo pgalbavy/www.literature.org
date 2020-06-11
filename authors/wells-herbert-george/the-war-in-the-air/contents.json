@@ -1,0 +1,19 @@
+{
+	"title": "The War in the Air",
+	"author": "H. G. Wells",
+	"chapters": [
+		{ "href": "preface.html", "title": "Preface to the Reprint Edition" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Of Progress And The Smallways Family" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - How Bert Smallways Got Into Difficulties" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Balloon" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The German Air-Fleet" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Battle Of The North Atlantic" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - How War Came To New York" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The &quot;Vaterland&quot; Is Disabled" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - A World At War" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - On Goat Island" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The World Under The War" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - The Great Collapse" }
+	]
+}
+

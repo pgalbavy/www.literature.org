@@ -1,0 +1,10 @@
+{
+	"title": "The Cricket on the Hearth",
+	"author": "Charles Dickens",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chirp the First" },
+		{ "href": "chapter-02.html", "title": "Chirp the Second" },
+		{ "href": "chapter-03.html", "title": "Chirp the Third" }
+	]
+}
+

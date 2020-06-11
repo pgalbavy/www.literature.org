@@ -1,0 +1,14 @@
+{
+	"title": "The Research Magnificent",
+	"author": "H. G. Wells",
+	"chapters": [
+		{ "href": "prelude.html", "title": "Prelude - On Fear And Aristocracy" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Boy Grows Up" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Young Man About Town" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Amanda" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Spirited Honeymoon" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Assize Of Jealousy" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The New Haroun Al Raschid" }
+	]
+}
+

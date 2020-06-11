@@ -1,0 +1,128 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+	<title>Literature.org - The Online Literature Library</title>
+	<style type="text/css" media="screen"> 
+	<!--
+		@import "/css/literature2.css"; 
+	-->
+	</style>
+
+<script type="text/javascript" language="JavaScript">
+    var agt      = navigator.userAgent.toLowerCase();
+    var is_major = parseInt(navigator.appVersion);
+    var is_minor = parseFloat(navigator.appVersion);
+    var is_ie    = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+    var is_ie3   = (is_ie && (is_major < 4));
+    var is_ie4   = (is_ie && (is_major == 4) && (agt.indexOf("msie 4")!=-1) );
+    var is_ie4up = (is_ie && (is_major >= 4));
+    var is_ie5   = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) );
+    var is_ie5_5 = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.5") !=-1));
+    var is_ie5up = (is_ie && !is_ie3 && !is_ie4);
+    var is_ie5_5up =(is_ie && !is_ie3 && !is_ie4 && !is_ie5);
+
+    if (is_ie5up) {
+	document.write ('<link rel="STYLESHEET" type="text/css" href="/css/ie.css">');
+    }
+</script>
+</head>
+
+<body>
+<!-- Main Header -->
+<div id="header">
+
+<table cellpadding="4" cellspacing="0" width="100%" border="0">
+<tr>
+	<td width="245">
+	<a href="/"><img src="/images/literature2.gif" width="245" height="56" alt="Literature.org" border="0"></a>
+	</td>
+	<td align="right" valign="bottom">
+
+
+
+	</td>
+</tr>
+</table>
+</div>
+<!-- End Header -->
+
+<!-- Left Hand Margin -->
+<div id="leftmargin">
+<!-- navigation -->
+<div id="nav">
+<strong>By This Author</strong>:<br>
+<a title="Adam Bede (1859)" href="/authors/eliot-george/adam-bede">Adam Bede (1...</a><br>
+<a title="Brother Jacob (1860)" href="/authors/eliot-george/brother-jacob">Brother Jaco...</a><br>
+<a title="Daniel Deronda (1876)" href="/authors/eliot-george/daniel-deronda">Daniel Deron...</a><br>
+<a title="Impressions Of Theophrastus Such (1879)" href="/authors/eliot-george/impressions-of-theophrastus-such">Impressions ...</a><br>
+<a title="The Lifted Veil (1859)" href="/authors/eliot-george/the-lifted-veil">The Lifted V...</a><br>
+<a title="Middlemarch (1872)" href="/authors/eliot-george/middlemarch">Middlemarch ...</a><br>
+<a title="The Mill on the Floss (1860)" href="/authors/eliot-george/the-mill-on-the-floss">The Mill on ...</a><br>
+<a title="Silas Marner (1861)" href="/authors/eliot-george/silas-marner">Silas Marner...</a><br>
+
+<p>
+<strong>Literature.org</strong>:<br>
+<a href="/faq.html">Contact</a>
+<br>
+
+</div>
+<br />
+<hr>
+<p>
+<p>
+<p>
+
+
+</div>
+<!-- End Left Hand Margin -->
+<!-- main body -->
+	
+<div id="content">
+<table cellpadding="5" border="0" width="100%">
+<tr>
+<td valign="top">
+
+<div id="pagetext" align="left">
+<!-- Page text -->
+
+<h1><a href="../index.html">Middlemarch</a></h1><h2><a href="index.html">Part 8 - Sunset And Sunrise</a></h2><h2><a href="../../">George Eliot</a></h2><hr/>
+<p>
+
+
+<ul>
+<li><a href="/authors/eliot-george/middlemarch/part-08/chapter-72.html">Chapter 72</a></li>
+<li><a href="/authors/eliot-george/middlemarch/part-08/chapter-73.html">Chapter 73</a></li>
+<li><a href="/authors/eliot-george/middlemarch/part-08/chapter-74.html">Chapter 74</a></li>
+<li><a href="/authors/eliot-george/middlemarch/part-08/chapter-75.html">Chapter 75</a></li>
+<li><a href="/authors/eliot-george/middlemarch/part-08/chapter-76.html">Chapter 76</a></li>
+<li><a href="/authors/eliot-george/middlemarch/part-08/chapter-77.html">Chapter 77</a></li>
+<li><a href="/authors/eliot-george/middlemarch/part-08/chapter-78.html">Chapter 78</a></li>
+<li><a href="/authors/eliot-george/middlemarch/part-08/chapter-79.html">Chapter 79</a></li>
+<li><a href="/authors/eliot-george/middlemarch/part-08/chapter-80.html">Chapter 80</a></li>
+<li><a href="/authors/eliot-george/middlemarch/part-08/chapter-81.html">Chapter 81</a></li>
+<li><a href="/authors/eliot-george/middlemarch/part-08/chapter-82.html">Chapter 82</a></li>
+<li><a href="/authors/eliot-george/middlemarch/part-08/chapter-83.html">Chapter 83</a></li>
+<li><a href="/authors/eliot-george/middlemarch/part-08/chapter-84.html">Chapter 84</a></li>
+<li><a href="/authors/eliot-george/middlemarch/part-08/chapter-85.html">Chapter 85</a></li>
+<li><a href="/authors/eliot-george/middlemarch/part-08/chapter-86.html">Chapter 86</a></li>
+</ul>
+
+
+</div>
+</td>
+<td valign="top" width="120">
+</td></tr>
+</table>
+<div w3-include-html="/footer.html"></div>
+
+</div>
+
+<script>
+literatureFuncs(); 
+</script>
+
+
+</body>
+</html>
+

@@ -1,0 +1,14 @@
+{
+	"title": "Tales of the Fish Patrol",
+	"author": "Jack London",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - White And Yellow" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The King Of The Greeks" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - A Raid On The Oyster Pirates" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Siege Of The &quot;Lancashire Queen&quot;" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Charley's Coup" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Demetrios Contos" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Yellow Handkerchief" }
+	]
+}
+

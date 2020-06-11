@@ -1,0 +1,11 @@
+{
+	"title": "The Red One and Other Stories",
+	"author": "",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Red One" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Hussy" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Like Argus Of The Ancient Times" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Princess" }
+	]
+}
+

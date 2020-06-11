@@ -1,0 +1,24 @@
+{
+	"title": "The Adventures of Peter Pan",
+	"author": "J. M. Barrie",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Peter Breaks Through" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Shadow" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Come Away, Come Away!" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The  Flight" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Island Come True" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Little House" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Home Under The Ground" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Mermaids' Lagoon" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - The Never Bird" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Happy Home" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Wendy's  Story" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - The Children Are Carried Off" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Do You Believe In Fairies?" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - The Pirate Ship" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - &quot;Hook Or Me This Time&quot;" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - The Return Home" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - When Wendy Grew Up" }
+	]
+}
+

@@ -1,0 +1,28 @@
+{
+	"title": "Jack London",
+	"author": "",
+	"chapters": [
+		{ "href": "adventure", "title": "Adventure" },
+		{ "href": "before-adam", "title": "Before Adam" },
+		{ "href": "burning-daylight", "title": "Burning Daylight" },
+		{ "href": "the-iron-heel", "title": "The Iron Heel" },
+		{ "href": "the-jacket-star-rover", "title": "The Jacket (Star-Rover)" },
+		{ "href": "jerry-of-the-islands", "title": "Jerry Of The Islands" },
+		{ "href": "john-barleycorn", "title": "John Barleycorn" },
+		{ "href": "love-of-life", "title": "Love of Life and Other Stories" },
+		{ "href": "martin-eden", "title": "Martin Eden" },
+		{ "href": "michael-brother-of-jerry", "title": "Michael, Brother of Jerry" },
+		{ "href": "moon-face", "title": "Moon Face and Other Stories" },
+		{ "href": "the-sea-wolf", "title": "The Sea Wolf" },
+		{ "href": "south-sea-tales", "title": "South Sea Tales" },
+		{ "href": "tales-of-the-fish-patrol", "title": "Tales of the Fish Patrol" },
+		{ "href": "the-call-of-the-wild", "title": "The Call Of The Wild" },
+		{ "href": "the-faith-of-men", "title": "The Faith of Men and Other Stories" },
+		{ "href": "the-night-born", "title": "The Night-Born and Other Stories" },
+		{ "href": "the-red-one", "title": "The Red One and Other Stories" },
+		{ "href": "the-strength-of-the-strong", "title": "The Strength of the Strong and Other Stories" },
+		{ "href": "valley-of-the-moon", "title": "Valley Of The Moon" },
+		{ "href": "white-fang", "title": "White Fang" }
+	]
+}
+

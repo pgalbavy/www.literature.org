@@ -1,0 +1,16 @@
+{
+	"title": "The Vital Message",
+	"author": "Arthur Conan Doyle",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Two Needful Readjustments" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Dawning Of The Light" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Great Argument" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Coming World" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Is It The Second Dawn?" },
+		{ "href": "appendix-01.html", "title": "Appendix 1 - Doctor Geley's Experiments" },
+		{ "href": "appendix-02.html", "title": "Appendix 2 - A Particular Instance" },
+		{ "href": "appendix-03.html", "title": "Appendix 3 - Spirit Photography" },
+		{ "href": "appendix-04.html", "title": "Appendix 4 - The Clairvoyance Of Mrs. B." }
+	]
+}
+

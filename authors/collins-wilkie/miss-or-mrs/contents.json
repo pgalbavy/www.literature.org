@@ -1,0 +1,21 @@
+{
+	"title": "Miss or Mrs?",
+	"author": "Wilkie Collins",
+	"chapters": [
+		{ "href": "preface.html", "title": "Preface" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - At Sea" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Store-Room" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Money Market" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Muswell Hill" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Square" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Church" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Evening Party" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Library" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - The Drawing-Room" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Green Anchor Lane" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Outside The House" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Inside The House" },
+		{ "href": "hints.html", "title": "Documentary Hints, in Conclusion" }
+	]
+}
+

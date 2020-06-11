@@ -1,0 +1,15 @@
+{
+	"title": "George Eliot",
+	"author": "",
+	"chapters": [
+		{ "href": "adam-bede", "title": "Adam Bede (1859)" },
+		{ "href": "brother-jacob", "title": "Brother Jacob (1860)" },
+		{ "href": "daniel-deronda", "title": "Daniel Deronda (1876)" },
+		{ "href": "impressions-of-theophrastus-such", "title": "Impressions Of Theophrastus Such (1879)" },
+		{ "href": "the-lifted-veil", "title": "The Lifted Veil (1859)" },
+		{ "href": "middlemarch", "title": "Middlemarch (1872)" },
+		{ "href": "the-mill-on-the-floss", "title": "The Mill on the Floss (1860)" },
+		{ "href": "silas-marner", "title": "Silas Marner (1861)" }
+	]
+}
+

@@ -1,0 +1,11 @@
+{
+	"title": "The Parasite",
+	"author": "Arthur Conan Doyle",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1" },
+		{ "href": "chapter-02.html", "title": "Chapter 2" },
+		{ "href": "chapter-03.html", "title": "Chapter 3" },
+		{ "href": "chapter-04.html", "title": "Chapter 4" }
+	]
+}
+

@@ -1,0 +1,16 @@
+{
+	"title": "England, My England",
+	"author": "D. H. Lawrence",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - England, My England" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Tickets, Please" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Blind Man" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Monkey Nuts" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - You Touched Me" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Samson And Delilah" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Primrose Path" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Horse Dealer's Daughter" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Fanny And Annie" }
+	]
+}
+

@@ -1,0 +1,33 @@
+{
+	"title": "The Little White Bird",
+	"author": "J. M. Barrie",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - David And I Set Forth Upon A Journey" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Little Nursery Governess" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Her Marriage, Her Clothes, Her Appetite, And An Inventory Of Her" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - A Night-Piece" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Fight For Timothy" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - A Shock" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Last Of Timothy" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Inconsiderate Waiter" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - A Confirmed Spinster" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Sporting Reflections" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - The Runaway Perambulator" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - The Pleasantest Club In London" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - The Grand Tour Of The Gardens" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Peter Pan" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - The Thrush's Nest" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - Lock-Out Time" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - The Little House" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - Peter's Goat" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - An Interloper" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - David And Porthos Compared" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - William Paterson" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - Joey" },
+		{ "href": "chapter-23.html", "title": "Chapter 23 - Pilkington's" },
+		{ "href": "chapter-24.html", "title": "Chapter 24 - Barbara" },
+		{ "href": "chapter-25.html", "title": "Chapter 25 - The Cricket Match" },
+		{ "href": "chapter-26.html", "title": "Chapter 26 - The Dedication" }
+	]
+}
+

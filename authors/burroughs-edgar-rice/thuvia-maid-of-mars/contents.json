@@ -1,0 +1,22 @@
+{
+	"title": "Thuvia, Maid of Mars",
+	"author": "Edgar Rice Burroughs",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Carthoris and Thuvia" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Slavery" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Treachery" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - A Green Man's Captive" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Fair Race" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Jeddak of Lothar" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Phantom Bowmen" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Hall of Doom" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - The Battle in the Plain" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Kar Komak, The Bowman" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Green Men and White Apes" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - To Save Dusar" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Turjun, The Panthan" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Kulan Tith's Sacrifice" },
+		{ "href": "glossary.html", "title": "Glossary" }
+	]
+}
+

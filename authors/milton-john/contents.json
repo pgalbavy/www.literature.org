@@ -1,0 +1,9 @@
+{
+	"title": "John Milton",
+	"author": "",
+	"chapters": [
+		{ "href": "paradise-lost", "title": "Paradise Lost" },
+		{ "href": "paradise-regained", "title": "Paradise Regained" }
+	]
+}
+

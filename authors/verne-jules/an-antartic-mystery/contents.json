@@ -1,0 +1,33 @@
+{
+	"title": "An Antartic Mystery",
+	"author": "Jules Verne",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Kerguelen Islands" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Schooner Halbrane" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Captain Len Guy" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - From The Kerguelen Isles To Prince Edward Island" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Edgar Poe’s Romance" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - An Ocean Waif" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Tristan D’Acunha" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Bound For The Falklands" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Fitting Out The Halbrane" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Outset Of The Enterprise" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - From The Sandwich Islands To The Polar Circle" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Between The Polar Circle And The Ice Wall" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Along The Front Of The Icebergs" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - A Voice In A Dream" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Bennet Islet" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - Tsalal Island" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - And Pym?" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - A Revelation" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - Land?" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - &quot;Unmerciful Disaster&quot;" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - Amid The Mists" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - In Camp" },
+		{ "href": "chapter-23.html", "title": "Chapter 23 - Found At Last" },
+		{ "href": "chapter-24.html", "title": "Chapter 24 - Eleven Years In A Few Pages" },
+		{ "href": "chapter-25.html", "title": "Chapter 25 - &quot;We Were The First&quot;" },
+		{ "href": "chapter-26.html", "title": "Chapter 26 - A Little Remnant" }
+	]
+}
+

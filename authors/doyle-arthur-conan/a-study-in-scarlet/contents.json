@@ -1,0 +1,21 @@
+{
+	"title": "A Study in Scarlet",
+	"author": "Arthur Conan Doyle",
+	"chapters": [
+		{ "href": "part-01-chapter-01.html", "title": "Part 1 - Chapter 1 - Mr. Sherlock Holmes" },
+		{ "href": "part-01-chapter-02.html", "title": "Part 1 - Chapter 2 - The Science Of Deduction" },
+		{ "href": "part-01-chapter-03.html", "title": "Part 1 - Chapter 3 - The Lauriston Garden Mystery" },
+		{ "href": "part-01-chapter-04.html", "title": "Part 1 - Chapter 4 - What John Rance Had To Tell" },
+		{ "href": "part-01-chapter-05.html", "title": "Part 1 - Chapter 5 - Our Advertisement Brings A Visitor" },
+		{ "href": "part-01-chapter-06.html", "title": "Part 1 - Chapter 6 - Tobias Gregson Shows What He Can Do" },
+		{ "href": "part-01-chapter-07.html", "title": "Part 1 - Chapter 7 - Light In The Darkness" },
+		{ "href": "part-02-chapter-01.html", "title": "Part 2 - Chapter 1 - On The Great Alkali Plain" },
+		{ "href": "part-02-chapter-02.html", "title": "Part 2 - Chapter 2 - The Flower Of Utah" },
+		{ "href": "part-02-chapter-03.html", "title": "Part 2 - Chapter 3 - John Ferrier Talks With The Prophet" },
+		{ "href": "part-02-chapter-04.html", "title": "Part 2 - Chapter 4 - A Flight For Life" },
+		{ "href": "part-02-chapter-05.html", "title": "Part 2 - Chapter 5 - The Avenging Angels" },
+		{ "href": "part-02-chapter-06.html", "title": "Part 2 - Chapter 6 - A Continuation Of The Reminiscences Of John Watson, M.D" },
+		{ "href": "part-02-chapter-07.html", "title": "Part 2 - Chapter 7 - The Conclusion" }
+	]
+}
+

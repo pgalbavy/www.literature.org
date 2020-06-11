@@ -1,0 +1,15 @@
+{
+	"title": "South Sea Tales",
+	"author": "Jack London",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The House Of Mapuhi" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Whale Tooth" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Mauki" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - &quot;Yah! Yah! Yah!&quot;" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Heathen" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Terrible Solomons" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Inevitable White Man" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Seed Of Mccoy" }
+	]
+}
+

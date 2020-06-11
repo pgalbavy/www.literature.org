@@ -1,0 +1,128 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+	<title>Literature.org - The Online Literature Library</title>
+	<style type="text/css" media="screen"> 
+	<!--
+		@import "/css/literature2.css"; 
+	-->
+	</style>
+
+<script type="text/javascript" language="JavaScript">
+    var agt      = navigator.userAgent.toLowerCase();
+    var is_major = parseInt(navigator.appVersion);
+    var is_minor = parseFloat(navigator.appVersion);
+    var is_ie    = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+    var is_ie3   = (is_ie && (is_major < 4));
+    var is_ie4   = (is_ie && (is_major == 4) && (agt.indexOf("msie 4")!=-1) );
+    var is_ie4up = (is_ie && (is_major >= 4));
+    var is_ie5   = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) );
+    var is_ie5_5 = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.5") !=-1));
+    var is_ie5up = (is_ie && !is_ie3 && !is_ie4);
+    var is_ie5_5up =(is_ie && !is_ie3 && !is_ie4 && !is_ie5);
+
+    if (is_ie5up) {
+	document.write ('<link rel="STYLESHEET" type="text/css" href="/css/ie.css">');
+    }
+</script>
+</head>
+
+<body>
+<!-- Main Header -->
+<div id="header">
+
+<table cellpadding="4" cellspacing="0" width="100%" border="0">
+<tr>
+	<td width="245">
+	<a href="/"><img src="/images/literature2.gif" width="245" height="56" alt="Literature.org" border="0"></a>
+	</td>
+	<td align="right" valign="bottom">
+
+
+
+	</td>
+</tr>
+</table>
+</div>
+<!-- End Header -->
+
+<!-- Left Hand Margin -->
+<div id="leftmargin">
+<!-- navigation -->
+<div id="nav">
+<strong>By This Author</strong>:<br>
+<a title="Five Children And It" href="/authors/nesbit-edith/five-children-and-it">Five Childre...</a><br>
+<a href="/authors/nesbit-edith/in-homespun" title="In Homespun">In Homespun</a><br>
+<a href="/authors/nesbit-edith/the-enchanted-castle" title="The Enchanted Castle">The Enchante...</a><br>
+<a href="/authors/nesbit-edith/the-incomplete-amorist" title="The Incomplete Amorist">The Incomple...</a><br>
+<a title="The Phoenix And The Carpet" href="/authors/nesbit-edith/the-phoenix-and-the-carpet">The Phoenix ...</a><br>
+<a title="The Railway Children" href="/authors/nesbit-edith/the-railway-children">The Railway ...</a><br>
+<a href="/authors/nesbit-edith/the-story-of-the-amulet" title="The Story Of The Amulet">The Story Of...</a><br>
+<a href="/authors/nesbit-edith/the-story-of-the-treasure-seekers" title="The Story Of The Treasure Seekers">The Story Of...</a><br>
+<a href="/authors/nesbit-edith/the-wouldbegoods" title="The Woodbegoods">The Woodbegoods</a><br>
+
+<p>
+<strong>Literature.org</strong>:<br>
+<a href="/faq.html">Contact</a>
+<br>
+
+</div>
+<br />
+<hr>
+<p>
+<p>
+<p>
+
+
+</div>
+<!-- End Left Hand Margin -->
+<!-- main body -->
+	
+<div id="content">
+<table cellpadding="5" border="0" width="100%">
+<tr>
+<td valign="top">
+
+<div id="pagetext" align="left">
+<!-- Page text -->
+
+<h1><a href="index.html">In Homespun</a></h1><h2><a href="../">E. Nesbit</a></h2><hr/>
+<p>
+
+
+<ul>
+</ul><a href="part-01/index.html"><strong>Part 1 - The Bristol Bowl</strong></a><ul>
+</ul><a href="part-02/index.html"><strong>Part 2 - Barring The Way</strong></a><ul>
+</ul><a href="part-03/index.html"><strong>Part 3 - Grandsire Triples</strong></a><ul>
+</ul><a href="part-04/index.html"><strong>Part 4 - A Death-Bed Confession</strong></a><ul>
+</ul><a href="part-05/index.html"><strong>Part 5 - Her Marriage Lines</strong></a><ul>
+<li><a href="/authors/nesbit-edith/in-homespun/part-05/chapter-01.html">Chapter 1</a></li>
+<li><a href="/authors/nesbit-edith/in-homespun/part-05/chapter-02.html">Chapter 2</a></li>
+<li><a href="/authors/nesbit-edith/in-homespun/part-05/chapter-03.html">Chapter 3</a></li>
+<li><a href="/authors/nesbit-edith/in-homespun/part-05/chapter-04.html">Chapter 4</a></li>
+</ul><a href="part-06/index.html"><strong>Part 6 - Acting For The Best</strong></a><ul>
+</ul><a href="part-07/index.html"><strong>Part 7 - Guilty</strong></a><ul>
+</ul><a href="part-08/index.html"><strong>Part 8 - Son And Heir</strong></a><ul>
+</ul><a href="part-09/index.html"><strong>Part 9 - One Way Of Love</strong></a><ul>
+</ul><a href="part-10/index.html"><strong>Part 10 - Coals Of Fire</strong></a><ul>
+</ul>
+
+<hr /><h3>Bibliographic Details</h3><table width="100%" style="border: solid black 1px;"> <tr><th>Origin</th> <td><a href="http://www.gutenberg.net/">Project Gutenberg</a></td></tr> <tr><th>Source File</th> <td><a href="http://www.gutenberg.org/dirs/etext03/nhmsp10.txt">etext03/nhmsp10.txt</a>  (unknown, 217003 bytes)</td></tr>   <tr><th>Published</th> <td>unknown</td></tr> </table>
+</div>
+</td>
+<td valign="top" width="120">
+</td></tr>
+</table>
+<div w3-include-html="/footer.html"></div>
+
+</div>
+
+<script>
+literatureFuncs(); 
+</script>
+
+
+</body>
+</html>
+

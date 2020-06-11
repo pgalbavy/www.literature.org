@@ -1,0 +1,35 @@
+{
+	"title": "Adventure",
+	"author": "Jack London",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Something To Be Done" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Something Is Done" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Jessie" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Joan Lackland" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - She Would A Planter Be" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Tempest" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - A Hard-Bitten Gang" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Local Colour" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - As Between A Man And A Woman" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - A Message From Boucher" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - The Port Adams Crowd" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Mr. Morgan And Mr. Raff" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - The Logic Of Youth" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - The Martha" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - A Discourse On Manners" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - The Girl Who Had Not Grown Up" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - &quot;Your&quot; Miss Lackland" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - Making The Books Come True" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - The Lost Toy" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - A Man-Talk" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - Contraband" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - Gogoomy Finishes Along Kwaque Altogether" },
+		{ "href": "chapter-23.html", "title": "Chapter 23 - A Message From The Bush" },
+		{ "href": "chapter-24.html", "title": "Chapter 24 - In The Bush" },
+		{ "href": "chapter-25.html", "title": "Chapter 25 - The Head-Hunters" },
+		{ "href": "chapter-26.html", "title": "Chapter 26 - Burning Daylight" },
+		{ "href": "chapter-27.html", "title": "Chapter 27 - Modern Duelling" },
+		{ "href": "chapter-28.html", "title": "Chapter 28 - Capitulation" }
+	]
+}
+

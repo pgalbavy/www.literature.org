@@ -1,0 +1,37 @@
+{
+	"title": "Anne of Avonlea",
+	"author": "Lucy Maud Montgomery",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - An Irate Neighbor" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Selling In Haste And Repenting At Leisure" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Mr. Harrison At Home" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Different Opinions" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - A Full-Fledged Schoolma'am" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - All Sorts And Conditions Of Men...And Women" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Pointing Of Duty" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Marilla Adopts Twins" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - A Question Of Color" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Davy In Search Of A Sensation" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Facts And Fancies" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - A Jonah Day" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - A Golden Picnic" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - A Danger Averted" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - The Beginning Of Vacation" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - The Substance Of Things Hoped For" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - A Chapter Of Accidents" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - An Adventure On The Tory Road" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - Just A Happy Day" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - The Way It Often Happens" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - Sweet Miss Lavendar" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - Odds And Ends" },
+		{ "href": "chapter-23.html", "title": "Chapter 23 - Miss Lavendar's Romance" },
+		{ "href": "chapter-24.html", "title": "Chapter 24 - A Prophet In His Own Country" },
+		{ "href": "chapter-25.html", "title": "Chapter 25 - An Avonlea Scandal" },
+		{ "href": "chapter-26.html", "title": "Chapter 26 - Around The Bend" },
+		{ "href": "chapter-27.html", "title": "Chapter 27 - An Afternoon At The Stone House" },
+		{ "href": "chapter-28.html", "title": "Chapter 28 - The Prince Comes Back To The Enchanted Palace" },
+		{ "href": "chapter-29.html", "title": "Chapter 29 - Poetry And Prose" },
+		{ "href": "chapter-30.html", "title": "Chapter 30 - A Wedding At The Stone House" }
+	]
+}
+

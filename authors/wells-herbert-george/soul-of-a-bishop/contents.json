@@ -1,0 +1,16 @@
+{
+	"title": "Soul of a Bishop",
+	"author": "H. G. Wells",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Dream" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Wear And Tear Of Episcopacy" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Insomnia" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Sympathy Of Lady Sunderbund" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The First Vision" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Exegetical" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Second Vision" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The New World" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - The Third Vision" }
+	]
+}
+

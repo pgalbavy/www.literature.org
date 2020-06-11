@@ -1,0 +1,14 @@
+{
+	"title": "Hosiptal Sketches",
+	"author": "Louisa May Alcott",
+	"chapters": [
+		{ "href": "preface.html", "title": "Preface" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Obtaining Supplies" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - A Forward Movement" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - A Day" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - A Night" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Off Duty" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - A Postscript" }
+	]
+}
+

@@ -1,0 +1,22 @@
+{
+	"title": "Pellucidar",
+	"author": "Edgar Rice Burroughs",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Lost On Pellucidar" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Traveling With Terror" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Shooting The Chutes--And After" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Friendship And Treachery" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Surprises" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - A Pendent World" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - From Plight To Plight" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Captive" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Hooja's Cutthroats Appear" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Raid On The Cave-Prison" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Escape" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Kidnaped!" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Racing For Life" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Gore And Dreams" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Conquest And Peace" }
+	]
+}
+

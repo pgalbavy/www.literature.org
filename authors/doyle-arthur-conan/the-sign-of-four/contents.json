@@ -1,0 +1,19 @@
+{
+	"title": "The Sign of Four",
+	"author": "Arthur Conan Doyle",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Science of Deduction" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Statement of the Case" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - In Quest of a Solution" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Story of the Bald-Headed Man" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Tragedy of Pondicherry Lodge" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Sherlock Holmes Gives a Demonstration" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Episode of the Barrel" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Baker Street Irregulars" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - A Break in the Chain" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The End of the Islander" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - The Great Agra Treasure" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - The Strange Story of Jonathan Small" }
+	]
+}
+

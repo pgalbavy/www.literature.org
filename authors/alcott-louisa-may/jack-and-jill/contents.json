@@ -1,0 +1,32 @@
+{
+	"title": "Jack and Jill",
+	"author": "Louisa May Alcott",
+	"chapters": [
+		{ "href": "preface.html", "title": "Preface" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Catastrophe" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Two Penitents" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Ward No. 1" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Ward No. 2" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Secrets" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Surprises" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Jill's Mission" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Merry And Molly" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - The Debating Club" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Dramatic Club" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - &quot;Down Brakes&quot;" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - The Twenty-Second Of February" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Jack Has A Mystery" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - And Jill Finds It Out" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Saint Lucy" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - Up At Merry's" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - Down At Molly's" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - May Baskets" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - Good Templars" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - A Sweet Memory" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - Pebbly Beach" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - A Happy Day" },
+		{ "href": "chapter-23.html", "title": "Chapter 23 - Cattle Show" },
+		{ "href": "chapter-24.html", "title": "Chapter 24 - Down The River" }
+	]
+}
+

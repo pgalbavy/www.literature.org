@@ -1,0 +1,27 @@
+{
+	"title": "Robinson Crusoe",
+	"author": "Daniel Defoe",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Start In Life" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Slavery And Escape" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Wrecked On A Desert Island" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - First Weeks On The Island" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Builds A House  - The Journal" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Ill And Conscience-Stricken" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Agricultural Experience" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Surveys His Position" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - A Boat" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Tames Goats" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Finds Print Of Man's Foot On The Sand" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - A Cave Retreat" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Wreck Of A Spanish Ship" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - A Dream Realised" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Friday's Education" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - Rescue Of Prisoners From Cannibals" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - Visit Of Mutineers" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - The Ship Recovered" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - Return To England" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - Fight Between Friday And A Bear" }
+	]
+}
+

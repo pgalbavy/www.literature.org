@@ -1,0 +1,28 @@
+{
+	"title": "The Beasts of Tarzan",
+	"author": "Edgar Rice Burroughs",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Kidnapped" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Marooned" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Beasts at Bay" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Sheeta" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Mugambi" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - A Hideous Crew" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Betrayed" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Dance of Death" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Chivalry or Villainy" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Swede" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Tambuzda" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - A Black Scoundrel" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Escape" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Alone in the Jungle" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Down the Ugambi" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - In the Darkness of the Night" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - On the Deck of the &quot;Kincaid&quot;" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - Paulvitch Plots Revenge" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - The Last of the &quot;Kincaid&quot;" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - Jungle Island Again" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - The Law of the Jungle" }
+	]
+}
+

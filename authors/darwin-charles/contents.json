@@ -1,0 +1,11 @@
+{
+	"title": "Charles Darwin",
+	"author": "",
+	"chapters": [
+		{ "href": "the-voyage-of-the-beagle/", "title": "The Voyage of the Beagle" },
+		{ "href": "the-origin-of-species/", "title": "The Origin of Species" },
+		{ "href": "the-origin-of-species-6th-edition/", "title": "The Origin of Species - 6th Edition" },
+		{ "href": "the-descent-of-man/", "title": "The Descent of Man" }
+	]
+}
+

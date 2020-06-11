@@ -1,0 +1,35 @@
+{
+	"title": "The Invisible Man",
+	"author": "H. G. Wells",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Strange Man's Arrival" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Mr. Teddy Henfrey's First Impressions" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Thousand and One Bottles" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Mr. Cuss Interviews the Stranger" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Burglary at the Vicarage" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Furniture That Went Mad" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Unveiling of the Stranger" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - In Transit" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Mr. Thomas Marvel" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Mr. Marvel's Visit to Iping" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - In the Coach and Horses" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - The Invisible Man Loses His Temper" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Mr. Marvel Discusses His Resignation" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - At Port Stowe" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - The Man Who Was Running" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - In the Jolly Cricketers" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - Doctor Kemp's Visitor" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - The Invisible Man Sleeps" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - Certain First Principles" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - At the House in Great Portland Street" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - In Oxford Street" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - In the Emporium" },
+		{ "href": "chapter-23.html", "title": "Chapter 23 - In Drury Lane" },
+		{ "href": "chapter-24.html", "title": "Chapter 24 - The Plan That Failed" },
+		{ "href": "chapter-25.html", "title": "Chapter 25 - The Hunting of the Invisible Man" },
+		{ "href": "chapter-26.html", "title": "Chapter 26 - The Wicksteed Murder" },
+		{ "href": "chapter-27.html", "title": "Chapter 27 - The Siege of Kemp's House" },
+		{ "href": "chapter-28.html", "title": "Chapter 28 - The Hunter Hunted" }
+	]
+}
+

@@ -1,0 +1,29 @@
+{
+	"title": "The Voyage of the Beagle",
+	"author": "Charles Darwin",
+	"chapters": [
+		{ "href": "preface.html", "title": "Preface" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - St. Jago -- Cape de Verd Islands" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Rio de Janeiro" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Maldonado" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Rio Negro to Bahia Blanca" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Bahia Blanca" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Bahia Blanca to Buenos Ayres" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Buenos Ayres and St. Fe" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Banda Oriental and Patagonia" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Santa Cruz, Patagonia, and the Falkland Islands" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Tierra Del Fuego" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Strait of Magellan -- Climate of the Southern Coasts" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Central Chile" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Chiloe and Chonos Islands" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Chiloe and Concepcion: Great Earthquake" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Passage of the Cordillera" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - Northern Chile and Peru" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - Galapagos Archipelago" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - Tahiti and New Zealand" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - Australia" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - Keeling Island: -- Coral Formations" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - Mauritius to England" }
+	]
+}
+

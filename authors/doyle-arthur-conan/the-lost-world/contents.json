@@ -1,0 +1,23 @@
+{
+	"title": "The Lost World",
+	"author": "Arthur Conan Doyle",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - There Are Heroisms All Round Us" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Try Your Luck With Professor Challenger" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - He Is A Perfectly Impossible Person" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - It's Just The Very Biggest Thing In The World" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Question!" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - I Was The Flail Of The Lord" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - To-Morrow We Disappear Into The Unknown" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Outlying Pickets Of The New World" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Who Could Have Foreseen It?" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Most Wonderful Things Have Happened" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - For Once I Was The Hero" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - It Was Dreadful In The Forest" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - A Sight Which I Shall Never Forget" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Those Were The Real Conquests" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Our Eyes Have Seen Great Wonders" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - A Procession!  A Procession!" }
+	]
+}
+

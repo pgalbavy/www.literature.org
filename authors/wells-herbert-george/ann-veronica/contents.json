@@ -1,0 +1,24 @@
+{
+	"title": "Ann Veronica",
+	"author": "H. G. Wells",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Ann Veronica Talks To Her Father" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Ann Veronica Gathers Points Of View" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Morning Of The Crisis" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Crisis" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Flight To London" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Expostulations" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Ideals And A Reality" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Biology" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Discords" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Suffragettes" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Thoughts In Prison" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Ann Veronica Puts Things In Order" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - The Sapphire Ring" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - The Collapse Of The Penitent" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - The Last Days At Home" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - In The Mountains" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - In Perspective" }
+	]
+}
+

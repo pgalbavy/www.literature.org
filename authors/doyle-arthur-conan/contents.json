@@ -1,0 +1,16 @@
+{
+	"title": "Arthur Conan Doyle",
+	"author": "",
+	"chapters": [
+		{ "href": "the-sign-of-four", "title": "The Sign of Four" },
+		{ "href": "beyond-the-city", "title": "Beyond The City" },
+		{ "href": "the-lost-world", "title": "The Lost World" },
+		{ "href": "the-poison-belt", "title": "The Poison Belt" },
+		{ "href": "the-parasite", "title": "The Parasite" },
+		{ "href": "the-vital-message", "title": "The Vital Message" },
+		{ "href": "the-white-company", "title": "The White Company" },
+		{ "href": "a-study-in-scarlet", "title": "A Study In Scarlet" },
+		{ "href": "the-hound-of-the-baskervilles", "title": "The Hound of the Baskervilles" }
+	]
+}
+

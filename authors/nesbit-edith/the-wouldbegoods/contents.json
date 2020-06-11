@@ -1,0 +1,21 @@
+{
+	"title": "The Wouldbegoods",
+	"author": "Edith Nesbit",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Jungle" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Wouldbegoods" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Bill's Tombstone" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Tower Of Mystery" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Waterworks" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Circus" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Being Beavers; Or, The Young Explorers (Arctic Or Otherwise)" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The High-Born Babe" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Hunting The Fox" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Sale Of Antiquities" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - The Benevolent Bar" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - The Canterbury Pilgrims" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - The Dragon's Teeth; Or, Army-Seed" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Albert's Uncle's Grandmother; Or, The Long-Lost" }
+	]
+}
+

@@ -1,0 +1,15 @@
+{
+	"title": "The Door in the Wall",
+	"author": "H. G. Wells",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Door In The Wall" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Star" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - A Dream Of Armageddon" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Cone" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - A Moonlight Fable" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Diamond Maker" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Lord Of The Dynamos" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Country Of The Blind" }
+	]
+}
+

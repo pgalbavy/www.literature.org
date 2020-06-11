@@ -1,0 +1,28 @@
+{
+	"title": "My Lady's Money",
+	"author": "Wilkie Collins",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1" },
+		{ "href": "chapter-02.html", "title": "Chapter 2" },
+		{ "href": "chapter-03.html", "title": "Chapter 3" },
+		{ "href": "chapter-04.html", "title": "Chapter 4" },
+		{ "href": "chapter-05.html", "title": "Chapter 5" },
+		{ "href": "chapter-06.html", "title": "Chapter 6" },
+		{ "href": "chapter-07.html", "title": "Chapter 7" },
+		{ "href": "chapter-08.html", "title": "Chapter 8" },
+		{ "href": "chapter-09.html", "title": "Chapter 9" },
+		{ "href": "chapter-10.html", "title": "Chapter 10" },
+		{ "href": "chapter-11.html", "title": "Chapter 11" },
+		{ "href": "chapter-12.html", "title": "Chapter 12" },
+		{ "href": "chapter-13.html", "title": "Chapter 13" },
+		{ "href": "chapter-14.html", "title": "Chapter 14" },
+		{ "href": "chapter-15.html", "title": "Chapter 15" },
+		{ "href": "chapter-16.html", "title": "Chapter 16" },
+		{ "href": "chapter-17.html", "title": "Chapter 17" },
+		{ "href": "chapter-18.html", "title": "Chapter 18" },
+		{ "href": "chapter-19.html", "title": "Chapter 19" },
+		{ "href": "chapter-20.html", "title": "Chapter 20" },
+		{ "href": "chapter-21.html", "title": "Chapter 21" }
+	]
+}
+

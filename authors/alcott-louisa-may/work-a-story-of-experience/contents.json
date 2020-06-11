@@ -1,0 +1,27 @@
+{
+	"title": "Work: A Story of Experience",
+	"author": "Louisa May Alcott",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Christie" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Servant" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Actress" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Governess" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Companion" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Seamstress" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Through The Mist" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - A Cure For Despair" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Mrs. Wilkins's Minister" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Beginning Again" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - In The Strawberry Bed" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Christie's Gala" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Waking Up" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Which?" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Midsummer" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - Mustered In" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - The Colonel" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - Sunrise" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - Little Heart's-Ease" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - At Forty" }
+	]
+}
+

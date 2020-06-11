@@ -1,0 +1,23 @@
+{
+	"title": "The Rainbow",
+	"author": "D. H. Lawrence",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - How Tom Brangwen Married A Polish Lady" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - They Live At The Marsh" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Childhood Of Anna Lensky" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Girlhood Of Anna Brangwen" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Wedding At The Marsh" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Anna Victrix" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Cathedral" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Child" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - The Marsh And The Flood" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Widening Circle" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - First Love" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Shame" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - The Man's World" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - The Widening Circle" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - The Bitterness Of Ecstasy" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - The Rainbow" }
+	]
+}
+

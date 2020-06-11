@@ -1,0 +1,17 @@
+{
+	"title": "The Blockade Runners",
+	"author": "Jules Verne",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Dolphin" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Getting Under Sail" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Things Are Not What They Seem" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Crockston’s Trick" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Shot From The Iroquois, and Miss Jenny’s Arguments" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Sullivan Island Channel" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - A Southern General" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Escape" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Between Two Fires" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - St. Mungo" }
+	]
+}
+

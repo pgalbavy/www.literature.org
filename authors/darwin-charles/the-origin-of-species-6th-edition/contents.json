@@ -1,0 +1,25 @@
+{
+	"title": "The Origin of Species (6th Edition)",
+	"author": "Charles Darwin",
+	"chapters": [
+		{ "href": "preface.html", "title": "Preface" },
+		{ "href": "introduction.html", "title": "Introduction" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Variation Under Domestication" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Variation Under Nature" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Struggle For Existence" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Natural Selection; Or The Survival Of The Fittest" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Laws Of Variation" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Difficulties Of The Theory" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Miscellaneous Objections To The Theory Of Natural Selection" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Instinct" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Hybridism" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - On The Imperfection Of The Geological Record" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - On The Geological Succession Of Organic Beings" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Geographical Distribution" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Geographical Distribution--Continued" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Mutual Affinities Of Organic Beings:  Morphology -- Embryology -- Rudimentary Organs" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Recapitulation And Conclusion" },
+		{ "href": "glossary.html", "title": "Glossary Of The Principal Scientific Terms Used In The Present Volume" }
+	]
+}
+

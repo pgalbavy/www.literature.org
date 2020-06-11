@@ -1,0 +1,14 @@
+{
+	"title": "Jules Verne",
+	"author": "",
+	"chapters": [
+		{ "href": "an-antartic-mystery", "title": "An Antartic Mystery" },
+		{ "href": "around-the-world-in-eighty-days", "title": "Around the World in Eighty Days" },
+		{ "href": "dick-sand-a-captain-at-fifteen", "title": "Dick Sand: A Captain At Fifteen" },
+		{ "href": "from-the-earth-to-the-moon", "title": "From The Earth to the Moon" },
+		{ "href": "round-the-moon", "title": "Round the Moon" },
+		{ "href": "the-adventures-of-a-special-correspondent", "title": "The Adventures Of A Special Correspondent" },
+		{ "href": "the-blockade-runners", "title": "The Blockade Runners" }
+	]
+}
+

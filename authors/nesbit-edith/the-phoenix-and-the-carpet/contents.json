@@ -1,0 +1,19 @@
+{
+	"title": "The Phoenix and the Carpet",
+	"author": "Edith Nesbit",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Egg" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Topless Tower" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Queen Cook" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Two Bazaars" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Temple" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Doing Good" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Mews From Persia" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Cats, The Cow, And The Burglar" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - The Burglar's Bride" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Hole In The Carpet" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - The Beginning Of The End" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - The End Of The End" }
+	]
+}
+

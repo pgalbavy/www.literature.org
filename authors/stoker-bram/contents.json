@@ -1,0 +1,10 @@
+{
+	"title": "Bram Stoker",
+	"author": "",
+	"chapters": [
+		{ "href": "dracula", "title": "Dracula" },
+		{ "href": "draculas-guest", "title": "Dracula's Guest" },
+		{ "href": "lair-of-the-white-worm", "title": "Lair of the White Worm" }
+	]
+}
+

@@ -1,0 +1,32 @@
+{
+	"title": "Eight Cousins",
+	"author": "Louisa May Alcott",
+	"chapters": [
+		{ "href": "preface.html", "title": "Preface" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Two Girls" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Clan" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Uncles" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Aunts" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - A Belt And A Box" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Uncle Alec's Room" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - A Trip To China" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - And What Came Of It" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Phebe's Secret" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Rose's Sacrifice" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Poor Mac" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - &quot;The Other Fellows&quot;" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Cosey Corner" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - A Happy Birthday" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Ear-Rings" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - Bread And Button-Holes" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - Good Bargains" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - Fashion And Physiology" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - Brother Bones" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - Under The Mistletoe" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - A Scare" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - Something To Do" },
+		{ "href": "chapter-23.html", "title": "Chapter 23 - Peace-Making" },
+		{ "href": "chapter-24.html", "title": "Chapter 24 - Which?" }
+	]
+}
+

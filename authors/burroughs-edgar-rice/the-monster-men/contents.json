@@ -1,0 +1,24 @@
+{
+	"title": "The Monster Men",
+	"author": "Edgar Rice Burroughs",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Rift" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Heavy Chest" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Beauty and the Beast" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - A New Face" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Treason" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - To Kill!" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Bull Whip" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Soul of Number 13" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Into Savage Borneo" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Desperate Chance" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - &quot;I am Coming!&quot;" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Perfidy" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Buried Treasure" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Man or Monster?" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Too Late" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - Sing Speaks" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - 999 Priscilla" }
+	]
+}
+

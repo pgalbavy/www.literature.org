@@ -1,0 +1,23 @@
+{
+	"title": "H. G. Wells",
+	"author": "",
+	"chapters": [
+		{ "href": "ann-veronica", "title": "Ann Veronica" },
+		{ "href": "god-the-invisible-king", "title": "God The Invisible King" },
+		{ "href": "the-new-machiavelli", "title": "The New Machiavelli" },
+		{ "href": "soul-of-a-bishop", "title": "Soul Of A Bishop" },
+		{ "href": "the-door-in-the-wall", "title": "The Door in the Wall" },
+		{ "href": "the-first-men-in-the-moon", "title": "The First Men In The Moon" },
+		{ "href": "the-invisible-man", "title": "The Invisible Man" },
+		{ "href": "the-island-of-doctor-moreau", "title": "The Island of Doctor Moreau" },
+		{ "href": "the-research-magnificent", "title": "The Research Magnificent" },
+		{ "href": "the-time-machine", "title": "The Time Machine" },
+		{ "href": "the-war-in-the-air", "title": "The War In The Air" },
+		{ "href": "the-war-of-the-worlds", "title": "The War of the Worlds" },
+		{ "href": "the-wheels-of-chance", "title": "The Wheels Of Chance" },
+		{ "href": "the-world-set-free", "title": "The World Set Free" },
+		{ "href": "tono-bungay", "title": "Tono Bungay" },
+		{ "href": "when-the-sleeper-wakes", "title": "When The Sleeper Wakes" }
+	]
+}
+

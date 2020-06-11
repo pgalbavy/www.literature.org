@@ -1,0 +1,15 @@
+{
+	"title": "Love of Life and Other Stories",
+	"author": "Jack London",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Love Of Life" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - A Day's Lodging" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The White Man's Way" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Story Of Keesh" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Unexpected" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Brown Wolf" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Sun-Dog Trail" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Negore, The Coward" }
+	]
+}
+

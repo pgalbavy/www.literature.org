@@ -1,0 +1,11 @@
+{
+	"title": "Leo Tolstoy",
+	"author": "",
+	"chapters": [
+		{ "href": "anna-karenina", "title": "Anna Karenina" },
+		{ "href": "master-and-man", "title": "Master and Man" },
+		{ "href": "father-sergius", "title": "Father Sergius" },
+		{ "href": "war-and-peace", "title": "War And Peace" }
+	]
+}
+

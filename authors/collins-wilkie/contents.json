@@ -1,0 +1,17 @@
+{
+	"title": "Wilkie Collins",
+	"author": "",
+	"chapters": [
+		{ "href": "the-frozen-deep", "title": "The Frozen Deep" },
+		{ "href": "the-haunted-hotel", "title": "The Haunted Hotel" },
+		{ "href": "i-say-no", "title": "I Say No" },
+		{ "href": "the-law-and-the-lady", "title": "The Law and the Lady" },
+		{ "href": "my-ladys-money", "title": "My Lady's Money" },
+		{ "href": "the-new-magdalen", "title": "The New Magdalen" },
+		{ "href": "a-rogues-life", "title": "A Rogue's Life" },
+		{ "href": "the-two-destinies", "title": "The Two Destinies" },
+		{ "href": "miss-or-mrs", "title": "Miss or Mrs?" },
+		{ "href": "man-and-wife", "title": "Man and Wife" }
+	]
+}
+

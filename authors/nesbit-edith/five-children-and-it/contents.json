@@ -1,0 +1,18 @@
+{
+	"title": "Five Children and It",
+	"author": "Edith Nesbit",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Beautiful As The Day" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Golden Guineas" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Being Wanted" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Wings" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - No Wings" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - A Castle And No Dinner" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - A Siege And Bed" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Bigger Than The Baker's Boy" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Grown Up" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Scalps" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - The Last Wish" }
+	]
+}
+

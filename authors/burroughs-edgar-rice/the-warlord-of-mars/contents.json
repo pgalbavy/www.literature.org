@@ -1,0 +1,22 @@
+{
+	"title": "The Warlord of Mars",
+	"author": "Edgar Rice Burroughs",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - On the River Iss" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Under the Mountains" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - The Temple of the Sun" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Secret Tower" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - On the Kaolian Road" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - A Hero in Kaol" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - New Allies" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Through the Carrion Caves" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - With the Yellow Men" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - In Durance" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - The Pit of Plenty" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - The Magnet Switch" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - The Tide of Battle" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Rewards" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - The New Ruler" }
+	]
+}
+

@@ -1,0 +1,33 @@
+{
+	"title": "The Return of Tarzan",
+	"author": "Edgar Rice Burroughs",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Affair on the Liner" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Forging Bonds of Hate and ----?" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - What Happened in the Rue Maule" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Countess Explains" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The Plot That Failed" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - A Duel" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Dancing Girl of Sidi Aissa" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Fight in the Desert" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Numa &quot;El Adrea&quot;" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Through the Valley of the Shadow" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - John Caldwell, London" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Ships That Pass" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - The Wreck of the &quot;Lady Alice&quot;" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Back to the Primitive" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - From Ape to Savage" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - The Ivory Raiders" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - The White Chief of the Waziri" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - The Lottery of Death" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - The City of Gold" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - La" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - The Castaways" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - The Treasure Vaults of Opar" },
+		{ "href": "chapter-23.html", "title": "Chapter 23 - The Fifty Frightful Men" },
+		{ "href": "chapter-24.html", "title": "Chapter 24 - How Tarzan Came Again to Opar" },
+		{ "href": "chapter-25.html", "title": "Chapter 25 - Through the Forest Primeval" },
+		{ "href": "chapter-26.html", "title": "Chapter 26 - The Passing of the Ape-Man" }
+	]
+}
+

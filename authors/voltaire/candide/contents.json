@@ -1,0 +1,37 @@
+{
+	"title": "Candide",
+	"author": "Voltaire",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - How Candide Was Brought Up in a Magnificent Castle and How He Was Driven Thence" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - What Befell Candide among the Bulgarians" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - How Candide Escaped from the Bulgarians and What Befell Him Afterward" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - How Candide Found His Old Master Pangloss Again and What Happened to Him" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - A Tempest, a Shipwreck, an Earthquake, and What Else Befell Dr. Pangloss, Candide, and James, the Anabaptist" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - How the Portuguese Made a Superb Auto-De-Fe to Prevent Any Future Earthquakes, and How Candide Underwent Public Flagellation" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - How the Old Woman Took Care Of Candide, and How He Found the Object of His Love" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Cunegund's Story" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - What Happened to Cunegund, Candide, the Grand Inquisitor, and the Jew" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - In What Distress Candide, Cunegund, and the Old Woman Arrive at Cadiz, and Of Their Embarkation" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - The History of the Old Woman" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - The Adventures of the Old Woman Continued" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - How Candide Was Obliged to Leave the Fair Cunegund and the Old Woman" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - The Reception Candide and Cacambo Met with among the Jesuits in Paraguay" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - How Candide Killed the Brother of His Dear Cunegund" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - What Happened to Our Two Travelers with Two Girls, Two Monkeys, and the Savages, Called Oreillons" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - Candide and His Valet Arrive in the Country of El Dorado-What They Saw There" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - What They Saw in the Country of El Dorado" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - What Happened to Them at Surinam, and How Candide Became Acquainted with Martin" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - What Befell Candide and Martin on Their Passage" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - Candide and Martin, While Thus Reasoning with Each Other, Draw Near to the Coast of France" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - What Happened to Candide and Martin in France" },
+		{ "href": "chapter-23.html", "title": "Chapter 23 - Candide and Martin Touch upon the English Coast-What They See There" },
+		{ "href": "chapter-24.html", "title": "Chapter 24 - Of Pacquette and Friar Giroflee" },
+		{ "href": "chapter-25.html", "title": "Chapter 25 - Candide and Martin Pay a Visit to Seignor Pococurante, a Noble Venetian" },
+		{ "href": "chapter-26.html", "title": "Chapter 26 - Candide and Martin Sup with Six Sharpers-Who They Were" },
+		{ "href": "chapter-27.html", "title": "Chapter 27 - Candide's Voyage to Constantinople" },
+		{ "href": "chapter-28.html", "title": "Chapter 28 - What Befell Candide, Cunegund, Pangloss, Martin, etc." },
+		{ "href": "chapter-29.html", "title": "Chapter 29 - What Manner Candide Found Miss Cunegund and the Old Woman Again" },
+		{ "href": "chapter-30.html", "title": "Chapter 30 - Conclusion" }
+	]
+}
+

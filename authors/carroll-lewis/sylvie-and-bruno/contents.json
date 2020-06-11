@@ -1,0 +1,32 @@
+{
+	"title": "Sylvie and Bruno",
+	"author": "Lewis Carroll",
+	"chapters": [
+		{ "href": "preface.html", "title": "Preface" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Less Bread!  More Taxes!" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - L'amie Inconnue" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Birthday Presents" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - A Cunning Conspiracy" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - A Beggar's Palace" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - The Magic Locket" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Barons Embassy" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - A Ride on a Lion" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - A Jester and a Bear" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Other Professor" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Peter and Paul" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - A Musical Gardener" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - A Visit to Dogland" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Fairy-Sylvie" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Bruno's Revenge" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - A Changed Crocodile" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - The Three Badgers" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - Queer Street, number forty" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - How to make a Phlizz" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - Light come, light go" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - Through the Ivory Door" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - Crossing the Line" },
+		{ "href": "chapter-23.html", "title": "Chapter 23 - An outlandish watch" },
+		{ "href": "chapter-24.html", "title": "Chapter 24 - The Frogs' Birthday-treat" },
+		{ "href": "chapter-25.html", "title": "Chapter 25 - Looking Eastward" }
+	]
+}

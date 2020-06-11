@@ -1,0 +1,15 @@
+{
+	"title": "The Mysterious Key And What It Opened",
+	"author": "Louisa May Alcott",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - The Prophecy" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Paul" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Secret Service" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Vanished" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - A Hero" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Fair Helen" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Secret Key" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Which?" }
+	]
+}
+

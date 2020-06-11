@@ -1,0 +1,35 @@
+{
+	"title": "Tarzan of the Apes",
+	"author": "Edgar Rice Burroughs",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Out to Sea" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Savage Home" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Life and Death" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - The Apes" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - The White Ape" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Jungle Battles" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Light of Knowledge" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - The Tree-top Hunter" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Man and Man" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Fear-Phantom" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - &quot;King of the Apes&quot;" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Man's Reason" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - His Own Kind" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - At the Mercy of the Jungle" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - The Forest God" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - &quot;Most Remarkable&quot;" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - Burials" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - The Jungle Toll" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - The Call of the Primitive" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - Heredity" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - The Village of Torture" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - The Search Party" },
+		{ "href": "chapter-23.html", "title": "Chapter 23 - Brother Men" },
+		{ "href": "chapter-24.html", "title": "Chapter 24 - Lost Treasure" },
+		{ "href": "chapter-25.html", "title": "Chapter 25 - The Outpost of the World" },
+		{ "href": "chapter-26.html", "title": "Chapter 26 - The Height of Civilisation" },
+		{ "href": "chapter-27.html", "title": "Chapter 27 - The Giant Again" },
+		{ "href": "chapter-28.html", "title": "Chapter 28 - Conclusion" }
+	]
+}
+

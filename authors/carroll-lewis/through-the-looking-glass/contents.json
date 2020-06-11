@@ -1,0 +1,19 @@
+{
+	"title": "Through the Looking Glass",
+	"author": "Lewis Carroll",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Looking Glass House " },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - The Garden of Live Flowers" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Looking-Glass Insects" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Tweedledum and Tweedledee" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Wool and Water" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Humpty Dumpty" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - The Lion and the Unicorn" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - `It's my own Invention'" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - Queen Alice" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - Shaking" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Waking" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - Which Dreamed it?" }
+	]
+}
+

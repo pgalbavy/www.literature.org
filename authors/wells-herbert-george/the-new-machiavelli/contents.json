@@ -1,0 +1,22 @@
+{
+	"title": "The New Machiavelli",
+	"author": "H. G. Wells",
+	"chapters": [
+		{ "href": "book-01-chapter-01.html", "title": "Book 1 - Chapter 1 - Concerning A Book That Was Never Written" },
+		{ "href": "book-01-chapter-02.html", "title": "Book 1 - Chapter 2 - Bromstead And My Father" },
+		{ "href": "book-01-chapter-03.html", "title": "Book 1 - Chapter 3 - Scholastic" },
+		{ "href": "book-01-chapter-04.html", "title": "Book 1 - Chapter 4 - Adolescence" },
+		{ "href": "book-02-chapter-01.html", "title": "Book 2 - Chapter 1 - Margaret In Staffordshire" },
+		{ "href": "book-02-chapter-02.html", "title": "Book 2 - Chapter 2 - Margaret In London" },
+		{ "href": "book-02-chapter-03.html", "title": "Book 2 - Chapter 3 - Margaret In Venice" },
+		{ "href": "book-02-chapter-04.html", "title": "Book 2 - Chapter 4 - The House In Westminster" },
+		{ "href": "book-03-chapter-01.html", "title": "Book 3 - Chapter 1 - The Riddle For The Statesman" },
+		{ "href": "book-03-chapter-02.html", "title": "Book 3 - Chapter 2 - Seeking Associates" },
+		{ "href": "book-03-chapter-03.html", "title": "Book 3 - Chapter 3 - Secession" },
+		{ "href": "book-03-chapter-04.html", "title": "Book 3 - Chapter 4 - The Besetting Of Sex" },
+		{ "href": "book-04-chapter-01.html", "title": "Book 4 - Chapter 1 - Love And Success" },
+		{ "href": "book-04-chapter-02.html", "title": "Book 4 - Chapter 2 - The Impossible Position" },
+		{ "href": "book-04-chapter-03.html", "title": "Book 4 - Chapter 3 - The Breaking Point" }
+	]
+}
+

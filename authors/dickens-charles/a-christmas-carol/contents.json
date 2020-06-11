@@ -1,0 +1,12 @@
+{
+	"title": "A Christmas Carol",
+	"author": "Charles Dickens",
+	"chapters": [
+		{ "href": "chapter-01.html", "title": "Marley's Ghost" },
+		{ "href": "chapter-02.html", "title": "The First of the Three Spirits" },
+		{ "href": "chapter-03.html", "title": "The Second of the Three Spirits" },
+		{ "href": "chapter-04.html", "title": "The Last of the Spirits" },
+		{ "href": "chapter-05.html", "title": "The End of it" }
+	]
+}
+

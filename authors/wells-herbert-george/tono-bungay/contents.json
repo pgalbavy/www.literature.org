@@ -1,0 +1,21 @@
+{
+	"title": "Tono Bungay",
+	"author": "H. G. Wells",
+	"chapters": [
+		{ "href": "book-01-chapter-01.html", "title": "Book 1 - Chapter 1 - Of Bladesover House, And My Mother; And The Constitution Of Society" },
+		{ "href": "book-01-chapter-02.html", "title": "Book 1 - Chapter 2 - Of My Launch Into The World And The Last I Saw Of Bladesover" },
+		{ "href": "book-01-chapter-03.html", "title": "Book 1 - Chapter 3 - The Wimblehurst Apprenticeship" },
+		{ "href": "book-02-chapter-01.html", "title": "Book 2 - Chapter 1 - How I Became A London Student And Went Astray" },
+		{ "href": "book-02-chapter-02.html", "title": "Book 2 - Chapter 2 - The Dawn Comes, And My Uncle Appears In A New Silk Hat" },
+		{ "href": "book-02-chapter-03.html", "title": "Book 2 - Chapter 3 - How We Made Tono-Bungay Hum" },
+		{ "href": "book-02-chapter-04.html", "title": "Book 2 - Chapter 4 - Marion I" },
+		{ "href": "book-03-chapter-01.html", "title": "Book 3 - Chapter 1 - The Hardingham Hotel, And How We Became Big People" },
+		{ "href": "book-03-chapter-02.html", "title": "Book 3 - Chapter 2 - Our Progress From Camden Town To Crest Hill" },
+		{ "href": "book-03-chapter-03.html", "title": "Book 3 - Chapter 3 - Soaring" },
+		{ "href": "book-03-chapter-04.html", "title": "Book 3 - Chapter 4 - How I Stole The Heaps Of Quap From Mordet Island" },
+		{ "href": "book-04-chapter-01.html", "title": "Book 4 - Chapter 1 - The Stick Of The Rocket " },
+		{ "href": "book-04-chapter-02.html", "title": "Book 4 - Chapter 2 - Love Among The Wreckage" },
+		{ "href": "book-04-chapter-03.html", "title": "Book 4 - Chapter 3 - Night And The Open Sea" }
+	]
+}
+

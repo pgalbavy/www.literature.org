@@ -1,0 +1,12 @@
+{
+	"title": "Lucy Maud Montgomery",
+	"author": "",
+	"chapters": [
+		{ "href": "anne-of-green-gables", "title": "Anne Of Green Gables" },
+		{ "href": "anne-of-avonlea", "title": "Anne Of Avonlea" },
+		{ "href": "anne-of-the-island", "title": "Anne Of The Island" },
+		{ "href": "annes-house-of-dreams", "title": "Anne's House Of Dreams" },
+		{ "href": "the-golden-road", "title": "The Golden Road" }
+	]
+}
+

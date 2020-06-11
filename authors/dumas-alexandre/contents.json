@@ -1,0 +1,12 @@
+{
+	"title": "Alexandre Dumas",
+	"author": "",
+	"chapters": [
+		{ "href": "the-black-tulip", "title": "The Black Tulip" },
+		{ "href": "the-count-of-monte-cristo", "title": "The Count of Monte Cristo" },
+		{ "href": "the-three-musketeers", "title": "The Three Musketeers" },
+		{ "href": "ten-years-later", "title": "Ten Years Later" },
+		{ "href": "twenty-years-after", "title": "Twenty Years After" }
+	]
+}
+

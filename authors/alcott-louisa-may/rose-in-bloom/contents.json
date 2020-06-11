@@ -1,0 +1,30 @@
+{
+	"title": "Rose In Bloom",
+	"author": "Louisa May Alcott",
+	"chapters": [
+		{ "href": "preface.html", "title": "Preface" },
+		{ "href": "chapter-01.html", "title": "Chapter 1 - Coming Home" },
+		{ "href": "chapter-02.html", "title": "Chapter 2 - Old Friends With New Faces" },
+		{ "href": "chapter-03.html", "title": "Chapter 3 - Miss Campbell" },
+		{ "href": "chapter-04.html", "title": "Chapter 4 - Thorns Among The Roses" },
+		{ "href": "chapter-05.html", "title": "Chapter 5 - Prince Charming" },
+		{ "href": "chapter-06.html", "title": "Chapter 6 - Polishing Mac" },
+		{ "href": "chapter-07.html", "title": "Chapter 7 - Phebe" },
+		{ "href": "chapter-08.html", "title": "Chapter 8 - Breakers Ahead" },
+		{ "href": "chapter-09.html", "title": "Chapter 9 - New Year's Calls" },
+		{ "href": "chapter-10.html", "title": "Chapter 10 - The Sad And Sober Part" },
+		{ "href": "chapter-11.html", "title": "Chapter 11 - Small Temptations" },
+		{ "href": "chapter-12.html", "title": "Chapter 12 - At Kitty's Ball" },
+		{ "href": "chapter-13.html", "title": "Chapter 13 - Both Sides" },
+		{ "href": "chapter-14.html", "title": "Chapter 14 - Aunt Clara's Plan" },
+		{ "href": "chapter-15.html", "title": "Chapter 15 - Alas For Charlie!" },
+		{ "href": "chapter-16.html", "title": "Chapter 16 - Good Works" },
+		{ "href": "chapter-17.html", "title": "Chapter 17 - Among The Haycocks" },
+		{ "href": "chapter-18.html", "title": "Chapter 18 - Which Was It?" },
+		{ "href": "chapter-19.html", "title": "Chapter 19 - Behind The Fountain" },
+		{ "href": "chapter-20.html", "title": "Chapter 20 - What Mac Did" },
+		{ "href": "chapter-21.html", "title": "Chapter 21 - How Phebe Earned Her Welcome" },
+		{ "href": "chapter-22.html", "title": "Chapter 22 - Short And Sweet" }
+	]
+}
+

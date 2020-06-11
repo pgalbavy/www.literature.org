@@ -1,0 +1,10 @@
+{
+	"title": "Lewis Carroll",
+	"author": "",
+	"chapters": [
+		{ "href": "alices-adventures-in-wonderland", "title": "Alice's Adventures In Wonderland" },
+		{ "href": "through-the-looking-glass", "title": "Through the Looking Glass" },
+		{ "href": "sylvie-and-bruno", "title": "Sylvie and Bruno" },
+		{ "href": "the-hunting-of-the-snark", "title": "The Hunting of the Snark" }
+	]
+}

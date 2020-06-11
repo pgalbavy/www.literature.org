@@ -1,0 +1,24 @@
+{
+	"title": "D. H. Lawrence",
+	"author": "",
+	"chapters": [
+		{ "href": "aarons-rod", "title": "Aaron's Rod" },
+		{ "href": "the-captains-doll", "title": "The Captain's Doll (1923)" },
+		{ "href": "england-my-england", "title": "England, My England" },
+		{ "href": "the-fox", "title": "The Fox (1923)" },
+		{ "href": "the-kangaroo", "title": "The Kangaroo (1923)" },
+		{ "href": "the-ladybird", "title": "The Ladybird (1923)" },
+		{ "href": "lady-chatterleys-lover", "title": "Lady Chatterley's Lover (1928)" },
+		{ "href": "the-plumed-serpent", "title": "The Plumed Serpent (1926)" },
+		{ "href": "the-rainbow", "title": "The Rainbow (1926)" },
+		{ "href": "sons-and-lovers", "title": "Sons And Lovers" },
+		{ "href": "the-trespasser", "title": "The Trespasser" },
+		{ "href": "women-in-love", "title": "Women In Love" },
+		{ "href": "the-virgin-and-the-gypsy", "title": "The Virgin And The Gypsy (1930)" }
+	],
+	"notyet": [
+		{ "href": "the-prussian-officer-and-other-stories", "title": "The Prussian Officer And Other Stories (1914)" },
+		{ "href": "the-woman-who-rode-away-and-other-stories", "title": "The Woman Who Rode Away And Other Stories (1928)" }
+	]
+}
+		
