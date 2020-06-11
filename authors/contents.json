@@ -4,6 +4,7 @@
 	"chapters": [
 		{ "href": "aesop", "title": "<strong>Aesop</strong>" },
 		{ "href": "alcott-louisa-may", "title": "Louisa May <strong>Alcott</strong>" },
+		{ "href": "austen-jane", "title": "Jane <strong>Austin</strong>" },
 		{ "href": "barrie-james-matthew", "title": "James Matthew <strong>Barrie</strong>" },
 		{ "href": "baum-l-frank", "title": "L. Frank <strong>Baum</strong>" },
 		{ "href": "bronte-anne", "title": "Anne <strong>Brontë</strong>" },
