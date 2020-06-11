@@ -1,66 +1,65 @@
 function literatureFuncs() {
+	replaceTitle();
 	includeHTML();
 	contentsJSON();
 	literatureNav();
 	literatureHeader();
-	replaceTitle();
 }
 
-var title = "";
+var title = "EMPTY";
 
 function replaceTitle() {
 	window.onload = function() {
-		if (title != "") {
+		if (title != "EMPTY") {
 			document.getElementsByTagName("title")[0].text = title;
 		}
 	}
 }
 
-
 function includeHTML() {
-  var z, i, elmnt, file, xhttp;
-  /* Loop through a collection of all HTML elements: */
-  z = document.getElementsByTagName("*");
-  for (i = 0; i < z.length; i++) {
-    elmnt = z[i];
-    /*search for elements with a certain atrribute:*/
-    file = elmnt.getAttribute("w3-include-html");
-    if (file) {
-      /* Make an HTTP request using the attribute value as the file name: */
-      xhttp = new XMLHttpRequest();
-      xhttp.onreadystatechange = function() {
-        if (this.readyState == 4) {
-          if (this.status == 200) {elmnt.innerHTML = this.responseText;}
-          if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
-          /* Remove the attribute, and call this function once more: */
-          elmnt.removeAttribute("w3-include-html");
-          literatureFuncs();
-        }
-      }
+	var z, i, elmnt, file, xhttp;
+	/* Loop through a collection of all HTML elements: */
+	z = document.getElementsByTagName("*");
+	for (i = 0; i < z.length; i++) {
+	elmnt = z[i];
+	/*search for elements with a certain atrribute:*/
+	file = elmnt.getAttribute("w3-include-html");
+	if (file) {
+		/* Make an HTTP request using the attribute value as the file name: */
+		xhttp = new XMLHttpRequest();
+		xhttp.onreadystatechange = function() {
+		if (this.readyState == 4) {
+			if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+			if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+			/* Remove the attribute, and call this function once more: */
+			elmnt.removeAttribute("w3-include-html");
+			literatureFuncs();
+		}
+		}
 	
-      xhttp.open("GET", file, true);
-      xhttp.send();
-      /* Exit the function: */
-      return;
-    }
-  }
+		xhttp.open("GET", file, true);
+		xhttp.send();
+		/* Exit the function: */
+		return;
+	}
+	}
 }
 
 function contentsJSON() {
-  var z, i, elmnt, file, xhttp;
-  /* Loop through a collection of all HTML elements: */
-  z = document.getElementsByTagName("*");
-  for (i = 0; i < z.length; i++) {
-    elmnt = z[i];
-    /*search for elements with a certain atrribute:*/
-    file = elmnt.getAttribute("contents-json");
-    if (file) {
-      /* Make an HTTP request using the attribute value as the file name: */
-      xhttp = new XMLHttpRequest();
-      xhttp.onreadystatechange = function() {
-        if (this.readyState == 4) {
-          if (this.status == 200) {
-			// process JSON  
+	var z, i, elmnt, file, xhttp;
+	/* Loop through a collection of all HTML elements: */
+	z = document.getElementsByTagName("*");
+	for (i = 0; i < z.length; i++) {
+	elmnt = z[i];
+	/*search for elements with a certain atrribute:*/
+	file = elmnt.getAttribute("contents-json");
+	if (file) {
+		/* Make an HTTP request using the attribute value as the file name: */
+		xhttp = new XMLHttpRequest();
+		xhttp.onreadystatechange = function() {
+		if (this.readyState == 4) {
+			if (this.status == 200) {
+			// process JSON	
 			var contents = JSON.parse(this.responseText);
 			var html = "<ul class=\"w3-ul w3-hoverable\">";
 			/*
@@ -91,35 +90,35 @@ function contentsJSON() {
 			html += "</ul>";
 			
 			elmnt.innerHTML = html;
-		  }
-		  /* Remove the attribute, and call this function once more: */
-		  elmnt.removeAttribute("contents-json");
-		  literatureFuncs();
-        }
-      }
-	  xhttp.open("GET", file, true);
-	  xhttp.send();
-      /* Exit the function: */
-      return;
-    }
-  }
+			}
+			/* Remove the attribute, and call this function once more: */
+			elmnt.removeAttribute("contents-json");
+			literatureFuncs();
+		}
+		}
+		xhttp.open("GET", file, true);
+		xhttp.send();
+		/* Exit the function: */
+		return;
+	}
+	}
 }
 
 function literatureNav() {
-  var z, i, elmnt, file, xhttp;
-  /* Loop through a collection of all HTML elements: */
-  z = document.getElementsByTagName("*");
-  for (i = 0; i < z.length; i++) {
-    elmnt = z[i];
-    /*search for elements with a certain atrribute:*/
-    file = elmnt.getAttribute("lit-nav");
-    if (file) {
-      /* Make an HTTP request using the attribute value as the file name: */
-      xhttp = new XMLHttpRequest();
-      xhttp.onreadystatechange = function() {
-        if (this.readyState == 4) {
-          if (this.status == 200) {
-			// process JSON  
+	var z, i, elmnt, file, xhttp;
+	/* Loop through a collection of all HTML elements: */
+	z = document.getElementsByTagName("*");
+	for (i = 0; i < z.length; i++) {
+	elmnt = z[i];
+	/*search for elements with a certain atrribute:*/
+	file = elmnt.getAttribute("lit-nav");
+	if (file) {
+		/* Make an HTTP request using the attribute value as the file name: */
+		xhttp = new XMLHttpRequest();
+		xhttp.onreadystatechange = function() {
+		if (this.readyState == 4) {
+			if (this.status == 200) {
+			// process JSON	
 			var contents = JSON.parse(this.responseText);
 			var path = location.pathname;
 			var parts = path.split('/');
@@ -217,35 +216,38 @@ function literatureNav() {
 			}
 			html += "</nav>";
 			elmnt.innerHTML = html;
-		  }
-		  /* Remove the attribute, and call this function once more: */
-		  elmnt.removeAttribute("lit-nav");
-		  literatureFuncs();
+			}
+			/* Remove the attribute, and call this function once more: */
+			elmnt.removeAttribute("lit-nav");
+			literatureFuncs();
 		}
-	  }
-      xhttp.open("GET", file, true);
-	  xhttp.send();
-	  /* Exit the function: */
-      return;
-    }
-  }	
+		}
+		if (title != "EMPTY") {
+			document.getElementsByTagName("title")[0].text = title;
+		}
+		xhttp.open("GET", file, true);
+		xhttp.send();
+		/* Exit the function: */
+		return;
+	}
+	}	
 }
 
 function literatureHeader() {
-  var z, i, elmnt, file, xhttp;
-  /* Loop through a collection of all HTML elements: */
-  z = document.getElementsByTagName("*");
-  for (i = 0; i < z.length; i++) {
-    elmnt = z[i];
-    /*search for elements with a certain atrribute:*/
-    file = elmnt.getAttribute("lit-head");
-    if (file) {
-      /* Make an HTTP request using the attribute value as the file name: */
-      xhttp = new XMLHttpRequest();
-      xhttp.onreadystatechange = function() {
-        if (this.readyState == 4) {
-          if (this.status == 200) {
-			// process JSON  
+	var z, i, elmnt, file, xhttp;
+	/* Loop through a collection of all HTML elements: */
+	z = document.getElementsByTagName("*");
+	for (i = 0; i < z.length; i++) {
+	elmnt = z[i];
+	/*search for elements with a certain atrribute:*/
+	file = elmnt.getAttribute("lit-head");
+	if (file) {
+		/* Make an HTTP request using the attribute value as the file name: */
+		xhttp = new XMLHttpRequest();
+		xhttp.onreadystatechange = function() {
+		if (this.readyState == 4) {
+			if (this.status == 200) {
+			// process JSON	
 			var contents = JSON.parse(this.responseText);
 			var path = location.pathname;
 			var parts = path.split('/');
@@ -258,24 +260,24 @@ function literatureHeader() {
 				contentsHTML += "</header>";
 				elmnt.innerHTML = contentsHTML;
 			}
-		  }
-          /* Remove the attribute, and call this function once more: */
-		  elmnt.removeAttribute("lit-head");
-		  literatureFuncs();
-        }
-	  }
-	  xhttp.open("GET", file, true);
-	  xhttp.send();
-      /* Exit the function: */
-      return;
-    }
-  }	
+			}
+			/* Remove the attribute, and call this function once more: */
+			elmnt.removeAttribute("lit-head");
+			literatureFuncs();
+		}
+		}
+		xhttp.open("GET", file, true);
+		xhttp.send();
+		/* Exit the function: */
+		return;
+	}
+	}	
 }
 
 function w3_open() {
-  document.getElementById("mySidebar").style.display = "block";
+	document.getElementById("mySidebar").style.display = "block";
 }
 
 function w3_close() {
-  document.getElementById("mySidebar").style.display = "none";
+	document.getElementById("mySidebar").style.display = "none";
 }
