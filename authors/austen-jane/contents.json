@@ -3,6 +3,8 @@
 	"author": "",
 	"chapters": [
 		{ "href": "emma", "title": "Emma" },
+		{ "href": "mansfield-park", "title": "Mansfield Park" },
+		{ "href": "persuasion", "title": "Persuasion" },
 		{ "href": "pride-and-prejudice", "title": "Pride and Prejudice" },
 		{ "href": "sense-and-sensibility", "title": "Sense and Sensibility" }
 	]
