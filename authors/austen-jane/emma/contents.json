@@ -1,7 +1,7 @@
 {
 	"title": "Emma",
 	"author": "Jane Austen",
-	"source": "",
+	"source": "https://www.gutenberg.org/files/158/158-0.txt",
 	"cmdline": [
 		"./convtext",
 		"--title",
@@ -16,7 +16,7 @@
 		"Volume %d - ",
 		"--output",
 		"../authors/austen-jane/emma",
-		"158-0.txt"
+		"https://www.gutenberg.org/files/158/158-0.txt"
 	],
 	"chapters": [
 		{
