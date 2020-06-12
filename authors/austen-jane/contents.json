@@ -3,7 +3,8 @@
 	"author": "",
 	"chapters": [
 		{ "href": "emma", "title": "Emma" },
-		{ "href": "pride-and-prejudice", "title": "Pride and Prejudice" }
+		{ "href": "pride-and-prejudice", "title": "Pride and Prejudice" },
+		{ "href": "sense-and-sensibility", "title": "Sense and Sensibility" }
 	]
 }
 
