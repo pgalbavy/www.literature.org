@@ -244,7 +244,7 @@ func splitfile(data string, re *regexp.Regexp, fileprefix string, titleformat st
 func txt2html(txt string) (string, error) {
 	var out bytes.Buffer
 
-	cmd := exec.Command("txt2html", "--extract")
+	cmd := exec.Command("txt2html", "--extract", "--eight_bit_clean")
 	cmd.Stdin = bytes.NewBufferString(txt)
 	cmd.Stdout = &out
 
