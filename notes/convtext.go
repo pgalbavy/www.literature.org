@@ -167,7 +167,7 @@ func main() {
 		// copy index template
 
 		i, _ := ioutil.ReadFile(templates + index)
-		ioutil.WriteFile(index, i, 0644)
+		ioutil.WriteFile(writedir + index, i, 0644)
 	}
 }
 

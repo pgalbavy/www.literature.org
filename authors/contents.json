@@ -40,7 +40,8 @@
 		{ "href": "twain-mark", "title": "Mark <strong>Twain</strong>" },
 		{ "href": "verne-jules", "title": "Jules <strong>Verne</strong>" },
 		{ "href": "voltaire", "title": "<strong>Voltaire</strong>" },
-		{ "href": "wells-herbert-george", "title": "H. G. <strong>Wells</strong>" }
+		{ "href": "wells-herbert-george", "title": "H. G. <strong>Wells</strong>" },
+		{ "href": "wilde-oscar", "title": "Oscar <strong>Wilde</strong>" }
 	],
 	"notyet": [
 		{ "href": "kemp-william", "title": "William <strong>Kemp</strong>" },
