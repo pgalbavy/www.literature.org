@@ -1,0 +1,55 @@
+{
+	"title": "The Adventures of Sherlock Holmes",
+	"author": "Arthur Conan Doyle",
+	"source": "https://www.gutenberg.org/files/48320/48320-0.txt",
+	"chapters": [
+		{
+			"href": "adventure-01.html",
+			"title": "Adventure 1 - A Scandal In Bohemia"
+		},
+		{
+			"href": "adventure-02.html",
+			"title": "Adventure 2 - The Red-Headed League"
+		},
+		{
+			"href": "adventure-03.html",
+			"title": "Adventure 3 - A Case Of Identity"
+		},
+		{
+			"href": "adventure-04.html",
+			"title": "Adventure 4 - The Boscombe Valley Mystery"
+		},
+		{
+			"href": "adventure-05.html",
+			"title": "Adventure 5 - The Five Orange Pips"
+		},
+		{
+			"href": "adventure-06.html",
+			"title": "Adventure 6 - The Man With The Twisted Lip"
+		},
+		{
+			"href": "adventure-07.html",
+			"title": "Adventure 7 - The Adventure Of The Blue Carbuncle"
+		},
+		{
+			"href": "adventure-08.html",
+			"title": "Adventure 8 - The Adventure Of The Speckled Band"
+		},
+		{
+			"href": "adventure-09.html",
+			"title": "Adventure 9 - The Adventure Of The Engineer’s Thumb"
+		},
+		{
+			"href": "adventure-10.html",
+			"title": "Adventure 10 - The Adventure Of The Noble Bachelor"
+		},
+		{
+			"href": "adventure-11.html",
+			"title": "Adventure 11 - The Adventure Of The Beryl Coronet"
+		},
+		{
+			"href": "adventure-12.html",
+			"title": "Adventure 12 - The Adventure Of The Copper Beeches"
+		}
+	]
+}

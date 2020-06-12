@@ -38,10 +38,11 @@ type Chapter struct {
 
 var blank, end, shortheading *regexp.Regexp
 var maxtitle int
+var writedir string
 
 func init() {
 	blank = regexp.MustCompile(`(\r?\n){2,}`)
-	end = regexp.MustCompile(`(?mi)^.*end of the project gutenberg`)
+	end = regexp.MustCompile(`(?mi)^.*end of .*project gutenberg`)
 	shortheading = regexp.MustCompile(`(\r?\n)`)
 }
 
@@ -66,8 +67,13 @@ func main() {
 
 	flag.IntVar(&maxtitle, "maxtitle", 60, "Max Title Length (when on another line)")
 
+	flag.StringVar(&writedir, "output", "", "Destination directory")
+
 	flag.Parse()
 
+	if len(writedir) > 0 && writedir[len(writedir)-1:] != "/" {
+		writedir += "/"
+	}
 	// read header and footer files for later use
 
 	h, err := ioutil.ReadFile(templates + header)
@@ -132,7 +138,7 @@ func main() {
 			splitfile(text, chapre, chapprefix, chaptitle, head, foot, &contents)
 		}
 
-		w, err := os.Create("contents.json")
+		w, err := os.Create(writedir + "contents.json")
 		if err != nil {
 			log.Fatal(err)
 		}
@@ -220,7 +226,7 @@ func splitfile(data string, re *regexp.Regexp, fileprefix string, titleformat st
 
 		html, _ := txt2html(part)
 
-		w, err := os.Create(filename)
+		w, err := os.Create(writedir + filename)
 		if err != nil {
 			log.Fatal(err)
 		}
@@ -234,7 +240,7 @@ func splitfile(data string, re *regexp.Regexp, fileprefix string, titleformat st
 		c.HREF = filename
 		c.Title = fmt.Sprintf(titleformat, cn)
 		if len(title) > 0 {
-			c.Title += " - " + title;
+			c.Title += " - " + strings.Title(strings.ToLower(title))
 		}
 		contents.Chapters = append(contents.Chapters, c)
 	}
