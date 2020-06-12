@@ -144,6 +144,9 @@ func main() {
 
 			parts := re.Split(text, -1)
 			for p, part := range parts {
+				if (p == 0) {
+					continue;
+				}
 				prefix := fmt.Sprintf(partprefix, p) + chapprefix
 				title := fmt.Sprintf(parttitle, p) + chaptitle
 
@@ -177,12 +180,21 @@ func splitfile(data string, re *regexp.Regexp, fileprefix string, titleformat st
 	parts := re.Split(data, -1)
 
 	for p, part := range parts {
+		var title = ""
+
 		// strip first line(s) for chapter names
 
 		// split on first blank line(s) and process first part(s), pass on the rest
 		bits := blank.Split(part, 3)
 
-		if len(bits) != 3 {
+		n := len(bits)
+
+		if n == 3 {
+			// default is to reunite last two parts
+			part = bits[1] + "\n\n" + bits[2]
+		}
+
+		if len(bits) < 2 {
 			log.Fatal("no blank line")
 		}
 
@@ -204,11 +216,6 @@ func splitfile(data string, re *regexp.Regexp, fileprefix string, titleformat st
 			}
 		}
 
-
-		var title = ""
-
-		// default is to reunite last two parts
-		part = bits[1] + "\n\n" + bits[2]
 		if m, _ := regexp.MatchString(`\w+`, h); m {
 			// pull title from same line
 			t := regexp.MustCompile(`[\S\.].*$`)
@@ -220,7 +227,9 @@ func splitfile(data string, re *regexp.Regexp, fileprefix string, titleformat st
 				title = strings.TrimSpace(t.ReplaceAllString(bits[1], " "))
 
 				// we've used bits[1] so move on
-				part = bits[2]
+				if n == 3 {
+					part = bits[2]
+				}
 			}
 		}
 
