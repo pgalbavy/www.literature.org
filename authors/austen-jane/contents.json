@@ -1,0 +1,9 @@
+{
+	"title": "Jane Austen",
+	"author": "",
+	"chapters": [
+		{ "href": "emma", "title": "Emma" },
+		{ "href": "pride-and-prejudice", "title": "Pride and Prejudice" }
+	]
+}
+
