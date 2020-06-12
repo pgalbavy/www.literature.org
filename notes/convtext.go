@@ -13,6 +13,7 @@ import (
 	"os"
 	"os/exec"
 	"regexp"
+	"strconv"
 	"strings"
 )
 
@@ -35,6 +36,15 @@ type Chapter struct {
 	Title		string		`json:"title"`
 }
 
+var blank, end, shortheading *regexp.Regexp
+var maxtitle int
+
+func init() {
+	blank = regexp.MustCompile(`(\r?\n){2,}`)
+	end = regexp.MustCompile(`(?mi)^.*end of the project gutenberg`)
+	shortheading = regexp.MustCompile(`(\r?\n)`)
+}
+
 func main() {
 	var contents Contents
 
@@ -53,6 +63,8 @@ func main() {
 	flag.StringVar(&chapsep, "chapsep", `(?mi)^chapter\s`, "Chapter seperator")
 	flag.StringVar(&chaptitle, "chaptitle", "Chapter %d", "Chapter label")
 	flag.StringVar(&chapprefix, "chapterprefix", "chapter-%02d", "Chapter prefix")
+
+	flag.IntVar(&maxtitle, "maxtitle", 60, "Max Title Length (when on another line)")
 
 	flag.Parse()
 
@@ -79,6 +91,9 @@ func main() {
 				log.Fatal(err)
 			}
 			f = res.Body
+			if len(contents.Source) == 0 {
+				contents.Source = file
+			}
 		} else {
 			var err error
 			fmt.Printf("reading file %q\n", file)
@@ -91,11 +106,19 @@ func main() {
 		f.Close()
 		text := string(content)
 
-		fmt.Printf("len=%d\n", len(text))			
+		re, err := regexp.Compile(partsep)
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		chapre, err := regexp.Compile(chapsep)
+		if err != nil {
+			log.Fatal(err)
+		}
 
 		// check for parts if defined and loop over each set
 		if partsep != "" {
-			parts := splitstring(text, partsep)
+			parts := re.Split(text, -1)
 			for p, part := range parts {
 				if p == 0 {
 					continue
@@ -103,10 +126,10 @@ func main() {
 				prefix := fmt.Sprintf(partprefix, p) + chapprefix
 				title := fmt.Sprintf(parttitle, p) + chaptitle
 
-				splitfile(part, chapsep, prefix, title, head, foot, &contents)
+				splitfile(part, chapre, prefix, title, head, foot, &contents)
 			}
 		} else {
-			splitfile(text, chapsep, chapprefix, chaptitle, head, foot, &contents)
+			splitfile(text, chapre, chapprefix, chaptitle, head, foot, &contents)
 		}
 
 		w, err := os.Create("contents.json")
@@ -127,35 +150,71 @@ func main() {
 	}
 }
 
-// called for each volume/book/part the results in more strings not files
-func splitstring(data string, partsep string) ([]string) {
-	fmt.Printf("compiling regexp %q\n", partsep)
-	re, err := regexp.Compile(partsep)
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	fmt.Printf("searching for %q\n", partsep)
-	return re.Split(data, -1)
-}
-
 // split the text into chunks and write them out as html - this is the final step
-func splitfile(data string, chapsep string, fileprefix string, titleformat string,
+func splitfile(data string, re *regexp.Regexp, fileprefix string, titleformat string,
 		head string, foot string, contents *Contents) {
-
-	fmt.Printf("compiling regexp %q\n", chapsep)
-	re, err := regexp.Compile(chapsep)
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	fmt.Printf("searching\n")
 	parts := re.Split(data, -1)
 
 	for p, part := range parts {
 		if p == 0 {
 			continue
 		}
+
+		// strip first line(s) for chapter names
+
+		// split on first blank line(s) and process first part(s), pass on the rest
+		bits := blank.Split(part, 3)
+
+		if len(bits) != 3 {
+			log.Fatal("no blank line")
+		}
+
+		h := bits[0]
+
+
+		// assume chapter title is NUMBER [PUNC] [SPACE TITLE]
+
+		var cn int
+		var err error
+
+		cn, h = roman(h)
+		if cn == 0 {
+			cn, err = strconv.Atoi(h)
+			if err != nil {
+				cn = p
+			} else {
+				h = strings.TrimLeft(h, "0123456789")
+			}
+		}
+
+
+		var title = ""
+
+		// default is to reunite last two parts
+		part = bits[1] + "\n\n" + bits[2]
+		if m, _ := regexp.MatchString(`\w+`, h); m {
+			// pull title from same line
+			t := regexp.MustCompile(`[\S\.].*$`)
+			title = strings.TrimSpace(t.FindString(h))
+		} else {
+			// pull title from next para but only if it's "short"
+			if len(bits[1]) < maxtitle {
+				t := regexp.MustCompile(`(\r?\n)`)
+				title = strings.TrimSpace(t.ReplaceAllString(bits[1], " "))
+
+				// we've used bits[1] so move on
+				part = bits[2]
+			}
+		}
+
+		// strip last lines for source footers (gutenberg etc.)
+
+		if end.MatchString(part) {
+			ends := end.Split(part, 2)
+			part = ends[0]
+		}
+
+		// convert
 		filename := fmt.Sprintf(fileprefix, p) + ".html"
 		fmt.Printf("write filename=%q size %d\n", filename, len(part))
 
@@ -173,7 +232,10 @@ func splitfile(data string, chapsep string, fileprefix string, titleformat strin
 		// update contents
 		var c Chapter
 		c.HREF = filename
-		c.Title = fmt.Sprintf(titleformat, p)
+		c.Title = fmt.Sprintf(titleformat, cn)
+		if len(title) > 0 {
+			c.Title += " - " + title;
+		}
 		contents.Chapters = append(contents.Chapters, c)
 	}
 }
@@ -191,4 +253,43 @@ func txt2html(txt string) (string, error) {
 		return "", err
 	}
 	return out.String(), nil
+}
+
+// below from https://github.com/chonla/roman-number-go/blob/master/roman.go
+
+var num = map[string]int{
+	"I": 1,
+	"V": 5,
+	"X": 10,
+	"L": 50,
+	"C": 100,
+	"D": 500,
+	"M": 1000,
+}
+
+// ToNumber to covert roman numeral to decimal
+// modified to return the next unread character too
+func roman(n string) (int, string) {
+	out := 0
+	ln := len(n)
+	for i := 0; i < ln; i++ {
+		c := string(n[i])
+		vc, ok := num[c]
+		if !ok {
+			return out, n[i:]
+		}
+		if i < ln-1 {
+			cnext := string(n[i+1])
+			vcnext := num[cnext]
+			if vc < vcnext {
+				out += vcnext - vc
+				i++
+			} else {
+				out += vc
+			}
+		} else {
+			out += vc
+		}
+	}
+	return out, ""
 }
