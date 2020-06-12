@@ -1,8 +1,0 @@
-
-multi-volume
-
-wget [URL]
-csplit -b %02d.txt -f vol- 42671-8.txt '/^VOL/' '{*}'
-for i in 1 2 3; do csplit -b %02d.txt -f volume-0$i-chapter- vol-0$i.txt '/^CHAPTER/' '{*}'; done
-
-volume-0(\d)(.*)Chapter -> volume-0$1$2Volume $1 - Chapter
