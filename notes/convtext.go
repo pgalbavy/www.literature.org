@@ -28,6 +28,7 @@ type Contents struct {
 	Title		string		`json:"title"`
 	Author		string		`json:"author"`
 	Source		string		`json:"source"`
+	Cmdline		[]string	`json:"cmdline"`
 	Chapters	[]Chapter	`json:"chapters"`
 }
 
@@ -65,6 +66,9 @@ func main() {
 	flag.StringVar(&chaptitle, "chaptitle", "Chapter %d", "Chapter label")
 	flag.StringVar(&chapprefix, "chapterprefix", "chapter-%02d", "Chapter prefix")
 
+	var special string
+	flag.StringVar(&special, "special", "(?mi)^(preface|introduction)", "Special sections")
+
 	flag.IntVar(&maxtitle, "maxtitle", 60, "Max Title Length (when on another line)")
 
 	flag.StringVar(&writedir, "output", "", "Destination directory")
@@ -74,6 +78,9 @@ func main() {
 	if len(writedir) > 0 && writedir[len(writedir)-1:] != "/" {
 		writedir += "/"
 	}
+
+	contents.Cmdline = os.Args
+
 	// read header and footer files for later use
 
 	h, err := ioutil.ReadFile(templates + header)
@@ -112,30 +119,38 @@ func main() {
 		f.Close()
 		text := string(content)
 
-		re, err := regexp.Compile(partsep)
-		if err != nil {
-			log.Fatal(err)
-		}
-
 		chapre, err := regexp.Compile(chapsep)
 		if err != nil {
 			log.Fatal(err)
 		}
 
+		// check special parts first
+/*
+		if special != "" {
+			specre, err := regexp.Compile(special)
+			if err != nil {
+				log.Fatal(err)
+			}
+			parts := specre.Split(text, -1)
+		}
+*/
+
 		// check for parts if defined and loop over each set
 		if partsep != "" {
+			re, err := regexp.Compile(partsep)
+			if err != nil {
+				log.Fatal(err)
+			}
+
 			parts := re.Split(text, -1)
 			for p, part := range parts {
-				if p == 0 {
-					continue
-				}
 				prefix := fmt.Sprintf(partprefix, p) + chapprefix
 				title := fmt.Sprintf(parttitle, p) + chaptitle
 
-				splitfile(part, chapre, prefix, title, head, foot, &contents)
+				splitfile(part, chapre, prefix, title, head, foot, p, &contents)
 			}
 		} else {
-			splitfile(text, chapre, chapprefix, chaptitle, head, foot, &contents)
+			splitfile(text, chapre, chapprefix, chaptitle, head, foot, 1, &contents)
 		}
 
 		w, err := os.Create(writedir + "contents.json")
@@ -158,14 +173,10 @@ func main() {
 
 // split the text into chunks and write them out as html - this is the final step
 func splitfile(data string, re *regexp.Regexp, fileprefix string, titleformat string,
-		head string, foot string, contents *Contents) {
+		head string, foot string, addcontents int, contents *Contents) {
 	parts := re.Split(data, -1)
 
 	for p, part := range parts {
-		if p == 0 {
-			continue
-		}
-
 		// strip first line(s) for chapter names
 
 		// split on first blank line(s) and process first part(s), pass on the rest
@@ -235,17 +246,18 @@ func splitfile(data string, re *regexp.Regexp, fileprefix string, titleformat st
 		w.WriteString(foot)
 		w.Close()
 
-		// update contents
-		var c Chapter
-		c.HREF = filename
-		c.Title = fmt.Sprintf(titleformat, cn)
-		if len(title) > 0 {
-			c.Title += " - " + strings.Title(strings.ToLower(title))
+		if (p != 0 && addcontents != 0) {
+			// update contents
+			var c Chapter
+			c.HREF = filename
+			c.Title = fmt.Sprintf(titleformat, cn)
+			if len(title) > 0 {
+				c.Title += " - " + strings.Title(strings.ToLower(title))
+			}
+			contents.Chapters = append(contents.Chapters, c)
 		}
-		contents.Chapters = append(contents.Chapters, c)
 	}
 }
-
 
 func txt2html(txt string) (string, error) {
 	var out bytes.Buffer
