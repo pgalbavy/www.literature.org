@@ -1,0 +1,67 @@
+{
+	"title": "The Mysterious Affair at Styles",
+	"author": "Agatha Christie",
+	"source": "https://www.gutenberg.org/files/863/863-0.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Agatha Christie",
+		"-title",
+		"The Mysterious Affair at Styles",
+		"https://www.gutenberg.org/files/863/863-0.txt"
+	],
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - I Go To Styles"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The 16th And 17th Of July"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Night Of The Tragedy"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Poirot Investigates"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - “It Isn’t Strychnine, Is It?”"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Inquest"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Poirot Pays His Debts"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Fresh Suspicions"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Dr. Bauerstein"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Arrest"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Case For The Prosecution"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Last Link"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Poirot Explains"
+		}
+	]
+}

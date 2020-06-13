@@ -195,7 +195,8 @@ func splitfile(data string, re *regexp.Regexp, fileprefix string, titleformat st
 		}
 
 		if len(bits) < 2 {
-			log.Fatal("no blank line")
+			// skip
+			continue
 		}
 
 		h := bits[0]
@@ -223,8 +224,7 @@ func splitfile(data string, re *regexp.Regexp, fileprefix string, titleformat st
 		} else {
 			// pull title from next para but only if it's "short"
 			if len(bits[1]) < maxtitle {
-				t := regexp.MustCompile(`(\r?\n)`)
-				title = strings.TrimSpace(t.ReplaceAllString(bits[1], " "))
+				title = strings.TrimSpace(blank.ReplaceAllString(bits[1], " "))
 
 				// we've used bits[1] so move on
 				if n == 3 {
@@ -232,6 +232,7 @@ func splitfile(data string, re *regexp.Regexp, fileprefix string, titleformat st
 				}
 			}
 		}
+		title = strings.TrimLeft(title, " .")
 
 		// strip last lines for source footers (gutenberg etc.)
 
@@ -241,7 +242,7 @@ func splitfile(data string, re *regexp.Regexp, fileprefix string, titleformat st
 		}
 
 		// convert
-		filename := fmt.Sprintf(fileprefix, p) + ".html"
+		filename := fmt.Sprintf(fileprefix, cn) + ".html"
 		fmt.Printf("write filename=%q size %d\n", filename, len(part))
 
 		html, _ := txt2html(part)
