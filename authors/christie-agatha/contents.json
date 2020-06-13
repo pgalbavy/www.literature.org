@@ -2,7 +2,8 @@
 	"title": "Agatha Christie",
 	"author": "",
 	"chapters": [
-		{ "href": "the-mysterious-affair-at-styles", "title": "The Mysterious Affair at Styles" }
+		{ "href": "the-mysterious-affair-at-styles", "title": "The Mysterious Affair at Styles" },
+		{ "href": "the-man-in-the-brown-suit", "title": "The Man in the Brown Suit" }
 	]
 }
 
