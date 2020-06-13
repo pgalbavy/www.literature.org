@@ -1,0 +1,45 @@
+{
+	"title": "Pygmalion",
+	"author": "George Bernard Shaw",
+	"source": "http://www.gutenberg.org/cache/epub/3825/pg3825.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"George Bernard Shaw",
+		"-title",
+		"Pygmalion",
+		"-chapsep",
+		"(?mi)^ACT\\s",
+		"-chaptitle",
+		"Act %d",
+		"-chapterprefix",
+		"act-%02d",
+		"http://www.gutenberg.org/cache/epub/3825/pg3825.txt"
+	],
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "act-01.html",
+			"title": "Act 1"
+		},
+		{
+			"href": "act-02.html",
+			"title": "Act 2"
+		},
+		{
+			"href": "act-03.html",
+			"title": "Act 3"
+		},
+		{
+			"href": "act-04.html",
+			"title": "Act 4"
+		},
+		{
+			"href": "act-05.html",
+			"title": "Act 5"
+		}
+	]
+}
