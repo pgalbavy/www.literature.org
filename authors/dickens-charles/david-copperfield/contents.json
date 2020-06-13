@@ -1,0 +1,275 @@
+{
+	"title": "David Copperfield",
+	"author": "Charles Dickens",
+	"source": "https://www.gutenberg.org/files/766/766-0.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Charles Dickens",
+		"-title",
+		"David Copperfield",
+		"https://www.gutenberg.org/files/766/766-0.txt"
+	],
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - I Am Born"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - I Observe"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - I Have A Change"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - I Fall Into Disgrace"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - I Am Sent Away From Home"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - I Enlarge My Circle Of Acquaintance"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - My ‘first Half’ At Salem House"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - My Holidays. Especially One Happy Afternoon"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - I Have A Memorable Birthday"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - I Become Neglected, And Am Provided For"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - I Begin Life On My Own Account, And Don’t Like It"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Liking Life On My Own Account No Better, I Form A Great Resolution"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Sequel Of My Resolution"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - My Aunt Makes Up Her Mind About Me"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - I Make Another Beginning"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - I Am A New Boy In More Senses Than One"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Somebody Turns Up"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Retrospect"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - I Look About Me, And Make A Discovery"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Steerforth’s Home"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Little Em’ly"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Some Old Scenes, And Some New People"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - I Corroborate Mr. Dick, And Choose A Profession"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - My First Dissipation"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Good And Bad Angels"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - I Fall Into Captivity"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Tommy Traddles"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Mr. Micawber’s Gauntlet"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - I Visit Steerforth At His Home, Again"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - A Loss"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - A Greater Loss"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - The Beginning Of A Long Journey"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Blissful"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - My Aunt Astonishes Me"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - Depression"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - Enthusiasm"
+		},
+		{
+			"href": "chapter-37.html",
+			"title": "Chapter 37 - A Little Cold Water"
+		},
+		{
+			"href": "chapter-38.html",
+			"title": "Chapter 38 - A Dissolution Of Partnership"
+		},
+		{
+			"href": "chapter-39.html",
+			"title": "Chapter 39 - Wickfield And Heep"
+		},
+		{
+			"href": "chapter-40.html",
+			"title": "Chapter 40 - The Wanderer"
+		},
+		{
+			"href": "chapter-41.html",
+			"title": "Chapter 41 - Dora’s Aunts"
+		},
+		{
+			"href": "chapter-42.html",
+			"title": "Chapter 42 - Mischief"
+		},
+		{
+			"href": "chapter-43.html",
+			"title": "Chapter 43 - Another Retrospect"
+		},
+		{
+			"href": "chapter-44.html",
+			"title": "Chapter 44 - Our Housekeeping"
+		},
+		{
+			"href": "chapter-45.html",
+			"title": "Chapter 45 - Mr. Dick Fulfils My Aunt’s Predictions"
+		},
+		{
+			"href": "chapter-46.html",
+			"title": "Chapter 46 - Intelligence"
+		},
+		{
+			"href": "chapter-47.html",
+			"title": "Chapter 47 - Martha"
+		},
+		{
+			"href": "chapter-48.html",
+			"title": "Chapter 48 - Domestic"
+		},
+		{
+			"href": "chapter-49.html",
+			"title": "Chapter 49 - I Am Involved In Mystery"
+		},
+		{
+			"href": "chapter-50.html",
+			"title": "Chapter 50 - Mr. Peggotty’s Dream Comes True"
+		},
+		{
+			"href": "chapter-51.html",
+			"title": "Chapter 51 - The Beginning Of A Longer Journey"
+		},
+		{
+			"href": "chapter-52.html",
+			"title": "Chapter 52 - I Assist At An Explosion"
+		},
+		{
+			"href": "chapter-53.html",
+			"title": "Chapter 53 - Another Retrospect"
+		},
+		{
+			"href": "chapter-54.html",
+			"title": "Chapter 54 - Mr. Micawber’s Transactions"
+		},
+		{
+			"href": "chapter-55.html",
+			"title": "Chapter 55 - Tempest"
+		},
+		{
+			"href": "chapter-56.html",
+			"title": "Chapter 56 - The New Wound, And The Old"
+		},
+		{
+			"href": "chapter-57.html",
+			"title": "Chapter 57 - The Emigrants"
+		},
+		{
+			"href": "chapter-58.html",
+			"title": "Chapter 58 - Absence"
+		},
+		{
+			"href": "chapter-59.html",
+			"title": "Chapter 59 - Return"
+		},
+		{
+			"href": "chapter-60.html",
+			"title": "Chapter 60 - Agnes"
+		},
+		{
+			"href": "chapter-61.html",
+			"title": "Chapter 61 - I Am Shown Two Interesting Penitents"
+		},
+		{
+			"href": "chapter-62.html",
+			"title": "Chapter 62 - A Light Shines On My Way"
+		},
+		{
+			"href": "chapter-63.html",
+			"title": "Chapter 63 - A Visitor"
+		},
+		{
+			"href": "chapter-64.html",
+			"title": "Chapter 64 - A Last Retrospect"
+		}
+	]
+}
