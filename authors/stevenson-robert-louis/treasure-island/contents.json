@@ -1,0 +1,161 @@
+{
+	"title": "Treasure Island",
+	"author": "Robert Louis Stevenson",
+	"source": "https://www.gutenberg.org/files/120/120-0.txt",
+	"cmdline": [
+		"convtext",
+		"-title",
+		"Treasure Island",
+		"-author",
+		"Robert Louis Stevenson",
+		"-partsep",
+		"(?m)^PART\\s",
+		"-chapsep",
+		"(?m)^\\d+\\s",
+		"-maxtitle",
+		"100",
+		"https://www.gutenberg.org/files/120/120-0.txt"
+	],
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "part-01-chapter-01.html",
+			"title": "Part 1 - Chapter 1 - The Old Sea-Dog At The Admiral Benbow"
+		},
+		{
+			"href": "part-01-chapter-02.html",
+			"title": "Part 1 - Chapter 2 - Black Dog Appears And Disappears"
+		},
+		{
+			"href": "part-01-chapter-03.html",
+			"title": "Part 1 - Chapter 3 - The Black Spot"
+		},
+		{
+			"href": "part-01-chapter-04.html",
+			"title": "Part 1 - Chapter 4 - The Sea-Chest"
+		},
+		{
+			"href": "part-01-chapter-05.html",
+			"title": "Part 1 - Chapter 5 - The Last Of The Blind Man"
+		},
+		{
+			"href": "part-01-chapter-06.html",
+			"title": "Part 1 - Chapter 6 - The Captain's Papers"
+		},
+		{
+			"href": "part-02-chapter-01.html",
+			"title": "Part 2 - Chapter 1 - I Go To Bristol"
+		},
+		{
+			"href": "part-02-chapter-02.html",
+			"title": "Part 2 - Chapter 2 - At The Sign Of The Spy-Glass"
+		},
+		{
+			"href": "part-02-chapter-03.html",
+			"title": "Part 2 - Chapter 3 - Powder And Arms"
+		},
+		{
+			"href": "part-02-chapter-04.html",
+			"title": "Part 2 - Chapter 4 - The Voyage"
+		},
+		{
+			"href": "part-02-chapter-05.html",
+			"title": "Part 2 - Chapter 5 - What I Heard In The Apple Barrel"
+		},
+		{
+			"href": "part-02-chapter-06.html",
+			"title": "Part 2 - Chapter 6 - Council Of War"
+		},
+		{
+			"href": "part-03-chapter-01.html",
+			"title": "Part 3 - Chapter 1 - How My Shore Adventure Began"
+		},
+		{
+			"href": "part-03-chapter-02.html",
+			"title": "Part 3 - Chapter 2 - The First Blow"
+		},
+		{
+			"href": "part-03-chapter-03.html",
+			"title": "Part 3 - Chapter 3 - The Man Of The Island"
+		},
+		{
+			"href": "part-04-chapter-01.html",
+			"title": "Part 4 - Chapter 1 - Narrative Continued By The Doctor: How The Ship Was Abandoned"
+		},
+		{
+			"href": "part-04-chapter-02.html",
+			"title": "Part 4 - Chapter 2 - Narrative Continued By The Doctor: The Jolly-Boat's Last Trip"
+		},
+		{
+			"href": "part-04-chapter-03.html",
+			"title": "Part 4 - Chapter 3 - Narrative Continued By The Doctor: End Of The First Day's Fighting"
+		},
+		{
+			"href": "part-04-chapter-04.html",
+			"title": "Part 4 - Chapter 4 - Narrative Resumed By Jim Hawkins: The Garrison In The Stockade"
+		},
+		{
+			"href": "part-04-chapter-05.html",
+			"title": "Part 4 - Chapter 5 - Silver's Embassy"
+		},
+		{
+			"href": "part-04-chapter-06.html",
+			"title": "Part 4 - Chapter 6 - The Attack"
+		},
+		{
+			"href": "part-05-chapter-01.html",
+			"title": "Part 5 - Chapter 1 - How My Sea Adventure Began"
+		},
+		{
+			"href": "part-05-chapter-02.html",
+			"title": "Part 5 - Chapter 2 - The Ebb-Tide Runs"
+		},
+		{
+			"href": "part-05-chapter-03.html",
+			"title": "Part 5 - Chapter 3 - The Cruise Of The Coracle"
+		},
+		{
+			"href": "part-05-chapter-04.html",
+			"title": "Part 5 - Chapter 4 - I Strike The Jolly Roger"
+		},
+		{
+			"href": "part-05-chapter-05.html",
+			"title": "Part 5 - Chapter 5 - Israel Hands"
+		},
+		{
+			"href": "part-05-chapter-06.html",
+			"title": "Part 5 - Chapter 6 - “Pieces Of Eight”"
+		},
+		{
+			"href": "part-06-chapter-01.html",
+			"title": "Part 6 - Chapter 1 - In The Enemy's Camp"
+		},
+		{
+			"href": "part-06-chapter-02.html",
+			"title": "Part 6 - Chapter 2 - The Black Spot Again"
+		},
+		{
+			"href": "part-06-chapter-03.html",
+			"title": "Part 6 - Chapter 3 - On Parole"
+		},
+		{
+			"href": "part-06-chapter-04.html",
+			"title": "Part 6 - Chapter 4 - The Treasure-Hunt--Flint's Pointer"
+		},
+		{
+			"href": "part-06-chapter-05.html",
+			"title": "Part 6 - Chapter 5 - The Treasure-Hunt--The Voice Among The Trees"
+		},
+		{
+			"href": "part-06-chapter-06.html",
+			"title": "Part 6 - Chapter 6 - The Fall Of A Chieftain"
+		},
+		{
+			"href": "part-06-chapter-07.html",
+			"title": "Part 6 - Chapter 7 - And Last"
+		}
+	]
+}
