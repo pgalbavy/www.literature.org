@@ -1,0 +1,91 @@
+{
+	"title": "Miss Crespigny",
+	"author": "Frances Hodgson Burnett",
+	"source": "https://www.gutenberg.org/files/57099/57099-0.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Frances Hodgson Burnett",
+		"-title",
+		"Miss Crespigny",
+		"https://www.gutenberg.org/files/57099/57099-0.txt"
+	],
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Lisbeth"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Another Gentleman Of The Same Name"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Pansies For Thought"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Lunch Party"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Georgie Esmond"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Song"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A New Experience"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - I Will Tell You The Truth For Once"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - We Must Always Be True"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Pen’yllan"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Confession"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Visitor"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Ghost"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - It Might Have Been Very Sweet"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - We Won’t Go Yet"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Yes--To Lisbeth"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Good-By"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - You Think I Have A Secret"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - And That Was The End Of It"
+		}
+	]
+}

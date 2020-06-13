@@ -1,0 +1,119 @@
+{
+	"title": "A Fair Barbarian",
+	"author": "Frances Hodgson Burnett",
+	"source": "http://www.gutenberg.org/cache/epub/9487/pg9487.txt",
+	"cmdline": [
+		"convtext",
+		"-title",
+		"A Fair Barbarian",
+		"-author",
+		"Frances Hodgson Burnett",
+		"http://www.gutenberg.org/cache/epub/9487/pg9487.txt"
+	],
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Miss Octavia Bassett"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - &quot;An Investment, Anyway&quot;"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - L'Argentville"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Lady Theobald"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Lucia"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Accidental"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - &quot;I Should Like To See More Of Slowbridge&quot;"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Shares Looking Up"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - White Muslin"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Announcing Mr. Barold"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Slight Indiscretion"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - An Invitation"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Intentions"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Clerical Visit"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Superior Advantages"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Croquet"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Advantages"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Contrast"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - An Experiment"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Peculiar To Nevada"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Lord Lansdowne"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - &quot;You Have Made It Livelier&quot;"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - &quot;May I Go?&quot;"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Garden-Party"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - &quot;Somebody Else&quot;"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - &quot;Jack&quot;"
+		}
+	]
+}

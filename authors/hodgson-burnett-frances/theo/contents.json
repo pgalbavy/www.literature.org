@@ -1,0 +1,51 @@
+{
+	"title": "Theo",
+	"author": "Frances Hodgson Burnett",
+	"source": "http://www.gutenberg.org/cache/epub/27990/pg27990.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Frances Hodgson Burnett",
+		"-title",
+		"Theo",
+		"http://www.gutenberg.org/cache/epub/27990/pg27990.txt"
+	],
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Preparing For A Journey"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Arrival"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Meeting"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Theo'S Diary"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Separation"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Theo Goes To Paris"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - &quot;Parting Is Sweet Sorrow.&quot;"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Theo'S First Trouble"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - What Comes Of It All"
+		}
+	]
+}

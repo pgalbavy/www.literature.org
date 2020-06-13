@@ -144,9 +144,6 @@ func main() {
 
 			parts := re.Split(text, -1)
 			for p, part := range parts {
-/* 				if (p == 0) {
-					continue;
-				} */
 				prefix := fmt.Sprintf(partprefix, p) + chapprefix
 				title := fmt.Sprintf(parttitle, p) + chaptitle
 

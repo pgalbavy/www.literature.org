@@ -1,0 +1,33 @@
+{
+	"title": "In The Closed Room",
+	"author": "Frances Hodgson Burnett",
+	"source": "http://www.gutenberg.org/cache/epub/6027/pg6027.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Frances Hodgson Burnett",
+		"-title",
+		"In The Closed Room",
+		"-chapsep",
+		"(?m)^PART\\s",
+		"-chaptitle",
+		"Part %d",
+		"-chapterprefix",
+		"part-%02d",
+		"http://www.gutenberg.org/cache/epub/6027/pg6027.txt"
+	],
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "part-01.html",
+			"title": "Part 1"
+		},
+		{
+			"href": "part-02.html",
+			"title": "Part 2"
+		}
+	]
+}

@@ -1,0 +1,215 @@
+{
+	"title": "The Shuttle",
+	"author": "Frances Hodgson Burnett",
+	"source": "https://www.gutenberg.org/files/506/506-0.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Frances Hodgson Burnett",
+		"-title",
+		"The Shuttle",
+		"https://www.gutenberg.org/files/506/506-0.txt"
+	],
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Weaving Of The Shuttle"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Lack Of Perception"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Young Lady Anstruthers"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Mistake Of The Postboy's"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - On Both Sides Of The Atlantic"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - An Unfair Endowment"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - On Board The “Meridiana”"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Second-Class Passenger"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Lady Jane Grey"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - “Is Lady Anstruthers At Home?”"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - “I Thought You Had All Forgotten.”"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Ughtred"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - One Of The New York Dresses"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - In The Gardens"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The First Man"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Particular Incident"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Townlinson \u0026 Sheppard"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Fifteenth Earl Of Mount Dunstan"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Spring In Bond Street"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Things Occur In Stornham Village"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Kedgers"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - One Of Mr. Vanderpoel's Letters"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Introducing G. Selden"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Political Economy Of Stornham"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - “We Began To Marry Them, My Good Fellow!”"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - “What It Must Be To You--Just You!”"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Life"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Setting Them Thinking"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - The Thread Of G. Selden"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - A Return"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - No, She Would Not"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - A Great Ball"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - For Lady Jane"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - Red Godwyn"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - The Tidal Wave"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - By The Roadside Everywhere"
+		},
+		{
+			"href": "chapter-37.html",
+			"title": "Chapter 37 - Closed Corridors"
+		},
+		{
+			"href": "chapter-38.html",
+			"title": "Chapter 38 - At Shandy's"
+		},
+		{
+			"href": "chapter-39.html",
+			"title": "Chapter 39 - On The Marshes"
+		},
+		{
+			"href": "chapter-60.html",
+			"title": "Chapter 60 - “Don'T Go On With This”"
+		},
+		{
+			"href": "chapter-41.html",
+			"title": "Chapter 41 - She Would Do Something"
+		},
+		{
+			"href": "chapter-42.html",
+			"title": "Chapter 42 - In The Ballroom"
+		},
+		{
+			"href": "chapter-43.html",
+			"title": "Chapter 43 - His Chance"
+		},
+		{
+			"href": "chapter-44.html",
+			"title": "Chapter 44 - A Footstep"
+		},
+		{
+			"href": "chapter-45.html",
+			"title": "Chapter 45 - The Passing Bell"
+		},
+		{
+			"href": "chapter-46.html",
+			"title": "Chapter 46 - Listening"
+		},
+		{
+			"href": "chapter-47.html",
+			"title": "Chapter 47 - “I Have No Word Or Look To Remember”"
+		},
+		{
+			"href": "chapter-48.html",
+			"title": "Chapter 48 - The Moment"
+		},
+		{
+			"href": "chapter-49.html",
+			"title": "Chapter 49 - At Stornham And At Broadmorlands"
+		},
+		{
+			"href": "chapter-50.html",
+			"title": "Chapter 50 - The Primeval Thing"
+		}
+	]
+}

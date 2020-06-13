@@ -1,0 +1,149 @@
+{
+	"title": "His Grace of Osmonde",
+	"author": "Frances Hodgson Burnett",
+	"source": "http://www.gutenberg.org/cache/epub/15651/pg15651.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Frances Hodgson Burnett",
+		"-title",
+		"His Grace of Osmonde",
+		"-chapsep",
+		"(?m)^_CHAPTER\\s\\w+_",
+		"http://www.gutenberg.org/cache/epub/15651/pg15651.txt"
+	],
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Fifth Day Of April, 1676"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - &quot;He Is The King&quot;"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Sir Jeoffry Wildairs"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - &quot;God Have Mercy On Its Evil Fortunes&quot;"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - My Lord Marquess Plunges Into The Thames"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - &quot;No; She Has Not Yet Come To Court&quot;"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - &quot;'Tis Clo Wildairs, Man--All The County Knows The Vixen&quot;"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - In Which My Lady Betty Tantillion Writes Of A Scandal"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Sir John Oxon Lays A Wager At Cribb'S Coffee House"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - My Lord Marquess Rides To Camylott"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - &quot;It Might Have Been--It Might Have Been!&quot;"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - In Which Is Sold A Portrait"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - &quot;Your--Grace!&quot;"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - &quot;For All Her Youth--There Is No Other Woman Like Her&quot;"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - &quot;And 'Twas The Town Rake And Beauty--Sir John Oxon&quot;"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Rumour"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - As Hugh De Mertoun Rode"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Night In Which My Lord Duke Did Not Sleep"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - &quot;Then You Might Have Been One Of Those----&quot;"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - At Camylott"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Upon The Moor"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - My Lady Dunstanwolde Is Widowed"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Her Ladyship Returns To Town"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Sir John Oxon Returns Also"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - To-Morrow"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - A Dead Rose"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - &quot;'Twas The Night Thou Hidst The Package In The Wall&quot;"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Sir John Rides Out Of Town"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - At The Cow At Wichben"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - On Tyburn Hill"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Their Graces Keep Their Wedding Day At Camylott"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - In The Turret Chamber--And In Camylott Wood"
+		}
+	]
+}

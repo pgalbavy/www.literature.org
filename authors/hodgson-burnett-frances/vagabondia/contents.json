@@ -1,0 +1,91 @@
+{
+	"title": "Vagabondia",
+	"author": "Frances Hodgson Burnett",
+	"source": "https://www.gutenberg.org/files/25727/25727-0.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Frances Hodgson Burnett",
+		"-title",
+		"Vagabondia",
+		"https://www.gutenberg.org/files/25727/25727-0.txt"
+	],
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - In Which We Hold Counsel"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - In The Camps Of The Philistines"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - In Which The Train Is Laid"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Lily Of The Field"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - In Which The Philistines Be Upon Us"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - “wanted, A Young Person.”"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - In Which A Spark Is Applied"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Beginning Of The Ending"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - In Which We Are Unorthodox"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - In Slippery Places"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - In Which Comes A Wind Which Blows Nobody Good"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - In Which There Is An Explosion"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Dead Letter"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Seven Long Years, Beloved, Seven Long Years"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - In Which We Try Switzerland"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - If You Should Die"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Do You Know That She Is Dying?"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Grif!"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Rose Color"
+		}
+	]
+}

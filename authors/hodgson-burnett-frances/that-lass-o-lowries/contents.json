@@ -1,0 +1,191 @@
+{
+	"title": "That Lass O' Lowrie's",
+	"author": "Frances Hodgson Burnett",
+	"source": "https://www.gutenberg.org/files/25725/25725-0.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Frances Hodgson Burnett",
+		"-title",
+		"That Lass O' Lowrie's",
+		"https://www.gutenberg.org/files/25725/25725-0.txt"
+	],
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Difficult Case"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - “Liz”"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Reverend Harold Barholm"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - “Love Me, Love My Dog”"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Outside The Hedge"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Joan And The Child"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Anice At The Cottage"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Wager Of Battle"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The News At The Rectory"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - On The Knoll Road"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Nib And His Master Make A Call"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - On Guard"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Joan And The Picture"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Open “Davy”"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Discovery"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - “Owd Sammy” In Trouble"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Member Of Parliament"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Confession Of Faith"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Ribbons"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The New Gate-Keeper"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Derrick'S Question"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Master Landsell'S Son"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - “Cannybles”"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Dan Lowrie'S Return"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Old Danger"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - The Package Returned"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Sammy Craddock'S “Manny-Ensis.”"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Warned"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Lying In Wait"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - The Slip Of Paper"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - The Last Blow"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - “Turned Methody!”"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Fate"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - The Decision"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - In The Pit"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - Alive Yet"
+		},
+		{
+			"href": "chapter-37.html",
+			"title": "Chapter 37 - Watching And Waiting"
+		},
+		{
+			"href": "chapter-38.html",
+			"title": "Chapter 38 - Recognition"
+		},
+		{
+			"href": "chapter-39.html",
+			"title": "Chapter 39 - A Testimonial"
+		},
+		{
+			"href": "chapter-40.html",
+			"title": "Chapter 40 - Going South"
+		},
+		{
+			"href": "chapter-41.html",
+			"title": "Chapter 41 - “A Soart O' Pollygy”"
+		},
+		{
+			"href": "chapter-42.html",
+			"title": "Chapter 42 - Ashley-Wold"
+		},
+		{
+			"href": "chapter-43.html",
+			"title": "Chapter 43 - Liz Comes Back"
+		},
+		{
+			"href": "chapter-44.html",
+			"title": "Chapter 44 - Not Yet"
+		}
+	]
+}

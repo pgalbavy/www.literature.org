@@ -1,0 +1,143 @@
+{
+	"title": "The Lost Prince",
+	"author": "Frances Hodgson Burnett",
+	"source": "http://www.gutenberg.org/cache/epub/384/pg384.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Frances Hodgson Burnett",
+		"-title",
+		"The Lost Prince",
+		"-chapsep",
+		"(?m)^[IVXL]+\\s?$",
+		"-maxtitle",
+		"80",
+		"http://www.gutenberg.org/cache/epub/384/pg384.txt"
+	],
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The New Lodgers At No. 7 Philibert Place"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Young Citizen Of The World"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Legend Of The Lost Prince"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Rat"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - \"Silence Is Still The Order\""
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Drill And The Secret Party"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - \"The Lamp Is Lighted!\""
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - An Exciting Game"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - \"It Is Not A Game\""
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Rat--And Samavia"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - \"Come With Me\""
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - \"Only Two Boys\""
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Loristan Attends A Drill Of The Squad, And Marco Meets A Samavian"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Marco Does Not Answer"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Sound In A Dream"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Rat To The Rescue"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - \"It Is A Very Bad Sign\""
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - \"Cities And Faces\""
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - \"That Is One!\""
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Marco Goes To The Opera"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - \"Help!\""
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Night Vigil"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Silver Horn"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - \"How Shall We Find Him?\""
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - A Voice In The Night"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Across The Frontier"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - \"It Is The Lost Prince! It Is Ivor!\""
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - \"Extra! Extra! Extra!\""
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - 'Twixt Night And Morning"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - The Game Is At An End"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - \"The Son Of Stefan Loristan\""
+		}
+	]
+}

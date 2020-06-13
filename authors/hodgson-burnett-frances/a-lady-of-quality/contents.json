@@ -1,0 +1,117 @@
+{
+	"title": "A Lady of Quality",
+	"author": "Frances Hodgson Burnett",
+	"source": "http://www.gutenberg.org/cache/epub/1550/pg1550.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Frances Hodgson Burnett",
+		"-title",
+		"A Lady of Quality",
+		"-chapsep",
+		"(?m)^CHAPTER\\s",
+		"http://www.gutenberg.org/cache/epub/1550/pg1550.txt"
+	],
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Twenty-Fourth Day Of November 1690"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - In Which Sir Jeoffry Encounters His Offspring"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Wherein Sir Jeoffry'S Boon Companions Drink A Toast"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Lord Twemlow's Chaplain Visits His Patron's Kinsman, And Mistress Clorinda Shines On Her Birthday Night"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - &quot;Not I,&quot; Said She. &quot;There Thou Mayst Trust Me. I Would Not Be Found Out.&quot;"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Relating How Mistress Anne Discovered A Miniature"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - 'Twas The Face Of Sir John Oxon The Moon Shone Upon"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Two Meet In The Deserted Rose Garden, And The Old Earl Of Dunstanwolde Is Made A Happy Man"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - &quot;I Give To Him The Thing He Craves With All His SoulMyself&quot;"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - &quot;YesI Have Marked Him&quot;"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Wherein A Noble Life Comes To An End"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Which Treats Of The Obsequies Of My Lord Of Dunstanwolde, Of His Lady's Widowhood, And Of Her Return To Town"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Wherein A Deadly War Begins"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Containing The History Of The Breaking Of The Horse Devil, And Relates The Returning Of His Grace Of Osmonde From France"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - In Which Sir John Oxon Finds Again A Trophy He Had Lost"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Dealing With That Which Was Done In The Panelled Parlour"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Wherein His Grace Of Osmonde'S Courier Arrives From France"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - My Lady Dunstanwolde Sits Late Alone And Writes"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Piteous Story Is Told, And The Old Cellars Walled In"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Noble Marriage"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - An Heir Is Born"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Mother Anne"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - &quot;In One Who Will Do Justice, And Demands That It Shall Be Done To Each Thing He Has Made, By Each Who Bears His Image&quot;"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Doves Sate Upon The Window-Ledge And Lowly Cooed And Cooed"
+		}
+	]
+}

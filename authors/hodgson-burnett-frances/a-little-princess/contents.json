@@ -1,0 +1,95 @@
+{
+	"title": "A Little Princess",
+	"author": "Frances Hodgson Burnett",
+	"source": "http://www.gutenberg.org/cache/epub/37332/pg37332.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Frances Hodgson Burnett",
+		"-title",
+		"A Little Princess",
+		"http://www.gutenberg.org/cache/epub/37332/pg37332.txt"
+	],
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Sara"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A French Lesson"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Ermengarde"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Lottie"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Becky"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Diamond-Mines"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Diamond-Mines Again"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - In The Attic"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Melchisedec"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Indian Gentleman"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Ram Dass"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Other Side Of The Wall"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - One Of The Populace"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - What Melchisedec Heard And Saw"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Magic"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Visitor"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - &quot;It Is The Child!&quot;"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - &quot;I Tried Not To Be&quot;"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - &quot;Anne&quot;"
+		}
+	]
+}

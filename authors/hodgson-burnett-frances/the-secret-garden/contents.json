@@ -1,0 +1,123 @@
+{
+	"title": "The Secret Garden",
+	"author": "Frances Hodgson Burnett",
+	"source": "https://www.gutenberg.org/files/113/113-0.txt",
+	"cmdline": [
+		"convtext",
+		"-title",
+		"The Secret Garden",
+		"-author",
+		"Frances Hodgson Burnett",
+		"https://www.gutenberg.org/files/113/113-0.txt"
+	],
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - There Is No One Left"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Mistress Mary Quite Contrary"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Across The Moor"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Martha"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Cry In The Corridor"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - “There Was Someone Crying — There Was!”"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Key To The Garden"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Robin Who Showed The Way"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Strangest House Anyone Ever Lived In"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Dickon"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Nest Of The Missel Thrush"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - “Might I Have A Bit Of Earth?”"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - “I Am Colin”"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Young Rajah"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Nest Building"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - “I Won’t!” Said Mary"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Tantrum"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - “Tha’ Munnot Waste No Time”"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - “It Has Come!”"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - “I Shall Live Forever—and Ever—and Ever!”"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Ben Weatherstaff"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - When The Sun Went Down"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Magic"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - “Let Them Laugh”"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Curtain"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - “It’s Mother!”"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - In The Garden"
+		}
+	]
+}

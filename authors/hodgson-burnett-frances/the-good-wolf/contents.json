@@ -1,0 +1,35 @@
+{
+	"title": "The Good Wolf",
+	"author": "Frances Hodgson Burnett",
+	"source": "http://www.gutenberg.org/cache/epub/42920/pg42920.txt",
+	"cmdline": [
+		"convtext",
+		"-title",
+		"The Good Wolf",
+		"-author",
+		"Frances Hodgson Burnett",
+		"http://www.gutenberg.org/cache/epub/42920/pg42920.txt"
+	],
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5"
+		}
+	]
+}
