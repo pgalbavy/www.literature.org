@@ -1,11 +1,11 @@
 {
 	"title": "Through One Administration",
-	"author": "Frances Hodgson Burnett",
+	"author": "Frances HODGSON BURNETT",
 	"source": "http://www.gutenberg.org/cache/epub/58325/pg58325.txt",
 	"cmdline": [
 		"convtext",
 		"-author",
-		"Frances Hodgson Burnett",
+		"Frances HODGSON BURNETT",
 		"-title",
 		"Through One Administration",
 		"-maxtitle",

@@ -1,11 +1,11 @@
 {
 	"title": "The Shuttle",
-	"author": "Frances Hodgson Burnett",
+	"author": "Frances HODGSON BURNETT",
 	"source": "https://www.gutenberg.org/files/506/506-0.txt",
 	"cmdline": [
 		"convtext",
 		"-author",
-		"Frances Hodgson Burnett",
+		"Frances HODGSON BURNETT",
 		"-title",
 		"The Shuttle",
 		"https://www.gutenberg.org/files/506/506-0.txt"

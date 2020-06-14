@@ -1,6 +1,6 @@
 {
 	"title": "The Three Musketeers",
-	"author": "Alexandre Dumas",
+	"author": "Alexandre DUMAS",
 	"chapters": [
 		{ "href": "preface.html", "title": "Author's Preface" },
 		{ "href": "chapter-01.html", "title": "Chapter 1 - The Three Presents Of D'artagnan The Elder" },

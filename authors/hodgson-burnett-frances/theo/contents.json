@@ -1,11 +1,11 @@
 {
 	"title": "Theo",
-	"author": "Frances Hodgson Burnett",
+	"author": "Frances HODGSON BURNETT",
 	"source": "http://www.gutenberg.org/cache/epub/27990/pg27990.txt",
 	"cmdline": [
 		"convtext",
 		"-author",
-		"Frances Hodgson Burnett",
+		"Frances HODGSON BURNETT",
 		"-title",
 		"Theo",
 		"http://www.gutenberg.org/cache/epub/27990/pg27990.txt"

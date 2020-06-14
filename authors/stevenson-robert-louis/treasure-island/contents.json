@@ -1,13 +1,13 @@
 {
 	"title": "Treasure Island",
-	"author": "Robert Louis Stevenson",
+	"author": "Robert Louis STEVENSON",
 	"source": "https://www.gutenberg.org/files/120/120-0.txt",
 	"cmdline": [
 		"convtext",
 		"-title",
 		"Treasure Island",
 		"-author",
-		"Robert Louis Stevenson",
+		"Robert Louis STEVENSON",
 		"-partsep",
 		"(?m)^PART\\s",
 		"-chapsep",

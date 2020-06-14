@@ -1,13 +1,13 @@
 {
 	"title": "Emma",
-	"author": "Jane Austen",
+	"author": "Jane AUSTEN",
 	"source": "https://www.gutenberg.org/files/158/158-0.txt",
 	"cmdline": [
 		"./convtext",
 		"--title",
 		"Emma",
 		"--author",
-		"Jane Austen",
+		"Jane AUSTEN",
 		"--partsep",
 		"(?mi)^volume\\s",
 		"--partprefix",

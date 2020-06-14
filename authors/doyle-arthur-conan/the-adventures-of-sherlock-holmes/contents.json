@@ -1,13 +1,13 @@
 {
 	"title": "The Adventures of Sherlock Holmes",
-	"author": "Arthur Conan Doyle",
+	"author": "Arthur Conan DOYLE",
 	"source": "https://www.gutenberg.org/files/48320/48320-0.txt",
 	"cmdline": [
 		"./convtext",
 		"--title",
 		"The Adventures of Sherlock Holmes",
 		"--author",
-		"Arthur Conan Doyle",
+		"Arthur Conan DOYLE",
 		"--chapsep",
 		"(?m)^Adventure\\s",
 		"--chapterprefix",

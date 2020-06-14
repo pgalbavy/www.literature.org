@@ -1,6 +1,6 @@
 {
 	"title": "Frankenstein",
-	"author": "Mary Shelly",
+	"author": "Mary SHELLEY",
 	"chapters": [
 		{ "href": "preface.html", "title": "Preface" },
 		{ "href": "chapter-01.html", "title": "Chapter 1" },

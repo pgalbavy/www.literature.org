@@ -1,11 +1,11 @@
 {
 	"title": "A Lady of Quality",
-	"author": "Frances Hodgson Burnett",
+	"author": "Frances HODGSON BURNETT",
 	"source": "http://www.gutenberg.org/cache/epub/1550/pg1550.txt",
 	"cmdline": [
 		"convtext",
 		"-author",
-		"Frances Hodgson Burnett",
+		"Frances HODGSON BURNETT",
 		"-title",
 		"A Lady of Quality",
 		"-chapsep",

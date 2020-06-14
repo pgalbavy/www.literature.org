@@ -1,11 +1,11 @@
 {
 	"title": "The Pretty Sister Of José",
-	"author": "Frances Hodgson Burnett",
+	"author": "Frances HODGSON BURNETT",
 	"source": "https://www.gutenberg.org/files/25726/25726-0.txt",
 	"cmdline": [
 		"convtext",
 		"-author",
-		"Frances Hodgson Burnett",
+		"Frances HODGSON BURNETT",
 		"-title",
 		"The Pretty Sister Of José",
 		"https://www.gutenberg.org/files/25726/25726-0.txt"

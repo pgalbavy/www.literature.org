@@ -1,11 +1,11 @@
 {
 	"title": "Oliver Twist",
-	"author": "Charles Dickens",
+	"author": "Charles DICKENS",
 	"source": "http://www.gutenberg.org/cache/epub/730/pg730.txt",
 	"cmdline": [
 		"convtext",
 		"-author",
-		"Charles Dickens",
+		"Charles DICKENS",
 		"-title",
 		"Oliver Twist",
 		"-maxtitle",

@@ -1,11 +1,11 @@
 {
 	"title": "Pygmalion",
-	"author": "George Bernard Shaw",
+	"author": "George Bernard SHAW",
 	"source": "http://www.gutenberg.org/cache/epub/3825/pg3825.txt",
 	"cmdline": [
 		"convtext",
 		"-author",
-		"George Bernard Shaw",
+		"George Bernard SHAW",
 		"-title",
 		"Pygmalion",
 		"-chapsep",

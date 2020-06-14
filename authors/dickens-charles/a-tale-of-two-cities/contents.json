@@ -1,6 +1,6 @@
 {
 	"title": "A Tale of Two Cities",
-	"author": "Charles Dickens",
+	"author": "Charles DICKENS",
 	"chapters": [
 		{ "href": "book-01-chapter-01.html", "title": "Book 1 - Chapter 1 - The Period" },
 		{ "href": "book-01-chapter-02.html", "title": "Book 1 - Chapter 2 - The Mail" },

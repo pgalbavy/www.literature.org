@@ -1,13 +1,13 @@
 {
 	"title": "The Good Wolf",
-	"author": "Frances Hodgson Burnett",
+	"author": "Frances HODGSON BURNETT",
 	"source": "http://www.gutenberg.org/cache/epub/42920/pg42920.txt",
 	"cmdline": [
 		"convtext",
 		"-title",
 		"The Good Wolf",
 		"-author",
-		"Frances Hodgson Burnett",
+		"Frances HODGSON BURNETT",
 		"http://www.gutenberg.org/cache/epub/42920/pg42920.txt"
 	],
 	"chapters": [

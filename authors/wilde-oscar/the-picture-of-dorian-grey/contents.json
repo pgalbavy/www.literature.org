@@ -1,13 +1,13 @@
 {
 	"title": "The Picture of Dorian Grey",
-	"author": "Oscar Wilde",
+	"author": "Oscar WILDE",
 	"source": "http://www.gutenberg.org/cache/epub/174/pg174.txt",
 	"cmdline": [
 		"./convtext",
 		"--title",
 		"The Picture of Dorian Grey",
 		"--author",
-		"Oscar Wilde",
+		"Oscar WILDE",
 		"--output",
 		"../authors/wilde-oscar/the-picture-of-dorian-grey",
 		"http://www.gutenberg.org/cache/epub/174/pg174.txt"

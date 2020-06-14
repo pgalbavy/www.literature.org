@@ -83,6 +83,21 @@ function contentsJSON() {
 	}
 }
 
+// from https://www.freecodecamp.org/news/three-ways-to-title-case-a-sentence-in-javascript-676a9175eb27/
+function titleCase(str) {
+	return str.toLowerCase().split(' ').map(function(word) {
+		return word.replace(word[0], word[0].toUpperCase());
+	}).join(' ');
+}
+
+function nameCapsHTML(name) {
+	// convert any word that is  all CAPS and longer than one letter
+	// to BOLD and Title case
+	return name.replace(/(\b[A-Z][A-Z\b]+\s?)+/, function (match) {
+		return "<strong>" + titleCase(match.toLowerCase()) + "</strong>";
+	});
+}
+
 function literatureNav() {
 	var z, i, elmnt, file, xhttp;
 	/* Loop through a collection of all HTML elements: */
@@ -211,7 +226,7 @@ function literatureNav() {
 							html += "<div class=\"w3-bar-item w3-button w3-hide-small\">" + g.title + "</div>";
 							title = g.title + " - " + title;
 						} else {
-							html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-hide-small\">" + contents.title + "</a>";
+							html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-hide-small\">" + nameCapsHTML(contents.title) + "</a>";
 						}
 
 					} else if (f != null) {

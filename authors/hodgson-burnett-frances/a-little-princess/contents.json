@@ -1,11 +1,11 @@
 {
 	"title": "A Little Princess",
-	"author": "Frances Hodgson Burnett",
+	"author": "Frances HODGSON BURNETT",
 	"source": "http://www.gutenberg.org/cache/epub/37332/pg37332.txt",
 	"cmdline": [
 		"convtext",
 		"-author",
-		"Frances Hodgson Burnett",
+		"Frances HODGSON BURNETT",
 		"-title",
 		"A Little Princess",
 		"http://www.gutenberg.org/cache/epub/37332/pg37332.txt"

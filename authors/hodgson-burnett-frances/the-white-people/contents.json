@@ -1,11 +1,11 @@
 {
 	"title": "The White People",
-	"author": "Frances Hodgson Burnett",
+	"author": "Frances HODGSON BURNETT",
 	"source": "https://www.gutenberg.org/files/459/459-0.txt",
 	"cmdline": [
 		"convtext",
 		"-author",
-		"Frances Hodgson Burnett",
+		"Frances HODGSON BURNETT",
 		"-title",
 		"The White People",
 		"https://www.gutenberg.org/files/459/459-0.txt"

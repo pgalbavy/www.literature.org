@@ -1,13 +1,13 @@
 {
 	"title": "Mansfield Park",
-	"author": "Jane Austen",
+	"author": "Jane AUSTEN",
 	"source": "https://www.gutenberg.org/files/141/141-0.txt",
 	"cmdline": [
 		"./convtext",
 		"--title",
 		"Mansfield Park",
 		"--author",
-		"Jane Austen",
+		"Jane AUSTEN",
 		"--output",
 		"../authors/austen-jane/mansfield-park",
 		"https://www.gutenberg.org/files/141/141-0.txt"

@@ -1,5 +1,5 @@
 {
-	"title": "Edith Nesbit",
+	"title": "Edith NESBIT",
 	"author": "",
 	"chapters": [
 		{ "href": "five-children-and-it", "title": "Five Children and It" },
@@ -10,9 +10,6 @@
 		{ "href": "the-story-of-the-amulet", "title": "The Story of the Amulet" },
 		{ "href": "the-story-of-the-treasure-seekers", "title": "The Story of the Treasure Seekers" },
 		{ "href": "the-wouldbegoods", "title": "The Woodbegoods" }
-	],
-	"notyet": [
-		{ "href": "in-homespun", "title": "In Homespun" }
 	]
 }
 

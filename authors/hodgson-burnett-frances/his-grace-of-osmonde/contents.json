@@ -1,11 +1,11 @@
 {
 	"title": "His Grace of Osmonde",
-	"author": "Frances Hodgson Burnett",
+	"author": "Frances HODGSON BURNETT",
 	"source": "http://www.gutenberg.org/cache/epub/15651/pg15651.txt",
 	"cmdline": [
 		"convtext",
 		"-author",
-		"Frances Hodgson Burnett",
+		"Frances HODGSON BURNETT",
 		"-title",
 		"His Grace of Osmonde",
 		"-chapsep",

@@ -1,13 +1,13 @@
 {
 	"title": "A Fair Barbarian",
-	"author": "Frances Hodgson Burnett",
+	"author": "Frances HODGSON BURNETT",
 	"source": "http://www.gutenberg.org/cache/epub/9487/pg9487.txt",
 	"cmdline": [
 		"convtext",
 		"-title",
 		"A Fair Barbarian",
 		"-author",
-		"Frances Hodgson Burnett",
+		"Frances HODGSON BURNETT",
 		"http://www.gutenberg.org/cache/epub/9487/pg9487.txt"
 	],
 	"chapters": [

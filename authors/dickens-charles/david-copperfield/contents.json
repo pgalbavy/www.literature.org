@@ -1,11 +1,11 @@
 {
 	"title": "David Copperfield",
-	"author": "Charles Dickens",
+	"author": "Charles DICKENS",
 	"source": "https://www.gutenberg.org/files/766/766-0.txt",
 	"cmdline": [
 		"convtext",
 		"-author",
-		"Charles Dickens",
+		"Charles DICKENS",
 		"-title",
 		"David Copperfield",
 		"https://www.gutenberg.org/files/766/766-0.txt"

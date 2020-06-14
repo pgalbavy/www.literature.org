@@ -1,13 +1,13 @@
 {
 	"title": "Persuasion",
-	"author": "Jane Austen",
+	"author": "Jane AUSTEN",
 	"source": "http://www.gutenberg.org/cache/epub/105/pg105.txt",
 	"cmdline": [
 		"./convtext",
 		"--title",
 		"Persuasion",
 		"--author",
-		"Jane Austen",
+		"Jane AUSTEN",
 		"--output",
 		"../authors/austen-jane/persuasion",
 		"http://www.gutenberg.org/cache/epub/105/pg105.txt"

@@ -1,11 +1,11 @@
 {
 	"title": "Our Mutual Friend",
-	"author": "Charles Dickens",
+	"author": "Charles DICKENS",
 	"source": "https://www.gutenberg.org/files/883/883-0.txt",
 	"cmdline": [
 		"convtext",
 		"-author",
-		"Charles Dickens",
+		"Charles DICKENS",
 		"-title",
 		"Our Mutual Friend",
 		"-partsep",

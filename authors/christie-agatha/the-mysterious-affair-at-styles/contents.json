@@ -1,11 +1,11 @@
 {
 	"title": "The Mysterious Affair at Styles",
-	"author": "Agatha Christie",
+	"author": "Agatha CHRISTIE",
 	"source": "https://www.gutenberg.org/files/863/863-0.txt",
 	"cmdline": [
 		"convtext",
 		"-author",
-		"Agatha Christie",
+		"Agatha CHRISTIE",
 		"-title",
 		"The Mysterious Affair at Styles",
 		"https://www.gutenberg.org/files/863/863-0.txt"

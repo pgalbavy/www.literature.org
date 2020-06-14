@@ -1,6 +1,6 @@
 {
 	"title": "Adventure",
-	"author": "Jack London",
+	"author": "Jack LONDON",
 	"chapters": [
 		{ "href": "chapter-01.html", "title": "Chapter 1 - Something To Be Done" },
 		{ "href": "chapter-02.html", "title": "Chapter 2 - Something Is Done" },

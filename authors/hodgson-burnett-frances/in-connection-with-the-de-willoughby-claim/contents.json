@@ -1,11 +1,11 @@
 {
 	"title": "In Connection with the De Willoughby Claim",
-	"author": "Frances Hodgson Burnett",
+	"author": "Frances HODGSON BURNETT",
 	"source": "http://www.gutenberg.org/cache/epub/25810/pg25810.txt",
 	"cmdline": [
 		"convtext",
 		"-author",
-		"Frances Hodgson Burnett",
+		"Frances HODGSON BURNETT",
 		"-title",
 		"In Connection with the De Willoughby Claim",
 		"http://www.gutenberg.org/cache/epub/25810/pg25810.txt"

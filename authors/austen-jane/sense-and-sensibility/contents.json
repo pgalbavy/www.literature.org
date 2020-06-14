@@ -1,13 +1,13 @@
 {
 	"title": "Sense and Sensibility",
-	"author": "Jane Austen",
+	"author": "Jane AUSTEN",
 	"source": "http://www.gutenberg.org/cache/epub/161/pg161.txt",
 	"cmdline": [
 		"./convtext",
 		"--title",
 		"Emma",
 		"--author",
-		"Jane Austen",
+		"Jane AUSTEN",
 		"--output",
 		"../authors/austen-jane/sense-and-sensibility",
 		"http://www.gutenberg.org/cache/epub/161/pg161.txt"

@@ -1,6 +1,6 @@
 {
 	"title": "Alice's Adventures in Wonderland",
-	"author": "Lewis Carroll",
+	"author": "Lewis CARROLL",
 	"chapters": [
 		{ "href": "chapter-01.html", "title": "Chapter 1 - Down the Rabbit-Hole" },
 		{ "href": "chapter-02.html", "title": "Chapter 2 - The Pool of Tears" },

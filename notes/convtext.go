@@ -68,7 +68,10 @@ func main() {
 
 	var special string
 	flag.StringVar(&special, "special", "(?mi)^(preface|introduction)", "Special sections")
-
+	
+	var skipto string
+	flag.StringVar(&special, "skipto", "", "Skipto regexp before reading text")
+	
 	flag.IntVar(&maxtitle, "maxtitle", 60, "Max Title Length (when on another line)")
 
 	flag.StringVar(&writedir, "output", "", "Destination directory")
@@ -95,6 +98,7 @@ func main() {
         }
 	foot := string(f)
 
+	// we don't really do much with multiple files right now
 	for _, file := range flag.Args() {
 		var f io.ReadCloser
 		if (strings.HasPrefix(file, "http")) {
@@ -134,6 +138,18 @@ func main() {
 			parts := specre.Split(text, -1)
 		}
 */
+
+		if skipto != "" {
+			re, err := regexp.Compile(skipto)
+			if err != nil {
+				log.Fatal(err)
+			}
+
+			parts := re.Split(text, 2)
+			if len(parts) == 2 {
+				text = parts[1]
+			}
+		}
 
 		// check for parts if defined and loop over each set
 		if partsep != "" {

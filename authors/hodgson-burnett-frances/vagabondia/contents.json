@@ -1,11 +1,11 @@
 {
 	"title": "Vagabondia",
-	"author": "Frances Hodgson Burnett",
+	"author": "Frances HODGSON BURNETT",
 	"source": "https://www.gutenberg.org/files/25727/25727-0.txt",
 	"cmdline": [
 		"convtext",
 		"-author",
-		"Frances Hodgson Burnett",
+		"Frances HODGSON BURNETT",
 		"-title",
 		"Vagabondia",
 		"https://www.gutenberg.org/files/25727/25727-0.txt"
