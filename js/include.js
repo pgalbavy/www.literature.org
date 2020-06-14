@@ -93,7 +93,7 @@ function titleCase(str) {
 function nameCapsHTML(name) {
 	// convert any word that is  all CAPS and longer than one letter
 	// to BOLD and Title case
-	return name.replace(/(\b[A-ZË][A-ZË\b]+\s?)+/, function (match) {
+	return name.replace(/(\b[A-Z\u00C0-\u00DC][A-Z\u00C0-\u00DC\b]+\s?)+/, function (match) {
 		return "<strong>" + titleCase(match.toLowerCase()) + "</strong>";
 	});
 }
