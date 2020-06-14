@@ -93,7 +93,7 @@ function titleCase(str) {
 function nameCapsHTML(name) {
 	// convert any word that is  all CAPS and longer than one letter
 	// to BOLD and Title case
-	return name.replace(/(\b[A-Z][A-Z\b]+\s?)+/, function (match) {
+	return name.replace(/(\b[A-ZË][A-ZË\b]+\s?)+/, function (match) {
 		return "<strong>" + titleCase(match.toLowerCase()) + "</strong>";
 	});
 }
@@ -133,12 +133,16 @@ function literatureNav() {
 					html += "<a href=\"/authors/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">people</i> Authors</a>";
 					if (contents.author) {
 						html += "<a href=\"../\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">person</i> " + contents.author + "</a>";
-						title = contents.author + " at " + title;
+						title = titleCase(contents.author) + " at " + title;
 					}
 
 					if (f && f != "index.html" && f != "authors") {
 						html += "<a href=\"index.html\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">menu_book</i> " + contents.title + "</a>";
-						title = contents.title + " - " + title;
+						if (title == "literature.org") {
+							title = titleCase(contents.title) + " at " + title;
+						} else {
+							title = titleCase(contents.title) + " by " + title;
+						}
 						if (f.endsWith(".html")) {
 							var chapter = contents.chapters.findIndex(o => o.href === f);
 							// dropdown here
