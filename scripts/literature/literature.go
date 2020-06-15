@@ -5,6 +5,7 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
+	"path/filepath"
 )
 
 type Contents struct {
@@ -19,6 +20,10 @@ type Contents struct {
 type Chapter struct {
 	HREF		string		`json:"href"`
 	Title		string		`json:"title"`
+}
+
+type Config struct {
+	Rootdir		string		`json:"rootdir"`
 }
 
 // needs cleaning, but does the job
@@ -62,4 +67,28 @@ func WriteJSON(file string, j interface{}) {
 	if err != nil {
 		log.Fatal(err)
 	}
+}
+
+func LoadConfig(file string) (conf Config) {
+	if file == "" {
+		confdir, err := os.UserConfigDir()
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		file = filepath.Join(confdir, "literature.json")
+	}
+
+	ReadJSON(file, &conf)
+	return conf
+}
+
+func FirstString(s ...string) (string) {
+	for _, str := range s {
+		if str != "" {
+			return str
+		}
+	}
+
+	return ""
 }

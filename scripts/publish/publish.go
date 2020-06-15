@@ -20,7 +20,6 @@ import (
 
 const defrootdir = "/var/www/www.literature.org"
 
-
 // take a directory and based on the contents.json file link it into
 // the site tree and git commit and rclone sync it based on settings
 
@@ -40,10 +39,15 @@ const defrootdir = "/var/www/www.literature.org"
 
 func main() {
 	var force bool
+
+	userconf := literature.LoadConfig("")
+
+	fmt.Printf("read config: %+v\n", userconf)
+
 	flag.BoolVar(&force, "f", false, "Overwrite existing directories")
 
 	var rootdir string
-	flag.StringVar(&rootdir, "r", defrootdir, "Root directory of website files")
+	flag.StringVar(&rootdir, "r", literature.FirstString(userconf.Rootdir, defrootdir), "Root directory of website files")
 
 	flag.Parse()
 
@@ -96,16 +100,39 @@ func main() {
 
 		// at this point all the files are in place
 		// now check linkage in parent contents.json files
-		var authorjson literature.Contents
+		var topjson, authorjson literature.Contents
+
+		// first, does the author already exist ?
+		literature.ReadJSON(filepath.Join(rootdir, "authors", "contents.json"), &topjson)
+		fmt.Printf("topjson\n%+v\n", topjson)
+		var authorindex int = -1
+		for i, entry := range topjson.Chapters {
+			if entry.HREF == author {
+				authorindex = i
+				fmt.Printf("found author %q as %q\n", author, entry.Title)
+			}
+		}
+		if authorindex == -2 {
+			newauthor := literature.Chapter{ HREF: author, Title: contents.Author }
+			topjson.Chapters = append(topjson.Chapters, newauthor)
+			sort.Slice(topjson.Chapters, func(i, j int) bool {
+				// sort by SURNAME
+				return topjson.Chapters[i].Title < topjson.Chapters[j].Title
+			})
+			fmt.Printf("new top contents: \n%+v\n", topjson)
+			// write out new top level contents.json
+			topjson.LastUpdated = time.Now().UTC().Format(time.RFC3339)
+			literature.WriteJSON(filepath.Join(rootdir, "authors", "contents.json"), topjson)
+		}
+
 		literature.ReadJSON(filepath.Join(rootdir, "authors", author, "contents.json"), &authorjson)
-		//fmt.Printf("authorJSON\n%+v\n", authorjson)
+		//fmt.Printf("authorjson\n%+v\n", authorjson)
 
 		var chapter int = -1
-
 		for i, entry := range authorjson.Chapters {
 			if entry.HREF == title {
 				chapter = i
-				fmt.Printf("found %q as %q\n", title, entry.Title)
+				fmt.Printf("found book %q as %q\n", title, entry.Title)
 			}
 		}
 

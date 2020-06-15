@@ -19,8 +19,9 @@ import (
 	"github.com/pgalbavy/www.literature.org/scripts/literature"
 )
 
-var templates = "/var/www/www.literature.org/templates/"
+const defrootdir = "/var/www/www.literature.org"
 
+var templates = "templates"
 var header = "header.html"
 var footer = "footer.html"
 var index = "index.html"
@@ -37,6 +38,13 @@ func init() {
 
 func main() {
 	var contents literature.Contents
+
+	userconf := literature.LoadConfig("")
+
+	fmt.Printf("read config: %+v\n", userconf)
+
+	var rootdir string
+	flag.StringVar(&rootdir, "r", literature.FirstString(userconf.Rootdir, defrootdir), "Root directory of website files")
 
 	flag.StringVar(&contents.Title, "title", "", "Book title")
 	flag.StringVar(&contents.Author, "author", "", "Book author")
@@ -74,13 +82,13 @@ func main() {
 
 	// read header and footer files for later use
 
-	h, err := ioutil.ReadFile(templates + header)
+	h, err := ioutil.ReadFile(filepath.Join(rootdir, templates, header))
 	if err != nil {
 		log.Fatal(err)
 	}
 	head := string(h)
 
-	f, err := ioutil.ReadFile(templates + footer)
+	f, err := ioutil.ReadFile(filepath.Join(rootdir, templates, footer))
 	if err != nil {
                 log.Fatal(err)
         }
@@ -160,7 +168,7 @@ func main() {
 		literature.WriteJSON(filepath.Join(writedir, "contents.json"), contents)
 
 		// copy index template
-		i, _ := ioutil.ReadFile(templates + index)
+		i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
 		ioutil.WriteFile(writedir + index, i, 0644)
 	}
 }

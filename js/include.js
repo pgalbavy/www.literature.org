@@ -64,7 +64,7 @@ function contentsJSON() {
 					html += "<i class=\"material-icons md-lit\">menu_book</i> ";
 				}
 				
-				html += c.title + "</a></li>";
+				html += nameCapsHTML(c.title) + "</a></li>";
 			}
 			html += "</ul>";
 			
@@ -86,6 +86,9 @@ function contentsJSON() {
 // from https://www.freecodecamp.org/news/three-ways-to-title-case-a-sentence-in-javascript-676a9175eb27/
 function titleCase(str) {
 	return str.toLowerCase().split(' ').map(function(word) {
+		if (typeof word[0] === 'undefined') {
+			return undefined
+		}
 		return word.replace(word[0], word[0].toUpperCase());
 	}).join(' ');
 }
