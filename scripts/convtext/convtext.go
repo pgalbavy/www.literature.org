@@ -262,6 +262,7 @@ func splitfile(data string, re *regexp.Regexp, fileprefix string, titleformat st
 			var c literature.Chapter
 			c.HREF = filename
 			c.Title = fmt.Sprintf(titleformat, cn)
+			title = strings.TrimRight(title, ".")
 			if len(title) > 0 {
 				c.Title += " - " + strings.Title(strings.ToLower(title))
 			}

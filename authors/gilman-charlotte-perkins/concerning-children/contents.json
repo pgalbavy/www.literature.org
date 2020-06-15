@@ -1,0 +1,78 @@
+{
+	"title": "Concerning Children",
+	"author": "Charlotte Perkins GILMAN",
+	"source": "http://www.gutenberg.org/cache/epub/40481/pg40481.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Charlotte Perkins GILMAN",
+		"-title",
+		"Concerning Children",
+		"-chapsep",
+		"(?m)^[IVX]+\\.",
+		"http://www.gutenberg.org/cache/epub/40481/pg40481.txt"
+	],
+	"lastupdated": "2020-06-15T17:18:57Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Precious Ten"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Effect Of Minding On The Mind"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Two And Two Together"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Burnt Child Dreads The Slipper"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Teachable Ethics"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Place For Children"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Unconscious Schooling"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Presumptuous Age"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Respect Due To Youth"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Too Much Consideration"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Six Mothers"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Meditations On The Nurse-Maid"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Children And Servants"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Mothers, Natural And Unnatural"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Social Parentage"
+		}
+	]
+}
