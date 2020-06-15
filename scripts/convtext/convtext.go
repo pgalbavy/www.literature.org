@@ -15,16 +15,17 @@ import (
 	"regexp"
 	"strconv"
 	"strings"
+	"time"
 
 	"github.com/pgalbavy/www.literature.org/scripts/literature"
 )
 
 const defrootdir = "/var/www/www.literature.org"
 
-var templates = "templates"
-var header = "header.html"
-var footer = "footer.html"
-var index = "index.html"
+const templates = "templates"
+const header = "header.html"
+const footer = "footer.html"
+const index = "index.html"
 
 var blank, end, shortheading *regexp.Regexp
 var maxtitle int
@@ -165,6 +166,7 @@ func main() {
 			splitfile(text, chapre, chapprefix, chaptitle, head, foot, 1, &contents)
 		}
 
+		contents.LastUpdated = time.Now().UTC().Format(time.RFC3339)
 		literature.WriteJSON(filepath.Join(writedir, "contents.json"), contents)
 
 		// copy index template

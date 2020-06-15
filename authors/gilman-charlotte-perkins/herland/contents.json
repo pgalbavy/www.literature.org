@@ -1,0 +1,64 @@
+{
+	"title": "Herland",
+	"author": "Charlotte Perkins GILMAN",
+	"source": "https://www.gutenberg.org/files/32/32-0.txt",
+	"cmdline": [
+		"convtext",
+		"-title",
+		"Herland",
+		"-author",
+		"Charlotte Perkins GILMAN",
+		"https://www.gutenberg.org/files/32/32-0.txt"
+	],
+	"lastupdated": "2020-06-15T16:51:07Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Not Unnatural Enterprise"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Rash Advances"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Peculiar Imprisonment"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Our Venture"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Unique History"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Comparisons Are Odious"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Our Growing Modesty"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Girls Of Herland"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Our Relations And Theirs"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Their Religions And Our Marriages"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Our Difficulties"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Expelled"
+		}
+	]
+}

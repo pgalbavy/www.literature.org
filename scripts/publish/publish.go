@@ -4,6 +4,7 @@ import (
 	"path/filepath"
 	"flag"
 	_ "fmt"
+	"io/ioutil"
 	"log"
 	"os"
 	"sort"
@@ -20,6 +21,9 @@ import (
 
 
 const defrootdir = "/var/www/www.literature.org"
+
+const templates = "templates"
+const index = "index.html"
 
 // take a directory and based on the contents.json file link it into
 // the site tree and git commit and rclone sync it based on settings
@@ -137,6 +141,8 @@ func main() {
 			topjson.LastUpdated = time.Now().UTC().Format(time.RFC3339)
 			topjson.Title = "Authors"
 			literature.WriteJSON(filepath.Join(rootdir, "authors", "contents.json"), topjson)
+			//i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
+			//ioutil.WriteFile(filepath.Join(rootdir, "authors", index), i, 0644)
 		}
 
 
@@ -161,6 +167,8 @@ func main() {
 			authorjson.Title = contents.Author
 			authorjson.LastUpdated = time.Now().UTC().Format(time.RFC3339)
 			literature.WriteJSON(filepath.Join(rootdir, "authors", author, "contents.json"), authorjson)
+			i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
+			ioutil.WriteFile(filepath.Join(rootdir, "authors", author, index), i, 0644)
 		}
 	}
 }

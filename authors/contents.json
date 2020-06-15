@@ -1,51 +1,189 @@
 {
 	"title": "Authors",
 	"author": "",
+	"source": "",
+	"cmdline": null,
+	"lastupdated": "2020-06-15T17:03:46Z",
 	"chapters": [
-		{ "href": "aesop", "title": "AESOP" },
-		{ "href": "alcott-louisa-may", "title": "Louisa May ALCOTT" },
-		{ "href": "austen-jane", "title": "Jane AUSTIN" },
-		{ "href": "barrie-james-matthew", "title": "James Matthew BARRIE" },
-		{ "href": "baum-l-frank", "title": "L. Frank BAUM" },
-		{ "href": "bronte-anne", "title": "Anne BRONTË" },
-		{ "href": "bronte-charlotte", "title": "Charlotte BRONTË" },
-		{ "href": "bronte-emily", "title": "Emily BRONTË" },
-		{ "href": "burroughs-edgar-rice", "title": "Edgar Rice BURROUGHS" },
-		{ "href": "carroll-lewis", "title": "Lewis CARROLL" },
-		{ "href": "cather-willa", "title": "Willa CATHER" },
-		{ "href": "christie-agatha", "title": "Agatha CHRISTIE" },
-		{ "href": "collins-wilkie", "title": "Wilkie COLLINS" },
-		{ "href": "crane-stephen", "title": "Stephen CRANE" },
-		{ "href": "darwin-charles", "title": "Charles DARWIN" },
-		{ "href": "de-balzac-honore", "title": "Honore de BALZAC" },
-		{ "href": "defoe-daniel", "title": "Daniel DEFOE" },
-		{ "href": "descartes-rene", "title": "Rene DESCARTES" },
-		{ "href": "dickens-charles", "title": "Charles DICKENS" },
-		{ "href": "dostoevsky-fyodor", "title": "Fyodor DOSTOEVSKY" },
-		{ "href": "doyle-arthur-conan", "title": "Arthur Conan DOYLE" },
-		{ "href": "dumas-alexandre", "title": "Alexandre DUMAS" },
-		{ "href": "eliot-george", "title": "George ELIOT" },
-		{ "href": "hobbes-thomas", "title": "Thomas HOBBES" },
-		{ "href": "holley-marietta", "title": "Marietta HOLLEY" },
-		{ "href": "hodgson-burnett-frances", "title": "Frances HODGSON BURNETT" },
-		{ "href": "hughes-thomas", "title": "Thomas HUGHES" },
-		{ "href": "lawrence-david-herbert", "title": "D. H. LAWRENCE" },
-		{ "href": "london-jack", "title": "Jack LONDON" },
-		{ "href": "melville-herman", "title": "Herman MELVILLE" },
-		{ "href": "milton-john", "title": "John MILTON" },
-		{ "href": "montgomery-lucy-maud", "title": "Lucy Maud MONTGOMERY" },
-		{ "href": "nesbit-edith", "title": "Edith NESBIT" },
-		{ "href": "oppenheim-e-phillips", "title": "E. Phillips OPPENHEIM" },
-		{ "href": "shaw-george-bernard", "title": "George Bernard SHAW" },
-		{ "href": "shelley-mary", "title": "Mary SHELLEY" },
-		{ "href": "stoker-bram", "title": "Bram STOKER" },
-		{ "href": "stevenson-robert-louis", "title": "Robert Louis STEVENSON" },
-		{ "href": "tolstoy-leo", "title": "Leo TOLSTOY" },
-		{ "href": "twain-mark", "title": "Mark TWAIN" },
-		{ "href": "verne-jules", "title": "Jules VERNE" },
-		{ "href": "voltaire", "title": "VOLTAIRE" },
-		{ "href": "wells-herbert-george", "title": "H. G. WELLS" },
-		{ "href": "wilde-oscar", "title": "Oscar WILDE" }
+		{
+			"href": "aesop",
+			"title": "AESOP"
+		},
+		{
+			"href": "alcott-louisa-may",
+			"title": "Louisa May ALCOTT"
+		},
+		{
+			"href": "austen-jane",
+			"title": "Jane AUSTIN"
+		},
+		{
+			"href": "barrie-james-matthew",
+			"title": "James Matthew BARRIE"
+		},
+		{
+			"href": "baum-l-frank",
+			"title": "L. Frank BAUM"
+		},
+		{
+			"href": "bronte-anne",
+			"title": "Anne BRONTË"
+		},
+		{
+			"href": "bronte-charlotte",
+			"title": "Charlotte BRONTË"
+		},
+		{
+			"href": "bronte-emily",
+			"title": "Emily BRONTË"
+		},
+		{
+			"href": "burroughs-edgar-rice",
+			"title": "Edgar Rice BURROUGHS"
+		},
+		{
+			"href": "carroll-lewis",
+			"title": "Lewis CARROLL"
+		},
+		{
+			"href": "cather-willa",
+			"title": "Willa CATHER"
+		},
+		{
+			"href": "christie-agatha",
+			"title": "Agatha CHRISTIE"
+		},
+		{
+			"href": "collins-wilkie",
+			"title": "Wilkie COLLINS"
+		},
+		{
+			"href": "crane-stephen",
+			"title": "Stephen CRANE"
+		},
+		{
+			"href": "darwin-charles",
+			"title": "Charles DARWIN"
+		},
+		{
+			"href": "de-balzac-honore",
+			"title": "Honore de BALZAC"
+		},
+		{
+			"href": "defoe-daniel",
+			"title": "Daniel DEFOE"
+		},
+		{
+			"href": "descartes-rene",
+			"title": "Rene DESCARTES"
+		},
+		{
+			"href": "dickens-charles",
+			"title": "Charles DICKENS"
+		},
+		{
+			"href": "dostoevsky-fyodor",
+			"title": "Fyodor DOSTOEVSKY"
+		},
+		{
+			"href": "doyle-arthur-conan",
+			"title": "Arthur Conan DOYLE"
+		},
+		{
+			"href": "dumas-alexandre",
+			"title": "Alexandre DUMAS"
+		},
+		{
+			"href": "eliot-george",
+			"title": "George ELIOT"
+		},
+		{
+			"href": "gilman-charlotte-perkins",
+			"title": "Charlotte Perkins GILMAN"
+		},
+		{
+			"href": "hobbes-thomas",
+			"title": "Thomas HOBBES"
+		},
+		{
+			"href": "hodgson-burnett-frances",
+			"title": "Frances HODGSON BURNETT"
+		},
+		{
+			"href": "holley-marietta",
+			"title": "Marietta HOLLEY"
+		},
+		{
+			"href": "hughes-thomas",
+			"title": "Thomas HUGHES"
+		},
+		{
+			"href": "lawrence-david-herbert",
+			"title": "D. H. LAWRENCE"
+		},
+		{
+			"href": "london-jack",
+			"title": "Jack LONDON"
+		},
+		{
+			"href": "melville-herman",
+			"title": "Herman MELVILLE"
+		},
+		{
+			"href": "milton-john",
+			"title": "John MILTON"
+		},
+		{
+			"href": "montgomery-lucy-maud",
+			"title": "Lucy Maud MONTGOMERY"
+		},
+		{
+			"href": "nesbit-edith",
+			"title": "Edith NESBIT"
+		},
+		{
+			"href": "oppenheim-e-phillips",
+			"title": "E. Phillips OPPENHEIM"
+		},
+		{
+			"href": "shaw-george-bernard",
+			"title": "George Bernard SHAW"
+		},
+		{
+			"href": "shelley-mary",
+			"title": "Mary SHELLEY"
+		},
+		{
+			"href": "stevenson-robert-louis",
+			"title": "Robert Louis STEVENSON"
+		},
+		{
+			"href": "stoker-bram",
+			"title": "Bram STOKER"
+		},
+		{
+			"href": "tolstoy-leo",
+			"title": "Leo TOLSTOY"
+		},
+		{
+			"href": "twain-mark",
+			"title": "Mark TWAIN"
+		},
+		{
+			"href": "verne-jules",
+			"title": "Jules VERNE"
+		},
+		{
+			"href": "voltaire",
+			"title": "VOLTAIRE"
+		},
+		{
+			"href": "wells-herbert-george",
+			"title": "H. G. WELLS"
+		},
+		{
+			"href": "wilde-oscar",
+			"title": "Oscar WILDE"
+		}
 	]
 }
-
