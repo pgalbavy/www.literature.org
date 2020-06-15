@@ -1,0 +1,90 @@
+{
+	"title": "The Home",
+	"author": "Charlotte Perkins GILMAN",
+	"source": "http://www.gutenberg.org/cache/epub/44481/pg44481.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Charlotte Perkins GILMAN",
+		"-title",
+		"The Home",
+		"-chapsep",
+		"(?m)^[IVX]+\\s*$",
+		"http://www.gutenberg.org/cache/epub/44481/pg44481.txt"
+	],
+	"lastupdated": "2020-06-15T17:32:49Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Introductory"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Evolution Of The Home"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Domestic Mythology"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Present Conditions"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Home As A Workshop"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Home As A Workshop"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Home-Cooking"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Domestic Art"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Domestic Ethics"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Domestic Entertainment"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Lady Of The House"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Child At Home"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Girl At Home"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Home Influence On Men"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Home And Social Progress"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Lines Of Advance"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Results"
+		}
+	]
+}
