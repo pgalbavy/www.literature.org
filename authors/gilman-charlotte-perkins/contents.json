@@ -3,7 +3,7 @@
 	"author": "",
 	"source": "",
 	"cmdline": null,
-	"lastupdated": "2020-06-15T17:36:05Z",
+	"lastupdated": "2020-06-15T19:38:48Z",
 	"chapters": [
 		{
 			"href": "concerning-children",
@@ -14,12 +14,20 @@
 			"title": "Herland"
 		},
 		{
+			"href": "our-androcentric-culture",
+			"title": "Our Androcentric Culture"
+		},
+		{
 			"href": "the-crux",
 			"title": "The Crux"
 		},
 		{
 			"href": "the-home",
 			"title": "The Home"
+		},
+		{
+			"href": "what-diantha-did",
+			"title": "What Diantha Did"
 		}
 	]
 }

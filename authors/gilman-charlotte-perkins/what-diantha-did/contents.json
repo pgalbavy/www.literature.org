@@ -1,0 +1,72 @@
+{
+	"title": "What Diantha Did",
+	"author": "Charlotte Perkins GILMAN",
+	"source": "http://www.gutenberg.org/cache/epub/3016/pg3016.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Charlotte Perkins GILMAN",
+		"-title",
+		"What Diantha Did",
+		"http://www.gutenberg.org/cache/epub/3016/pg3016.txt"
+	],
+	"lastupdated": "2020-06-15T19:32:42Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Handicapped"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - An Unnatural Daughter"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Breakers"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Crying Need"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Cynosure"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Heresy And Schism"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - “Sleeping In”"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Union House"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Power Of The Screw"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Like A Banyan Tree"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - All This"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - And Heaven Beside"
+		}
+	]
+}

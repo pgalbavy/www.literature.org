@@ -1,4 +1,3 @@
-
 package main
 
 import (
@@ -280,7 +279,7 @@ func txt2html(txt string) (string, error) {
 
 	err := cmd.Run()
 	if err != nil {
-		return "", err
+		log.Fatal(err)
 	}
 	return out.String(), nil
 }

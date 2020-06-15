@@ -1,0 +1,74 @@
+{
+	"title": "Our Androcentric Culture",
+	"author": "Charlotte Perkins GILMAN",
+	"source": "http://www.gutenberg.org/cache/epub/3015/pg3015.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Charlotte Perkins GILMAN",
+		"-title",
+		"Our Androcentric Culture",
+		"-chapsep",
+		"(?m)^[IVX]+\\.",
+		"http://www.gutenberg.org/cache/epub/3015/pg3015.txt"
+	],
+	"lastupdated": "2020-06-15T19:38:18Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - As To Humanness"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Man-Made Family"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Health And Beauty"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Men And Art"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Masculine Literature"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Games And Sports"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Ethics And Religion"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Education"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - \"Society\" And \"Fashion\""
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Law And Government"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Crime And Punishment"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Politics And Warfare"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Industry And Economics"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Human World"
+		}
+	]
+}
