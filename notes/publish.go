@@ -113,6 +113,11 @@ func main() {
 		loadJSON(filepath.Join(rootdir, "authors", author, "contents.json"), &authorjson)
 		//fmt.Printf("authorJSON\n%+v\n", authorjson)
 
+		for _, entry := range authorjson.Chapters {
+			if entry.HREF == title {
+				fmt.Printf("found %q as %q\n", title, entry.Title)
+			}
+		}
 	}
 }
 

@@ -2,7 +2,7 @@
 	"title": "Emily BRONTË",
 	"author": "",
 	"chapters": [
-		{ "href": "wuthering-heights/", "title": "Wuthering Heights" }
+		{ "href": "wuthering-heights", "title": "Wuthering Heights" }
 	]
 }
 

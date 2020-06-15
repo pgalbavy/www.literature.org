@@ -2,7 +2,7 @@
 	"title": "Mary Shelley",
 	"author": "",
 	"chapters": [
-		{ "href": "frankenstein/", "title": "Frankenstein" }
+		{ "href": "frankenstein", "title": "Frankenstein" }
 	]
 }
 

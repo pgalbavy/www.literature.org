@@ -2,7 +2,7 @@
 	"title": "Rene DESCARTES",
 	"author": "",
 	"chapters": [
-		{ "href": "reason-discourse/", "title": "Discourse on the Method of Rightly Conducting the Reason, and Seeking Truth in the Sciences" }
+		{ "href": "reason-discourse", "title": "Discourse on the Method of Rightly Conducting the Reason, and Seeking Truth in the Sciences" }
 	]
 }
 

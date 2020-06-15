@@ -2,9 +2,9 @@
 	"title": "J. M. BARRIE",
 	"author": "",
 	"chapters": [
-		{ "href": "the-adventures-of-peter-pan/", "title": "The Adventures of Peter Pan" },
-		{ "href": "the-little-white-bird/", "title": "The Little White Bird" },
-		{ "href": "margaret-ogilvy/", "title": "Margaret Ogilvy" }
+		{ "href": "the-adventures-of-peter-pan", "title": "The Adventures of Peter Pan" },
+		{ "href": "the-little-white-bird", "title": "The Little White Bird" },
+		{ "href": "margaret-ogilvy", "title": "Margaret Ogilvy" }
 	]
 }
 

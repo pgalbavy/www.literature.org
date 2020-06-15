@@ -2,7 +2,7 @@
 	"title": "Aesop",
 	"author": "",
 	"chapters": [
-		{ "href": "fables/", "title": "Fables" }
+		{ "href": "fables", "title": "Fables" }
 	]
 }
 

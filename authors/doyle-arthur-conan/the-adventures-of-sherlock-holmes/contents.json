@@ -15,7 +15,7 @@
 		"--chaptitle",
 		"Adventure %d",
 		"--output",
-		"../authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/",
+		"../authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes",
 		"https://www.gutenberg.org/files/48320/48320-0.txt"
 	],
 	"chapters": [
