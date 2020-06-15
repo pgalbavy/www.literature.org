@@ -27,10 +27,10 @@ type Config struct {
 }
 
 // needs cleaning, but does the job
-func ReadJSON(file string, j interface{}) {
+func ReadJSON(file string, j interface{}) (err error) {
 	c, err := os.Open(file)
 	if err != nil {
-		log.Fatal(err)
+		return err
 	}
 	
 	cf, err := ioutil.ReadAll(c)
@@ -43,6 +43,8 @@ func ReadJSON(file string, j interface{}) {
 	if err != nil {
 		log.Fatal(err)
 	}
+
+	return nil
 }
 
 func WriteJSON(file string, j interface{}) {

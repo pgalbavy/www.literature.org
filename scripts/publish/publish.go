@@ -3,8 +3,9 @@ package main
 import (
 	"path/filepath"
 	"flag"
-	"fmt"
+	_ "fmt"
 	"log"
+	"os"
 	"sort"
 	"strings"
 	"regexp"
@@ -42,8 +43,6 @@ func main() {
 
 	userconf := literature.LoadConfig("")
 
-	fmt.Printf("read config: %+v\n", userconf)
-
 	flag.BoolVar(&force, "f", false, "Overwrite existing directories")
 
 	var rootdir string
@@ -56,17 +55,15 @@ func main() {
 	dashre := regexp.MustCompile(`[ _]`)
 
 	for _, dir := range flag.Args() {
-		fmt.Printf("looking in %q\n", dir)
 		var contents literature.Contents
 		literature.ReadJSON(filepath.Join(dir, "contents.json"), &contents)
-		//fmt.Printf("contents =\n%+v\n", contents)
 
 		title := contents.Title
 		author := contents.Author
 		chapters := contents.Chapters
 
 		if title == "" || author == "" || len(chapters) == 0 {
-			log.Fatal("contents.json not fully formed")
+			log.Fatal("contents.json not in correct format")
 		}
 
 		// transform title and author into filesystem versions
@@ -76,14 +73,12 @@ func main() {
 		title = re.ReplaceAllString(title, "")
 		title = dashre.ReplaceAllString(title, "-")
 		title = strings.ToLower(title)
-		fmt.Printf("title = %q\n", title)
 
     	author, _, _ = transform.String(t, author)
 		re = regexp.MustCompile(`^(.*?)\s([A-Z\s]+)$`)
 		author = re.ReplaceAllString(author, "$2-$1")
 		author = dashre.ReplaceAllString(author, "-")
 		author = strings.ToLower(author)
-		fmt.Printf("author %q\n", author)
 
 		// build destination path
 		destdir := filepath.Join(rootdir, "authors", author, title)
@@ -93,9 +88,29 @@ func main() {
 		if err != nil {
 			log.Fatal(err)
 		}
-		fmt.Printf("abs path %q\n", absdir)
 		if destdir != absdir {
-			fmt.Printf("files need to be moved\n")
+			err := os.MkdirAll(destdir, 0755)
+			if err != nil {
+				log.Fatal(err)
+			}
+			d, err := os.Open(absdir)
+			if err != nil {
+				log.Fatal(err)
+			}
+			files, err := d.Readdirnames(-1)
+			if err != nil {
+				log.Fatal(err)
+			}
+
+			for _, file := range files {
+				if strings.HasPrefix(file, ".") {
+					continue
+				}
+				err := os.Rename(filepath.Join(absdir, file), filepath.Join(destdir, file))
+				if err != nil {
+					log.Fatal(err)
+				}
+			}
 		}
 
 		// at this point all the files are in place
@@ -104,35 +119,34 @@ func main() {
 
 		// first, does the author already exist ?
 		literature.ReadJSON(filepath.Join(rootdir, "authors", "contents.json"), &topjson)
-		fmt.Printf("topjson\n%+v\n", topjson)
+
 		var authorindex int = -1
 		for i, entry := range topjson.Chapters {
 			if entry.HREF == author {
 				authorindex = i
-				fmt.Printf("found author %q as %q\n", author, entry.Title)
 			}
 		}
-		if authorindex == -2 {
+		if authorindex == -1 {
 			newauthor := literature.Chapter{ HREF: author, Title: contents.Author }
 			topjson.Chapters = append(topjson.Chapters, newauthor)
 			sort.Slice(topjson.Chapters, func(i, j int) bool {
-				// sort by SURNAME
-				return topjson.Chapters[i].Title < topjson.Chapters[j].Title
+				// sort by directory names
+				return topjson.Chapters[i].HREF < topjson.Chapters[j].HREF
 			})
-			fmt.Printf("new top contents: \n%+v\n", topjson)
 			// write out new top level contents.json
 			topjson.LastUpdated = time.Now().UTC().Format(time.RFC3339)
+			topjson.Title = "Authors"
 			literature.WriteJSON(filepath.Join(rootdir, "authors", "contents.json"), topjson)
 		}
 
+
+		// next, check for an existing title
 		literature.ReadJSON(filepath.Join(rootdir, "authors", author, "contents.json"), &authorjson)
-		//fmt.Printf("authorjson\n%+v\n", authorjson)
 
 		var chapter int = -1
 		for i, entry := range authorjson.Chapters {
 			if entry.HREF == title {
 				chapter = i
-				fmt.Printf("found book %q as %q\n", title, entry.Title)
 			}
 		}
 
@@ -143,8 +157,8 @@ func main() {
 			sort.Slice(authorjson.Chapters, func(i, j int) bool {
 				return authorjson.Chapters[i].Title < authorjson.Chapters[j].Title
 			})
-			fmt.Printf("new author contents: \n%+v\n", authorjson)
 			// write out new author contents.json
+			authorjson.Title = contents.Author
 			authorjson.LastUpdated = time.Now().UTC().Format(time.RFC3339)
 			literature.WriteJSON(filepath.Join(rootdir, "authors", author, "contents.json"), authorjson)
 		}
