@@ -29,6 +29,7 @@ type Contents struct {
 	Author		string		`json:"author"`
 	Source		string		`json:"source"`
 	Cmdline		[]string	`json:"cmdline"`
+	LastUpdated	string		`json:"lastupdated"`
 	Chapters	[]Chapter	`json:"chapters"`
 }
 

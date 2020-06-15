@@ -1,9 +1,17 @@
 {
 	"title": "Anne BRONTË",
 	"author": "",
+	"source": "",
+	"cmdline": null,
+	"lastupdated": "2020-06-15T10:00:48Z",
 	"chapters": [
-		{ "href": "agnes-grey", "title": "Agnes Grey" },
-		{ "href": "the-tenant-of-wildfell-hall", "title": "The Tenant of Wildfell Hall" }
+		{
+			"href": "agnes-grey",
+			"title": "Agnes Grey"
+		},
+		{
+			"href": "the-tenant-of-wildfell-hall",
+			"title": "The Tenant of Wildfell Hall"
+		}
 	]
 }
-

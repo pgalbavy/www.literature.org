@@ -8,8 +8,10 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
+	"sort"
 	"strings"
 	"regexp"
+	"time"
 	"unicode"
 
 	"golang.org/x/text/transform"
@@ -43,6 +45,7 @@ type Contents struct {
 	Author		string		`json:"author"`
 	Source		string		`json:"source"`
 	Cmdline		[]string	`json:"cmdline"`
+	LastUpdated	string		`json:"lastupdated"`
 	Chapters	[]Chapter	`json:"chapters"`
 }
 
@@ -67,7 +70,7 @@ func main() {
 	for _, dir := range flag.Args() {
 		fmt.Printf("looking in %q\n", dir)
 		var contents Contents
-		loadJSON(filepath.Join(dir, "contents.json"), &contents)
+		readJSON(filepath.Join(dir, "contents.json"), &contents)
 		//fmt.Printf("contents =\n%+v\n", contents)
 
 		title := contents.Title
@@ -110,19 +113,35 @@ func main() {
 		// at this point all the files are in place
 		// now check linkage in parent contents.json files
 		var authorjson Contents
-		loadJSON(filepath.Join(rootdir, "authors", author, "contents.json"), &authorjson)
+		readJSON(filepath.Join(rootdir, "authors", author, "contents.json"), &authorjson)
 		//fmt.Printf("authorJSON\n%+v\n", authorjson)
 
-		for _, entry := range authorjson.Chapters {
+		var chapter int = -1
+
+		for i, entry := range authorjson.Chapters {
 			if entry.HREF == title {
+				chapter = i
 				fmt.Printf("found %q as %q\n", title, entry.Title)
 			}
+		}
+
+		// add and sort (until we have publication years, by title)
+		if chapter == -1 {
+			newchapter := Chapter{ HREF: title, Title: contents.Title }
+			authorjson.Chapters = append(authorjson.Chapters, newchapter)
+			sort.Slice(authorjson.Chapters, func(i, j int) bool {
+				return authorjson.Chapters[i].Title < authorjson.Chapters[j].Title
+			})
+			fmt.Printf("new author contents: \n%+v\n", authorjson)
+			// write out new author contents.json
+			authorjson.LastUpdated = time.Now().UTC().Format(time.RFC3339)
+			writeJSON(filepath.Join(rootdir, "authors", author, "contents.json"), authorjson)
 		}
 	}
 }
 
 // needs cleaning, but does the job
-func loadJSON(file string, j interface{}) {
+func readJSON(file string, j interface{}) {
 	c, err := os.Open(file)
 	if err != nil {
 		log.Fatal(err)
@@ -132,8 +151,33 @@ func loadJSON(file string, j interface{}) {
 	if err != nil {
 		log.Fatal(err)
 	}
+	c.Close()
 
 	err = json.Unmarshal(cf, &j)
+	if err != nil {
+		log.Fatal(err)
+	}
+}
+
+func writeJSON(file string, j interface{}) {
+	// create new temp file, write and rename
+	c, err := os.Create(file + ".tmp")
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	json, err := json.MarshalIndent(j, "", "\t")
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	_, err = c.Write(json)
+	if err != nil {
+		log.Fatal(err)
+	}
+	c.Close()
+
+	err = os.Rename(file + ".tmp", file)
 	if err != nil {
 		log.Fatal(err)
 	}
