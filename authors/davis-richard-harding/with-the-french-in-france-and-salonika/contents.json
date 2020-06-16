@@ -1,0 +1,66 @@
+{
+	"title": "With the French in France and Salonika",
+	"author": "Richard Harding DAVIS",
+	"source": "http://www.gutenberg.org/cache/epub/30812/pg30812.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/30812/pg30812.txt"
+	],
+	"lastupdated": "2020-06-16T20:48:50Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - President Poincaré Thanks America"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Mud Trenches Of Artois"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Zigzag Front Of Champagne"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - From Paris To The Piræus"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Why King Constantine Is Neutral"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - With The Allies In Salonika"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Two Boys Against An Army"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The French-British Front In Serbia"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Verdun And St. Mihiel"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - War In The Vosges"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Hints For Those Who Want To Help"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - London, A Year Later"
+		}
+	]
+}

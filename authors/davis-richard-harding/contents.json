@@ -3,7 +3,7 @@
 	"author": "",
 	"source": "",
 	"cmdline": null,
-	"lastupdated": "2020-06-16T16:17:07Z",
+	"lastupdated": "2020-06-16T20:51:10Z",
 	"chapters": [
 		{
 			"href": "about-paris",
@@ -16,6 +16,10 @@
 		{
 			"href": "in-the-fog",
 			"title": "In The Fog"
+		},
+		{
+			"href": "soldiers-of-fortune",
+			"title": "Soldiers of Fortune"
 		},
 		{
 			"href": "the-congo-and-coasts-of-africa",
@@ -40,6 +44,34 @@
 		{
 			"href": "the-princess-aline",
 			"title": "The Princess Aline"
+		},
+		{
+			"href": "the-red-cross-girl",
+			"title": "The Red Cross Girl"
+		},
+		{
+			"href": "the-rulers-of-the-mediterranean",
+			"title": "The Rulers of the Mediterranean"
+		},
+		{
+			"href": "the-scarlet-car",
+			"title": "The Scarlet Car"
+		},
+		{
+			"href": "the-white-mice",
+			"title": "The White Mice"
+		},
+		{
+			"href": "vera",
+			"title": "Vera"
+		},
+		{
+			"href": "with-the-allies",
+			"title": "With the Allies"
+		},
+		{
+			"href": "with-the-french-in-france-and-salonika",
+			"title": "With the French in France and Salonika"
 		}
 	]
 }

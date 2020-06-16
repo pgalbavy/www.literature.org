@@ -1,0 +1,46 @@
+{
+	"title": "The White Mice",
+	"author": "Richard Harding DAVIS",
+	"source": "http://www.gutenberg.org/cache/epub/27232/pg27232.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"/^[IVX]+\\s*$/k",
+		"http://www.gutenberg.org/cache/epub/27232/pg27232.txt"
+	],
+	"lastupdated": "2020-06-16T20:39:51Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8"
+		}
+	]
+}

@@ -1,7 +1,7 @@
 {
 	"title": "The Princess Aline",
 	"author": "Richard Harding DAVIS",
-	"source": "",
+	"source": "http://www.gutenberg.org/cache/epub/327/pg327.txt",
 	"cmdline": [
 		"convtext",
 		"http://www.gutenberg.org/cache/epub/327/pg327.txt"

@@ -1,0 +1,52 @@
+{
+	"title": "The Red Cross Girl",
+	"author": "Richard Harding DAVIS",
+	"source": "https://www.gutenberg.org/files/1733/1733-0.txt",
+	"cmdline": [
+		"convtext",
+		"https://www.gutenberg.org/files/1733/1733-0.txt"
+	],
+	"lastupdated": "2020-06-16T20:17:35Z",
+	"chapters": [
+		{
+			"href": "introduction.html",
+			"title": "Introduction"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Red Cross Girl"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Grand Cross Of The Crescent"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Invasion Of England"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Blood Will Tell"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Sailorman"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Mind Reader"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Naked Man"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Boy Who Cried Wolf"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Card-Sharp"
+		}
+	]
+}

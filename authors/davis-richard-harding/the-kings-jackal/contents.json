@@ -1,7 +1,7 @@
 {
 	"title": "The King's Jackal",
 	"author": "Richard Harding DAVIS",
-	"source": "",
+	"source": "http://www.gutenberg.org/cache/epub/411/pg411.txt",
 	"cmdline": [
 		"convtext",
 		"-author",

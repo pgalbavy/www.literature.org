@@ -1,0 +1,40 @@
+{
+	"title": "The Rulers of the Mediterranean",
+	"author": "Richard Harding DAVIS",
+	"source": "http://www.gutenberg.org/cache/epub/39522/pg39522.txt",
+	"cmdline": [
+		"convtext",
+		"http://www.gutenberg.org/cache/epub/39522/pg39522.txt"
+	],
+	"lastupdated": "2020-06-16T20:27:12Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Rock Of Gibraltar"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Tangier"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - From Gibraltar To Cairo"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Cairo As A Show-Place"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Englishmen In Egypt"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Modern Athens"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Constantinople"
+		}
+	]
+}

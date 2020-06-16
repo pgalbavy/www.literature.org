@@ -4,15 +4,14 @@ import (
 	"bytes"
 	"flag"
 	"fmt"
-	"log"
 	"io"
 	"io/ioutil"
+	"log"
 	"net/http"
 	"os"
 	"os/exec"
 	"path/filepath"
 	"regexp"
-	"strconv"
 	"strings"
 	"time"
 
@@ -31,28 +30,48 @@ var maxtitle int
 var writedir string
 var pdigits int
 
-var chapinctitle = false
-var chapdontinfer = false
-var chapmatchskip = false
-var chappara = false
+// local struct to hold per-level config and vars
+// level[0] => chapters
+// level[1] => parts
+// etc.
+type Level struct {
+	text      string
+	inctitle  bool
+	dontinfer bool
+	matchskip bool
+	titlepara bool
+	sep       string
+	sepre     *regexp.Regexp
+}
 
-var partinctitle = false
-var partdontinfer = false
-var partmatchskip = false
-var partpara = false
+var levels []Level
+var chap *Level
+var part *Level
 
 func init() {
 	// look for paragraph seperator (two EOL sequences)
-	blankline		= regexp.MustCompile(`(\r?\n){2,}`)
+	blankline = regexp.MustCompile(`(\r?\n){2,}`)
 
 	// discard from this pattern onward
-	end				= regexp.MustCompile(`(?mi)^.*end of .*project gutenberg`)
+	end = regexp.MustCompile(`(?mi)^.*end of .*project gutenberg`)
 
-	dashre			= regexp.MustCompile(`[ _]`)
+	dashre = regexp.MustCompile(`[ _]`)
+
+	levels = make([]Level, 2, 5)
+
+	chap = &levels[0]
+	chap.inctitle = false
+	chap.dontinfer = false
+	chap.matchskip = false
+	chap.titlepara = false
+
+	part = &levels[1]
+	part.inctitle = false
+	part.dontinfer = false
+	part.matchskip = false
+	part.titlepara = false
+
 }
-
-var parttext string
-var chaptertext string
 
 func main() {
 	var contents literature.Contents
@@ -69,7 +88,6 @@ func main() {
 	flag.StringVar(&contents.Author, "author", "", "Book author")
 	flag.StringVar(&contents.Source, "source", "", "Book URL override - use when processing a local file")
 
-
 	// lets try "Title/REGEXP/[flags]" or "Title" or "/REGEXP/[flags]" or "//flags" as consolidated formats
 	// ALL regexps will have (?m) flag added as all texts are multiline
 	// also, local "flags":
@@ -80,126 +98,112 @@ func main() {
 	// ignore rest of line (skip) "k|K*"
 	// include next paragraph (para) "p*|P"
 
-	flag.StringVar(&chaptertext, "chapters", "Chapter", "Text for chapter level splits")
+	flag.StringVar(&chap.text, "chapters", "Chapter", "Text for chapter level splits")
 
-	flag.StringVar(&parttext, "parts", "Part", "Text for part level seperator - empty means ignore")
-	
+	flag.StringVar(&part.text, "parts", "Part", "Text for part level seperator - empty means ignore")
+
 	var skipto string
 	flag.StringVar(&skipto, "skipto", "", "Skipto regexp before reading text")
-	
 	flag.IntVar(&maxtitle, "maxtitle", 60, "Max Title Length (when on another line)")
-
 	flag.StringVar(&writedir, "output", "", "Destination directory")
 
 	flag.Parse()
 
-
 	optre := regexp.MustCompile(`([^/]*)+(/.*/(\w+)*)?`)
 
 	// process -chapters option
-	m := optre.FindStringSubmatch(chaptertext)
-	fmt.Printf("m=%+v\n", m)
+	m := optre.FindStringSubmatch(chap.text)
 	m[2] = strings.TrimSuffix(m[2], m[3])
 	if m[0] == "" {
 		log.Fatal("-chapters must be in the format '[TEXT][/REGEXP/[iLNRP]]'")
 	}
 
 	if m[1] == "" {
-		chaptertext = "Chapter"
+		chap.text = "Chapter"
 	} else {
-		chaptertext = m[1]
+		chap.text = m[1]
 	}
 
-	var chapsep string
-	chapreg := strings.Trim(m[2], "/")	
-	fmt.Printf("len(chapreg) = %d", len(chapreg))
+	chapreg := strings.Trim(m[2], "/")
 	if chapreg == "" {
-		//def is chaptertext and space (case insenstive)
+		//def is chap.text and space (case insenstive)
 		// empty regexp valid, and defaulted, when just flags passed
-		chapsep = `(?m)^(((?i)` + chaptertext + `\s)|[IVXC]+[\.\r][^\.])`
+		chap.sep = `(?m)^(((?i)` + chap.text + `\s)|[IVXC]+\.?\s*$)`
 	} else {
-		chapsep = `(?m)` + chapreg
+		chap.sep = `(?m)` + chapreg
 	}
 	if m[3] != "" {
-		fmt.Printf("flags: %q\n", m[3])
-
 		// try for excusive flags that can be mixed - lowercase = true, uppercase = false, *=default
 		// include match in title (title) "t|T*"
 		// infer number from match (number) "n*|N"
 		// ignore rest of line (skip) "k|K*"
-		// include next paragraph (para) "p*|P"
+		// include next paragraph (para) "p|P*"
 
 		if strings.Contains(m[3], "t") {
-			chapinctitle = true
+			chap.inctitle = true
 		}
-		
+
 		if strings.Contains(m[3], "n") {
-			chapdontinfer = true
+			chap.dontinfer = true
 		}
 
 		// skipping the rest of line implies no infer of chapter number
 		if strings.Contains(m[3], "k") {
-			chapmatchskip = true
-			chapdontinfer = true
+			chap.matchskip = true
+			chap.dontinfer = true
 		}
 
 		if strings.Contains(m[3], "p") {
-			fmt.Printf("here 1\n")
-			chappara = true
+			chap.titlepara = true
 		}
 
 	}
 
-	fmt.Printf("chapters=%q, chapsep=%q\n", chaptertext, chapsep)
-	
-	chapre, err := regexp.Compile(chapsep)
+	var err error
+	chap.sepre, err = regexp.Compile(chap.sep)
 	if err != nil {
 		log.Fatal(err)
 	}
 
-
 	// process -parts option
-	pm := optre.FindStringSubmatch(parttext)
+	pm := optre.FindStringSubmatch(part.text)
 
 	if pm[0] == "" {
 		log.Fatal("-parts must be in the format '[TEXT][/REGEXP/[iLNRP]]'")
 	}
 
 	if pm[1] == "" {
-		parttext = "Part"
+		part.text = "Part"
 	} else {
-		parttext = pm[1]
+		part.text = pm[1]
 	}
 
-	var partsep string
 	partreg := strings.Trim(pm[2], "/")
 	if partreg == "" {
 		// def is none
-		partsep = ""
+		part.sep = ""
 	} else {
-		partsep = `(?m)` + partreg
+		part.sep = `(?m)` + partreg
 	}
 	if pm[3] != "" {
 		if strings.Contains(pm[3], "t") {
-			partinctitle = true
+			part.inctitle = true
 		}
-		
+
 		if strings.Contains(pm[3], "n") {
-			partdontinfer = true
+			part.dontinfer = true
 		}
 
 		// skipping the rest of line implies no infer of chapter number
 		if strings.Contains(pm[3], "k") {
-			partmatchskip = true
-			partdontinfer = true
+			part.matchskip = true
+			part.dontinfer = true
 		}
 
 		if strings.Contains(pm[3], "p") {
-			partpara = true
+			part.titlepara = true
 		}
 	}
-
-	fmt.Printf("parts=%q, partsep=%q\n", parttext, partsep)
 
 	if len(writedir) > 0 && writedir[len(writedir)-1:] != "/" {
 		writedir += "/"
@@ -231,14 +235,14 @@ func main() {
 	foot := string(ft)
 
 	var f io.ReadCloser
-	if (strings.HasPrefix(file, "http")) {
+	if strings.HasPrefix(file, "http") {
 		fmt.Printf("fetching file %q\n", file)
 		res, err := http.Get(file)
 		if err != nil {
 			log.Fatal(err)
 		}
 		f = res.Body
-		if len(contents.Source) == 0 && contents.Source != "" {
+		if contents.Source == "" {
 			contents.Source = file
 		}
 	} else {
@@ -257,10 +261,10 @@ func main() {
 	if len(text) > 3 {
 		if text[0] == 0xef && text[1] == 0xbb && text[2] == 0xbf {
 			text = text[3:]
-		}	
+		}
 	}
 	// first check first line for Gutenberg title and author
-	firstre := regexp.MustCompile(`(?m)\AThe Project Gutenberg EBook of ([\w\- ]+),\s+by\s+([\w\- ]+)\r?$`)
+	firstre := regexp.MustCompile(`(?m)\A(?:The Project Gutenberg EBook of|Project Gutenberg's) ([\w\- ]+),\s+by\s+([\w\- ]+)\r?$`)
 	n := firstre.FindStringSubmatch(text)
 	if len(n) == 3 {
 		if contents.Title == "" {
@@ -286,8 +290,8 @@ func main() {
 	}
 
 	// check for parts if defined and loop over each set
-	if partsep != "" {
-		re, err := regexp.Compile(partsep)
+	if part.sep != "" {
+		re, err := regexp.Compile(part.sep)
 		if err != nil {
 			log.Fatal(err)
 		}
@@ -299,11 +303,11 @@ func main() {
 			pdigits = 3
 		}
 
-		for p, part := range parts {
-			splitfile(part, chapre, parttext, head, foot, p, &contents)
+		for p, text := range parts {
+			splitfile(text, chap.sepre, part.text, head, foot, p, &contents)
 		}
 	} else {
-		splitfile(text, chapre, "", head, foot, 1, &contents)
+		splitfile(text, chap.sepre, "", head, foot, 1, &contents)
 	}
 
 	contents.LastUpdated = time.Now().UTC().Format(time.RFC3339)
@@ -311,12 +315,12 @@ func main() {
 
 	// copy index template
 	i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
-	ioutil.WriteFile(writedir + index, i, 0644)
+	ioutil.WriteFile(writedir+index, i, 0644)
 }
 
 // split the text into chunks and write them out as html - this is the final step
 func splitfile(data string, re *regexp.Regexp, parttext string,
-		head string, foot string, partnum int, contents *literature.Contents) {
+	head string, foot string, partnum int, contents *literature.Contents) {
 	partprefix := ""
 	partformat := ""
 
@@ -325,7 +329,6 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 		// replace spaces and underscores
 		pt := dashre.ReplaceAllString(strings.ToLower(parttext), "-")
 		partpre := fmt.Sprintf("%s-%%0%dd-", pt, pdigits)
-		fmt.Printf("parts %q -> %q and %q\n", parttext, parttitle, partprefix)
 
 		partprefix = fmt.Sprintf(partpre, partnum)
 		partformat = fmt.Sprintf(parttitle, partnum)
@@ -347,22 +350,21 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 	if len(parts) > 100 {
 		cdigits = 3
 	}
-	titleformat := partformat + fmt.Sprintf("%s %%d", chaptertext)
+	titleformat := partformat + fmt.Sprintf("%s %%d", chap.text)
 	// replace spaces and underscores
-	ct := dashre.ReplaceAllString(strings.ToLower(chaptertext), "-")
+	ct := dashre.ReplaceAllString(strings.ToLower(chap.text), "-")
 	fileprefix := partprefix + fmt.Sprintf("%s-%%0%dd", ct, cdigits)
-	fmt.Printf("chapters %q -> %q and %q\n", chaptertext, titleformat, fileprefix)
 
 	var cn int
 
 	for pn, part := range parts {
 		var title = ""
 
-		if chapinctitle && pn > 0 {
+		if chap.inctitle && pn > 0 {
 			title = titles[pn-1]
 		}
 
-		// chapmatchskip and chappara
+		// chap.matchskip and chap.titlepara
 
 		// split on first blankline line(s) and process first part(s), pass on the rest
 		// paras[] = "LINE-AFTER-CHAPSEP[BLANK]PARA[BLANK]PARA2"
@@ -376,37 +378,33 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 			continue
 		}
 
-		paraaftermatch := paras[0] // rest-of-para after match, check chapmatchskip
+		paraaftermatch := paras[0] // rest-of-para after match, check chap.matchskip
 
 		// infer = assume chapter title is NUMBER [PUNC] [SPACE TITLE]
 
 		var err error
 
-		if !chapdontinfer {
-			fmt.Printf("inferring chapter number: %q\n", paraaftermatch)
+		if !chap.dontinfer {
 			var rcn int
 			rcn, paraaftermatch = roman(paraaftermatch)
 			if rcn == 0 {
-				rcn, err = strconv.Atoi(paraaftermatch)
+				_, err = fmt.Sscanf(paraaftermatch, "%d", &rcn)
 				if err != nil {
-					fmt.Printf("Atoi failed: %q", err)
 					rcn = pn
 				} else {
 					paraaftermatch = strings.TrimLeft(paraaftermatch, "0123456789")
 				}
 			}
-			fmt.Printf("after: %d = %q\n", rcn, paraaftermatch)
 			cn = rcn
 		}
-		
-		if !chapmatchskip {
+
+		if !chap.matchskip {
 			title += paraaftermatch
 			part = strings.Join(paras[1:], "\n\n")
 		}
 
 		// append next para to any existing title, but limit to maxtitle chars
-		if chappara {
-			fmt.Printf("next para: %q\n", paras[1])
+		if chap.titlepara {
 			if len(paras[1]) < maxtitle {
 				title += strings.TrimSpace(blankline.ReplaceAllString(paras[1], " "))
 
@@ -416,15 +414,14 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 				}
 			}
 		} else {
-//			if n == 3 {
-				// default is to reunite last two parts
-//				part = paras[1] + "\n\n" + paras[2]
-//			}
-	
+			//			if n == 3 {
+			// default is to reunite last two parts
+			//				part = paras[1] + "\n\n" + paras[2]
+			//			}
+
 			// put next para back in text
 			// part = strings.Join(paras[1:], "\n\n")
 		}
-
 
 		// strip annoying prefixes
 		spacere := regexp.MustCompile(`\s+`)
@@ -433,7 +430,7 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 
 		// convert
 		filename := fmt.Sprintf(fileprefix, cn) + ".html"
-		fmt.Printf("write cn=%d filename=%q size %d\n", cn, filename, len(part))
+		fmt.Printf("filename=%q size %d\n", filename, len(part))
 
 		html, _ := txt2html(part)
 
@@ -446,7 +443,7 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 		w.WriteString(foot)
 		w.Close()
 
-		if (pn != 0 && partnum != 0) {
+		if pn != 0 && partnum != 0 {
 			// update contents
 			var c literature.Chapter
 			c.HREF = filename

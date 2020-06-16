@@ -1,0 +1,60 @@
+{
+	"title": "With the Allies",
+	"author": "Richard Harding DAVIS",
+	"source": "http://www.gutenberg.org/cache/epub/11730/pg11730.txt",
+	"cmdline": [
+		"convtext",
+		"http://www.gutenberg.org/cache/epub/11730/pg11730.txt"
+	],
+	"lastupdated": "2020-06-16T20:41:13Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Germans In Brussels"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - \"To Be Treated As A Spy\""
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Burning Of Louvain"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Paris In War Time"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Battle Of Soissons"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Bombardment Of Rheims"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Spirit Of The English"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Our Diplomats In The War Zone"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - \"Under Fire\""
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Waste Of War"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - War Correspondents"
+		}
+	]
+}

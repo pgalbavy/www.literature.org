@@ -1,0 +1,26 @@
+{
+	"title": "Vera",
+	"author": "Richard Harding DAVIS",
+	"source": "https://www.gutenberg.org/files/1843/1843-0.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"Part",
+		"https://www.gutenberg.org/files/1843/1843-0.txt"
+	],
+	"lastupdated": "2020-06-16T20:34:25Z",
+	"chapters": [
+		{
+			"href": "part-01.html",
+			"title": "Part 1"
+		},
+		{
+			"href": "part-02.html",
+			"title": "Part 2"
+		},
+		{
+			"href": "part-03.html",
+			"title": "Part 3"
+		}
+	]
+}

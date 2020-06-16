@@ -1,0 +1,24 @@
+{
+	"title": "The Scarlet Car",
+	"author": "Richard Harding DAVIS",
+	"source": "http://www.gutenberg.org/cache/epub/358/pg358.txt",
+	"cmdline": [
+		"convtext",
+		"http://www.gutenberg.org/cache/epub/358/pg358.txt"
+	],
+	"lastupdated": "2020-06-16T20:28:13Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Jail-Breakers"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Trespassers"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Kidnappers"
+		}
+	]
+}
