@@ -174,6 +174,8 @@ func main() {
 	if partreg == "" {
 		// def is none
 		partsep = ""
+	} else {
+		partsep = `(?m)` + partreg
 	}
 	if pm[3] != "" {
 		if strings.Contains(pm[3], "t") {
