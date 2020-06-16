@@ -1,0 +1,28 @@
+{
+	"title": "In The Fog",
+	"author": "Richard Harding DAVIS",
+	"source": "https://www.gutenberg.org/files/7884/7884-0.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Richard Harding DAVIS",
+		"-title",
+		"In The Fog",
+		"https://www.gutenberg.org/files/7884/7884-0.txt"
+	],
+	"lastupdated": "2020-06-16T06:22:38Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3"
+		}
+	]
+}

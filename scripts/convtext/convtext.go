@@ -26,15 +26,22 @@ const header = "header.html"
 const footer = "footer.html"
 const index = "index.html"
 
-var blank, end, shortheading *regexp.Regexp
+var blank, end, dashre *regexp.Regexp
 var maxtitle int
 var writedir string
 
 func init() {
-	blank = regexp.MustCompile(`(\r?\n){2,}`)
-	end = regexp.MustCompile(`(?mi)^.*end of .*project gutenberg`)
-	shortheading = regexp.MustCompile(`(\r?\n)`)
+	// look for paragraph seperator (two EOL sequences)
+	blank			= regexp.MustCompile(`(\r?\n){2,}`)
+
+	// discard from this pattern onward
+	end				= regexp.MustCompile(`(?mi)^.*end of .*project gutenberg`)
+
+	dashre			= regexp.MustCompile(`[ _]`)
 }
+
+var parttext, partsep string
+var chaptertext, chapsep string
 
 func main() {
 	var contents literature.Contents
@@ -48,25 +55,25 @@ func main() {
 
 	flag.StringVar(&contents.Title, "title", "", "Book title")
 	flag.StringVar(&contents.Author, "author", "", "Book author")
-	flag.StringVar(&contents.Source, "source", "", "Book source URL")
+	flag.StringVar(&contents.Source, "source", "", "Book URL override - use when processing a local file")
 
-	var partsep, parttitle, partprefix string
 
+	// lets try "Title/REGEXP/[i]" or "Title" or "/REGEXP/[i]" as consilidated formats
+	// ALL regexps will have (?m) flag added as all texts are multiline
+
+
+
+	flag.StringVar(&parttext, "parts", "Part", "Text for part level seperator - empty means ignore")
 	flag.StringVar(&partsep, "partsep", "", "Parts separator")
-	flag.StringVar(&parttitle, "parttitle", "Part %d - ", "Part label")
-	flag.StringVar(&partprefix, "partprefix", "part-%02d-", "Part prefix")
 
-	var chapsep, chaptitle, chapprefix string
-
-	flag.StringVar(&chapsep, "chapsep", `(?mi)^chapter\s`, "Chapter seperator")
-	flag.StringVar(&chaptitle, "chaptitle", "Chapter %d", "Chapter label")
-	flag.StringVar(&chapprefix, "chapterprefix", "chapter-%02d", "Chapter prefix")
+	flag.StringVar(&chaptertext, "chapters", "Chapter", "Text for chapter level splits")
+	flag.StringVar(&chapsep, "pattern", `(?mi)^chapter\s`, "Chapter seperator")
 
 	var special string
 	flag.StringVar(&special, "special", "(?mi)^(preface|introduction)", "Special sections")
 	
 	var skipto string
-	flag.StringVar(&special, "skipto", "", "Skipto regexp before reading text")
+	flag.StringVar(&skipto, "skipto", "", "Skipto regexp before reading text")
 	
 	flag.IntVar(&maxtitle, "maxtitle", 60, "Max Title Length (when on another line)")
 
@@ -74,115 +81,193 @@ func main() {
 
 	flag.Parse()
 
+	optre := regexp.MustCompile("([^/]*)+(/.*/)?(i?)?")
+	m := optre.FindStringSubmatch(chaptertext)
+
+	if m[0] == "" {
+		log.Fatal("-chapters must be in the format '[TEXT][/REGEXP/[i]]'")
+	}
+
+	if m[1] == "" {
+		chaptertext = "Chapter"
+	} else {
+		chaptertext = m[1]
+	}
+
+	chapreg := strings.Trim(m[2], "/")
+	if chapreg == "" {
+		//def is chaptertext and space (case insenstive)
+		chapsep = `(?mi)^` + chaptertext + `\s`
+	} else {
+		if m[3] == "i" {
+			chapsep = `(?mi)` + chapreg
+			fmt.Printf("case insensitive\n")
+		} else {
+			chapsep = `(?m)` + chapreg
+		}
+	}
+
+	fmt.Printf("chapters=%q, chapsep=%q\n", chaptertext, chapsep)
+
 	if len(writedir) > 0 && writedir[len(writedir)-1:] != "/" {
 		writedir += "/"
 	}
 
+	// save command line, even if it is not much use
 	contents.Cmdline = os.Args
 
-	// read header and footer files for later use
+	var file string
+	files := flag.Args()
 
-	h, err := ioutil.ReadFile(filepath.Join(rootdir, templates, header))
+	if len(files) != 1 {
+		log.Fatal("Exaclty one source required")
+	}
+	file = files[0]
+
+	// read header and footer files for later use as they will be added
+	// to each generated HTML file
+	hd, err := ioutil.ReadFile(filepath.Join(rootdir, templates, header))
 	if err != nil {
 		log.Fatal(err)
 	}
-	head := string(h)
+	head := string(hd)
 
-	f, err := ioutil.ReadFile(filepath.Join(rootdir, templates, footer))
+	ft, err := ioutil.ReadFile(filepath.Join(rootdir, templates, footer))
 	if err != nil {
-                log.Fatal(err)
-        }
-	foot := string(f)
+		log.Fatal(err)
+	}
+	foot := string(ft)
 
-	// we don't really do much with multiple files right now
-	for _, file := range flag.Args() {
-		var f io.ReadCloser
-		if (strings.HasPrefix(file, "http")) {
-			fmt.Printf("fetching file %q\n", file)
-			res, err := http.Get(file)
-			if err != nil {
-				log.Fatal(err)
-			}
-			f = res.Body
-			if len(contents.Source) == 0 {
-				contents.Source = file
-			}
-		} else {
-			var err error
-			fmt.Printf("reading file %q\n", file)
-			f, err = os.Open(file)
-			if err != nil {
-				log.Fatal(err)
-			}
+	var f io.ReadCloser
+	if (strings.HasPrefix(file, "http")) {
+		fmt.Printf("fetching file %q\n", file)
+		res, err := http.Get(file)
+		if err != nil {
+			log.Fatal(err)
 		}
-		var content, _ = ioutil.ReadAll(f)
-		f.Close()
-		text := string(content)
+		f = res.Body
+		if len(contents.Source) == 0 && contents.Source != "" {
+			contents.Source = file
+		}
+	} else {
+		var err error
+		fmt.Printf("reading file %q\n", file)
+		f, err = os.Open(file)
+		if err != nil {
+			log.Fatal(err)
+		}
+	}
+	var content, _ = ioutil.ReadAll(f)
+	f.Close()
+	text := string(content)
 
-		chapre, err := regexp.Compile(chapsep)
+	// skip BOM for UTF8 files
+	if len(text) > 3 {
+		if text[0] == 0xef && text[1] == 0xbb && text[2] == 0xbf {
+			text = text[3:]
+		}	
+	}
+	// first check first line for Gutenberg title and author
+	firstre := regexp.MustCompile(`(?m)\AThe Project Gutenberg EBook of ([\w ]+),\s+by\s+([\w ]+)\r?$`)
+	n := firstre.FindStringSubmatch(text)
+	if len(n) == 3 {
+		if contents.Title == "" {
+			contents.Title = n[1]
+		}
+		if contents.Author == "" {
+			aw := strings.Split(n[2], " ")
+			aw[len(aw)-1] = strings.ToUpper(aw[len(aw)-1])
+			contents.Author = strings.Join(aw, " ")
+		}
+	}
+
+	chapre, err := regexp.Compile(chapsep)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	// check special parts first
+/*
+	if special != "" {
+		specre, err := regexp.Compile(special)
+		if err != nil {
+			log.Fatal(err)
+		}
+		parts := specre.Split(text, -1)
+	}
+*/
+
+	if skipto != "" {
+		re, err := regexp.Compile(skipto)
 		if err != nil {
 			log.Fatal(err)
 		}
 
-		// check special parts first
-/*
-		if special != "" {
-			specre, err := regexp.Compile(special)
-			if err != nil {
-				log.Fatal(err)
-			}
-			parts := specre.Split(text, -1)
+		parts := re.Split(text, 2)
+		if len(parts) == 2 {
+			text = parts[1]
 		}
-*/
-
-		if skipto != "" {
-			re, err := regexp.Compile(skipto)
-			if err != nil {
-				log.Fatal(err)
-			}
-
-			parts := re.Split(text, 2)
-			if len(parts) == 2 {
-				text = parts[1]
-			}
-		}
-
-		// check for parts if defined and loop over each set
-		if partsep != "" {
-			re, err := regexp.Compile(partsep)
-			if err != nil {
-				log.Fatal(err)
-			}
-
-			parts := re.Split(text, -1)
-			for p, part := range parts {
-				prefix := fmt.Sprintf(partprefix, p) + chapprefix
-				title := fmt.Sprintf(parttitle, p) + chaptitle
-
-				splitfile(part, chapre, prefix, title, head, foot, p, &contents)
-			}
-		} else {
-			splitfile(text, chapre, chapprefix, chaptitle, head, foot, 1, &contents)
-		}
-
-		contents.LastUpdated = time.Now().UTC().Format(time.RFC3339)
-		literature.WriteJSON(filepath.Join(writedir, "contents.json"), contents)
-
-		// copy index template
-		i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
-		ioutil.WriteFile(writedir + index, i, 0644)
 	}
+
+	// check for parts if defined and loop over each set
+	if partsep != "" {
+		re, err := regexp.Compile(partsep)
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		parts := re.Split(text, -1)
+
+		var pdigits = 2
+		if len(parts) > 100 {
+			pdigits = 3
+		}
+		parttitle := fmt.Sprintf("%s %%d - ", parttext)
+		// replace spaces and underscores
+		pt := dashre.ReplaceAllString(strings.ToLower(chaptertext), "-")
+		partprefix := fmt.Sprintf("%s-%%0%dd-", pt, pdigits)
+		fmt.Printf("parts %q -> %q and %q\n", parttext, parttitle, partprefix)
+
+		for p, part := range parts {
+			prefix := fmt.Sprintf(partprefix, p)
+			title := fmt.Sprintf(parttitle, p)
+
+			splitfile(part, chapre, prefix, title, head, foot, p, &contents)
+		}
+	} else {
+		splitfile(text, chapre, "", "", head, foot, 1, &contents)
+	}
+
+	contents.LastUpdated = time.Now().UTC().Format(time.RFC3339)
+	literature.WriteJSON(filepath.Join(writedir, "contents.json"), contents)
+
+	// copy index template
+	i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
+	ioutil.WriteFile(writedir + index, i, 0644)
 }
 
 // split the text into chunks and write them out as html - this is the final step
-func splitfile(data string, re *regexp.Regexp, fileprefix string, titleformat string,
+func splitfile(data string, re *regexp.Regexp, partprefix string, partformat string,
 		head string, foot string, addcontents int, contents *literature.Contents) {
 	parts := re.Split(data, -1)
+
+	// we defer chapprefix creation until here to check for 2 or 3 digits
+	var cdigits = 2
+	if len(parts) > 100 {
+		cdigits = 3
+	}
+	titleformat := partformat + fmt.Sprintf("%s %%d", chaptertext)
+	// replace spaces and underscores
+	ct := dashre.ReplaceAllString(strings.ToLower(chaptertext), "-")
+	fileprefix := partprefix + fmt.Sprintf("%s-%%0%dd", ct, cdigits)
+	fmt.Printf("chapters %q -> %q and %q\n", chaptertext, titleformat, fileprefix)
 
 	for p, part := range parts {
 		var title = ""
 
-		// strip first line(s) for chapter names
+		// strip first line(s) for chapter names - unless disabled
+
+		// options: infer number + title, linear count, and/or use match as title
 
 		// split on first blank line(s) and process first part(s), pass on the rest
 		bits := blank.Split(part, 3)
@@ -202,7 +287,7 @@ func splitfile(data string, re *regexp.Regexp, fileprefix string, titleformat st
 		h := bits[0]
 
 
-		// assume chapter title is NUMBER [PUNC] [SPACE TITLE]
+		// infer = assume chapter title is NUMBER [PUNC] [SPACE TITLE]
 
 		var cn int
 		var err error

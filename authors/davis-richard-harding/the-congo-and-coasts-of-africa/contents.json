@@ -1,0 +1,46 @@
+{
+	"title": "The Congo and Coasts of Africa",
+	"author": "Richard Harding DAVIS",
+	"source": "http://www.gutenberg.org/cache/epub/14297/pg14297.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Richard Harding DAVIS",
+		"-chapsep",
+		"(?m)^[IVX]+\\s*$",
+		"-title",
+		"The Congo and Coasts of Africa",
+		"http://www.gutenberg.org/cache/epub/14297/pg14297.txt"
+	],
+	"lastupdated": "2020-06-16T06:19:48Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Coasters"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - My Brother's Keeper"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Capital Of The Congo"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Americans In The Congo"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Hunting The Hippo"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Old Calabar"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Along The East Coast"
+		}
+	]
+}

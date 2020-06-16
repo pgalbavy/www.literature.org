@@ -1,0 +1,96 @@
+{
+	"title": "Adventures and Letters",
+	"author": "Richard Harding DAVIS",
+	"source": "http://www.gutenberg.org/cache/epub/405/pg405.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Richard Harding DAVIS",
+		"-title",
+		"Adventures and Letters",
+		"http://www.gutenberg.org/cache/epub/405/pg405.txt"
+	],
+	"lastupdated": "2020-06-16T06:12:51Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Early Days"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - College Days"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - First Newspaper Experiences"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - New York"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - First Travel Articles"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Mediterranean And Paris"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - First Plays"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Central And South America"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Moscow, Budapest, London"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Campaigning In Cuba And Greece"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Spanish-American War"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Boer War"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Spanish And English Coronations"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Japanese-Russian War"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Mount Kisco"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Congo"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A London Winter"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Military Manoeuvres"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Vera Cruz And The Great War"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Last Days"
+		}
+	]
+}

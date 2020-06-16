@@ -3,7 +3,7 @@
 	"author": "",
 	"source": "",
 	"cmdline": null,
-	"lastupdated": "2020-06-16T06:02:33Z",
+	"lastupdated": "2020-06-16T06:11:14Z",
 	"chapters": [
 		{
 			"href": "aesop",
@@ -68,6 +68,10 @@
 		{
 			"href": "daviess-maria-thompson",
 			"title": "Maria Thompson DAVIESS"
+		},
+		{
+			"href": "davis-richard-harding",
+			"title": "Richard Harding DAVIS"
 		},
 		{
 			"href": "de-balzac-honore",

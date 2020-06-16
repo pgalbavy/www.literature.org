@@ -1,0 +1,34 @@
+{
+	"title": "The King's Jackal",
+	"author": "Richard Harding DAVIS",
+	"source": "",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Richard Harding DAVIS",
+		"-title",
+		"The King's Jackal",
+		"-chapters",
+		"/^[IVX]+\\s$/",
+		"http://www.gutenberg.org/cache/epub/411/pg411.txt"
+	],
+	"lastupdated": "2020-06-16T10:31:35Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4"
+		}
+	]
+}

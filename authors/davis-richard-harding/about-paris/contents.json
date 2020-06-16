@@ -1,0 +1,38 @@
+{
+	"title": "About Paris",
+	"author": "Richard Harding DAVIS",
+	"source": "http://www.gutenberg.org/cache/epub/52706/pg52706.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Richard Harding DAVIS",
+		"-title",
+		"About Paris",
+		"-chapsep",
+		"(?m)^[IV]+\\s$",
+		"http://www.gutenberg.org/cache/epub/52706/pg52706.txt"
+	],
+	"lastupdated": "2020-06-16T06:10:40Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Streets Of Paris"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Show-Places Of Paris"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Paris In Mourning"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Grand Prix And Other Prizes"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Americans In Paris"
+		}
+	]
+}

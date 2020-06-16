@@ -1,0 +1,29 @@
+{
+	"title": "Richard Harding DAVIS",
+	"author": "",
+	"source": "",
+	"cmdline": null,
+	"lastupdated": "2020-06-16T10:32:09Z",
+	"chapters": [
+		{
+			"href": "about-paris",
+			"title": "About Paris"
+		},
+		{
+			"href": "adventures-and-letters",
+			"title": "Adventures and Letters"
+		},
+		{
+			"href": "in-the-fog",
+			"title": "In The Fog"
+		},
+		{
+			"href": "the-congo-and-coasts-of-africa",
+			"title": "The Congo and Coasts of Africa"
+		},
+		{
+			"href": "the-kings-jackal",
+			"title": "The King's Jackal"
+		}
+	]
+}
