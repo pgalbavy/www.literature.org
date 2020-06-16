@@ -3,7 +3,7 @@ package main
 import (
 	"path/filepath"
 	"flag"
-	_ "fmt"
+	"fmt"
 	"io/ioutil"
 	"log"
 	"os"
@@ -58,118 +58,129 @@ func main() {
 	t := transform.Chain(norm.NFD, transform.RemoveFunc(isMn), norm.NFC)
 	dashre := regexp.MustCompile(`[ _]`)
 
-	for _, dir := range flag.Args() {
-		var contents literature.Contents
-		literature.ReadJSON(filepath.Join(dir, "contents.json"), &contents)
+	var dir string
+	dirs := flag.Args()
 
-		title := contents.Title
-		author := contents.Author
-		chapters := contents.Chapters
+	if len(dirs) > 1 {
+		log.Fatal("No more than one directory allowed")
+	} else if len(dirs) == 0 {
+		dir = "."
+	} else {
+		dir = dirs[0]
+	}
+	absdir, err := filepath.Abs(dir)
+	if err != nil {
+		log.Fatal(err)
+	}
 
-		if title == "" || author == "" || len(chapters) == 0 {
-			log.Fatal("contents.json not in correct format")
-		}
+	fmt.Printf("publishing files from %q\n", absdir)
 
-		// transform title and author into filesystem versions
+	var contents literature.Contents
+	literature.ReadJSON(filepath.Join(dir, "contents.json"), &contents)
 
-		title, _, _ = transform.String(t, title)
-		re := regexp.MustCompile(`[^\w ]+`)
-		title = re.ReplaceAllString(title, "")
-		title = dashre.ReplaceAllString(title, "-")
-		title = strings.ToLower(title)
+	title := contents.Title
+	author := contents.Author
+	chapters := contents.Chapters
 
-    	author, _, _ = transform.String(t, author)
-		re = regexp.MustCompile(`^(.*?)\s([A-Z\s]+)$`)
-		author = re.ReplaceAllString(author, "$2-$1")
-		author = dashre.ReplaceAllString(author, "-")
-		author = strings.ToLower(author)
+	if title == "" || author == "" || len(chapters) == 0 {
+		log.Fatal("contents.json not in correct format")
+	}
 
-		// build destination path
-		destdir := filepath.Join(rootdir, "authors", author, title)
+	// transform title and author into filesystem versions
 
-		// check if files are already in place
-		absdir, err := filepath.Abs(dir)
+	title, _, _ = transform.String(t, title)
+	re := regexp.MustCompile(`[^\w ]+`)
+	title = re.ReplaceAllString(title, "")
+	title = dashre.ReplaceAllString(title, "-")
+	title = strings.ToLower(title)
+
+	author, _, _ = transform.String(t, author)
+	re = regexp.MustCompile(`^(.*?)\s([A-Z\s]+)$`)
+	author = re.ReplaceAllString(author, "$2-$1")
+	author = dashre.ReplaceAllString(author, "-")
+	author = strings.ToLower(author)
+
+	// build destination path
+	destdir := filepath.Join(rootdir, "authors", author, title)
+
+	// check if files are already in place
+	if destdir != absdir {
+		err := os.MkdirAll(destdir, 0755)
 		if err != nil {
 			log.Fatal(err)
 		}
-		if destdir != absdir {
-			err := os.MkdirAll(destdir, 0755)
+		d, err := os.Open(absdir)
+		if err != nil {
+			log.Fatal(err)
+		}
+		files, err := d.Readdirnames(-1)
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		for _, file := range files {
+			if strings.HasPrefix(file, ".") {
+				continue
+			}
+			err := os.Rename(filepath.Join(absdir, file), filepath.Join(destdir, file))
 			if err != nil {
 				log.Fatal(err)
 			}
-			d, err := os.Open(absdir)
-			if err != nil {
-				log.Fatal(err)
-			}
-			files, err := d.Readdirnames(-1)
-			if err != nil {
-				log.Fatal(err)
-			}
-
-			for _, file := range files {
-				if strings.HasPrefix(file, ".") {
-					continue
-				}
-				err := os.Rename(filepath.Join(absdir, file), filepath.Join(destdir, file))
-				if err != nil {
-					log.Fatal(err)
-				}
-			}
 		}
+	}
 
-		// at this point all the files are in place
-		// now check linkage in parent contents.json files
-		var topjson, authorjson literature.Contents
+	// at this point all the files are in place
+	// now check linkage in parent contents.json files
+	var topjson, authorjson literature.Contents
 
-		// first, does the author already exist ?
-		literature.ReadJSON(filepath.Join(rootdir, "authors", "contents.json"), &topjson)
+	// first, does the author already exist ?
+	literature.ReadJSON(filepath.Join(rootdir, "authors", "contents.json"), &topjson)
 
-		var authorindex int = -1
-		for i, entry := range topjson.Chapters {
-			if entry.HREF == author {
-				authorindex = i
-			}
+	var authorindex int = -1
+	for i, entry := range topjson.Chapters {
+		if entry.HREF == author {
+			authorindex = i
 		}
-		if authorindex == -1 {
-			newauthor := literature.Chapter{ HREF: author, Title: contents.Author }
-			topjson.Chapters = append(topjson.Chapters, newauthor)
-			sort.Slice(topjson.Chapters, func(i, j int) bool {
-				// sort by directory names
-				return topjson.Chapters[i].HREF < topjson.Chapters[j].HREF
-			})
-			// write out new top level contents.json
-			topjson.LastUpdated = time.Now().UTC().Format(time.RFC3339)
-			topjson.Title = "Authors"
-			literature.WriteJSON(filepath.Join(rootdir, "authors", "contents.json"), topjson)
-			//i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
-			//ioutil.WriteFile(filepath.Join(rootdir, "authors", index), i, 0644)
+	}
+	if authorindex == -1 {
+		newauthor := literature.Chapter{ HREF: author, Title: contents.Author }
+		topjson.Chapters = append(topjson.Chapters, newauthor)
+		sort.Slice(topjson.Chapters, func(i, j int) bool {
+			// sort by directory names
+			return topjson.Chapters[i].HREF < topjson.Chapters[j].HREF
+		})
+		// write out new top level contents.json
+		topjson.LastUpdated = time.Now().UTC().Format(time.RFC3339)
+		topjson.Title = "Authors"
+		literature.WriteJSON(filepath.Join(rootdir, "authors", "contents.json"), topjson)
+		//i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
+		//ioutil.WriteFile(filepath.Join(rootdir, "authors", index), i, 0644)
+	}
+
+
+	// next, check for an existing title
+	literature.ReadJSON(filepath.Join(rootdir, "authors", author, "contents.json"), &authorjson)
+
+	var chapter int = -1
+	for i, entry := range authorjson.Chapters {
+		if entry.HREF == title {
+			chapter = i
 		}
+	}
 
-
-		// next, check for an existing title
-		literature.ReadJSON(filepath.Join(rootdir, "authors", author, "contents.json"), &authorjson)
-
-		var chapter int = -1
-		for i, entry := range authorjson.Chapters {
-			if entry.HREF == title {
-				chapter = i
-			}
-		}
-
-		// add and sort (until we have publication years, by title)
-		if chapter == -1 {
-			newchapter := literature.Chapter{ HREF: title, Title: contents.Title }
-			authorjson.Chapters = append(authorjson.Chapters, newchapter)
-			sort.Slice(authorjson.Chapters, func(i, j int) bool {
-				return authorjson.Chapters[i].Title < authorjson.Chapters[j].Title
-			})
-			// write out new author contents.json
-			authorjson.Title = contents.Author
-			authorjson.LastUpdated = time.Now().UTC().Format(time.RFC3339)
-			literature.WriteJSON(filepath.Join(rootdir, "authors", author, "contents.json"), authorjson)
-			i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
-			ioutil.WriteFile(filepath.Join(rootdir, "authors", author, index), i, 0644)
-		}
+	// add and sort (until we have publication years, by title)
+	if chapter == -1 {
+		newchapter := literature.Chapter{ HREF: title, Title: contents.Title }
+		authorjson.Chapters = append(authorjson.Chapters, newchapter)
+		sort.Slice(authorjson.Chapters, func(i, j int) bool {
+			return authorjson.Chapters[i].Title < authorjson.Chapters[j].Title
+		})
+		// write out new author contents.json
+		authorjson.Title = contents.Author
+		authorjson.LastUpdated = time.Now().UTC().Format(time.RFC3339)
+		literature.WriteJSON(filepath.Join(rootdir, "authors", author, "contents.json"), authorjson)
+		i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
+		ioutil.WriteFile(filepath.Join(rootdir, "authors", author, index), i, 0644)
 	}
 }
 
