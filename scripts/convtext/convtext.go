@@ -40,8 +40,8 @@ func init() {
 	dashre			= regexp.MustCompile(`[ _]`)
 }
 
-var parttext, partsep string
-var chaptertext, chapsep string
+var parttext string
+var chaptertext string
 
 func main() {
 	var contents literature.Contents
@@ -60,14 +60,11 @@ func main() {
 
 	// lets try "Title/REGEXP/[i]" or "Title" or "/REGEXP/[i]" as consilidated formats
 	// ALL regexps will have (?m) flag added as all texts are multiline
-
-
+	// also, local "flags": "L" (use entire line as split title), "N" (no title),
+	//					    "R" (rest of line until blank line - default), "P" (next paragraph - default)
+	flag.StringVar(&chaptertext, "chapters", "Chapter", "Text for chapter level splits")
 
 	flag.StringVar(&parttext, "parts", "Part", "Text for part level seperator - empty means ignore")
-	flag.StringVar(&partsep, "partsep", "", "Parts separator")
-
-	flag.StringVar(&chaptertext, "chapters", "Chapter", "Text for chapter level splits")
-	flag.StringVar(&chapsep, "pattern", `(?mi)^chapter\s`, "Chapter seperator")
 
 	var special string
 	flag.StringVar(&special, "special", "(?mi)^(preface|introduction)", "Special sections")
@@ -81,11 +78,14 @@ func main() {
 
 	flag.Parse()
 
+
 	optre := regexp.MustCompile("([^/]*)+(/.*/)?(i?)?")
+
+	// process -chapters option
 	m := optre.FindStringSubmatch(chaptertext)
 
 	if m[0] == "" {
-		log.Fatal("-chapters must be in the format '[TEXT][/REGEXP/[i]]'")
+		log.Fatal("-chapters must be in the format '[TEXT][/REGEXP/[iLNRP]]'")
 	}
 
 	if m[1] == "" {
@@ -94,6 +94,7 @@ func main() {
 		chaptertext = m[1]
 	}
 
+	var chapsep string
 	chapreg := strings.Trim(m[2], "/")
 	if chapreg == "" {
 		//def is chaptertext and space (case insenstive)
@@ -108,6 +109,44 @@ func main() {
 	}
 
 	fmt.Printf("chapters=%q, chapsep=%q\n", chaptertext, chapsep)
+	
+	chapre, err := regexp.Compile(chapsep)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+
+	// process -parts option
+	m = optre.FindStringSubmatch(parttext)
+
+	if m[0] == "" {
+		log.Fatal("-parts must be in the format '[TEXT][/REGEXP/[iLNRP]]'")
+	}
+
+	if m[1] == "" {
+		parttext = "Part"
+	} else {
+		parttext = m[1]
+	}
+
+	var partsep string
+	partreg := strings.Trim(m[2], "/")
+	if partreg == "" {
+		// def is none
+		partsep = ""
+	} else {
+		if m[3] == "i" {
+			partsep = `(?mi)` + partreg
+			fmt.Printf("case insensitive\n")
+		} else {
+			partsep = `(?m)` + partreg
+		}
+	}
+
+	fmt.Printf("partss=%q, partsep=%q\n", parttext, partsep)
+	
+
+
 
 	if len(writedir) > 0 && writedir[len(writedir)-1:] != "/" {
 		writedir += "/"
@@ -181,11 +220,6 @@ func main() {
 		}
 	}
 
-	chapre, err := regexp.Compile(chapsep)
-	if err != nil {
-		log.Fatal(err)
-	}
-
 	// check special parts first
 /*
 	if special != "" {
@@ -224,7 +258,7 @@ func main() {
 		}
 		parttitle := fmt.Sprintf("%s %%d - ", parttext)
 		// replace spaces and underscores
-		pt := dashre.ReplaceAllString(strings.ToLower(chaptertext), "-")
+		pt := dashre.ReplaceAllString(strings.ToLower(parttext), "-")
 		partprefix := fmt.Sprintf("%s-%%0%dd-", pt, pdigits)
 		fmt.Printf("parts %q -> %q and %q\n", parttext, parttitle, partprefix)
 
