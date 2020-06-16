@@ -1,0 +1,114 @@
+{
+	"title": "The Flying Machine Boys on Secret Service",
+	"author": "Frank WALTON",
+	"source": "https://www.gutenberg.org/files/50824/50824-0.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Frank WALTON",
+		"-title",
+		"The Flying Machine Boys on Secret Service",
+		"-chapsep",
+		"(?m)\\s+CHAPTER\\s[IVX]+\\.",
+		"https://www.gutenberg.org/files/50824/50824-0.txt"
+	],
+	"lastupdated": "2020-06-16T06:04:55Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Fall Of The Bear"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Wobbling Aeroplane"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Jimmie’s Daring Feat"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Disappearance Of Colleton"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Midnight Flight"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Loss Of The Louise"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Three Hungry Men"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - “Home Of The Forty Thieves.”"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Voyage Of The Ann"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - An Unexpected Happening"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Jimmie Opens His Dream-Book"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Englishman’s Bag"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Race In The Air"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The End Of The Flight"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Man In The Stateroom"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Still Another Guest"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Carl Gets Into Trouble"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Mysterious Signals"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Surprise For Jimmie"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Secret Hiding-Place"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Boy And The Bear"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Dog In The Cavern"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Arrests Are Made"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Conclusion"
+		}
+	]
+}

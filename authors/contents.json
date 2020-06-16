@@ -3,7 +3,7 @@
 	"author": "",
 	"source": "",
 	"cmdline": null,
-	"lastupdated": "2020-06-15T19:55:13Z",
+	"lastupdated": "2020-06-16T06:02:33Z",
 	"chapters": [
 		{
 			"href": "aesop",
@@ -180,6 +180,10 @@
 		{
 			"href": "voltaire",
 			"title": "VOLTAIRE"
+		},
+		{
+			"href": "walton-frank",
+			"title": "Frank WALTON"
 		},
 		{
 			"href": "wells-herbert-george",

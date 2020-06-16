@@ -86,6 +86,7 @@ func main() {
 		log.Fatal("contents.json not in correct format")
 	}
 
+	fmt.Printf("publishing %q by %q\n", title, author)
 	// transform title and author into filesystem versions
 
 	title, _, _ = transform.String(t, title)
@@ -102,6 +103,7 @@ func main() {
 
 	// build destination path
 	destdir := filepath.Join(rootdir, "authors", author, title)
+	fmt.Printf("publishing to %q\n", destdir)
 
 	// check if files are already in place
 	if destdir != absdir {

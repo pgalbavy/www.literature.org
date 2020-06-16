@@ -1,0 +1,114 @@
+{
+	"title": "The Flying Machine Boys in the Wilds",
+	"author": "Frank WALTON",
+	"source": "https://www.gutenberg.org/files/50287/50287-0.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Frank WALTON",
+		"-title",
+		"The Flying Machine Boys in the Wilds",
+		"-chapsep",
+		"(?m)\\s+CHAPTER\\s[IVX]+\\.",
+		"https://www.gutenberg.org/files/50287/50287-0.txt"
+	],
+	"lastupdated": "2020-06-16T06:00:53Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Under The Equator"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - What The Fishermen Caught"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Masterly Retreat"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Planning A Midnight Ride"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Waif And A Stray"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Automobile Vs. Aeroplane"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Pair Of Plans"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Spring For Liberty"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Fine Curtain-Raiser"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Where The Trouble Began"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Under Tropical Stars"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Haunted Temple"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Closing Of A Door"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Indians Help Some!"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Question Of Marksmanship"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Besieged In The Temple"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Lost Telegrams"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Jimmie’s Awful Hunger"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Where The Passage Ended"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Savages Make More Trouble"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Mystery Of The Andes"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Two Runaway Boys!"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Two Runaway Aviators!"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The End Of The Mystery"
+		}
+	]
+}

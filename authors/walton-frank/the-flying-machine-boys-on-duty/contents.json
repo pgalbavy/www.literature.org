@@ -1,0 +1,114 @@
+{
+	"title": "The Flying Machine Boys on Duty",
+	"author": "Frank WALTON",
+	"source": "https://www.gutenberg.org/files/50165/50165-0.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Frank WALTON",
+		"-title",
+		"The Flying Machine Boys on Duty",
+		"-chapsep",
+		"(?m)\\s+CHAPTER\\s[IVX]+\\.",
+		"https://www.gutenberg.org/files/50165/50165-0.txt"
+	],
+	"lastupdated": "2020-06-16T06:03:45Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Above New York Bay"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Shot In The Night"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Mysterious Disappearance"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Dignity Of The Law"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Change Of Scene"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Small Explosion"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Signal Fire"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Loss Of A Boy!"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Just A Clever Game"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Queer Discovery"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Dangerous Game"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Fight In The Cabin"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - In Ranger Uniform"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Game Of Tag Started"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Crippled Aeroplane"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Inside Of A Jail"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Message From The Sky"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Race"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Short Term In Jail"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Stealing An Aeroplane"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Stroup’s Instructions"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Under The Moonlight"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Look At The Bowl"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Clue Above The Clouds"
+		}
+	]
+}
