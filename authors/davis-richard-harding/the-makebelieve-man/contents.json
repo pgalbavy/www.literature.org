@@ -1,0 +1,22 @@
+{
+	"title": "The Make-Believe Man",
+	"author": "Richard Harding DAVIS",
+	"source": "",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"(?m)^THE MAKE-BELIEVE MAN",
+		"https://www.gutenberg.org/files/1823/1823-0.txt"
+	],
+	"lastupdated": "2020-06-16T16:03:56Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2"
+		}
+	]
+}

@@ -116,7 +116,7 @@ func main() {
 	if chapreg == "" {
 		//def is chaptertext and space (case insenstive)
 		// empty regexp valid, and defaulted, when just flags passed
-		chapsep = `(?m)^((?i)` + chaptertext + `\s|[IVXC]+\.)`
+		chapsep = `(?m)^(((?i)` + chaptertext + `\s)|[IVXC]+[\.\r][^\.])`
 	} else {
 		chapsep = `(?m)` + chapreg
 	}
@@ -260,7 +260,7 @@ func main() {
 		}	
 	}
 	// first check first line for Gutenberg title and author
-	firstre := regexp.MustCompile(`(?m)\AThe Project Gutenberg EBook of ([\w ]+),\s+by\s+([\w ]+)\r?$`)
+	firstre := regexp.MustCompile(`(?m)\AThe Project Gutenberg EBook of ([\w\- ]+),\s+by\s+([\w\- ]+)\r?$`)
 	n := firstre.FindStringSubmatch(text)
 	if len(n) == 3 {
 		if contents.Title == "" {
@@ -383,16 +383,20 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 		var err error
 
 		if !chapdontinfer {
-			fmt.Printf("inferring chapter number\n")
-			cn, paraaftermatch = roman(paraaftermatch)
-			if cn == 0 {
-				cn, err = strconv.Atoi(paraaftermatch)
+			fmt.Printf("inferring chapter number: %q\n", paraaftermatch)
+			var rcn int
+			rcn, paraaftermatch = roman(paraaftermatch)
+			if rcn == 0 {
+				rcn, err = strconv.Atoi(paraaftermatch)
 				if err != nil {
-					cn = pn
+					fmt.Printf("Atoi failed: %q", err)
+					rcn = pn
 				} else {
 					paraaftermatch = strings.TrimLeft(paraaftermatch, "0123456789")
 				}
 			}
+			fmt.Printf("after: %d = %q\n", rcn, paraaftermatch)
+			cn = rcn
 		}
 		
 		if !chapmatchskip {

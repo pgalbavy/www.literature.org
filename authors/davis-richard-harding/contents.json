@@ -3,7 +3,7 @@
 	"author": "",
 	"source": "",
 	"cmdline": null,
-	"lastupdated": "2020-06-16T10:32:09Z",
+	"lastupdated": "2020-06-16T16:17:07Z",
 	"chapters": [
 		{
 			"href": "about-paris",
@@ -24,6 +24,22 @@
 		{
 			"href": "the-kings-jackal",
 			"title": "The King's Jackal"
+		},
+		{
+			"href": "the-lion-and-the-unicorn-and-other-stories",
+			"title": "The Lion and the Unicorn and Other Stories"
+		},
+		{
+			"href": "the-lost-house",
+			"title": "The Lost House"
+		},
+		{
+			"href": "the-makebelieve-man",
+			"title": "The Make-Believe Man"
+		},
+		{
+			"href": "the-princess-aline",
+			"title": "The Princess Aline"
 		}
 	]
 }

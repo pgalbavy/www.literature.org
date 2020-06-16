@@ -1,0 +1,36 @@
+{
+	"title": "The Lion and the Unicorn and Other Stories",
+	"author": "Richard Harding DAVIS",
+	"source": "",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"/^[A-Z][A-Z\\s]{10,}$/Ntk",
+		"-skipto",
+		"THE LAST RIDE TOGETHER",
+		"https://www.gutenberg.org/files/1620/1620-0.txt"
+	],
+	"lastupdated": "2020-06-16T15:48:36Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Lion And The Unicorn"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - On The Fever Ship"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Man With One Talent"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Vagrant"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Last Ride Together - A Sketch Containing Three Points Of View"
+		}
+	]
+}
