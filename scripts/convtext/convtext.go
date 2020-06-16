@@ -117,6 +117,8 @@ func main() {
 		//def is chaptertext and space (case insenstive)
 		// empty regexp valid, and defaulted, when just flags passed
 		chapsep = `(?m)^((?i)` + chaptertext + `\s|[IVXC]+\.)`
+	} else {
+		chapsep = `(?m)` + chapreg
 	}
 	if m[3] != "" {
 		fmt.Printf("flags: %q\n", m[3])
