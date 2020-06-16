@@ -1,0 +1,56 @@
+{
+	"title": "Rose of Old Harpeth",
+	"author": "Maria Thompson DAVIESS",
+	"source": "http://www.gutenberg.org/cache/epub/15195/pg15195.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Maria Thompson DAVIESS",
+		"-title",
+		"Rose of Old Harpeth",
+		"http://www.gutenberg.org/cache/epub/15195/pg15195.txt"
+	],
+	"lastupdated": "2020-06-16T05:23:43Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Rose Mary Of Sweetbriar"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Folks-Garden"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - At The Court Of Dame Nature"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Moonlight And Apple-Blow"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Honorable Gid"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Enemy, The Rod And The Staff"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Satsuma Vase"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Uncle Tucker'S Torch"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Exodus"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - In The Hollow Of His Hand"
+		}
+	]
+}

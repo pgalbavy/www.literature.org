@@ -1,0 +1,60 @@
+{
+	"title": "Andrew the Glad",
+	"author": "Maria Thompson DAVIESS",
+	"source": "http://www.gutenberg.org/cache/epub/13679/pg13679.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Maria Thompson DAVIESS",
+		"-title",
+		"Andrew the Glad",
+		"http://www.gutenberg.org/cache/epub/13679/pg13679.txt"
+	],
+	"lastupdated": "2020-06-15T19:54:40Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Heart Trap"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Ritual"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Two Little Crimes"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - According To Solomon"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - David'S Rose And Some Thorns"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Bridge Of Dreams"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Strange Wild Things"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Spell And Its Weaving"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Pursuing The Possum"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Love'S Home And Andrew Sevier"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Across The Many Waters"
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"title": "The Melting of Molly",
+	"author": "Maria Thompson DAVIESS",
+	"source": "http://www.gutenberg.org/cache/epub/15817/pg15817.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Maria Thompson DAVIESS",
+		"-title",
+		"The Melting of Molly",
+		"-chapsep",
+		"(?m)^LEAF\\s",
+		"-chaptitle",
+		"Leaf %d",
+		"-chapterprefix",
+		"leaf-%02d",
+		"http://www.gutenberg.org/cache/epub/15817/pg15817.txt"
+	],
+	"lastupdated": "2020-06-16T05:16:05Z",
+	"chapters": [
+		{
+			"href": "leaf-01.html",
+			"title": "Leaf 1 - The Bachelor's-Buttons"
+		},
+		{
+			"href": "leaf-02.html",
+			"title": "Leaf 2 - A Love-Letter, Loaded"
+		},
+		{
+			"href": "leaf-03.html",
+			"title": "Leaf 3 - Monument Or Trousseau?"
+		},
+		{
+			"href": "leaf-04.html",
+			"title": "Leaf 4 - Scattered Jam"
+		},
+		{
+			"href": "leaf-05.html",
+			"title": "Leaf 5 - Blue Absinthe"
+		},
+		{
+			"href": "leaf-06.html",
+			"title": "Leaf 6 - The Resurrection Razoo"
+		},
+		{
+			"href": "leaf-07.html",
+			"title": "Leaf 7 - Dashed!"
+		},
+		{
+			"href": "leaf-08.html",
+			"title": "Leaf 8 - Melted"
+		}
+	]
+}

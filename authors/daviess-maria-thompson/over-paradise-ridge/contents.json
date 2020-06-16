@@ -1,0 +1,34 @@
+{
+	"title": "Over Paradise Ridge",
+	"author": "Maria Thompson DAVIESS",
+	"source": "http://www.gutenberg.org/cache/epub/15243/pg15243.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Maria Thompson DAVIESS",
+		"-title",
+		"Over Paradise Ridge",
+		"-chapsep",
+		"(?m)^[IV]+[^\\.]$",
+		"http://www.gutenberg.org/cache/epub/15243/pg15243.txt"
+	],
+	"lastupdated": "2020-06-16T05:19:35Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Book Of Food"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Book Of Shelter"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Book Of Laughter"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Book Of Love"
+		}
+	]
+}

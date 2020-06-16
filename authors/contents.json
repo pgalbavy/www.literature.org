@@ -3,7 +3,7 @@
 	"author": "",
 	"source": "",
 	"cmdline": null,
-	"lastupdated": "2020-06-15T17:03:46Z",
+	"lastupdated": "2020-06-15T19:55:13Z",
 	"chapters": [
 		{
 			"href": "aesop",
@@ -64,6 +64,10 @@
 		{
 			"href": "darwin-charles",
 			"title": "Charles DARWIN"
+		},
+		{
+			"href": "daviess-maria-thompson",
+			"title": "Maria Thompson DAVIESS"
 		},
 		{
 			"href": "de-balzac-honore",

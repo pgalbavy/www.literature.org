@@ -1,0 +1,96 @@
+{
+	"title": "The Daredevil",
+	"author": "Maria Thompson DAVIESS",
+	"source": "http://www.gutenberg.org/cache/epub/12931/pg12931.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Maria Thompson DAVIESS",
+		"-title",
+		"The Daredevil",
+		"http://www.gutenberg.org/cache/epub/12931/pg12931.txt"
+	],
+	"lastupdated": "2020-06-16T05:08:55Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Sparkling Waves Over High Explosives"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Vive La France"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - That Mr. G. Slade Of Detroit"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Impossible Uncle Robert"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - \"Here's My Boy, Governor\""
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - \"We Both Need You\""
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Girl Bunch"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - In The Dress Of Magnificence"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - \"O'Er The Land Of The Free--\""
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Vitriol And The Hoodoo"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Business And Pie"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Beautiful Madam Whitworth"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Brothers By Bloodshed"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - To Bear Men And To Save Them"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - \"Behold, I Am A Spy!\""
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - \"Immediately I Come To You!\""
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Tall Timbers Of Old Harpeth"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Camp Heaven"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - All Is Lost"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - \"You Are--Myself!\""
+		}
+	]
+}

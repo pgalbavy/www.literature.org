@@ -1,0 +1,96 @@
+{
+	"title": "The Heart's Kingdom",
+	"author": "Maria Thompson DAVIESS",
+	"source": "http://www.gutenberg.org/cache/epub/18756/pg18756.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Maria Thompson DAVIESS",
+		"-title",
+		"The Heart's Kingdom",
+		"http://www.gutenberg.org/cache/epub/18756/pg18756.txt"
+	],
+	"lastupdated": "2020-06-16T05:12:33Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The World And The Flesh"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Harpeth Jaguar"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Gauntlet"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - To Turkey Gulch"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Having It Out"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Deep Digging"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Tristan Love Song"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Breasting The Gale"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Into Brambles"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Water And Oil"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Bit Of Raw Life"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Tenacious Turtle"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Short-Circuit"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Abide With Me"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Clandestine Adventure"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Jewel In The Matrix"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Pageant"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Light--Into Darkness"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Spark And The Blaze"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Covert Of Wings"
+		}
+	]
+}

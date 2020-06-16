@@ -1,0 +1,56 @@
+{
+	"title": "The Road to Providence",
+	"author": "Maria Thompson DAVIESS",
+	"source": "http://www.gutenberg.org/cache/epub/3745/pg3745.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Maria Thompson DAVIESS",
+		"-title",
+		"The Road to Providence",
+		"http://www.gutenberg.org/cache/epub/3745/pg3745.txt"
+	],
+	"lastupdated": "2020-06-16T05:22:46Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Doctors Mayberry, Mother And Son"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Singer Lady And The Bread-Bowl"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The  Peony-Girl And The Bumpkin"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Love, The Cure-All"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Little Raven And Her Covered Dish"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Providence Tag-Gang"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Pretty Bettie'S Wedding Day"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Nest On Providence Nob"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Little Harpeth Woman Of Many Sorrows"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Song Of The Master'S Grail"
+		}
+	]
+}

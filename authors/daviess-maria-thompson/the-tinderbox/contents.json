@@ -1,0 +1,56 @@
+{
+	"title": "The Tinder-Box",
+	"author": "Maria Thompson DAVIESS",
+	"source": "http://www.gutenberg.org/cache/epub/14863/pg14863.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Maria Thompson DAVIESS",
+		"-title",
+		"The Tinder-Box",
+		"http://www.gutenberg.org/cache/epub/14863/pg14863.txt"
+	],
+	"lastupdated": "2020-06-16T05:24:42Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Load"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Maiden Lance"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Flint Spark"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Sweeter When Tamed?"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Deeper Than Shoulders And Ribs"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Max And The Asafetida Spoon"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Some Smolderings"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - An Attained To-Morrow"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Dynamite"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Together?"
+		}
+	]
+}

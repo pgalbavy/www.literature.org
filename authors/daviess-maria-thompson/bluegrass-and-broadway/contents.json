@@ -1,0 +1,48 @@
+{
+	"title": "Blue-grass and Broadway",
+	"author": "Maria Thompson DAVIESS",
+	"source": "http://www.gutenberg.org/cache/epub/29391/pg29391.txt",
+	"cmdline": [
+		"convtext",
+		"-author",
+		"Maria Thompson DAVIESS",
+		"-title",
+		"Blue-grass and Broadway",
+		"http://www.gutenberg.org/cache/epub/29391/pg29391.txt"
+	],
+	"lastupdated": "2020-06-15T19:57:53Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8"
+		}
+	]
+}
