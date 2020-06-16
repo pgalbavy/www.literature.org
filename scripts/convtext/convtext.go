@@ -76,9 +76,6 @@ func main() {
 	flag.StringVar(&chaptertext, "chapters", "Chapter", "Text for chapter level splits")
 
 	flag.StringVar(&parttext, "parts", "Part", "Text for part level seperator - empty means ignore")
-
-	var special string
-	flag.StringVar(&special, "special", "(?mi)^(preface|introduction)", "Special sections")
 	
 	var skipto string
 	flag.StringVar(&skipto, "skipto", "", "Skipto regexp before reading text")
@@ -261,17 +258,6 @@ func main() {
 			contents.Author = strings.Join(aw, " ")
 		}
 	}
-
-	// check special parts first
-/*
-	if special != "" {
-		specre, err := regexp.Compile(special)
-		if err != nil {
-			log.Fatal(err)
-		}
-		parts := specre.Split(text, -1)
-	}
-*/
 
 	if skipto != "" {
 		re, err := regexp.Compile(skipto)
