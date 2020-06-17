@@ -1,0 +1,46 @@
+{
+	"title": "The Riverpark Rebellion",
+	"author": "Homer GREENE",
+	"source": "https://www.gutenberg.org/files/46146/46146-0.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"//p",
+		"https://www.gutenberg.org/files/46146/46146-0.txt"
+	],
+	"lastupdated": "2020-06-17T07:01:35Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Loss Of Temper"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Changing The Record"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - An Impertinent Petition"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Order Of The Black Star"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Hapless Holiday"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Quartered On A Haymow"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Return Of The Fugitives"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A General Amnesty"
+		}
+	]
+}

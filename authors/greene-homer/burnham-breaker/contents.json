@@ -1,0 +1,110 @@
+{
+	"title": "Burnham Breaker",
+	"author": "Homer GREENE",
+	"source": "http://www.gutenberg.org/cache/epub/10449/pg10449.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/10449/pg10449.txt"
+	],
+	"lastupdated": "2020-06-17T06:52:16Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Surprise In The Screen-Room"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Strange Visitor"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Brilliant Scheme"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Set Of Resolutions"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - In Search Of A Mother"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Breaking The News"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Rhyming Joe"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Friend In Need"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Friend Indeed"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - At The Bar Of The Court"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Evidence In The Case"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - At The Gates Of Paradise"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Purchase Of A Lie"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Angel With The Sword"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - An Eventful Journey"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Block In The Wheel"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Gentlemen Of The Jury"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Writ Of Habeas Corpus"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Back To The Breaker"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Fire In The Shaft"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Perilous Passage"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - In The Power Of Darkness"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Stroke Of Lightning"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - At The Dawn Of Day"
+		}
+	]
+}

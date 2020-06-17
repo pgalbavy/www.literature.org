@@ -1,0 +1,42 @@
+{
+	"title": "Whispering Tongues",
+	"author": "Homer GREENE",
+	"source": "https://www.gutenberg.org/files/46528/46528-0.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"//p",
+		"https://www.gutenberg.org/files/46528/46528-0.txt"
+	],
+	"lastupdated": "2020-06-17T07:03:22Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Moonlight Rush"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Gamma Questers"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Before The Faculty"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Quarrel Of Friends"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Cowardly Revenge"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Almost A Tragedy"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Welcome Home"
+		}
+	]
+}
