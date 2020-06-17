@@ -1,0 +1,132 @@
+{
+	"title": "Rimrock Jones",
+	"author": "Dane COOLIDGE",
+	"source": "http://www.gutenberg.org/cache/epub/20076/pg20076.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"//p",
+		"-source",
+		"http://www.gutenberg.org/cache/epub/20076/pg20076.txt",
+		"pg20076.txt"
+	],
+	"lastupdated": "2020-06-17T08:11:17Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Man With A Gun"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - When Riches Fly"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Miss Fortune"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - As A Loan"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Prodigal's Return"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Rimrock Passes"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - But Comes Back For More"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Flier In Stocks"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - You Don't Understand"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Fight For The Old Juan"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Little Trouble"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Rimrock's Big Day"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Morning After"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Rimrock Explains"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Game For Big Stakes"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Tiger Lady"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - An Afterthought"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - New York"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Where All Men Meet"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Letter From The Secretary"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Second Annual Meeting"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - A Fool"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Sold Out"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The New Year"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - An Accounting"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - A Chapter Of Hate"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - The Show-Down"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - A Gift"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Rimrock Does It Himself"
+		}
+	]
+}

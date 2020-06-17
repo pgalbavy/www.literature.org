@@ -1,0 +1,158 @@
+{
+	"title": "Shoe-Bar Stratton",
+	"author": "Joseph Bushnell AMES",
+	"source": "http://www.gutenberg.org/cache/epub/27355/pg27355.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/27355/pg27355.txt"
+	],
+	"lastupdated": "2020-06-17T08:23:19Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Back From The Dead"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Crooked Work"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Mistress Mary--Quite Contrary"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Branding-Iron"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Tex Lynch"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Blood-Stained Saddle"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Rustlers"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Hoodoo Outfit"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Revelations"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Buck Finds Out Something"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Danger"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Thwarted"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Counterplot"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Lady From The Past"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - \"Blackleg\""
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Unexpected"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Primeval Instinct"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Change Of Base"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Mysterious Motor-Car"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Catastrophe"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - What Mary Thorne Found"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Nerve"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Where The Wheel Tracks Led"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Secret Of North Pasture"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Trap"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Sheriff Hardenberg Intervenes"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - An Hour Too Late"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Forebodings"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Creeping Shadows"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - Lynch Scores"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Gone"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - Buck Rides"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Carried Away"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - The Fight On The Ledge"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - The Dead Heart"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - Two Trails Converge"
+		}
+	]
+}

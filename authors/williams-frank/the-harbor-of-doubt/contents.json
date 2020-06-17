@@ -1,0 +1,138 @@
+{
+	"title": "The Harbor of Doubt",
+	"author": "Frank WILLIAMS",
+	"source": "http://www.gutenberg.org/cache/epub/29817/pg29817.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/29817/pg29817.txt"
+	],
+	"lastupdated": "2020-06-17T07:44:02Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Maliciously Accused"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Red Peril"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Test"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Refugees"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Startling News"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Island Decides"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Stranger"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Jimmie Thomas's Strategy"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - On The Course"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Mystery"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - In The Fog Bank"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Out Of Freekirk Head"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Nat Burns Shows His Hand"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Discovery"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Catch Of The Rosan"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Staggering Blow"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Trawlers"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Treachery"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Ellinwood Takes A Hand"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Among The Home Folks"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Prisoner"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - A Recovered Treasure"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Surprises"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Siren"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Guilt Fixed"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Wetting Their Salt"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - The Reward Of Evil"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The Race"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - A Fatal Letter"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - Elsa's Triumph"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Peace And Prosperity"
+		}
+	]
+}

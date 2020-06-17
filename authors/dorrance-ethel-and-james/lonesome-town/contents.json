@@ -1,0 +1,124 @@
+{
+	"title": "Lonesome Town",
+	"author": "Ethel and James DORRANCE",
+	"source": "https://www.gutenberg.org/files/35819/35819-0.txt",
+	"cmdline": [
+		"convtext",
+		"-title",
+		"Lonesome Town",
+		"-author",
+		"Ethel and James DORRANCE",
+		"https://www.gutenberg.org/files/35819/35819-0.txt"
+	],
+	"lastupdated": "2020-06-17T08:03:00Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Some Place Like Home"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Tip From The Top"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Sky Sign"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Double Focus"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Only The Brave"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Just Au Revoir"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Emergency Man"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Empty"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Snuffed"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Old Park Lady"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Due East"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - What A Welcome!"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - In Her Service"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Credit Plan"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Limit Of Trust"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - An Accepted Ally"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Poplars Four"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Too Ready Rescue"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Ten Of To-Morrow Morn"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - One Lively Escutcheon"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Ignoring Irene"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Beef On The Hoof"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Man Behind"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Lost Yet Won"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Hunters Hunted"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - House Of Blocks"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - “Fortune Forevermore”"
+		}
+	]
+}

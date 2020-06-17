@@ -1,0 +1,118 @@
+{
+	"title": "The Fifth Ace",
+	"author": "Douglas GRANT",
+	"source": "http://www.gutenberg.org/cache/epub/23885/pg23885.txt",
+	"cmdline": [
+		"convtext",
+		"-title",
+		"The Fifth Ace",
+		"-author",
+		"Douglas GRANT",
+		"-chapters",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/23885/pg23885.txt"
+	],
+	"lastupdated": "2020-06-17T07:38:02Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Gentleman Geoff's Billie"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Superfluous Knight-Errant"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Coming Of El Negrito"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Gentleman Geoff Passes The Deal"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Gringo Cinderella"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Tia Juana's Cauldron Cools"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Alien Kin"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Willa Sits In"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Birds Of A Feather"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - An Ace In The Hole"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Change Of Front"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Coals Of Fire"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Challenge"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Knight Errant Once More"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Gone"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Pool Of The Lost Souls"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Angie Scores"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Midnight For Cinderella"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Vender Of Tomales"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Winnie Mason Stands By"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Return Of Tia Juana"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Where Trails Meet"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Slipper Of Cinderella"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Lost Souls' Treasure"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Into Her Own"
+		}
+	]
+}

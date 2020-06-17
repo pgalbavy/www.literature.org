@@ -57,7 +57,7 @@ func init() {
 
 	dashre = regexp.MustCompile(`[ _]`)
 
-	firstre = regexp.MustCompile(`(?mi)\A(?:the )project gutenberg(?: ebook of|'s| ebook,) ([\w\-' ]+),\s+by\s+([\w\-' ]+)\r?$`)
+	firstre = regexp.MustCompile(`(?mi)\A(?:the )?project gutenberg(?: ebook of|'s| ebook,) ([\w\-' ]+),\s+by\s+([\w\-' ]+)\,?\r?$`)
 
 	levels = make([]Level, 2, 5)
 
@@ -104,8 +104,9 @@ func main() {
 
 	flag.StringVar(&part.text, "parts", "Part", "Text for part level seperator - empty means ignore")
 
-	var skipto string
+	var skipto, skipafter string
 	flag.StringVar(&skipto, "skipto", "", "Skipto regexp before reading text")
+	flag.StringVar(&skipafter, "skipafter", "", "Skipafter regexp truncate text")
 	flag.IntVar(&maxtitle, "maxtitle", 60, "Max Title Length (when on another line)")
 	flag.StringVar(&writedir, "output", "", "Destination directory")
 
@@ -268,7 +269,7 @@ func main() {
 	// first check first line for Gutenberg title and author
 	
 	n := firstre.FindStringSubmatch(text)
-	//fmt.Printf("first line: %d -> %v\n", len(n), n)
+	fmt.Printf("first line: %d -> %v\n", len(n), n)
 	if len(n) == 3 {
 		if contents.Title == "" {
 			contents.Title = n[1]
@@ -289,6 +290,18 @@ func main() {
 		parts := re.Split(text, 2)
 		if len(parts) == 2 {
 			text = parts[1]
+		}
+	}
+
+	if skipafter != "" {
+		re, err := regexp.Compile(skipafter)
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		parts := re.Split(text, 2)
+		if len(parts) == 2 {
+			text = parts[0]
 		}
 	}
 
@@ -429,7 +442,7 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 		// strip annoying prefixes
 		spacere := regexp.MustCompile(`\s+`)
 		title = spacere.ReplaceAllString(title, " ")
-		title = strings.Trim(title, " .")
+		title = strings.Trim(title, " .-_—")
 
 		// convert
 		filename := fmt.Sprintf(fileprefix, cn) + ".html"
@@ -451,7 +464,7 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 			var c literature.Chapter
 			c.HREF = filename
 			c.Title = fmt.Sprintf(titleformat, cn)
-			title = strings.TrimRight(title, ".")
+			title = strings.Trim(title, " .-_—")
 			if len(title) > 0 {
 				c.Title += " - " + strings.Title(strings.ToLower(title))
 			}

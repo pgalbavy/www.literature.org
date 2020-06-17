@@ -1,0 +1,150 @@
+{
+	"title": "Shadow Mountain",
+	"author": "Dane COOLIDGE",
+	"source": "http://www.gutenberg.org/cache/epub/30574/pg30574.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/30574/pg30574.txt"
+	],
+	"lastupdated": "2020-06-17T08:21:56Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Last Of Ten Thousand"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Shotgun Widow"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Shadow"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Ghost-Man"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Load Of Buckshot"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - All Crazy"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Between Friends"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Tip"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Peace Talk"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Best Head In Town"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Touch"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Expert"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Sack Of Cats"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Explosion"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The God Of Ten Per Cent"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Show-Down With The Widow"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Peace--And The Price"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - On Christmas Day"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Enigma"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - An Appeal To Charley"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Dragon's Teeth"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Virginia Explains--Nothing"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - On Demand"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Double Trouble"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Virginia Repents"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - The Call"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - The Thunder Clap"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The Way Out"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Across Death Valley"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - An Evening With Socrates"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - The Broken Trust"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - A Huff"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - The Fiery Furnace"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - A Clean-Up"
+		}
+	]
+}

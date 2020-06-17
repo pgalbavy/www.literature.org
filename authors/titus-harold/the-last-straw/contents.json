@@ -1,0 +1,122 @@
+{
+	"title": "The Last Straw",
+	"author": "Harold TITUS",
+	"source": "http://www.gutenberg.org/cache/epub/36523/pg36523.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/36523/pg36523.txt"
+	],
+	"lastupdated": "2020-06-17T07:51:31Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The New Boss"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - My Advice, Ma'am"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Nester--And Another"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Champion"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Courting"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Outcasts"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Catamount"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - And Now, The Clergy"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Destroyer"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Matter Of Direction"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Hepburn's Play"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Neighborly Call"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Frame-Up"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Big Chance"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - War!"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Warning"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - His Faithful Little Pony"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - An Interrupted Proposal"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Concerning Sam Mckee"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - \"Work Among The Heathen\""
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Renunciation"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Reverend's Strategy"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Beck's Departure"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - In The Shadow"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - A Mountain Portia"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Battle!"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - The Last Straw"
+		}
+	]
+}

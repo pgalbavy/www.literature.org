@@ -1,0 +1,96 @@
+{
+	"title": "The La Chance Mine Mystery",
+	"author": "Susan Carleton JONES",
+	"source": "http://www.gutenberg.org/cache/epub/27209/pg27209.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"//p",
+		"-maxtitle",
+		"100",
+		"http://www.gutenberg.org/cache/epub/27209/pg27209.txt"
+	],
+	"lastupdated": "2020-06-17T07:46:51Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - I Come Home: And The Wolves Howl"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - My Dream: And Dudley's Girl"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Dudley's Mine: And Dudley's Gold"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Man In The Dark"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Caraquet Road: And The Wolves Howl Once More"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Mostly Wolves: And A Girl"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - I Find Little Enough On The Corduroy Road, And Less At Skunk's Misery"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Thompson!"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Tatiana Paulina Valenka!"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - I Interfere For The Last Time"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Macartney Hears A Noise: And I Find Four Dead Men"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Thompson's Cards: And Skunk's Misery"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Dead Man's Messenger"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Wolves--And Dudley"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Place Of Departed Spirits"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - In Collins's Care"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - High Explosive"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Lac Tremblant"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Skunk's Misery"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The End"
+		}
+	]
+}

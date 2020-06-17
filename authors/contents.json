@@ -3,7 +3,7 @@
 	"author": "",
 	"source": "",
 	"cmdline": null,
-	"lastupdated": "2020-06-17T06:32:38Z",
+	"lastupdated": "2020-06-17T08:34:57Z",
 	"chapters": [
 		{
 			"href": "aesop",
@@ -14,8 +14,20 @@
 			"title": "Louisa May ALCOTT"
 		},
 		{
+			"href": "ames-joseph-bushnell",
+			"title": "Joseph Bushnell AMES"
+		},
+		{
 			"href": "austen-jane",
 			"title": "Jane AUSTIN"
+		},
+		{
+			"href": "baily-waldron",
+			"title": "Waldron BAILY"
+		},
+		{
+			"href": "balzac-honore-de",
+			"title": "Honore de BALZAC"
 		},
 		{
 			"href": "barrie-james-matthew",
@@ -24,6 +36,10 @@
 		{
 			"href": "baum-l-frank",
 			"title": "L. Frank BAUM"
+		},
+		{
+			"href": "beecham-john-charles",
+			"title": "John Charles BEECHAM"
 		},
 		{
 			"href": "bronte-anne",
@@ -36,6 +52,10 @@
 		{
 			"href": "bronte-emily",
 			"title": "Emily BRONTË"
+		},
+		{
+			"href": "buck-charles-neville",
+			"title": "Charles Neville BUCK"
 		},
 		{
 			"href": "burroughs-edgar-rice",
@@ -58,6 +78,14 @@
 			"title": "Wilkie COLLINS"
 		},
 		{
+			"href": "coolidge-dane",
+			"title": "Dane COOLIDGE"
+		},
+		{
+			"href": "cooper-courtney-ryley",
+			"title": "Courtney Ryley COOPER"
+		},
+		{
 			"href": "crane-stephen",
 			"title": "Stephen CRANE"
 		},
@@ -74,10 +102,6 @@
 			"title": "Richard Harding DAVIS"
 		},
 		{
-			"href": "de-balzac-honore",
-			"title": "Honore de BALZAC"
-		},
-		{
 			"href": "defoe-daniel",
 			"title": "Daniel DEFOE"
 		},
@@ -88,6 +112,10 @@
 		{
 			"href": "dickens-charles",
 			"title": "Charles DICKENS"
+		},
+		{
+			"href": "dorrance-ethel-and-james",
+			"title": "Ethel and James DORRANCE"
 		},
 		{
 			"href": "dostoevsky-fyodor",
@@ -114,6 +142,14 @@
 			"title": "Kenneth GRAHAME"
 		},
 		{
+			"href": "grant-douglas",
+			"title": "Douglas GRANT"
+		},
+		{
+			"href": "greene-homer",
+			"title": "Homer GREENE"
+		},
+		{
 			"href": "hobbes-thomas",
 			"title": "Thomas HOBBES"
 		},
@@ -130,8 +166,16 @@
 			"title": "Thomas HUGHES"
 		},
 		{
+			"href": "jones-susan-carleton",
+			"title": "Susan Carleton JONES"
+		},
+		{
 			"href": "lawrence-david-herbert",
 			"title": "D. H. LAWRENCE"
+		},
+		{
+			"href": "leblanc-maurice",
+			"title": "Maurice LEBLANC"
 		},
 		{
 			"href": "london-jack",
@@ -174,6 +218,10 @@
 			"title": "Bram STOKER"
 		},
 		{
+			"href": "titus-harold",
+			"title": "Harold TITUS"
+		},
+		{
 			"href": "tolstoy-leo",
 			"title": "Leo TOLSTOY"
 		},
@@ -200,6 +248,10 @@
 		{
 			"href": "wilde-oscar",
 			"title": "Oscar WILDE"
+		},
+		{
+			"href": "williams-frank",
+			"title": "Frank WILLIAMS"
 		}
 	]
 }

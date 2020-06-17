@@ -1,0 +1,92 @@
+{
+	"title": "Bruce of the Circle A",
+	"author": "Harold TITUS",
+	"source": "http://www.gutenberg.org/cache/epub/39056/pg39056.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"//p",
+		"-skipafter",
+		"(?m)^The Beacon Biographies",
+		"http://www.gutenberg.org/cache/epub/39056/pg39056.txt"
+	],
+	"lastupdated": "2020-06-17T07:21:35Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Woman"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Some Men"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Lodger Next Door"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Revelation"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Clergy Of Yavapai"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - At The Circle A"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Tongues Wag"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Heart Speaks"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Lytton's Nemesis"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Whom God Hath Joined"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Story Of Abe"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Runaway"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Scourging"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Woman On Horseback"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Her Lord And Master"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Message On The Saddle"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The End Of The Vigil"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Fight"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Trails Unite"
+		}
+	]
+}

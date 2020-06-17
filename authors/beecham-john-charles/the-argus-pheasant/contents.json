@@ -1,0 +1,140 @@
+{
+	"title": "The Argus Pheasant",
+	"author": "John Charles BEECHAM",
+	"source": "http://www.gutenberg.org/cache/epub/37215/pg37215.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"//p",
+		"-skipafter",
+		"(?m)^THE WAR BOOK WITH A THRILL",
+		"http://www.gutenberg.org/cache/epub/37215/pg37215.txt"
+	],
+	"lastupdated": "2020-06-17T07:17:35Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Omniscient Sachsen"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Ah Sing Counts His Nails"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Peter Gross Is Named Resident"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Koyala's Prayer"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Sachsen's Warning"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Pirate League"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Mynheer Muller Worries"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Koyala's Warning"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Long Arm Of Ah Sing"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Captain Carver Signs"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Mynheer Muller's Dream"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Peter Gross's Reception"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Fever Antidote"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Koyala's Defiance"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Council"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Peter Gross's Pledge"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Poisoned Arrow"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Summons To Sadong"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Koyala's Ultimatum"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Lkath's Conversion"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Captured By Pirates"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - In The Temple"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Ah Sing's Vengeance"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - A Rescue"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Fight On The Beach"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - \"To Half Of My Kingdom--\""
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - A Woman Scorned"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The Attack On The Fort"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - A Woman's Heart"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - The Governor's Promise"
+		}
+	]
+}

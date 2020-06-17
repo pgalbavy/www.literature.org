@@ -1,0 +1,86 @@
+{
+	"title": "The Secret Tomb",
+	"author": "Maurice LEBLANC",
+	"source": "http://www.gutenberg.org/cache/epub/59072/pg59072.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/59072/pg59072.txt"
+	],
+	"lastupdated": "2020-06-17T08:14:28Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Château De Roborey"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Dorothy's Circus"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Extra-Lucid"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Cross-Examination"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - \"We Will Help You\""
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - On The Road"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Hour Draws Near"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - On The Iron Wire"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Face To Face"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Towards The Golden Fleece"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Will Of The Marquis De Beaugreval"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Elixir Of Resurrection"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Lazarus"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Fourth Medal"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Kidnaping Of Montfaucon"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Last Quarter Of A Minute"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Secret Perishes"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - In Robore Fortuna"
+		}
+	]
+}

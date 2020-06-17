@@ -1,0 +1,90 @@
+{
+	"title": "The Three Eyes",
+	"author": "Maurice LEBLANC",
+	"source": "http://www.gutenberg.org/cache/epub/34653/pg34653.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/34653/pg34653.txt"
+	],
+	"lastupdated": "2020-06-17T08:24:31Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Bergeronnette"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The \"Triangular Circles\""
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - An Execution"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Noël Dorgeroux's Son"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Kiss"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Anxieties"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Fierce-Eyed Man"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - \"Some One Will Emerge From The Darkness\""
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Man Who Emerged From The Darkness"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Crowd Sees"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Cathedral"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The \"Shapes\""
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Veil Is Lifted"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Massignac And Velmot"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Splendid Theory"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Where Lips Unite"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Supreme Visions"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Château De Pré-Bony"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Formula"
+		}
+	]
+}

@@ -1,0 +1,114 @@
+{
+	"title": "When the Cock Crows",
+	"author": "Waldron BAILY",
+	"source": "http://www.gutenberg.org/cache/epub/32116/pg32116.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/32116/pg32116.txt"
+	],
+	"lastupdated": "2020-06-17T08:33:59Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Ichabod's Island"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Among The Breakers"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A New Calamity"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Under The After Awning"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Prisoner Of Morphia"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Hunting A Clue"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Stormbound"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Efficiency Of Clam Broth"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Once In A Lifetime"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Eyes From The Deep"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Awakening Of Ichabod"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Toward The Unknown"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Among The Fisherfolk"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Garnet The Hero"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Adrift With A Madman"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Coming-Out Party"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Strangers At Ichabod's Island"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Call Of The Dark"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Bottled Up"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Truth Unalloyed"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Sealed Orders"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Parting Crow"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Search Up The Shore"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - A Gentleman's Promise"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Doing His Bit"
+		}
+	]
+}
