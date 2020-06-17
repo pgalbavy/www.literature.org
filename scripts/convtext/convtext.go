@@ -29,6 +29,7 @@ var blankline, end, dashre, firstre *regexp.Regexp
 var maxtitle int
 var writedir string
 var pdigits int
+var prename string
 
 // local struct to hold per-level config and vars
 // level[0] => chapters
@@ -101,7 +102,6 @@ func main() {
 	// include next paragraph (para) "p*|P"
 
 	flag.StringVar(&chap.text, "c", "Chapter", "Text for chapter level splits")
-
 	flag.StringVar(&part.text, "p", "Part", "Text for part level seperator - empty means ignore")
 
 	var skipto, skipafter string
@@ -110,6 +110,7 @@ func main() {
 	flag.IntVar(&maxtitle, "maxtitle", 60, "Max Title Length (when on another line)")
 	flag.StringVar(&writedir, "output", "", "Destination directory")
 
+	flag.StringVar(&prename, "pre", "", "Rename chapter-00 to this")
 	flag.Parse()
 
 	optre := regexp.MustCompile(`([^/]*)+(/.*/(\w+)*)?`)
@@ -428,14 +429,6 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 					part = paras[2]
 				}
 			}
-		} else {
-			//			if n == 3 {
-			// default is to reunite last two parts
-			//				part = paras[1] + "\n\n" + paras[2]
-			//			}
-
-			// put next para back in text
-			// part = strings.Join(paras[1:], "\n\n")
 		}
 
 		// strip annoying prefixes
@@ -445,6 +438,9 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 
 		// convert
 		filename := fmt.Sprintf(fileprefix, cn) + ".html"
+		if (cn == 0 && prename != "") {
+			filename = strings.ToLower(prename) + ".html"
+		}
 
 		if len(part) > 0 {
 			html, _ := txt2html(part)
@@ -461,17 +457,21 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 			w.Close()
 		}
 
-		if pn != 0 && partnum != 0 {
+		if (pn != 0 && partnum != 0) || (partnum < 2 && prename != "") {
 			// update contents
 			var c literature.Chapter
 			c.HREF = filename
-			c.Title = fmt.Sprintf(titleformat, cn)
-			title = strings.Trim(title, " .-_—")
-			if len(title) > 0 {
-				c.Title += " - " + strings.Title(strings.ToLower(title))
-				// revert 'S and 'T etc.
-				re := regexp.MustCompile(`[[:alpha:]]'[[:upper:]]`)
-				c.Title = re.ReplaceAllStringFunc(c.Title, strings.ToLower)
+			if (cn == 0 && prename != "") {
+				c.Title = prename
+			} else {
+				c.Title = fmt.Sprintf(titleformat, cn)
+				title = strings.Trim(title, " .-_—")
+				if len(title) > 0 {
+					c.Title += " - " + strings.Title(strings.ToLower(title))
+					// revert 'S and 'T etc.
+					re := regexp.MustCompile(`[[:alpha:]]'[[:upper:]]`)
+					c.Title = re.ReplaceAllStringFunc(c.Title, strings.ToLower)
+				}
 			}
 			contents.Chapters = append(contents.Chapters, c)
 		}
