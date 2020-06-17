@@ -1,0 +1,94 @@
+{
+	"title": "The Tale of Jimmy Rabbit",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/24628/pg24628.txt",
+	"cmdline": [
+		"convtext",
+		"-c",
+		"/^\\d+\\s*$/",
+		"http://www.gutenberg.org/cache/epub/24628/pg24628.txt"
+	],
+	"lastupdated": "2020-06-17T13:27:19Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Jimmy Finds A New Tail"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Troublesome Mr. Mink"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - May Baskets"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Making Somebody Happy"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The New Wheelbarrow"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Narrow Escape"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Fast Runner"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Great Race"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Playing Leap-Frog"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Tooth Puller"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Slight Dispute"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Strange Man"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Mr. Crow's Picture"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Boy Lost!"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Telling Fortunes"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Red Leggins"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Rabbits' Ball"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Dance Without Music"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Jimmy Grows Too Cheeky"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Queer Cure"
+		}
+	]
+}

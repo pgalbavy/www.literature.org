@@ -1,0 +1,98 @@
+{
+	"title": "The Tale of Jasper Jay",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/21836/pg21836.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"^THE TALE OF JASPER JAY",
+		"http://www.gutenberg.org/cache/epub/21836/pg21836.txt"
+	],
+	"lastupdated": "2020-06-17T13:22:55Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Noisy Rogue"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Blow For The Bully"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Strange Cry"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Jasper's Boast"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Search"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Joke On Jasper Jay"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Scaring The Hens"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Bit Of Mischief"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Jasper Has To Hide"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Nutting Party"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Stroke Of Luck"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Solomon Owl's Eyes"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Teasing A Singer"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Finding A Way"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Invitation"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Singing Society"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Jasper Is Ashamed"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Enemies"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Cold Feet"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Getting Rid Of Jasper"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Two Rascals Caught"
+		}
+	]
+}

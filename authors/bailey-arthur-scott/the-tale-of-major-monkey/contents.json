@@ -1,0 +1,106 @@
+{
+	"title": "The Tale of Major Monkey",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/18626/pg18626.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"^The Tale of Major Monkey",
+		"http://www.gutenberg.org/cache/epub/18626/pg18626.txt"
+	],
+	"lastupdated": "2020-06-17T13:54:11Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Strange Whispers"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - No 'Possum"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Getting Acquainted"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Wanted--A Lodging"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Meeting Major Monkey"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Too Many Disputes"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Major Has A Pain"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Secret"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Major Has A Plan"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The New Army"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - War In The Woods"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Over And Under"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Major Hesitates"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Throwing Stones"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Retreat"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Major's Trouble"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Major Monkey Confesses"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Planning A Journey"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Major's Scheme"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Fast Ride"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Sweet Tooth"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Caught!"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Major Goes South"
+		}
+	]
+}

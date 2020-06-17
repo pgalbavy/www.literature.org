@@ -1,0 +1,100 @@
+{
+	"title": "A Room With A View",
+	"author": "E. M. FORSTER",
+	"source": "https://www.gutenberg.org/files/2641/2641-0.txt",
+	"cmdline": [
+		"convtext",
+		"-p",
+		"Part/(?i)^part (one|two)/",
+		"-skipto",
+		"(?m)^XX\\.",
+		"https://www.gutenberg.org/files/2641/2641-0.txt"
+	],
+	"lastupdated": "2020-06-17T13:01:43Z",
+	"chapters": [
+		{
+			"href": "part-01-chapter-01.html",
+			"title": "Part 1 - Chapter 1 - The Bertolini"
+		},
+		{
+			"href": "part-01-chapter-02.html",
+			"title": "Part 1 - Chapter 2 - In Santa Croce With No Baedeker"
+		},
+		{
+			"href": "part-01-chapter-03.html",
+			"title": "Part 1 - Chapter 3 - Music, Violets, And The Letter “s”"
+		},
+		{
+			"href": "part-01-chapter-04.html",
+			"title": "Part 1 - Chapter 4 - Fourth Chapter"
+		},
+		{
+			"href": "part-01-chapter-05.html",
+			"title": "Part 1 - Chapter 5 - Possibilities Of A Pleasant Outing"
+		},
+		{
+			"href": "part-01-chapter-06.html",
+			"title": "Part 1 - Chapter 6 - The Reverend Arthur Beebe... Drive Out In Carriages To See A View; Italians Drive Them"
+		},
+		{
+			"href": "part-01-chapter-07.html",
+			"title": "Part 1 - Chapter 7 - They Return"
+		},
+		{
+			"href": "part-02-chapter-08.html",
+			"title": "Part 2 - Chapter 8 - Medieval"
+		},
+		{
+			"href": "part-02-chapter-09.html",
+			"title": "Part 2 - Chapter 9 - Lucy As A Work Of Art"
+		},
+		{
+			"href": "part-02-chapter-10.html",
+			"title": "Part 2 - Chapter 10 - Cecil As A Humourist"
+		},
+		{
+			"href": "part-02-chapter-11.html",
+			"title": "Part 2 - Chapter 11 - In Mrs. Vyse’s Well-Appointed Flat"
+		},
+		{
+			"href": "part-02-chapter-12.html",
+			"title": "Part 2 - Chapter 12 - Twelfth Chapter"
+		},
+		{
+			"href": "part-02-chapter-13.html",
+			"title": "Part 2 - Chapter 13 - How Miss Bartlett’s Boiler Was So Tiresome"
+		},
+		{
+			"href": "part-02-chapter-14.html",
+			"title": "Part 2 - Chapter 14 - How Lucy Faced The External Situation Bravely"
+		},
+		{
+			"href": "part-02-chapter-15.html",
+			"title": "Part 2 - Chapter 15 - The Disaster Within"
+		},
+		{
+			"href": "part-02-chapter-09.html",
+			"title": "Part 2 - Chapter 9 - Two Was Found, And She Glanced At Its Opening Sentences"
+		},
+		{
+			"href": "part-02-chapter-16.html",
+			"title": "Part 2 - Chapter 16 - Lying To George"
+		},
+		{
+			"href": "part-02-chapter-17.html",
+			"title": "Part 2 - Chapter 17 - Lying To Cecil"
+		},
+		{
+			"href": "part-02-chapter-18.html",
+			"title": "Part 2 - Chapter 18 - Lying To Mr. Beebe, Mrs. Honeychurch, Freddy, And The Servants"
+		},
+		{
+			"href": "part-02-chapter-19.html",
+			"title": "Part 2 - Chapter 19 - Lying To Mr. Emerson"
+		},
+		{
+			"href": "part-02-chapter-20.html",
+			"title": "Part 2 - Chapter 20 - The End Of The Middle Ages"
+		}
+	]
+}

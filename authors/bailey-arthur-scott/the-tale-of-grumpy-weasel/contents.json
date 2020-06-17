@@ -1,0 +1,118 @@
+{
+	"title": "The Tale of Grumpy Weasel",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/24881/pg24881.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"(?m)^THE TALE OF GRUMPY WEASEL",
+		"http://www.gutenberg.org/cache/epub/24881/pg24881.txt"
+	],
+	"lastupdated": "2020-06-17T13:15:53Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Slim Rascal"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - At The Old Stone Wall"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Master Robin's Lesson"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Hunting A Hole"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Solomon Owl Interrupts"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Mr. Meadow Mouse Escapes"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Paddy Muskrat's Blunder"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Dare"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Saving His Feet"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Ha! And Ha, Ha!"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Long Race"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Winning By A Trick"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Silly Mrs. Hen"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Grumpy Vanishes"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Great Mystery"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Guarding The Corncrib"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Grumpy's Mistake"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Pop! Goes The Weasel"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Hiding From Henry Hawk"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Free Ride"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A New Suit"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Grumpy's Threat"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Bold Stranger"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Fur And Feathers"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Peter Mink's Promise"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - How Grumpy Helped"
+		}
+	]
+}

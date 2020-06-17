@@ -1,0 +1,110 @@
+{
+	"title": "The Tale of Pony Twinkleheels",
+	"author": "ARTHUR",
+	"source": "http://www.gutenberg.org/cache/epub/18656/pg18656.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"^XXIV",
+		"http://www.gutenberg.org/cache/epub/18656/pg18656.txt"
+	],
+	"lastupdated": "2020-06-17T14:42:33Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Big Little Pony"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Fun In The Pasture"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Tricking Twinkleheels"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Cheater Cheated"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Flying Feet"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Picking Currants"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Caught!"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Good Sleeper"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Race"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Ebenezer's Record"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Bright And Broad"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - No School To-Day"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Fun And Grumbles"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Stuck In A Drift"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Stepping High"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Blacksmith's Shop"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A White Vixen"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - New Shoes"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Thrashing Time"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Mealy Nose"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Jumping Mud Puddles"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Circus Rider"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Going Fishing"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Boys Will Be Boys"
+		}
+	]
+}

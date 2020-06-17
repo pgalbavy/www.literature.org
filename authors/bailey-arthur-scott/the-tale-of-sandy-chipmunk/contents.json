@@ -1,0 +1,90 @@
+{
+	"title": "The Tale of Sandy Chipmunk",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/9462/pg9462.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"^THE TALE OF SANDY CHIPMUNK",
+		"http://www.gutenberg.org/cache/epub/9462/pg9462.txt"
+	],
+	"lastupdated": "2020-06-17T14:53:09Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Sandy's Name"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Something In The Sky"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Broken Egg"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Building A House"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Mrs. Chipmunk Is Glad"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Samples Of Wheat"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Uncle Sammy's Store"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Basket Of Corn"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Working For Mr. Crow"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Mr. Crow Scolds Sandy"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Mail-Box"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Sandy Gets A Letter"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Ride To The Miller's"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Lucky Accident"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Rowdy Of The Woods"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Rowdy Runs Away"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Corn-Planting Time"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Sandy Likes Milk"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - What The Old Cow Did"
+		}
+	]
+}

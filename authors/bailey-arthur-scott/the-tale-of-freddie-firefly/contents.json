@@ -1,0 +1,106 @@
+{
+	"title": "The Tale of Freddie Firefly",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/5727/pg5727.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"(?m)^FREDDIE WAS BUMPED INTO BY JENNIE JUNEBUG",
+		"http://www.gutenberg.org/cache/epub/5727/pg5727.txt"
+	],
+	"lastupdated": "2020-06-17T12:37:05Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Merry Dancer"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Fine Plan"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Freddie Agrees To Help"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Getting Ready"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - At The Stone Wall"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Banners"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Torchlight Parade"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Buster's Scheme"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Freddie's Promise"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Drawing Lots"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Peppery Polly"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Terrible Song"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Caught By A Thistle"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Jennie Junebug"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Fat Lady's Secret"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Freddie's Escape"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Bad Benjamin Bat"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Pleasing Farmer Green"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Benjamin Feels Guilty"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Mrs. Ladybug's Advice"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - All About Trains"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Work On The Railroad"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Why Freddie Was Glad"
+		}
+	]
+}

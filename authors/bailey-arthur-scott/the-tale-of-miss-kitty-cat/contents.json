@@ -1,0 +1,110 @@
+{
+	"title": "The Tale of Miss Kitty Cat",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/21078/pg21078.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"^MISS KITTY CAT GUARDS HER KITTENS",
+		"http://www.gutenberg.org/cache/epub/21078/pg21078.txt"
+	],
+	"lastupdated": "2020-06-17T14:10:35Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Terrible Person"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Dog Spot's Plans"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Chasing Miss Kitty"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Tender Nose"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Spots And Speckles"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Beechnut Shucks"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Two In A Tree"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Nine Lives"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Stolen Cream"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Creamy Face"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Wrens' Home"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Jolly Robin's News"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - An Unwelcome Guest"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Catcalls"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Mousetraps"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Midnight Meal"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Eavesdropper"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Kidnapped"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Strange Quarters"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Long Journey"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - In The Pantry"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Flour Barrel"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Secret"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Five In A Basket"
+		}
+	]
+}

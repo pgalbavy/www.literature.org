@@ -1,0 +1,110 @@
+{
+	"title": "The Tale of Master Meadow Mouse",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/24872/pg24872.txt",
+	"cmdline": [
+		"convtext",
+		"-c",
+		"/^\\d+\\s*$/",
+		"http://www.gutenberg.org/cache/epub/24872/pg24872.txt"
+	],
+	"lastupdated": "2020-06-17T14:08:49Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Fat Little Fellow"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Peep At The World"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Kitten"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Pleasant Stranger"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Mr. Frog Insists"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Meeting Mr. Crow"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Nothing But Air"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Moses Mouse"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Miss Snooper"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Handy Sign"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Castle In The Air"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Midnight Frolic"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Moonlight Raid"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Masked Bandit"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Flood"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - On The Raft"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Lucky Escape"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Under The Snow"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Owl Friends"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Eating A Tree"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Cold Dip"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Fishing For Mice"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Moving Day"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Master Or Mister?"
+		}
+	]
+}

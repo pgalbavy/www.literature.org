@@ -1,0 +1,112 @@
+{
+	"title": "The Tale of Snowball Lamb",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/24592/pg24592.txt",
+	"cmdline": [
+		"convtext",
+		"-a",
+		"Arthur Scott BAILEY",
+		"-skipto",
+		"XXIV",
+		"http://www.gutenberg.org/cache/epub/24592/pg24592.txt"
+	],
+	"lastupdated": "2020-06-17T14:54:03Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Black And White"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Ride To Town"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Mrs. Hen Tells Tales"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - School Begins"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Promised Treat"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Mr. Crow Explains"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Warning The Flock"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Salting The Sheep"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Circus Tricks"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Tiger"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Cracked Corn"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Accident"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Follow My Leader"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Teasing Uncle Jerry"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Uncle Jerry Objects"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Aunt Nancy's Plan"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Terrible Mix-Up"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Swing"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Wrong Target"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Swimming Hole"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Ducking"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - A Great Joke"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Mystery"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Half And Half"
+		}
+	]
+}

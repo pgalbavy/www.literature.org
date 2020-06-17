@@ -1,0 +1,112 @@
+{
+	"title": "The Tale of Old Dog Spot",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/30667/pg30667.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"^THE TALE OF OLD DOG SPOT",
+		"-skipafter",
+		"^THE END",
+		"http://www.gutenberg.org/cache/epub/30667/pg30667.txt"
+	],
+	"lastupdated": "2020-06-17T14:22:23Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Almost Twins"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Teasing The Cat"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Wild Dog"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Woodpile"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Deep Secret"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Buried Treasure"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Swimming"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - What Red Did"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Bundle Of Clothes"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Dropping Hints"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Mrs. Green's Mistake"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Righting A Wrong"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Hunting"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Missing His Master"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Basketful Of Fun"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Mrs. Woodchuck Runs"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Danger Signal"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Crowded House"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Off For The Circus"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Spot Goes To Town"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Circus Parade"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Circus Grounds"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Spot Sees The Show"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Home Again"
+		}
+	]
+}

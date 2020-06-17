@@ -1,0 +1,104 @@
+{
+	"title": "The Tale of Timothy Turtle",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/20716/pg20716.txt",
+	"cmdline": [
+		"convtext",
+		"http://www.gutenberg.org/cache/epub/20716/pg20716.txt"
+	],
+	"lastupdated": "2020-06-17T14:57:18Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Famous Biter"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - An Old-Timer"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Timothy's Grudge"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Tight Squeeze"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Mr. Turtle's Mistake"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Mr. Crow's Kind Offer"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Learning To Fly"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Turning Turtle"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Pleasure Trip"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Warning"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - On The Beaver Dam"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Kind Timothy Turtle"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Plot"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Caught!"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Redskins' Way"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Johnnie Green's Initials"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Timothy Needs Help"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Peter Mink's Plan"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Careful Mr. Frog"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Almanac"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Queer Wish"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Unwelcome Guest"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Merry Song"
+		}
+	]
+}

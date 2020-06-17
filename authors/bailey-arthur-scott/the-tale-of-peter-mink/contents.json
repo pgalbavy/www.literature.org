@@ -1,0 +1,92 @@
+{
+	"title": "The Tale of Peter Mink",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/21845/pg21845.txt",
+	"cmdline": [
+		"convtext",
+		"-c",
+		"/^[[:upper:]][[:upper:][:space:]\\.'?]+$/Ntk",
+		"-skipto",
+		"^THE TALE OF PETER MINK",
+		"http://www.gutenberg.org/cache/epub/21845/pg21845.txt"
+	],
+	"lastupdated": "2020-06-17T14:41:03Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - How Peter Was Different"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Sawing Wood"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Making Peter Work"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Lecture"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Passing The Hat"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Mr. Rabbit Is Worried"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Peter's Bad Temper"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - At The Garden Party"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Helping Jimmy Rabbit"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - What Could Peter Do?"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Circus Parade"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Peter Learns A New Word"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Good News About Peter"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Uncle Jerry Helps"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Peter's New Coat"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Duck Pond"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - How To Be Lucky"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Bargain"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Settling A Dispute"
+		}
+	]
+}

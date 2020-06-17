@@ -1,0 +1,106 @@
+{
+	"title": "The Tale of Kiddie Katydid",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/24608/pg24608.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"XXIII",
+		"http://www.gutenberg.org/cache/epub/24608/pg24608.txt"
+	],
+	"lastupdated": "2020-06-17T13:29:43Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Great Secret"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Warning"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Mr. Nighthawk"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Whining Caller"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Solomon Owl's Cry"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Freddie Firefly's Discovery"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Freddie Wants To Tell"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Spreading The News"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Mr. Frog Is Pleased"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Pair Of Rascals"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Change In The Weather"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Present For Kiddie"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Kiddie Katydid Is Shy"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Kiddie Keeps His Promise"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Benjamin Bat's Plan"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Noisy Crowd"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Kitty Did!"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Two Grasshoppers"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Quarrel"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Stranger's Message"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Leaper The Locust Is Worried"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Short-Horns Arrive"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Best Of Friends"
+		}
+	]
+}

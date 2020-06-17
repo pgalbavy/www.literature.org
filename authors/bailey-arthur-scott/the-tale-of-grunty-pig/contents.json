@@ -1,0 +1,110 @@
+{
+	"title": "The Tale of Grunty Pig",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/24731/pg24731.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"(?m)XXIV",
+		"http://www.gutenberg.org/cache/epub/24731/pg24731.txt"
+	],
+	"lastupdated": "2020-06-17T13:18:57Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Runt"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A New Way To Eat"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Loose Board"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Wide, Wide World"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Sixes And Sevens"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Mr. Crow Helps"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Grumbler"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Fearful News"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Great Adventure"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Queer Bear"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Locked Out"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Woof!"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Home At Last"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - An Odd Thought"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Grunty Means Mischief"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Danger Ahead"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Puzzle Solved"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Luckiest Of All"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Dog Spot's Plan"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A New Kind Of Pig"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Beechnuts"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Jasper Jay Objects"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Moses Mouse's Way"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - A Pig In The Parlor"
+		}
+	]
+}

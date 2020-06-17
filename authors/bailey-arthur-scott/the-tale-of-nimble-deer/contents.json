@@ -1,0 +1,110 @@
+{
+	"title": "The Tale of Nimble Deer",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/21619/pg21619.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"^THE TALE OF",
+		"http://www.gutenberg.org/cache/epub/21619/pg21619.txt"
+	],
+	"lastupdated": "2020-06-17T14:20:36Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Spotted Fawn"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Learning Things"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - An Interrupted Nap"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Planning A Picnic"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Nimble's Mistake"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - An Unexpected Party"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Strange Light"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Mrs. Deer Explains"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Spike Horn"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - At The Carrot Patch"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Cuffy And The Cave"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Cuffy Is Missing"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Cuffy Bear Wakens"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Antlers"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Mock Battle"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Mr. Crow Looks On"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - What Brownie Wanted"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Muley Cow"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Jumping Contest"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Solving A Problem"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - An Untold Secret"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The New Hat-Rack"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - How Nimble Helped"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Uncle Jerry Chuck"
+		}
+	]
+}

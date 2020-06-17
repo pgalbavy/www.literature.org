@@ -1,0 +1,108 @@
+{
+	"title": "The Tale of the The Muley Cow",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/24545/pg24545.txt",
+	"cmdline": [
+		"convtext",
+		"http://www.gutenberg.org/cache/epub/24545/pg24545.txt"
+	],
+	"lastupdated": "2020-06-17T14:56:20Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Johnnie Green's Favorite"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Why Johnnie Hurried"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Working For A Prize"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Owning A Boy"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Friendly Scarecrow"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Buffalo Hunts"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Little Surprise"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - It Was A Bear"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Wearing A Poke"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Slight Mistake"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Unruly Muley"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Cowbirds"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Truth Will Out"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Muskrats' Warning"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Carrying A Message"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Clover Tops"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - No Help From Spot"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - One Apple Too Many"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Question Of Luck"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Good Corn Wasted"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Brave Deed"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Trying To Be Fierce"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Vow Of A Cow"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Humbugs"
+		}
+	]
+}

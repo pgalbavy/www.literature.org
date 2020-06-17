@@ -1,0 +1,108 @@
+{
+	"title": "The Tale of Rusty Wren",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/25824/pg25824.txt",
+	"cmdline": [
+		"convtext",
+		"-a",
+		"Arthur Scott BAILEY",
+		"-skipto",
+		"XXIII",
+		"http://www.gutenberg.org/cache/epub/25824/pg25824.txt"
+	],
+	"lastupdated": "2020-06-17T14:51:26Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Pleasant Home"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Johnnie Green's Idea"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Alarm Clock"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Rusty Is Jealous"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The New Bird"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Mr. Crow To The Rescue"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Neat Housekeeper"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Rusty In Trouble"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - All's Well Again"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Bad News"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Noise On The Roof"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Unwelcome Visitor"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Boy Wanted!"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Too Many Callers"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Mr. Chippy's Son"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Accident"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Help! Help!"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Puzzle"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Friend, Indeed"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - An Invitation"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Off To Black Creek"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Forgotten Guest"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Strange Mistake"
+		}
+	]
+}

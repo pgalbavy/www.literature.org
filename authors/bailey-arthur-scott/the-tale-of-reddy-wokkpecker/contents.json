@@ -1,0 +1,114 @@
+{
+	"title": "The Tale of Reddy Wokkpecker",
+	"author": "Arthur Scott BAILEY",
+	"source": "https://www.gutenberg.org/files/43447/43447-0.txt",
+	"cmdline": [
+		"convtext",
+		"-t",
+		"The Tale of Reddy Wokkpecker",
+		"-a",
+		"Arthur Scott Bailey",
+		"-c",
+		"/^\\s+\\[IVX]+\\/p",
+		"https://www.gutenberg.org/files/43447/43447-0.txt"
+	],
+	"lastupdated": "2020-06-17T14:44:54Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Mrs. Robin’s News"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Getting Acquainted"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Morning Tattoos"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The High-Hole"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Too Much Cousin"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Mr. Flicker’s Plans"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Two Neighbors"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - An Early Call"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Mrs. Robin Worries"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Obeying Orders"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Very Short Fight"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Jolly Robin’s Helper"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Carpenter"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Mr. Crow’s Questions"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Redcaps"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Sly Trick"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Hunting Party"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Big Appetite"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Who Was Greedy?"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Catching Flies"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Odd Mr. Frog"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Dodging Danger"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Beechnuts"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Winter’s Store"
+		}
+	]
+}

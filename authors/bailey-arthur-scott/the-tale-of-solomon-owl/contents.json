@@ -1,0 +1,106 @@
+{
+	"title": "The Tale of Solomon Owl",
+	"author": "Arthur Scott BAILEY",
+	"source": "https://www.gutenberg.org/files/16663/16663-0.txt",
+	"cmdline": [
+		"convtext",
+		"-t",
+		"The Tale of Solomon Owl",
+		"-a",
+		"Arthur Scott BAILEY",
+		"-skipto",
+		"XXII",
+		"https://www.gutenberg.org/files/16663/16663-0.txt"
+	],
+	"lastupdated": "2020-06-17T14:55:32Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Scaring Johnny Green"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Newcomer"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Solomon Likes Frogs"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - An Odd Bargain"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Cold Weather Coat"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Solomon Needs A Change"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Blazing Eyes"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Watching The Chickens"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Hallowe’en"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Troublesome Wishbone"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Cured At Last"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Benjamin Bat"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Lucky Guest"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Hanging By The Heels"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Disputes Settled"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Nine Fights"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Cousin Simon Screecher"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Xviii - A Cousinly Quarrel"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Sleet Storm"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Pair Of Red-Heads"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - At Home In The Haystack"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - It Was Solomon’s Fault"
+		}
+	]
+}

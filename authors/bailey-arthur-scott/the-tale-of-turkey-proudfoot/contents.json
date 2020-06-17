@@ -1,0 +1,110 @@
+{
+	"title": "The Tale of Turkey Proudfoot",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/21844/pg21844.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"XXIV",
+		"http://www.gutenberg.org/cache/epub/21844/pg21844.txt"
+	],
+	"lastupdated": "2020-06-17T14:59:33Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Strutter"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Silly Six"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Meddler"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Scaring The Geese"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Safe Perch"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Mimic"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Half Wrong"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Hard To Please"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Strange Gobble"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Worm Turns"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Bluster"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Mr. Crow's News"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The New Pet"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Proud Person"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Mrs. Wren's Advice"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Drumming On A Log"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Game Bird"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Red Lightning"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Night In The Woods"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Beaks And Bills"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Farmyard Manners"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Cranberry Sauce"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Vacation Time"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Brother Tom"
+		}
+	]
+}

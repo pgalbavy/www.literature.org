@@ -1,0 +1,110 @@
+{
+	"title": "The Tale of Henrietta Hen",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/18652/pg18652.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"(?m)^THE TALE OF HENRIETTA HEN",
+		"http://www.gutenberg.org/cache/epub/18652/pg18652.txt"
+	],
+	"lastupdated": "2020-06-17T13:20:11Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Speckled Beauty"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Fine Family"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Wet Feet"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Swimmer"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Caught By Mr. Crow"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Henrietta Complains"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Warning The Rooster"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Why The Rooster Crowed"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Haughty Henrietta"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Big, White Egg"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Old Whitey's Advice"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Playing Tricks"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Two In A Garden"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Ears--Short Or Long"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Henrietta's Fright"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Rooster Upset"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Sign Of Rain"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - In Need Of Advice"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Aunt Polly Helps"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Great Flurry"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Off For The Fair"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Almost Homesick"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Getting Acquainted"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Winning First Prize"
+		}
+	]
+}

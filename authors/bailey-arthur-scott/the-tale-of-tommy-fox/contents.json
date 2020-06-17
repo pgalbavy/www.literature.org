@@ -1,0 +1,98 @@
+{
+	"title": "The Tale of Tommy Fox",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/5955/pg5955.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"^XVIII",
+		"http://www.gutenberg.org/cache/epub/5955/pg5955.txt"
+	],
+	"lastupdated": "2020-06-17T14:58:30Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Tommy Enjoys Himself"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Johnnie Green Goes Hunting"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Tommy Fox Learns To Hunt"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Mother Grouse's Children"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Tommy Fox Is Hungry"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Mr. Gray Squirrel's Mistake"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Tommy Chases Mr. Woodchuck"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Something Makes Tommy Very Proud"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Tommy Fox In Trouble"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Mrs. Fox Outwits Dog Spot"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Tommy Grows Too Careless"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Old Mr. Crow Is Pleased"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Johnnie Green And His New Pet"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Tommy Fox Makes A Strange Friend"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Johnnie Green Feels Sad"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Tommy Becomes Boastful"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Paying A Call On A Friend"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The World Turns White"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Tommy Fox Learns A New Trick"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Drummer Of The Woods"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Biggest Surprise Of All"
+		}
+	]
+}

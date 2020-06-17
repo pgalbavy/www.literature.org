@@ -3,7 +3,7 @@
 	"author": "",
 	"source": "",
 	"cmdline": null,
-	"lastupdated": "2020-06-17T12:08:32Z",
+	"lastupdated": "2020-06-17T14:43:00Z",
 	"chapters": [
 		{
 			"href": "aesop",
@@ -18,12 +18,20 @@
 			"title": "Joseph Bushnell AMES"
 		},
 		{
+			"href": "arthur",
+			"title": "ARTHUR"
+		},
+		{
 			"href": "austen-jane",
 			"title": "Jane AUSTIN"
 		},
 		{
 			"href": "bailey-arthur-scott",
 			"title": "Arthur Scott BAILEY"
+		},
+		{
+			"href": "bailey-authur-scott",
+			"title": "Authur Scott BAILEY"
 		},
 		{
 			"href": "baily-waldron",
@@ -136,6 +144,10 @@
 		{
 			"href": "eliot-george",
 			"title": "George ELIOT"
+		},
+		{
+			"href": "forster-e-m",
+			"title": "E. M. FORSTER"
 		},
 		{
 			"href": "gilman-charlotte-perkins",

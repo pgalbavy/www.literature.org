@@ -1,0 +1,106 @@
+{
+	"title": "The Tale of Jolly Robin",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/28293/pg28293.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"XXIII",
+		"http://www.gutenberg.org/cache/epub/28293/pg28293.txt"
+	],
+	"lastupdated": "2020-06-17T13:28:42Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Nestlings"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Learning To Fly"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Wide, Wide World"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - What Jolly Did Best"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Laughing For Mr. Crow"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Tickling A Nose"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A New Way To Travel"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Jolly Is Left Behind"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Jolly's Mistake"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The White Giant"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - What A Snowball Did"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Jolly Feels Better"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Hermit"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - One Or Two Blunders"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Lost--A Cousin!"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Jealous Jasper Jay"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Only A Rooster"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - On Top Of The Barn"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Curious Mr. Crow"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Four-Armed Man"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Doleful Ditty"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Shocking Manners"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Cold Greeting"
+		}
+	]
+}
