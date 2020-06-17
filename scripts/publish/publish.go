@@ -134,9 +134,14 @@ func main() {
 	// at this point all the files are in place
 	// now check linkage in parent contents.json files
 	var topjson, authorjson literature.Contents
+	var changelog []literature.Changelog
 
 	// first, does the author already exist ?
 	literature.ReadJSON(filepath.Join(rootdir, "authors", "contents.json"), &topjson)
+	err = literature.ReadJSON(filepath.Join(rootdir, "changelog.json"), &changelog)
+	if err != nil {
+		changelog = make([]literature.Changelog, 1)
+	}
 
 	var authorindex int = -1
 	for i, entry := range topjson.Chapters {
@@ -145,16 +150,22 @@ func main() {
 		}
 	}
 	if authorindex == -1 {
+		last := time.Now().UTC().Format(time.RFC3339)
+
 		newauthor := literature.Chapter{ HREF: author, Title: contents.Author }
 		topjson.Chapters = append(topjson.Chapters, newauthor)
+
+		newchangelog := literature.Changelog{ HREF: author, Title: contents.Author, LastUpdated: last }
+		changelog = append(changelog, newchangelog)
 		sort.Slice(topjson.Chapters, func(i, j int) bool {
 			// sort by directory names
 			return topjson.Chapters[i].HREF < topjson.Chapters[j].HREF
 		})
 		// write out new top level contents.json
-		topjson.LastUpdated = time.Now().UTC().Format(time.RFC3339)
+		topjson.LastUpdated = last
 		topjson.Title = "Authors"
 		literature.WriteJSON(filepath.Join(rootdir, "authors", "contents.json"), topjson)
+		literature.WriteJSON(filepath.Join(rootdir, "changelog.json"), changelog)
 		//i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
 		//ioutil.WriteFile(filepath.Join(rootdir, "authors", index), i, 0644)
 	}

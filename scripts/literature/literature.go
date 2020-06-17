@@ -22,6 +22,12 @@ type Chapter struct {
 	Title		string		`json:"title"`
 }
 
+type Changelog struct {
+	HREF		string		`json:"href"`
+	Title		string		`json:"title"`
+	LastUpdated	string		`json:"lastupdated"`
+}
+
 type Config struct {
 	Rootdir		string		`json:"rootdir"`
 }
