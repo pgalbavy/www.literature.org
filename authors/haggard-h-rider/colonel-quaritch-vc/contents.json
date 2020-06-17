@@ -1,0 +1,194 @@
+{
+	"title": "Colonel Quaritch, V.C.",
+	"author": "H. Rider HAGGARD",
+	"source": "http://www.gutenberg.org/cache/epub/11882/pg11882.txt",
+	"cmdline": [
+		"convtext",
+		"-t",
+		"Colonel Quaritch, V.C.",
+		"-a",
+		"H. Rider HAGGARD",
+		"-c",
+		"/^\\s+CHAPTER\\s/p",
+		"http://www.gutenberg.org/cache/epub/11882/pg11882.txt"
+	],
+	"lastupdated": "2020-06-17T15:41:55Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Harold Quaritch Meditates"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Colonel Meets The Squire"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Tale Of Sir James De La Molle"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The End Of The Tale"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Squire Explains The Position"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Lawyer Quest"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Edward Cossey, Esquire"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Mr. Quest's Wife"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Shadow Of Ruin"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Tennis Party"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Ida's Bargain"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - George Prophesies"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - About Art"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Tiger Shows Her Claws"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Happy Days"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The House With The Red Pillars"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Tigress In Her Den"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - \"What Some Have Found So Sweet\""
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - In Pawn"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - \"Good-Bye To You, Edward\""
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Colonel Goes Out Shooting"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The End Of The Match"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Blow Falls"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - \"Good-Bye, My Dear, Good-Bye!\""
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Squire Gives His Consent"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Belle Pays A Visit"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Mr. Quest Has His Innings"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - How George Treated Johnnie"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Edward Cossey Meets With An Accident"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - Harold Takes The News"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Ida Recants"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - George Prophesies Again"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - The Squire Speaks His Mind"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - George's Diplomatic Errand"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - The Sword Of Damocles"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - How The Game Ended"
+		},
+		{
+			"href": "chapter-37.html",
+			"title": "Chapter 37 - Sister Agnes"
+		},
+		{
+			"href": "chapter-38.html",
+			"title": "Chapter 38 - Colonel Quaritch Expresses His Views"
+		},
+		{
+			"href": "chapter-39.html",
+			"title": "Chapter 39 - The Colonel Goes To Sleep"
+		},
+		{
+			"href": "chapter-40.html",
+			"title": "Chapter 40 - But Not To Bed"
+		},
+		{
+			"href": "chapter-41.html",
+			"title": "Chapter 41 - How The Night Went"
+		},
+		{
+			"href": "chapter-42.html",
+			"title": "Chapter 42 - Ida Goes To Meet Her Fate"
+		},
+		{
+			"href": "chapter-43.html",
+			"title": "Chapter 43 - George Is Seen To Laugh"
+		},
+		{
+			"href": "chapter-44.html",
+			"title": "Chapter 44 - Christmas Chimes"
+		}
+	]
+}

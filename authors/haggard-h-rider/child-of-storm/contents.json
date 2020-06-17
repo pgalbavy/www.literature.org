@@ -1,0 +1,80 @@
+{
+	"title": "Child of Storm",
+	"author": "H. Rider HAGGARD",
+	"source": "https://www.gutenberg.org/files/1711/1711-0.txt",
+	"cmdline": [
+		"convtext",
+		"https://www.gutenberg.org/files/1711/1711-0.txt"
+	],
+	"lastupdated": "2020-06-17T15:34:55Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Allan Quatermain Hears Of Mameena"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Moonshine Of Zikali"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Buffalo With The Cleft Horn"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Mameena"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Two Bucks And The Doe"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Ambush"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Saduko Brings The Marriage Gift"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The King’s Daughter"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Allan Returns To Zululand"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Smelling-Out"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Sin Of Umbelazi"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Panda’s Prayer"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Umbelazi The Fallen"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Umbezi And The Blood Royal"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Mameena Claims The Kiss"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Mameena--Mameena--Mameena!"
+		}
+	]
+}

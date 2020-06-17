@@ -1,0 +1,114 @@
+{
+	"title": "Ayesha, The Return of She",
+	"author": "H. Rider HAGGARD",
+	"source": "https://www.gutenberg.org/files/5228/5228-0.txt",
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/5228/5228-0.txt"
+	],
+	"lastupdated": "2020-06-17T15:19:08Z",
+	"chapters": [
+		{
+			"href": "introduction.html",
+			"title": "Introduction"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Double Sign"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Lamasery"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Beacon Light"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Avalanche"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Glacier"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - In The Gate"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The First Ordeal"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Death-Hounds"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Court Of Kaloon"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - In The Shaman’s Chamber"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Hunt And The Kill"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Messenger"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Beneath The Shadowing Wings"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Court Of Death"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Second Ordeal"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Change"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Betrothal"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Third Ordeal"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Leo And The Leopard"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Ayesha’s Alchemy"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Prophecy Of Atene"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Loosing Of The Powers"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Yielding Of Ayesha"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Passing Of Ayesha"
+		}
+	]
+}

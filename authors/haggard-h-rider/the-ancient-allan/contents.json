@@ -1,0 +1,80 @@
+{
+	"title": "The Ancient Allan",
+	"author": "H. Rider HAGGARD",
+	"source": "https://www.gutenberg.org/files/5746/5746-0.txt",
+	"cmdline": [
+		"convtext",
+		"https://www.gutenberg.org/files/5746/5746-0.txt"
+	],
+	"lastupdated": "2020-06-17T15:17:21Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - An Old Friend"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Ragnall Castle"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Allan Gives His Word"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Through The Gates"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Wager"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Doom Of The Boat"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Bes Steals The Signet"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Lady Amada"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Messengers"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Shabaka Plights His Troth"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Holy Tanofir"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Slaying Of Idernes"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Amada Returns To Isis"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Shabaka Fights The Crocodile"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Summons"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Tanofir Finds His Broken Cup"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Battle--And After"
+		}
+	]
+}

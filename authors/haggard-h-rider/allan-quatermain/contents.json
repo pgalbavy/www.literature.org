@@ -1,0 +1,112 @@
+{
+	"title": "Allan Quatermain",
+	"author": "H. Rider HAGGARD",
+	"source": "https://www.gutenberg.org/files/711/711-0.txt",
+	"cmdline": [
+		"convtext",
+		"https://www.gutenberg.org/files/711/711-0.txt"
+	],
+	"lastupdated": "2020-06-17T15:11:36Z",
+	"chapters": [
+		{
+			"href": "introduction.html",
+			"title": "Introduction"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Consul’s Yarn"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Black Hand"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Mission Station"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Alphonse And His Annette"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Umslopogaas Makes A Promise"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Night Wears On"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Slaughter Grim And Great"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Alphonse Explains"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Into The Unknown"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Rose Of Fire"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Frowning City"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Sister Queens"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - About The Zu-Vendi People"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Flower Temple"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Sorais’ Song"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Before The Statue"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Storm Breaks"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - War! Red War!"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Strange Wedding"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Battle Of The Pass"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Away! Away!"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - How Umslopogaas Held The Stair"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - I Have Spoken"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - By Another Hand"
+		}
+	]
+}

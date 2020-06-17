@@ -1,0 +1,88 @@
+{
+	"title": "Elissa",
+	"author": "H. Rider HAGGARD",
+	"source": "https://www.gutenberg.org/files/2855/2855-0.txt",
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Preface",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/2855/2855-0.txt"
+	],
+	"lastupdated": "2020-06-17T16:13:40Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Caravan"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Grove Of Baaltis"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Ithobal The King"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Dream Of Issachar"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Place Of Sacrifice"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Hall Of Audience"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Black Dwarf"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Aziel Plights His Troth"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Greeting To The Baaltis"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Embassy"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Metem Sells Images"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Tryst"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Sacrilege Of Aziel"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Martyrdom Of Issachar"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Elissa Takes Sanctuary"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Cage Of Death"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - “there Is Hope”"
+		}
+	]
+}

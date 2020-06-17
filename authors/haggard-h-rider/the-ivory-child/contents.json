@@ -1,0 +1,98 @@
+{
+	"title": "The Ivory Child",
+	"author": "H. Rider HAGGARD",
+	"source": "https://www.gutenberg.org/files/2841/2841-0.txt",
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/2841/2841-0.txt"
+	],
+	"lastupdated": "2020-06-17T16:25:19Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Allan Gives A Shooting Lesson"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Allan Makes A Bet"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Miss Holmes"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Harût And Marût"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Plot"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Bona Fide Gold Mine"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Lord Ragnall’s Story"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Start"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Meeting In The Desert"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Charge!"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Allan Is Captured"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The First Curse"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Jana"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Chase"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Dweller In The Cave"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Hans Steals The Keys"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Sanctuary And The Oath"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Embassy"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Allan Quatermain Misses"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Allan Weeps"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Homewards"
+		}
+	]
+}

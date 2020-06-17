@@ -1,0 +1,112 @@
+{
+	"title": "Finished",
+	"author": "H. Rider HAGGARD",
+	"source": "http://www.gutenberg.org/cache/epub/1724/pg1724.txt",
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Introduction",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/1724/pg1724.txt"
+	],
+	"lastupdated": "2020-06-17T16:21:44Z",
+	"chapters": [
+		{
+			"href": "introduction.html",
+			"title": "Introduction"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Allan Quatermain Meets Anscombe"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Mr. Marnham"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Hunters Hunted"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Doctor Rodd"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Game Of Cards"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Miss Heda"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Stoep"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Rodd's Last Card"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Flight"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Nombe"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Zikali"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Trapped"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Cetewayo"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Valley Of Bones"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Great Council"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - War"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Kaatje Brings News"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Isandhlwana"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Allan Awakes"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Heda's Tale"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The King Visits Zikali"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Madness Of Nombe"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Kraal Jazi"
+		}
+	]
+}

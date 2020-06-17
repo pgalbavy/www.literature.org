@@ -1,0 +1,152 @@
+{
+	"title": "Eric Brighteyes",
+	"author": "H. Rider HAGGARD",
+	"source": "https://www.gutenberg.org/files/2721/2721-0.txt",
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Introduction",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/2721/2721-0.txt"
+	],
+	"lastupdated": "2020-06-17T16:16:14Z",
+	"chapters": [
+		{
+			"href": "introduction.html",
+			"title": "Introduction"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - How Asmund The Priest Found Groa The Witch"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - How Eric Told His Love To Gudruda In The Snow On Coldback"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - How Asmund Bade Eric To His Yule-Feast"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - How Eric Came Down Golden Falls"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - How Eric Won The Sword Whitefire"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - How Asmund The Priest Was Betrothed To Unna"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - How Eric Went Up Mosfell Against Skallagrim The Baresark"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - How Ospakar Blacktooth Found Eric Brighteyes And Skallagrim Lambstail On Horse-Head Heights"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - How Swanhild Dealt With Gudruda"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - How Asmund Spoke With Swanhild"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - How Swanhild Bid Farewell To Eric"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - How Eric Was Outlawed And Sailed A-Viking"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - How Hall The Mate Cut The Grapnel Chain"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - How Eric Dreamed A Dream"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - How Eric Dwelt In London Townmen Stood Astonished, But Hall The Mate Slunk Back"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - How Swanhild Walked The Seas"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - How Asmund The Priest Wedded Unna, Thorod’s Daughternow The Story Goes Back To Iceland"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - How Earl Atli Found Eric And Skallagrim On The Southern Rocks Of Straumey Isle"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - How Koll The Half-Witted Brought Tidings From Iceland"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - How Eric Was Named Anew"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - How Hall Of Lithdale Took Tidings To Iceland"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - How Eric Came Home Again"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - How Eric Was A Guest At The Wedding-Feast Of Gudruda The Faireric Looked, But Said Nothing"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - How The Feast Went“hearken All Men!” Said Eric"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - How The Feast Ended"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - How Eric Ventured Down To Middalhof And What He Found"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - How Gudruda Went Up To Mosfell"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - How Swanhild Won Tidings Of Eric"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - How Went The Bridal Night"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - How The Dawn Came"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - How Eric Sent Away His Men From Mosfell"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - How Eric And Skallagrim Grew Fey"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - How Eric And Skallagrim Fought Their Last Great Fight"
+		}
+	]
+}

@@ -1,0 +1,116 @@
+{
+	"title": "Fair Margaret",
+	"author": "H. Rider HAGGARD",
+	"source": "http://www.gutenberg.org/cache/epub/9780/pg9780.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"YOU WILL HAVE TO FIGHT ME FIRST",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/9780/pg9780.txt"
+	],
+	"lastupdated": "2020-06-17T16:18:58Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - How Peter Met The Spaniard"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - John Castell"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Peter Gathers Violets"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Lovers Dear"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Castell's Secret"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Farewell"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - News From Spain"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - d'aguilar Speaks"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Snare"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Chase"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Meeting On The Sea"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Father Henriques"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Adventure Of The Inn"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Inez And Her Garden"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Peter Plays A Part"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Betty Shows Her Teeth"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Plot"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Holy Hermandad"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Betty Pays Her Debts"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Isabella Of Spain"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Betty States Her Case"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Doom Of John Castell"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Father Henriques And The Baker's Oven"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Falcon Stoops"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - How The Margaret Won Out To Sea"
+		}
+	]
+}

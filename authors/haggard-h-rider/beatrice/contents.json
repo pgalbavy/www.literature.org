@@ -1,0 +1,142 @@
+{
+	"title": "Beatrice",
+	"author": "H. Rider HAGGARD",
+	"source": "https://www.gutenberg.org/files/3096/3096-0.txt",
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/3096/3096-0.txt"
+	],
+	"lastupdated": "2020-06-17T15:21:56Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Mist Wraith"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - At The Bell Rock"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Confession Of Faith"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Watcher At The Door"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Elizabeth Is Thankful"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Owen Davies At Home"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Matrimonial Tale"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Explanatory"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - What Beatrice Dreamed"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Lady Honoria Makes Arrangements"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Beatrice Makes An Appointment"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Writing On The Sand"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Geoffrey Lectures"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Drifting"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Only Good-Night"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Flat Near The Edgware Road"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Geoffrey Wins His Case"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Rising Star"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Geoffrey Has A Visitor"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Back At Bryngelly"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Third Appeal"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - A Night Of Storm"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Dawn Of Rain"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Lady Honoria Takes The Field"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Elizabeth Shows Her Teeth"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - What Beatrice Swore"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - The House Of Commons"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - I Will Wait For You"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - A Woman’s Last Word"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - Ave Atque Vale"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - The Duchess’s Ball"
+		}
+	]
+}

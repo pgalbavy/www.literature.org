@@ -1,0 +1,74 @@
+{
+	"title": "Allan's Wife",
+	"author": "H. Rider HAGGARD",
+	"source": "https://www.gutenberg.org/files/2727/2727-0.txt",
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/2727/2727-0.txt"
+	],
+	"lastupdated": "2020-06-17T15:14:54Z",
+	"chapters": [
+		{
+			"href": "dedication.html",
+			"title": "Dedication"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Early Days"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Fire-Fight"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Northwards"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Zulu Impi"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The End Of The Laager"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Stella"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Baboon-Woman"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Marble Kraals"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - “Let Us Go In, Allan!”"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Hendrika Plots Evil"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Gone!"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Magic Of Indaba-Zimbi"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - What Happened To Stella"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Fifteen Years After"
+		}
+	]
+}

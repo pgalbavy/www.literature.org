@@ -1,0 +1,154 @@
+{
+	"title": "Jess",
+	"author": "H. Rider HAGGARD",
+	"source": "https://www.gutenberg.org/files/5898/5898-0.txt",
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/5898/5898-0.txt"
+	],
+	"lastupdated": "2020-06-17T16:26:06Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - John Has An Adventure"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - How The Sisters Came To Mooifontein"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Mr. Frank Muller"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Bessie Is Asked In Marriage"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Dreams Are Foolishness"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Storm Breaks"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Love’s Young Dream"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Jess Goes To Pretoria"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Jantje’s Story"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - John Has An Escape"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - On The Brink"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Over It"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Frank Muller Shows His Hand"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - John To The Rescue"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Rough Journey"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Pretoria"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Twelfth Of February"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - And After"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Hans Coetzee Comes To Pretoria"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Great Man"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Jess Gets A Pass"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - On The Road"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - In The Drift Of The Vaal"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Shadow Of Death"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Meanwhile"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Frank Muller’s Familiar"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Silas Is Convinced"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Bessie Is Put To The Question"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Condemned To Death"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - “we Must Part, John”"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Jess Finds A Friend"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - He Shall Die"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Vengeance"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - Tanta Coetzee To The Rescue"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - The Conclusion Of The Matter"
+		}
+	]
+}

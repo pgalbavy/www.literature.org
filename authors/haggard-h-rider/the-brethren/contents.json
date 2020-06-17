@@ -1,0 +1,114 @@
+{
+	"title": "The Brethren",
+	"author": "H. Rider HAGGARD",
+	"source": "http://www.gutenberg.org/cache/epub/2762/pg2762.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"Chapter Twenty-Four",
+		"http://www.gutenberg.org/cache/epub/2762/pg2762.txt"
+	],
+	"lastupdated": "2020-06-17T15:28:31Z",
+	"chapters": [
+		{
+			"href": "prologue.html",
+			"title": "Prologue"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - By The Waters Of Death Creek"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Sir Andew d'arcy"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Knighting Of The Brethren"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Letter Of Saladin"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Wine Merchant"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Christmas Feast At Steeple"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Banner Of Saladin"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Widow Masouda"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Horses Flame And Smoke"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - On Board The Galley"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The City Of Al-Je-Bal"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Lord Of Death"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Embassy"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Combat On The Bridge"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Flight To Emesa"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Sultan Saladin"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Brethren Depart From Damascus"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Wulf Pays For The Drugged Wine"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Before The Walls Of Ascalon"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Luck Of The Star Of Hassan"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - What Befell Godwin"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - At Jerusalem"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Saint Rosamund"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Dregs Of The Cup"
+		}
+	]
+}

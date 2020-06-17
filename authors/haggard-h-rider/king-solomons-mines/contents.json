@@ -1,0 +1,100 @@
+{
+	"title": "King Solomon's Mines",
+	"author": "H. Rider HAGGARD",
+	"source": "http://www.gutenberg.org/cache/epub/2166/pg2166.txt",
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Introduction",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/2166/pg2166.txt"
+	],
+	"lastupdated": "2020-06-17T16:28:15Z",
+	"chapters": [
+		{
+			"href": "introduction.html",
+			"title": "Introduction"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - I Meet Sir Henry Curtis"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Legend Of Solomon's Mines"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Umbopa Enters Our Service"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - An Elephant Hunt"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Our March Into The Desert"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Water! Water!"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Solomon's Road"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - We Enter Kukuanaland"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Twala The King"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Witch-Hunt"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - We Give A Sign"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Before The Battle"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Attack"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Last Stand Of The Greys"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Good Falls Sick"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Place Of Death"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Solomon's Treasure Chamber"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - We Abandon Hope"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Ignosi's Farewell"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Found"
+		}
+	]
+}
