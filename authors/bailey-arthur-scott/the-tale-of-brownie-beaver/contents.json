@@ -1,0 +1,92 @@
+{
+	"title": "The Tale of Brownie Beaver",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/6754/pg6754.txt",
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"-skipto",
+		"(?m)^XIX",
+		"http://www.gutenberg.org/cache/epub/6754/pg6754.txt"
+	],
+	"lastupdated": "2020-06-17T11:48:40Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Queer Place To Live"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - How To Fell A Tree"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Sticks And Mud"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Freshet"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Brownie Saves The Dam"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Happy Thought"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Newfangled Newspaper"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Mr. Crow Is Upset"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Sign On The Tree"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Holiday"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Bad News"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Grandaddy Beaver Thinks"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Lucky Find"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Was It A Gun?"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Jasper Jay's Story"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Looking Pleasant"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Brownie Escapes"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Mr. Frog's Question\"Why Don't You Get Some New Clothes?\""
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The New Suit"
+		}
+	]
+}

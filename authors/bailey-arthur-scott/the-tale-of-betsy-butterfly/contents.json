@@ -1,0 +1,104 @@
+{
+	"title": "The Tale of Betsy Butterfly",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/21322/pg21322.txt",
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"-skipto",
+		"(?m)^\\s+XXII",
+		"http://www.gutenberg.org/cache/epub/21322/pg21322.txt"
+	],
+	"lastupdated": "2020-06-17T11:46:45Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Beauty And The Blossoms"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Johnnie Green's Net"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Mishap"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Busybodies"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - No Joker"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Mrs. Ladybug's Advice"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Butterfly Bill"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Do You Like Butter?"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Unexpected News"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Night Watch"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Sly One"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Terrible Blunder"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Friendly Stranger"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Deep Plot"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Joseph Bumble's Complaint"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Nothing But A Fraud"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Dusty's Difficulty"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Solomon Owl's Idea"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Bit Of Luckjimmy Rabbit Promptly Set Freddie Firefly's Fears At Rest"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Something Seems Wrong"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Strange Change"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Skipper"
+		}
+	]
+}

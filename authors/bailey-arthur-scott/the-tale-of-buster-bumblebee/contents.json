@@ -1,0 +1,108 @@
+{
+	"title": "The Tale of Buster Bumblebee",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/18662/pg18662.txt",
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"-skipto",
+		"(?m)^ILLUSTRATIONS",
+		"http://www.gutenberg.org/cache/epub/18662/pg18662.txt"
+	],
+	"lastupdated": "2020-06-17T11:50:16Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Big Family"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Chirpy Cricket's Advice"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Rude Trumpeter"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Buster Finds A Sister"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Mr. Crow To The Rescue"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Johnnie Green Is Stung"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Jugful Of Bumblebees"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Buster The Boaster"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Robber Fly At Last"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Buster Makes A Speech"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Drone"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Carpenter Bee"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Carpenter's Promise"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Bad News"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Prisoner"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Twins In The Clover Patch"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Buster Learns Of The Raising Bee"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Following The Crowd"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Feast At Farmer Green's"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Buster And The Fiddlers"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Bumblebee In The Pumpkin"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Someone's Mistake"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Making Game Of Old Dog Spot"
+		}
+	]
+}

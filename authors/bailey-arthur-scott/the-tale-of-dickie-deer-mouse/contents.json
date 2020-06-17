@@ -1,0 +1,106 @@
+{
+	"title": "The Tale of Dickie Deer Mouse",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/18953/pg18953.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"(?m)XXIII",
+		"http://www.gutenberg.org/cache/epub/18953/pg18953.txt"
+	],
+	"lastupdated": "2020-06-17T12:17:15Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Little Gentleman"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Hunting A Home"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Startled Sleeper"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Blackbird's Nest"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Dickie's Summer Home"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Warning"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Noisy Visitors"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - In The Cornfield"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Fatty Coon Needs Help"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Bit Of Advice"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Search In Vain"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Little Surprise"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Feathers Fly"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Making Ready For Winter"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Plunge In The Dark"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Lucky Find"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Slight Mistake"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Too Many Cousins"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Wrong Turn"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Bedfellows"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - One Way To Keep Warm"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Queer Mr. Pine Finch"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Feast At Last"
+		}
+	]
+}

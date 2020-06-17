@@ -1,0 +1,102 @@
+{
+	"title": "The Tale of Billy Woodchuck",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/25090/pg25090.txt",
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/25090/pg25090.txt"
+	],
+	"lastupdated": "2020-06-17T11:37:28Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The House In The Pasture"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Calling Names"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Magic"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Great Horned Owl"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Billy Stands Guard"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Billy Forgets To Whistle"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Green Peas"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A New Game"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - At Aunt Polly's"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Uncle Jerry Chuck"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Billy Asks For Pay"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - What Jimmy Rabbit Saw"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Joke On Uncle Jerry"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Mr. Fox Has An Idea"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - \"Pop! Goes The Weasel!\""
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Play-House"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Billy Brings The Doctor"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Wonderful Stick"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Mr. Woodchuck Moves"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Family Escapes"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - At Home In The Woods"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Ground Hog Day"
+		}
+	]
+}

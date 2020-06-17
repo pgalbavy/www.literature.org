@@ -1,0 +1,108 @@
+{
+	"title": "The Tale of Daddy Longlegs",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/21426/pg21426.txt",
+	"cmdline": [
+		"convtext",
+		"http://www.gutenberg.org/cache/epub/21426/pg21426.txt"
+	],
+	"lastupdated": "2020-06-17T12:14:24Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Strange Tracks"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The New Neighbor"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Mr. Crow Is Displeased"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Contest"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Too Many Questions"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Mrs. Ladybug's Plan"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Trying To Help"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - In Need Of New Shoes"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Locked In!"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Ride By Moonlight"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Big Wind"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Good News On A Bad Day"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Dangerous Business"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - One Way To Stop A Horse"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Call On A Neighbor"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Boastful Talk"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Daddy Is Attacked"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Ant Army"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Daddy Escapes"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Lost--A Jackknife!"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Just A Notion"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Why Daddy Was Changed"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A New Name For Daddy"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - A Bridegroom"
+		}
+	]
+}

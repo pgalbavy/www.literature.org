@@ -1,0 +1,108 @@
+{
+	"title": "The Tale of Benny Badger",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/24589/pg24589.txt",
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"-skipto",
+		"(?m)^\\s+XXIII",
+		"http://www.gutenberg.org/cache/epub/24589/pg24589.txt"
+	],
+	"lastupdated": "2020-06-17T11:45:00Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Great Digger"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Hunting For Something"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - No One At Home"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Mr. Coyote Sings"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Speaking Of Ground Squirrels"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Strange Partners"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Mr. Coyote Remembers"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Watcher And A Worker"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Careless Helper"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Sore Paw"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Birds' Eggs"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Prairie Chicken"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Don'T Do That!"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Queer Discovery"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Benny And The Owl"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Spoiling A Game"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Prairie Dog Village"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Saving The Day"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Pleasant Praise"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Rancher Is Angry"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The New Home"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - A Breakfast Invitation"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Mr. Deer Mouse Is Timid"
+		}
+	]
+}

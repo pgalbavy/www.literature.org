@@ -1,0 +1,106 @@
+{
+	"title": "The Tale of Ferdinand Frog",
+	"author": "Arthur Scott BAILEY",
+	"source": "http://www.gutenberg.org/cache/epub/24590/pg24590.txt",
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"(?m)^THE TALE OF FERDINAND FROG",
+		"http://www.gutenberg.org/cache/epub/24590/pg24590.txt"
+	],
+	"lastupdated": "2020-06-17T12:25:53Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Pretty As A Picture"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Dangers Of Travel"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Mr. Frog's Double"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Mr. Crow Loses Something"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Mr. Frog's Secret Sorrow"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Tired Tim Does A Favor"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Singing-Party"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Missing Supper"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Mysterious Stranger"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Catching Up With Mr. Frog"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Ferdinand Frog Is In No Hurry"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Bad Blunder"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Sixty-Inch Meal"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - An Unpleasant Mix-Up"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Everyone Is Happy"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Stop That!"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Long, Sharp Bill"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Making Button-Holes"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Swimming Teacher"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Disturbing The Neighbors"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Mud Baths"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Learning To Hold His Breath"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Mr. Frog Runs Away"
+		}
+	]
+}
