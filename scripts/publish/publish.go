@@ -140,6 +140,7 @@ func main() {
 	literature.ReadJSON(filepath.Join(rootdir, "authors", "contents.json"), &topjson)
 	err = literature.ReadJSON(filepath.Join(rootdir, "changelog.json"), &changelog)
 	if err != nil {
+		fmt.Printf("readJSON: %q\n", err)
 		changelog = make([]literature.Changelog, 1)
 	}
 
@@ -149,27 +150,24 @@ func main() {
 			authorindex = i
 		}
 	}
-	if authorindex == -1 {
-		last := time.Now().UTC().Format(time.RFC3339)
 
+	lastUpdated := time.Now().UTC().Format(time.RFC3339)
+
+	if authorindex == -1 {
 		newauthor := literature.Chapter{ HREF: author, Title: contents.Author }
 		topjson.Chapters = append(topjson.Chapters, newauthor)
 
-		newchangelog := literature.Changelog{ HREF: author, Title: contents.Author, LastUpdated: last }
-		changelog = append(changelog, newchangelog)
 		sort.Slice(topjson.Chapters, func(i, j int) bool {
 			// sort by directory names
 			return topjson.Chapters[i].HREF < topjson.Chapters[j].HREF
 		})
 		// write out new top level contents.json
-		topjson.LastUpdated = last
+		topjson.LastUpdated = lastUpdated
 		topjson.Title = "Authors"
 		literature.WriteJSON(filepath.Join(rootdir, "authors", "contents.json"), topjson)
-		literature.WriteJSON(filepath.Join(rootdir, "changelog.json"), changelog)
 		//i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
 		//ioutil.WriteFile(filepath.Join(rootdir, "authors", index), i, 0644)
 	}
-
 
 	// next, check for an existing title
 	literature.ReadJSON(filepath.Join(rootdir, "authors", author, "contents.json"), &authorjson)
@@ -190,11 +188,19 @@ func main() {
 		})
 		// write out new author contents.json
 		authorjson.Title = contents.Author
-		authorjson.LastUpdated = time.Now().UTC().Format(time.RFC3339)
+		authorjson.LastUpdated = lastUpdated
 		literature.WriteJSON(filepath.Join(rootdir, "authors", author, "contents.json"), authorjson)
+
 		i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
 		ioutil.WriteFile(filepath.Join(rootdir, "authors", author, index), i, 0644)
 	}
+
+	// update changelog
+	newchangelog := literature.Changelog{ HREF: "/authors/" + author + "/" + title,
+										  Title: contents.Title + " by " + contents.Author,
+										  LastUpdated: lastUpdated }
+	changelog = append(changelog, newchangelog)
+	literature.WriteJSON(filepath.Join(rootdir, "changelog.json"), changelog)
 }
 
 func isMn(r rune) bool {

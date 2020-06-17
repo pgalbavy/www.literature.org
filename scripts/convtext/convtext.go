@@ -86,9 +86,9 @@ func main() {
 	flag.StringVar(&rootdir, "r", literature.FirstString(userconf.Rootdir, defrootdir), "Root directory of website files")
 
 	// these are overrides, they are taken from the source data normally
-	flag.StringVar(&contents.Title, "title", "", "Book title")
-	flag.StringVar(&contents.Author, "author", "", "Book author")
-	flag.StringVar(&contents.Source, "source", "", "Book URL override - use when processing a local file")
+	flag.StringVar(&contents.Title, "t", "", "Book title")
+	flag.StringVar(&contents.Author, "a", "", "Book author")
+	flag.StringVar(&contents.Source, "s", "", "Book URL override - use when processing a local file")
 
 	// lets try "Title/REGEXP/[flags]" or "Title" or "/REGEXP/[flags]" or "//flags" as consolidated formats
 	// ALL regexps will have (?m) flag added as all texts are multiline
@@ -100,9 +100,9 @@ func main() {
 	// ignore rest of line (skip) "k|K*"
 	// include next paragraph (para) "p*|P"
 
-	flag.StringVar(&chap.text, "chapters", "Chapter", "Text for chapter level splits")
+	flag.StringVar(&chap.text, "c", "Chapter", "Text for chapter level splits")
 
-	flag.StringVar(&part.text, "parts", "Part", "Text for part level seperator - empty means ignore")
+	flag.StringVar(&part.text, "p", "Part", "Text for part level seperator - empty means ignore")
 
 	var skipto, skipafter string
 	flag.StringVar(&skipto, "skipto", "", "Skipto regexp before reading text")
@@ -269,7 +269,6 @@ func main() {
 	// first check first line for Gutenberg title and author
 	
 	n := firstre.FindStringSubmatch(text)
-	fmt.Printf("first line: %d -> %v\n", len(n), n)
 	if len(n) == 3 {
 		if contents.Title == "" {
 			contents.Title = n[1]
@@ -446,18 +445,21 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 
 		// convert
 		filename := fmt.Sprintf(fileprefix, cn) + ".html"
-		fmt.Printf("filename=%q size %d\n", filename, len(part))
 
-		html, _ := txt2html(part)
+		if len(part) > 0 {
+			html, _ := txt2html(part)
 
-		w, err := os.Create(writedir + filename)
-		if err != nil {
-			log.Fatal(err)
+			fmt.Printf("filename=%q size %d\n", filename, len(part))
+
+			w, err := os.Create(writedir + filename)
+			if err != nil {
+				log.Fatal(err)
+			}
+			w.WriteString(head)
+			w.WriteString(html)
+			w.WriteString(foot)
+			w.Close()
 		}
-		w.WriteString(head)
-		w.WriteString(html)
-		w.WriteString(foot)
-		w.Close()
 
 		if pn != 0 && partnum != 0 {
 			// update contents
@@ -467,6 +469,9 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 			title = strings.Trim(title, " .-_—")
 			if len(title) > 0 {
 				c.Title += " - " + strings.Title(strings.ToLower(title))
+				// revert 'S and 'T etc.
+				re := regexp.MustCompile(`[[:alpha:]]'[[:upper:]]`)
+				c.Title = re.ReplaceAllStringFunc(c.Title, strings.ToLower)
 			}
 			contents.Chapters = append(contents.Chapters, c)
 		}
