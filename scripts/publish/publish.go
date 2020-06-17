@@ -100,6 +100,7 @@ func main() {
 	author = re.ReplaceAllString(author, "$2-$1")
 	author = dashre.ReplaceAllString(author, "-")
 	author = strings.ToLower(author)
+	author = strings.ReplaceAll(author, ".", "")
 
 	// build destination path
 	destdir := filepath.Join(rootdir, "authors", author, title)
