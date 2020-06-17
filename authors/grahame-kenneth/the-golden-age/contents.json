@@ -1,0 +1,88 @@
+{
+	"title": "The Golden Age",
+	"author": "Kenneth GRAHAME",
+	"source": "https://www.gutenberg.org/files/53250/53250-0.txt",
+	"cmdline": [
+		"convtext",
+		"-chapters",
+		"/^\\r\\n\\r\\n[A-Z‘][^a-z]{3,}$/Ntk",
+		"-skipto",
+		"(?m)^PROLOGUE: THE OLYMPIANS",
+		"https://www.gutenberg.org/files/53250/53250-0.txt"
+	],
+	"lastupdated": "2020-06-17T06:37:36Z",
+	"chapters": [
+		{
+			"href": "prologue.html",
+			"title": "Prologue: The Olympians"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Holiday"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A White-Washed Uncle"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Alarums And Excursions"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Finding Of The Princess"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Sawdust And Sin"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - ‘Young Adam Cupid’"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Burglars"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Harvesting"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Snowbound"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - What They Talked About"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Argonauts"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Roman Road"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Secret Drawer"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - ‘Exit Tyrannus’"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Blue Room"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Falling Out"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - ‘Lusisti Satis’"
+		}
+	]
+}

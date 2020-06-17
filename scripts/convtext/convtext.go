@@ -25,7 +25,7 @@ const header = "header.html"
 const footer = "footer.html"
 const index = "index.html"
 
-var blankline, end, dashre *regexp.Regexp
+var blankline, end, dashre, firstre *regexp.Regexp
 var maxtitle int
 var writedir string
 var pdigits int
@@ -56,6 +56,8 @@ func init() {
 	end = regexp.MustCompile(`(?mi)^.*end of .*project gutenberg`)
 
 	dashre = regexp.MustCompile(`[ _]`)
+
+	firstre = regexp.MustCompile(`(?mi)\A(?:the )project gutenberg(?: ebook of|'s) ([\w\- ]+),\s+by\s+([\w\- ]+)\r?$`)
 
 	levels = make([]Level, 2, 5)
 
@@ -264,8 +266,9 @@ func main() {
 		}
 	}
 	// first check first line for Gutenberg title and author
-	firstre := regexp.MustCompile(`(?m)\A(?:The Project Gutenberg EBook of|Project Gutenberg's) ([\w\- ]+),\s+by\s+([\w\- ]+)\r?$`)
+	
 	n := firstre.FindStringSubmatch(text)
+	//fmt.Printf("first line: %d -> %v\n", len(n), n)
 	if len(n) == 3 {
 		if contents.Title == "" {
 			contents.Title = n[1]

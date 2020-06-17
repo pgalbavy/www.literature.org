@@ -1,0 +1,60 @@
+{
+	"title": "The Wind in the Willows",
+	"author": "Kenneth GRAHAME",
+	"source": "http://www.gutenberg.org/cache/epub/27805/pg27805.txt",
+	"cmdline": [
+		"convtext",
+		"http://www.gutenberg.org/cache/epub/27805/pg27805.txt"
+	],
+	"lastupdated": "2020-06-17T06:31:43Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The River Bank"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Open Road"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Wild Wood"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Mr. Badger"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Dulce Domum"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Mr. Toad"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Piper At The Gates Of Dawn"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Toad'S Adventures"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Wayfarers All"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Further Adventures Of Toad"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - \"Like Summer Tempests Came His Tears\""
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Return Of Ulysses"
+		}
+	]
+}
