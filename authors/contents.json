@@ -3,7 +3,7 @@
 	"author": "",
 	"source": "",
 	"cmdline": null,
-	"lastupdated": "2020-06-17T10:39:19Z",
+	"lastupdated": "2020-06-17T12:08:32Z",
 	"chapters": [
 		{
 			"href": "aesop",
@@ -20,6 +20,10 @@
 		{
 			"href": "austen-jane",
 			"title": "Jane AUSTIN"
+		},
+		{
+			"href": "bailey-arthur-scott",
+			"title": "Arthur Scott BAILEY"
 		},
 		{
 			"href": "baily-waldron",
@@ -204,6 +208,10 @@
 		{
 			"href": "potter-david",
 			"title": "David POTTER"
+		},
+		{
+			"href": "scott-arthur",
+			"title": "Arthur SCOTT"
 		},
 		{
 			"href": "shaw-george-bernard",
