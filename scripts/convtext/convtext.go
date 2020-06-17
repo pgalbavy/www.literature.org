@@ -57,7 +57,7 @@ func init() {
 
 	dashre = regexp.MustCompile(`[ _]`)
 
-	firstre = regexp.MustCompile(`(?mi)\A(?:the )?project gutenberg(?: ebook of|'s| ebook,) ([\w\-' ]+),\s+by\s+([\w\-' ]+)\,?\r?$`)
+	firstre = regexp.MustCompile(`(?mi)\A(?:the )?project gutenberg(?: ebook of|'s| ebook,) ([\w\.\-' ]+),\s+by\s+([\w\.\-' ]+)\,?\r?$`)
 
 	levels = make([]Level, 2, 5)
 
@@ -281,7 +281,7 @@ func main() {
 	}
 
 	if skipto != "" {
-		re, err := regexp.Compile(skipto)
+		re, err := regexp.Compile("(?m)" + skipto)
 		if err != nil {
 			log.Fatal(err)
 		}
@@ -293,7 +293,7 @@ func main() {
 	}
 
 	if skipafter != "" {
-		re, err := regexp.Compile(skipafter)
+		re, err := regexp.Compile("(?m)" + skipafter)
 		if err != nil {
 			log.Fatal(err)
 		}
