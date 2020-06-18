@@ -55,13 +55,13 @@ function contentsJSON() {
 					html += "<li><a href=\"" + c.href + "\" class=\"w3-bar-item w3-button\">";
 					
 					if (c.href == "authors") {
-						html += "<i class=\"material-icons md-lit\">people</i> ";
+						html += "<i class=\"material-icons md-lit w3-margin-right\">people</i> ";
 					} else if (contents.title == "Authors") {
-						html += "<i class=\"material-icons md-lit\">person</i> ";
+						html += "<i class=\"material-icons md-lit w3-margin-right\">person</i> ";
 					} else if (c.href && c.href.endsWith(".html")) {
-						html += "<i class=\"material-icons md-lit\">library_books</i> ";
+						html += "<i class=\"material-icons md-lit w3-margin-right\">library_books</i> ";
 					} else {
-						html += "<i class=\"material-icons md-lit\">menu_book</i> ";
+						html += "<i class=\"material-icons md-lit w3-margin-right\">menu_book</i> ";
 					}
 					
 					html += nameCapsHTML(c.title) + "</a></li>";
@@ -75,18 +75,21 @@ function contentsJSON() {
 					html += "<li><h2>External Links</h2></li>";
 					if (contents.links.wikipedia) {
 						html += "<li><a href=\"" + contents.links.wikipedia + "\" class=\"w3-bar-item w3-button\" target=\"_blank\">";
+						html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
 						html += "<img src=\"/images/Wikipedia-logo-v2.svg\" style=\"width:32px\">";
 						html += "&nbsp;Wikipedia";
 						html += "</a>";
 					}
 					if (contents.links.goodreads) {
 						html += "<li><a href=\"" + contents.links.goodreads + "\" class=\"w3-bar-item w3-button\" target=\"_blank\">";
+						html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
 						html += "<img src=\"/images/1454549125-1454549125_goodreads_misc.png\" style=\"width:32px\">";
 						html += "&nbsp;Goodreads"
 						html += "</a>";
 					}
 					if (contents.links.gutenberg) {
 						html += "<li><a href=\"" + contents.links.gutenberg + "\" class=\"w3-bar-item w3-button\" target=\"_blank\">";
+						html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
 						html += "<img src=\"/images/Project_Gutenberg_logo.svg\" style=\"width:32px\">";
 						html += "&nbsp;Project&nbsp;Gutenberg"
 						html += "</a>";
@@ -153,6 +156,7 @@ function literatureNav() {
 
 					var title = "literature.org";
 					var html = "";
+
 					// sidebar
 					html += "<nav class=\"w3-sidebar w3-bar-block w3-card\" style=\"display:none\" id=\"mySidebar\">" +
 									"<button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons\">close</i> Close</button>";
@@ -182,7 +186,7 @@ function literatureNav() {
 					html += "</nav>";
 
 					// top bar
-					html += "<nav class=\"w3-bar\">";
+					html += "<nav class=\"w3-bar\" style=\"font-size:24px\">";
 					html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_open()\"><i class=\"material-icons\">menu</i></button>";
 
 					if (f && f != "index.html") {
