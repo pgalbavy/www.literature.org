@@ -47,28 +47,54 @@ function contentsJSON() {
 		xhttp.onreadystatechange = function() {
 		if (this.readyState == 4) {
 			if (this.status == 200) {
-			// process JSON	
-			var contents = JSON.parse(this.responseText);
-			var html = "<ul class=\"w3-bar-block w3-ul w3-hoverable\">";
+				// process JSON	
+				var contents = JSON.parse(this.responseText);
+				var html = "<ul class=\"w3-bar-block w3-ul w3-hoverable\">";
 
-			for (var c of contents.chapters) {
-				html += "<li><a href=\"" + c.href + "\" class=\"w3-bar-item w3-button\">";
-				
-				if (c.href == "authors") {
-					html += "<i class=\"material-icons md-lit\">people</i> ";
-				} else if (contents.title == "Authors") {
-					html += "<i class=\"material-icons md-lit\">person</i> ";
-				} else if (c.href && c.href.endsWith(".html")) {
-					html += "<i class=\"material-icons md-lit\">library_books</i> ";
-				} else {
-					html += "<i class=\"material-icons md-lit\">menu_book</i> ";
+				for (var c of contents.chapters) {
+					html += "<li><a href=\"" + c.href + "\" class=\"w3-bar-item w3-button\">";
+					
+					if (c.href == "authors") {
+						html += "<i class=\"material-icons md-lit\">people</i> ";
+					} else if (contents.title == "Authors") {
+						html += "<i class=\"material-icons md-lit\">person</i> ";
+					} else if (c.href && c.href.endsWith(".html")) {
+						html += "<i class=\"material-icons md-lit\">library_books</i> ";
+					} else {
+						html += "<i class=\"material-icons md-lit\">menu_book</i> ";
+					}
+					
+					html += nameCapsHTML(c.title) + "</a></li>";
+				}
+				html += "</ul>";
+
+ 				// add other content here
+				if (typeof contents.links != 'undefined') {
+					console.log("links here")
+					html += "<ul class=\"w3-bar-block w3-ul w3-hoverable w3-tiny\">";
+					html += "<li><h2>External Links</h2></li>";
+					if (contents.links.wikipedia) {
+						html += "<li><a href=\"" + contents.links.wikipedia + "\" class=\"w3-bar-item w3-button\" target=\"_blank\">";
+						html += "<img src=\"/images/Wikipedia-logo-v2.svg\" style=\"width:32px\">";
+						html += "&nbsp;Wikipedia";
+						html += "</a>";
+					}
+					if (contents.links.goodreads) {
+						html += "<li><a href=\"" + contents.links.goodreads + "\" class=\"w3-bar-item w3-button\" target=\"_blank\">";
+						html += "<img src=\"/images/1454549125-1454549125_goodreads_misc.png\" style=\"width:32px\">";
+						html += "&nbsp;Goodreads"
+						html += "</a>";
+					}
+					if (contents.links.gutenberg) {
+						html += "<li><a href=\"" + contents.links.gutenberg + "\" class=\"w3-bar-item w3-button\" target=\"_blank\">";
+						html += "<img src=\"/images/Project_Gutenberg_logo.svg\" style=\"width:32px\">";
+						html += "&nbsp;Project&nbsp;Gutenberg"
+						html += "</a>";
+					}
+					html += "</ul>";
 				}
 				
-				html += nameCapsHTML(c.title) + "</a></li>";
-			}
-			html += "</ul>";
-			
-			elmnt.innerHTML = html;
+				elmnt.innerHTML = html;
 			}
 			/* Remove the attribute, and call this function once more: */
 			elmnt.removeAttribute("contents-json");
