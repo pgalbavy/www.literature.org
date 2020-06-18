@@ -1,10 +1,29 @@
 {
 	"title": "Lewis CARROLL",
 	"author": "",
+	"source": "",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Lewis_Carroll",
+		"goodreads": "https://www.goodreads.com/book/show/6324090",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/7"
+	},
+	"lastupdated": "2020-06-18T12:47:37Z",
 	"chapters": [
-		{ "href": "alices-adventures-in-wonderland", "title": "Alice's Adventures In Wonderland" },
-		{ "href": "through-the-looking-glass", "title": "Through the Looking Glass" },
-		{ "href": "sylvie-and-bruno", "title": "Sylvie and Bruno" },
-		{ "href": "the-hunting-of-the-snark", "title": "The Hunting of the Snark" }
+		{
+			"href": "alices-adventures-in-wonderland",
+			"title": "Alice's Adventures In Wonderland"
+		},
+		{
+			"href": "through-the-looking-glass",
+			"title": "Through the Looking Glass"
+		},
+		{
+			"href": "sylvie-and-bruno",
+			"title": "Sylvie and Bruno"
+		},
+		{
+			"href": "the-hunting-of-the-snark",
+			"title": "The Hunting of the Snark"
+		}
 	]
 }
