@@ -9,27 +9,35 @@ import (
 )
 
 type Contents struct {
-	Title		string		`json:"title"`
-	Author		string		`json:"author"`
-	Source		string		`json:"source"`
-	Cmdline		[]string	`json:"cmdline"`
-	LastUpdated	string		`json:"lastupdated"`
-	Chapters	[]Chapter	`json:"chapters"`
+	Title       string    `json:"title"`
+	Author      string    `json:"author"`
+	Source      string    `json:"source"`
+	Links       Links     `json:"links,omitempty"`
+	Cmdline     []string  `json:"cmdline,omitempty"`
+	LastUpdated string    `json:"lastupdated"`
+	Chapters    []Chapter `json:"chapters,omitempty"`
 }
 
 type Chapter struct {
-	HREF		string		`json:"href"`
-	Title		string		`json:"title"`
+	HREF  string `json:"href"`
+	Title string `json:"title"`
 }
 
 type Changelog struct {
-	HREF		string		`json:"href"`
-	Title		string		`json:"title"`
-	LastUpdated	string		`json:"lastupdated"`
+	HREF        string `json:"href"`
+	Title       string `json:"title"`
+	LastUpdated string `json:"lastupdated"`
 }
 
 type Config struct {
-	Rootdir		string		`json:"rootdir"`
+	Rootdir string `json:"rootdir"`
+}
+
+type Links struct {
+	Wikipedia string	`json:"wikipedia,omitempty"`
+	Goodreads string	`json:"goodreads,omitempty"`
+	Gutenberg string	`json:"gutenberg,omitempty"`
+	Other     []string	`json:"other,omitempty"`
 }
 
 // needs cleaning, but does the job
@@ -38,7 +46,7 @@ func ReadJSON(file string, j interface{}) (err error) {
 	if err != nil {
 		return err
 	}
-	
+
 	cf, err := ioutil.ReadAll(c)
 	if err != nil {
 		log.Fatal(err)
@@ -71,7 +79,7 @@ func WriteJSON(file string, j interface{}) {
 	}
 	c.Close()
 
-	err = os.Rename(file + ".new", file)
+	err = os.Rename(file+".new", file)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -91,7 +99,7 @@ func LoadConfig(file string) (conf Config) {
 	return conf
 }
 
-func FirstString(s ...string) (string) {
+func FirstString(s ...string) string {
 	for _, str := range s {
 		if str != "" {
 			return str

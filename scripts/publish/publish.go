@@ -200,6 +200,10 @@ func main() {
 	newchangelog := literature.Changelog{ HREF: "/authors/" + author + "/" + title,
 										  Title: contents.Title + " by " + contents.Author,
 										  LastUpdated: lastUpdated }
+	// only allow 100 items, rolling
+	if len(changelog) > 99 {
+		changelog = changelog[len(changelog)-99:]
+	}
 	changelog = append(changelog, newchangelog)
 	literature.WriteJSON(filepath.Join(rootdir, "changelog.json"), changelog)
 }
