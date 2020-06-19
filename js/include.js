@@ -97,7 +97,7 @@ function Contents() {
 							contents.chapters = [];
 						}
 						for (var c of contents.chapters) {
-							html += "<li><a href=\"" + c.href + "\" class=\"w3-bar-item w3-button\">";
+							html += "<li><a href=\"" + c.href + "\" class=\"w3-bar-item w3-button litleft\">";
 
 							if (c.href == "authors") {
 								html += "<i class=\"material-icons md-lit w3-margin-right\">people</i> ";
