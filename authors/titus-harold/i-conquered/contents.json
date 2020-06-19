@@ -1,0 +1,121 @@
+{
+	"title": "\"I Conquered\"",
+	"author": "Harold TITUS",
+	"source": "http://www.gutenberg.org/cache/epub/35866/pg35866.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"-skipto",
+		"XXVI",
+		"http://www.gutenberg.org/cache/epub/35866/pg35866.txt"
+	],
+	"lastupdated": "2020-06-19T15:33:27Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Denunciation"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Young Man Goes West"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - \"I've Done My Pickin'\""
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Trouble Hunter"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Jed Philosophizes"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Ambition Is Born"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - With Hoof And Tooth"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Head Of Yellow Hair"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Pursuit"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Capture"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Letter And A Narrative"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Woman Wants"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Vb Fights"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Schoolhouse Dance"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Murder"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Candle Burns"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Great Moments"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Lie"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Through The Night"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Last Stand"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Guns Crash"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Tables Turn; And Turn Again"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Life, The Trophy"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Victory"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - \"The Light!\""
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - To The Victor"
+		}
+	]
+}
