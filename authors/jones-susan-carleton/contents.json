@@ -2,12 +2,19 @@
 	"title": "Susan Carleton JONES",
 	"author": "",
 	"source": "",
-	"cmdline": null,
-	"lastupdated": "2020-06-17T07:51:06Z",
-	"chapters": [
+	"links": {
+		"goodreads": "https://www.goodreads.com/author/show/16102645",
+		"gutenberg": "https://www.gutenberg.org/ebooks/author/32543"
+	},
+	"lastupdated": "2020-06-19T17:49:58Z",
+	"books": [
 		{
 			"href": "the-la-chance-mine-mystery",
 			"title": "The La Chance Mine Mystery"
+		},
+		{
+			"href": "a-girl-of-the-north",
+			"title": "A Girl of the North"
 		}
 	]
 }
