@@ -197,8 +197,8 @@ func main() {
 	}
 
 	// update changelog
-	newchangelog := literature.Changelog{ HREF: "/authors/" + author + "/" + title,
-										  Title: contents.Title + " by " + contents.Author,
+	newchangelog := literature.Changelog{ Link: literature.Link{ HREF: "/authors/" + author + "/" + title,
+										  Title: contents.Title + " by " + contents.Author },
 										  LastUpdated: lastUpdated }
 	// only allow 100 items, rolling
 	if len(changelog) > 99 {

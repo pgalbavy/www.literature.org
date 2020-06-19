@@ -11,21 +11,36 @@ import (
 type Contents struct {
 	Title       string    `json:"title"`
 	Author      string    `json:"author"`
+	Year        int       `json:"year,omitempty"`
 	Source      string    `json:"source"`
 	Links       Links     `json:"links,omitempty"`
 	Cmdline     []string  `json:"cmdline,omitempty"`
 	LastUpdated string    `json:"lastupdated"`
 	Chapters    []Chapter `json:"chapters,omitempty"`
+	Books       []Book    `json:"books,omitempty"`
+	Authors     []Author  `json:"authors,omitempty"`
 }
 
-type Chapter struct {
+type Link struct {
 	HREF  string `json:"href"`
 	Title string `json:"title"`
+
+}
+
+type Chapter Link
+
+type Book struct {
+	Link
+	Year  int    `json:"year,omitempty"`
+}
+
+type Author struct {
+	HREF string `json:"href"`
+	Name string `json:"Name"`
 }
 
 type Changelog struct {
-	HREF        string `json:"href"`
-	Title       string `json:"title"`
+	Link
 	LastUpdated string `json:"lastupdated"`
 }
 
@@ -34,10 +49,10 @@ type Config struct {
 }
 
 type Links struct {
-	Wikipedia string	`json:"wikipedia,omitempty"`
-	Goodreads string	`json:"goodreads,omitempty"`
-	Gutenberg string	`json:"gutenberg,omitempty"`
-	Other     []string	`json:"other,omitempty"`
+	Wikipedia string   `json:"wikipedia,omitempty"`
+	Goodreads string   `json:"goodreads,omitempty"`
+	Gutenberg string   `json:"gutenberg,omitempty"`
+	Other     []Link   `json:"other,omitempty"`
 }
 
 // needs cleaning, but does the job

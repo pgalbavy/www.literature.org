@@ -2,12 +2,17 @@ package main
 
 // add links to an author or an individual book
 
+// wikipedia, goodreads and gutenberg links do not need to be labelled
+// all other links must be in the format TITLE/URL - a literal / and
+// if TITLE has shell special characters the the whole arg must be quoted
+
 import (
 	"path/filepath"
 	"flag"
 	"fmt"
 	"net/url"
 	"regexp"
+	"strings"
 	"time"
 
 	"github.com/pgalbavy/www.literature.org/scripts/literature"
@@ -25,11 +30,13 @@ func init() {
 func main() {
 	var remove, list bool
 	var dir string
+	var year int
 
 	flag.BoolVar(&remove, "r", false, "(notyet) remove link(s)")
 	flag.BoolVar(&list, "l", false, "(notyet) list link(s)")
 
 	flag.StringVar(&dir, "d", ".", "Directory of content to update (location of contents.json)")
+	flag.IntVar(&year, "y", 0, "Publication year")
 	flag.Parse()
 
 	var contents literature.Contents
@@ -58,16 +65,23 @@ func main() {
 			contents.Links.Gutenberg = u
 			updated = true
 		default:
+			w := strings.SplitN(u, "/", 2)
+			label, link := w[0], w[1]
 			o := &contents.Links.Other
 			for _, v := range *o {
-				if v == u {
-					fmt.Printf("url %q already in contents.json\n")
+				if v.HREF == link {
+					fmt.Printf("url %q already in contents.json under %q\n", link, v.Title)
 					break URLS
 				}
 			}
-			*o = append(*o, u)
+			*o = append(*o, literature.Link{ HREF: link, Title: label })
 			updated = true
 		}
+	}
+
+	if year > 0 {
+		contents.Year = year
+		updated = true
 	}
 
 	if updated {

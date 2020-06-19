@@ -1,19 +1,63 @@
 {
 	"title": "Louisa May ALCOTT",
 	"author": "",
-	"chapters": [
-		{ "href": "eight-cousins", "title": "Eight Cousins" },
-		{ "href": "hospital-sketches", "title": "Hospital Sketches" },
-		{ "href": "jack-and-jill", "title": "Jack and Jill" },
-		{ "href": "jos-boys", "title": "Jo's Boys" },
-		{ "href": "little-men", "title": "Little Men" },
-		{ "href": "little-women", "title": "Little Women" },
-		{ "href": "the-mysterious-key-and-what-it-opened", "title": "The Mysterious Key and What It Opened" },
-		{ "href": "an-old-fashioned-girl", "title": "An Old-Fashioned Girl" },
-		{ "href": "paulines-passion-and-punishment", "title": "Pauline's Passion and Punishment" },
-		{ "href": "rose-in-bloom", "title": "Rose In Bloom" },
-		{ "href": "under-the-lilacs", "title": "Under The Lilacs" },
-		{ "href": "work-a-story-of-experience", "title": "Work: A Stort of Experience" }
+	"source": "",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Louisa_May_Alcott",
+		"goodreads": "https://www.goodreads.com/author/show/1315",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/102"
+	},
+	"lastupdated": "2020-06-18T17:53:03Z",
+	"books": [
+		{
+			"href": "hospital-sketches",
+			"title": "Hospital Sketches"
+		},
+		{
+			"href": "jack-and-jill",
+			"title": "Jack and Jill"
+		},
+		{
+			"href": "jos-boys",
+			"title": "Jo's Boys"
+		},
+		{
+			"href": "little-men",
+			"title": "Little Men"
+		},
+		{
+			"href": "little-women",
+			"title": "Little Women"
+		},
+		{
+			"href": "eight-cousins",
+			"year": 1234,
+			"title": "Eight Cousins"
+		},
+		{
+			"href": "the-mysterious-key-and-what-it-opened",
+			"title": "The Mysterious Key and What It Opened"
+		},
+		{
+			"href": "an-old-fashioned-girl",
+			"title": "An Old-Fashioned Girl"
+		},
+		{
+			"href": "paulines-passion-and-punishment",
+			"title": "Pauline's Passion and Punishment",
+			"year": 1923
+		},
+		{
+			"href": "rose-in-bloom",
+			"title": "Rose In Bloom"
+		},
+		{
+			"href": "under-the-lilacs",
+			"title": "Under The Lilacs"
+		},
+		{
+			"href": "work-a-story-of-experience",
+			"title": "Work: A Stort of Experience"
+		}
 	]
 }
-

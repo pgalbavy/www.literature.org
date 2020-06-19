@@ -1,8 +1,17 @@
 {
 	"title": "AESOP",
 	"author": "",
+	"source": "",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Aesop",
+		"goodreads": "https://www.goodreads.com/author/show/12452",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/18"
+	},
+	"lastupdated": "2020-06-18T17:49:40Z",
 	"chapters": [
-		{ "href": "fables", "title": "Fables" }
+		{
+			"href": "fables",
+			"title": "Fables"
+		}
 	]
 }
-
