@@ -140,7 +140,6 @@ function Contents() {
 							}
 							if (contents.links.other) {
 								for (var l of contents.links.other) {
-									console.log("other link: ", l)
 									html += "<li><a href=\"" + l.href + "\" class=\"w3-bar-item w3-button\" target=\"_blank\">";
 									html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
 									html += l.title + "</a>"
@@ -242,8 +241,18 @@ function Navigate() {
 						html += "<nav class=\"w3-bar\" style=\"font-size:24px; white-space: nowrap;\">";
 						html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_open()\"><i class=\"material-icons\">menu</i></button>";
 
-						if (typeof contents.chapters !== 'undefined' && f && f != "index.html") {
-							var chapter = contents.chapters.findIndex(o => o.href === f);
+						var n;
+						if (typeof contents.authors !== 'undefined' && contents.authors.length > 0) {
+							n = contents.authors
+						} else if (typeof contents.books !== 'undefined' && contents.books.length > 0) {
+							n = contents.books
+						} else {
+							n = contents.chapters
+						}
+
+						if (n && f && f != "index.html") {
+							var i = n.findIndex(o => o.href === f);
+
 
 							if (f == "authors") {
 								html += "<a href=\"/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">home</i></a>";
@@ -267,18 +276,18 @@ function Navigate() {
 
 							var prev, next;
 
-							if (chapter > 0) {
+							if (i > 0) {
 								// there is a valid previous page
-								prev = contents.chapters[chapter - 1].href;
+								prev = n[i - 1].href;
 								html += "<a href=\"" + prev +
 									"\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">arrow_back</i></a>";
 							} else {
 								html += "<div class=\"w3-bar-item w3-button w3-disabled\"><i class=\"material-icons\">arrow_back</i></div>";
 							}
 
-							if (chapter < contents.chapters.length - 1 && contents.author != "") {
+							if (i < n.length - 1 && contents.author != "") {
 								// there is a valid next page
-								next = contents.chapters[chapter + 1].href
+								next = n[i + 1].href
 								html += "<a href=\"" + next +
 									"\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">arrow_forward</i></a>";
 							} else {
@@ -311,7 +320,7 @@ function Navigate() {
 							}
 
 							// dropdown of pages here
-							var g = contents.chapters.find(o => o.href === f);
+							var g = n.find(o => o.href === f);
 							if (g) {
 								html += "<div class=\"w3-bar-item lit w3-hide-small\">" + g.title + "</div>";
 								title = g.title + " - " + title;
