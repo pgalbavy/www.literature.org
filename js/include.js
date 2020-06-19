@@ -1,17 +1,17 @@
-function literatureFuncs() {
-	includeHTML();
-	contentsJSON();
-	literatureNav();
+function loadsitecode() {
+	Include();
+	Contents();
+	Navigate();
 }
 
-function includeHTML() {
+function Include() {
 	var z, i, elmnt, file, xhttp;
 	/* Loop through a collection of all HTML elements: */
 	z = document.getElementsByTagName("*");
 	for (i = 0; i < z.length; i++) {
 		elmnt = z[i];
 		/*search for elements with a certain atrribute:*/
-		file = elmnt.getAttribute("w3-include-html");
+		file = elmnt.getAttribute("include-html");
 		if (file) {
 			/* Make an HTTP request using the attribute value as the file name: */
 			xhttp = new XMLHttpRequest();
@@ -20,8 +20,8 @@ function includeHTML() {
 					if (this.status == 200) { elmnt.innerHTML = this.responseText; }
 					if (this.status == 404) { elmnt.innerHTML = "Page not found."; }
 					/* Remove the attribute, and call this function once more: */
-					elmnt.removeAttribute("w3-include-html");
-					literatureFuncs();
+					elmnt.removeAttribute("include-html");
+					loadsitecode();
 				}
 			}
 
@@ -60,14 +60,14 @@ function bookSort(a, b) {
 	return result;
 }
 
-function contentsJSON() {
+function Contents() {
 	var z, i, elmnt, file, xhttp;
 	/* Loop through a collection of all HTML elements: */
 	z = document.getElementsByTagName("*");
 	for (i = 0; i < z.length; i++) {
 		elmnt = z[i];
 		/*search for elements with a certain atrribute:*/
-		file = elmnt.getAttribute("contents-json");
+		file = elmnt.getAttribute("contents");
 		if (file) {
 			/* Make an HTTP request using the attribute value as the file name: */
 			xhttp = new XMLHttpRequest();
@@ -162,8 +162,8 @@ function contentsJSON() {
 						elmnt.innerHTML = html;
 					}
 					/* Remove the attribute, and call this function once more: */
-					elmnt.removeAttribute("contents-json");
-					literatureFuncs();
+					elmnt.removeAttribute("contents");
+					loadsitecode();
 				}
 			}
 			xhttp.open("GET", file, true);
@@ -192,14 +192,14 @@ function nameCapsHTML(name) {
 	});
 }
 
-function literatureNav() {
+function Navigate() {
 	var z, i, elmnt, file, xhttp;
 	/* Loop through a collection of all HTML elements: */
 	z = document.getElementsByTagName("*");
 	for (i = 0; i < z.length; i++) {
 		elmnt = z[i];
 		/*search for elements with a certain atrribute:*/
-		file = elmnt.getAttribute("lit-nav");
+		file = elmnt.getAttribute("navigate");
 		if (file) {
 			/* Make an HTTP request using the attribute value as the file name: */
 			xhttp = new XMLHttpRequest();
@@ -341,9 +341,9 @@ function literatureNav() {
 						elmnt.innerHTML = html;
 					}
 					/* Remove the attribute, and call this function once more: */
-					elmnt.removeAttribute("lit-nav");
+					elmnt.removeAttribute("navigate");
 					document.title = title;
-					literatureFuncs();
+					loadsitecode();
 				}
 			}
 			xhttp.open("GET", file, true);
