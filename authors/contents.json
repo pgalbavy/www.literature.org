@@ -1,277 +1,277 @@
 {
-	"title": "Authors",
+	"name": "Authors",
 	"author": "",
 	"source": "",
 	"cmdline": null,
 	"lastupdated": "2020-06-17T15:10:50Z",
-	"chapters": [
+	"authors": [
 		{
 			"href": "aesop",
-			"title": "AESOP"
+			"name": "AESOP"
 		},
 		{
 			"href": "alcott-louisa-may",
-			"title": "Louisa May ALCOTT"
+			"name": "Louisa May ALCOTT"
 		},
 		{
 			"href": "ames-joseph-bushnell",
-			"title": "Joseph Bushnell AMES"
+			"name": "Joseph Bushnell AMES"
 		},
 		{
 			"href": "austen-jane",
-			"title": "Jane AUSTIN"
+			"name": "Jane AUSTIN"
 		},
 		{
 			"href": "bailey-arthur-scott",
-			"title": "Arthur Scott BAILEY"
+			"name": "Arthur Scott BAILEY"
 		},
 		{
 			"href": "baily-waldron",
-			"title": "Waldron BAILY"
+			"name": "Waldron BAILY"
 		},
 		{
 			"href": "balzac-honore-de",
-			"title": "Honore de BALZAC"
+			"name": "Honore de BALZAC"
 		},
 		{
 			"href": "barrie-james-matthew",
-			"title": "James Matthew BARRIE"
+			"name": "James Matthew BARRIE"
 		},
 		{
 			"href": "baum-l-frank",
-			"title": "L. Frank BAUM"
+			"name": "L. Frank BAUM"
 		},
 		{
 			"href": "beecham-john-charles",
-			"title": "John Charles BEECHAM"
+			"name": "John Charles BEECHAM"
 		},
 		{
 			"href": "bronte-anne",
-			"title": "Anne BRONTË"
+			"name": "Anne BRONTË"
 		},
 		{
 			"href": "bronte-charlotte",
-			"title": "Charlotte BRONTË"
+			"name": "Charlotte BRONTË"
 		},
 		{
 			"href": "bronte-emily",
-			"title": "Emily BRONTË"
+			"name": "Emily BRONTË"
 		},
 		{
 			"href": "buck-charles-neville",
-			"title": "Charles Neville BUCK"
+			"name": "Charles Neville BUCK"
 		},
 		{
 			"href": "burroughs-edgar-rice",
-			"title": "Edgar Rice BURROUGHS"
+			"name": "Edgar Rice BURROUGHS"
 		},
 		{
 			"href": "carroll-lewis",
-			"title": "Lewis CARROLL"
+			"name": "Lewis CARROLL"
 		},
 		{
 			"href": "cather-willa",
-			"title": "Willa CATHER"
+			"name": "Willa CATHER"
 		},
 		{
 			"href": "christie-agatha",
-			"title": "Agatha CHRISTIE"
+			"name": "Agatha CHRISTIE"
 		},
 		{
 			"href": "collins-wilkie",
-			"title": "Wilkie COLLINS"
+			"name": "Wilkie COLLINS"
 		},
 		{
 			"href": "coolidge-dane",
-			"title": "Dane COOLIDGE"
+			"name": "Dane COOLIDGE"
 		},
 		{
 			"href": "cooper-courtney-ryley",
-			"title": "Courtney Ryley COOPER"
+			"name": "Courtney Ryley COOPER"
 		},
 		{
 			"href": "crane-stephen",
-			"title": "Stephen CRANE"
+			"name": "Stephen CRANE"
 		},
 		{
 			"href": "darwin-charles",
-			"title": "Charles DARWIN"
+			"name": "Charles DARWIN"
 		},
 		{
 			"href": "daviess-maria-thompson",
-			"title": "Maria Thompson DAVIESS"
+			"name": "Maria Thompson DAVIESS"
 		},
 		{
 			"href": "davis-richard-harding",
-			"title": "Richard Harding DAVIS"
+			"name": "Richard Harding DAVIS"
 		},
 		{
 			"href": "defoe-daniel",
-			"title": "Daniel DEFOE"
+			"name": "Daniel DEFOE"
 		},
 		{
 			"href": "descartes-rene",
-			"title": "Rene DESCARTES"
+			"name": "Rene DESCARTES"
 		},
 		{
 			"href": "dickens-charles",
-			"title": "Charles DICKENS"
+			"name": "Charles DICKENS"
 		},
 		{
 			"href": "dorrance-ethel-and-james",
-			"title": "Ethel and James DORRANCE"
+			"name": "Ethel and James DORRANCE"
 		},
 		{
 			"href": "dostoevsky-fyodor",
-			"title": "Fyodor DOSTOEVSKY"
+			"name": "Fyodor DOSTOEVSKY"
 		},
 		{
 			"href": "doyle-arthur-conan",
-			"title": "Arthur Conan DOYLE"
+			"name": "Arthur Conan DOYLE"
 		},
 		{
 			"href": "dumas-alexandre",
-			"title": "Alexandre DUMAS"
+			"name": "Alexandre DUMAS"
 		},
 		{
 			"href": "eliot-george",
-			"title": "George ELIOT"
+			"name": "George ELIOT"
 		},
 		{
 			"href": "forster-e-m",
-			"title": "E. M. FORSTER"
+			"name": "E. M. FORSTER"
 		},
 		{
 			"href": "gilman-charlotte-perkins",
-			"title": "Charlotte Perkins GILMAN"
+			"name": "Charlotte Perkins GILMAN"
 		},
 		{
 			"href": "grahame-kenneth",
-			"title": "Kenneth GRAHAME"
+			"name": "Kenneth GRAHAME"
 		},
 		{
-			"href": "grant-douglas",
-			"title": "Douglas GRANT"
+			"href": "ostrander-isabel",
+			"name": "Isabel OSTRANDER"
 		},
 		{
 			"href": "greene-homer",
-			"title": "Homer GREENE"
+			"name": "Homer GREENE"
 		},
 		{
 			"href": "haggard-h-rider",
-			"title": "H. Rider HAGGARD"
+			"name": "H. Rider HAGGARD"
 		},
 		{
 			"href": "hobbes-thomas",
-			"title": "Thomas HOBBES"
+			"name": "Thomas HOBBES"
 		},
 		{
 			"href": "hodgson-burnett-frances",
-			"title": "Frances HODGSON BURNETT"
+			"name": "Frances HODGSON BURNETT"
 		},
 		{
 			"href": "holley-marietta",
-			"title": "Marietta HOLLEY"
+			"name": "Marietta HOLLEY"
 		},
 		{
 			"href": "hughes-thomas",
-			"title": "Thomas HUGHES"
+			"name": "Thomas HUGHES"
 		},
 		{
 			"href": "jones-susan-carleton",
-			"title": "Susan Carleton JONES"
+			"name": "Susan Carleton JONES"
 		},
 		{
 			"href": "lawrence-david-herbert",
-			"title": "D. H. LAWRENCE"
+			"name": "D. H. LAWRENCE"
 		},
 		{
 			"href": "leblanc-maurice",
-			"title": "Maurice LEBLANC"
+			"name": "Maurice LEBLANC"
 		},
 		{
 			"href": "london-jack",
-			"title": "Jack LONDON"
+			"name": "Jack LONDON"
 		},
 		{
 			"href": "melville-herman",
-			"title": "Herman MELVILLE"
+			"name": "Herman MELVILLE"
 		},
 		{
 			"href": "milton-john",
-			"title": "John MILTON"
+			"name": "John MILTON"
 		},
 		{
 			"href": "montgomery-lucy-maud",
-			"title": "Lucy Maud MONTGOMERY"
+			"name": "Lucy Maud MONTGOMERY"
 		},
 		{
 			"href": "nesbit-edith",
-			"title": "Edith NESBIT"
+			"name": "Edith NESBIT"
 		},
 		{
 			"href": "oppenheim-e-phillips",
-			"title": "E. Phillips OPPENHEIM"
+			"name": "E. Phillips OPPENHEIM"
 		},
 		{
 			"href": "potter-david",
-			"title": "David POTTER"
+			"name": "David POTTER"
 		},
 		{
 			"href": "scott-arthur",
-			"title": "Arthur SCOTT"
+			"name": "Arthur SCOTT"
 		},
 		{
 			"href": "shaw-george-bernard",
-			"title": "George Bernard SHAW"
+			"name": "George Bernard SHAW"
 		},
 		{
 			"href": "shelley-mary",
-			"title": "Mary SHELLEY"
+			"name": "Mary SHELLEY"
 		},
 		{
 			"href": "stevenson-robert-louis",
-			"title": "Robert Louis STEVENSON"
+			"name": "Robert Louis STEVENSON"
 		},
 		{
 			"href": "stoker-bram",
-			"title": "Bram STOKER"
+			"name": "Bram STOKER"
 		},
 		{
 			"href": "titus-harold",
-			"title": "Harold TITUS"
+			"name": "Harold TITUS"
 		},
 		{
 			"href": "tolstoy-leo",
-			"title": "Leo TOLSTOY"
+			"name": "Leo TOLSTOY"
 		},
 		{
 			"href": "twain-mark",
-			"title": "Mark TWAIN"
+			"name": "Mark TWAIN"
 		},
 		{
 			"href": "verne-jules",
-			"title": "Jules VERNE"
+			"name": "Jules VERNE"
 		},
 		{
 			"href": "voltaire",
-			"title": "VOLTAIRE"
+			"name": "VOLTAIRE"
 		},
 		{
 			"href": "walton-frank",
-			"title": "Frank WALTON"
+			"name": "Frank WALTON"
 		},
 		{
 			"href": "wells-herbert-george",
-			"title": "H. G. WELLS"
+			"name": "H. G. WELLS"
 		},
 		{
 			"href": "wilde-oscar",
-			"title": "Oscar WILDE"
+			"name": "Oscar WILDE"
 		},
 		{
 			"href": "williams-frank",
-			"title": "Frank WILLIAMS"
+			"name": "Frank WILLIAMS"
 		}
 	]
 }

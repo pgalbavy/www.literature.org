@@ -48,6 +48,10 @@ function bookSort(a, b) {
 	return result;
 }
 
+function hrefSort(b, a) {
+	return a.href == b.href ? 0 : a.href > b.href ? -1 : 1
+}
+
 function Contents() {
 	var z, i, elmnt, file, xhttp;
 	/* Loop through a collection of all HTML elements: */
@@ -69,7 +73,7 @@ function Contents() {
 						if (typeof contents.authors === 'undefined') {
 							contents.authors = [];
 						}
-						for (var a of contents.authors.sort((a, b) => a.name < b.name)) {
+						for (var a of contents.authors.sort(hrefSort)) {
 							html += "<li><a href=\"" + a.href + "\" class=\"w3-bar-item w3-button\">";
 							html += "<i class=\"material-icons md-lit w3-margin-right\">person</i> ";
 							html += nameCapsHTML(a.name);
@@ -79,7 +83,6 @@ function Contents() {
 						if (typeof contents.books === 'undefined') {
 							contents.books = [];
 						}
-
 						for (var b of contents.books.sort(bookSort)) {
 							html += "<li><a href=\"" + b.href + "\" class=\"w3-bar-item w3-button\">";
 							html += "<i class=\"material-icons md-lit w3-margin-right\">menu_book</i> ";
