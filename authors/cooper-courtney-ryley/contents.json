@@ -2,12 +2,20 @@
 	"title": "Courtney Ryley COOPER",
 	"author": "",
 	"source": "",
-	"cmdline": null,
-	"lastupdated": "2020-06-17T07:31:17Z",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Courtney_Ryley_Cooper",
+		"goodreads": "https://www.goodreads.com/author/list/713230",
+		"gutenberg": "https://www.gutenberg.org/ebooks/author/9081"
+	},
+	"lastupdated": "2020-06-19T16:17:24Z",
 	"chapters": [
 		{
 			"href": "the-crosscut",
 			"title": "The Cross-Cut"
+		},
+		{
+			"href": "the-white-desert",
+			"title": "The White Desert"
 		}
 	]
 }
