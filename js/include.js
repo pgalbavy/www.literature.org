@@ -33,25 +33,11 @@ function Include() {
 	}
 }
 
+// sort by year or by title with short prefixes removed
 var smallre = /^(the|an|a)\s/i;
 
-// sort by year or by title with short prefixes removed
 function bookSort(a, b) {
-	var left = 0;
-	var right = 0;
-
-	if (typeof a.year !== 'undefined') {
-		right = a.year;
-	}
-	if (typeof b.year !== 'undefined') {
-		left = b.year;
-	}
-
-	var result = 0;
-
-	if (left && right) {
-		result = left == right ? 0 : left > right ? -1 : 1
-	}
+	var result = a.year == b.year ? 0 : a.year > b.year ? -1 : 1
 
 	if (result == 0) {
 		c = b.title.replace(smallre, "")
