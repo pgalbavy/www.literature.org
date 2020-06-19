@@ -1,0 +1,109 @@
+{
+	"title": "The Texican",
+	"author": "Dane COOLIDGE",
+	"source": "https://www.gutenberg.org/files/50387/50387-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Preface",
+		"-c",
+		"//p",
+		"-t",
+		"The Texican",
+		"-a",
+		"Dane COOLIDGE",
+		"https://www.gutenberg.org/files/50387/50387-0.txt"
+	],
+	"lastupdated": "2020-06-19T18:08:23Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Verde Crossing"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Good Eye, The Maverick King"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Double Cross"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Show-Down"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Lost Dog Cañon"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - \"The Voice Of Reason\""
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Revolution"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Day After"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Death And Taxes"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Stampeded"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Cattle War"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Mountain Law"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Welcome Home"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Kangaroo Court"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Revolution In Fact"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Back To Nature"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Power Of The Press"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Law's Delay"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Last Chance"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Law And The Evidence"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Never Again"
+		}
+	]
+}

@@ -1,0 +1,137 @@
+{
+	"title": "Silver and Gold",
+	"author": "Dane COOLIDGE",
+	"source": "http://www.gutenberg.org/cache/epub/30572/pg30572.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Preface",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/30572/pg30572.txt"
+	],
+	"lastupdated": "2020-06-19T18:06:30Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Ground-Hog"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Big Boy"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Hobo Stuff"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Cash"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Mother Trigedgo"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Oraculum"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Eminent Buttinsky"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Silver Treasure"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Bible-Back Murray"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Signs And Omens"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Lady Of The Sycamores"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Steel On Steel"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Swede Luck"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Strike"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Night For Love"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Friend"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Broke"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Hand Of Fate"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Man-Killer"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Jumpers And Tenors"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Broke Again"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Rock-Drilling Contest"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Heart Of His Beloved"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Colonel Dodge"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Answer"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - The Course Of The Law"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Like A Hog On Ice"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Parole"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - The Interpretation Thereof"
+		}
+	]
+}

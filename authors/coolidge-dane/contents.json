@@ -2,9 +2,12 @@
 	"title": "Dane COOLIDGE",
 	"author": "",
 	"source": "",
-	"cmdline": null,
-	"lastupdated": "2020-06-17T08:22:45Z",
-	"chapters": [
+	"links": {
+		"goodreads": "https://www.goodreads.com/author/show/626765",
+		"gutenberg": "https://www.gutenberg.org/ebooks/author/9069"
+	},
+	"lastupdated": "2020-06-19T18:13:58Z",
+	"books": [
 		{
 			"href": "rimrock-jones",
 			"title": "Rimrock Jones"
@@ -12,6 +15,30 @@
 		{
 			"href": "shadow-mountain",
 			"title": "Shadow Mountain"
+		},
+		{
+			"href": "bat-wing-bowles",
+			"title": "Bat Wing Bowles"
+		},
+		{
+			"href": "the-desert-trail",
+			"title": "The Desert Trail"
+		},
+		{
+			"href": "hidden-water",
+			"title": "Hidden Water"
+		},
+		{
+			"href": "silver-and-gold",
+			"title": "Silver and Gold"
+		},
+		{
+			"href": "the-texican",
+			"title": "The Texican"
+		},
+		{
+			"href": "wunpost",
+			"title": "Wunpost"
 		}
 	]
 }

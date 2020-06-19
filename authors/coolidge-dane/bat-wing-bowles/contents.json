@@ -1,0 +1,107 @@
+{
+	"title": "Bat Wing Bowles",
+	"author": "Dane COOLIDGE",
+	"source": "http://www.gutenberg.org/cache/epub/36134/pg36134.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/36134/pg36134.txt"
+	],
+	"lastupdated": "2020-06-19T17:57:43Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Mr. Bowles"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Far West"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Bat Wing Ranch"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Brigham"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Wa-Ha-Lote"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Round-Up"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Queen At Home"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Cowboy's Life"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Reduced To The Ranks"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The First Smile"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Coney Island"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Promoted"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Letter From The Postmistress"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The English Lord"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Burying The Hatchet"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Straw-Boss"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - And His Squirrel Story"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Rough-Riders"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Common Brawl"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Death Of Happy Jack"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Call"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Horse That Killed Dunbar"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Custom Of The Country"
+		}
+	]
+}

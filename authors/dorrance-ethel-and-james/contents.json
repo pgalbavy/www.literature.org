@@ -2,8 +2,10 @@
 	"title": "Ethel and James DORRANCE",
 	"author": "",
 	"source": "",
-	"cmdline": null,
-	"lastupdated": "2020-06-17T08:03:43Z",
+	"links": {
+		"goodreads": "https://www.goodreads.com/author/show/4842546"
+	},
+	"lastupdated": "2020-06-19T17:54:58Z",
 	"chapters": [
 		{
 			"href": "lonesome-town",

@@ -7,7 +7,7 @@
 		"goodreads": "https://www.goodreads.com/author/show/4453112",
 		"gutenberg": "https://www.gutenberg.org/ebooks/author/32733"
 	},
-	"lastupdated": "2020-06-19T17:31:51Z",
+	"lastupdated": "2020-06-19T17:43:29Z",
 	"books": [
 		{
 			"href": "the-harbor-of-doubt",
@@ -16,6 +16,10 @@
 		{
 			"href": "the-free-range",
 			"title": "The Free Range"
+		},
+		{
+			"href": "the-wilderness-trail",
+			"title": "The Wilderness Trail"
 		}
 	]
 }

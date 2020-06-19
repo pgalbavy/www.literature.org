@@ -1,0 +1,131 @@
+{
+	"title": "Wunpost",
+	"author": "Dane COOLIDGE",
+	"source": "http://www.gutenberg.org/cache/epub/30578/pg30578.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/30578/pg30578.txt"
+	],
+	"lastupdated": "2020-06-19T18:13:21Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Death Valley Trail"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Gateway Of Dreams"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Dusty Rhodes Eats Dirt"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Tree Of Life"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Willie Meena"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Cinched"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - More Dreams"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Babes In The Woods"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A New Deal"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Short Sports"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Stinging Lizard"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Back Home"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - With Hay Hooks"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Poisoned Bait"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Wunpost Takes Them All On"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Divine Providence"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Answer"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Lesson"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Tainted Money"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The War Eagle"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Lock Of Hair"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Fear Of The Hills"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Return Of The Blow-Hard"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Something New"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Challenge"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - The Fine Print"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - A Come-Back"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Wunpost Has A Bad Dream"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - In Trust"
+		}
+	]
+}

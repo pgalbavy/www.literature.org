@@ -1,0 +1,111 @@
+{
+	"title": "Hidden Water",
+	"author": "Dane COOLIDGE",
+	"source": "http://www.gutenberg.org/cache/epub/29642/pg29642.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/29642/pg29642.txt"
+	],
+	"lastupdated": "2020-06-19T18:04:46Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Mouse"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Man From Cherrycow"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Trail Of The Sheep"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Don Pablo Moreno"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Hidden Water"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Crossing"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Hell's Hip Pocket"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Year's Mail"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Moroni"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - \"Feed My Sheep\""
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Jumped"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Garden In The Desert"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Snow-Scene"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Forebodings"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Catastrophe"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Departure"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Chico And Grande"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Bad Blood"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Big Drunk"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Drought"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Flood"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Portents Of War"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Last Crossing"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The End Of It All"
+		}
+	]
+}
