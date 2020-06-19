@@ -7,7 +7,6 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
-	"sort"
 	"strings"
 	"regexp"
 	"time"
@@ -139,14 +138,17 @@ func main() {
 
 	// first, does the author already exist ?
 	literature.ReadJSON(filepath.Join(rootdir, "authors", "contents.json"), &topjson)
-	err = literature.ReadJSON(filepath.Join(rootdir, "changelog.json"), &changelog)
-	if err != nil {
-		fmt.Printf("readJSON: %q\n", err)
-		changelog = make([]literature.Changelog, 1)
+
+	// convert if old format
+	if len(topjson.Chapters) != 0 {
+		for _, c := range topjson.Chapters {
+			topjson.Authors = append(topjson.Authors, literature.Author{ c.HREF, c.Title })
+		}
+		topjson.Chapters = []literature.Chapter{}
 	}
 
 	var authorindex int = -1
-	for i, entry := range topjson.Chapters {
+	for i, entry := range topjson.Authors {
 		if entry.HREF == author {
 			authorindex = i
 		}
@@ -155,38 +157,37 @@ func main() {
 	lastUpdated := time.Now().UTC().Format(time.RFC3339)
 
 	if authorindex == -1 {
-		newauthor := literature.Chapter{ HREF: author, Title: contents.Author }
-		topjson.Chapters = append(topjson.Chapters, newauthor)
+		newauthor := literature.Author{ HREF: author, Name: contents.Author }
+		topjson.Authors = append(topjson.Authors, newauthor)
 
-		sort.Slice(topjson.Chapters, func(i, j int) bool {
-			// sort by directory names
-			return topjson.Chapters[i].HREF < topjson.Chapters[j].HREF
-		})
 		// write out new top level contents.json
 		topjson.LastUpdated = lastUpdated
 		topjson.Title = "Authors"
 		literature.WriteJSON(filepath.Join(rootdir, "authors", "contents.json"), topjson)
-		//i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
-		//ioutil.WriteFile(filepath.Join(rootdir, "authors", index), i, 0644)
 	}
 
 	// next, check for an existing title
 	literature.ReadJSON(filepath.Join(rootdir, "authors", author, "contents.json"), &authorjson)
 
-	var chapter int = -1
-	for i, entry := range authorjson.Chapters {
+	// convert "old" Chapters -> Books
+	if len(authorjson.Chapters) != 0 {
+		for _, c := range authorjson.Chapters {
+			authorjson.Books = append(authorjson.Books, literature.Book{ literature.Link{ c.HREF, c.Title }, 0 })
+		}
+		authorjson.Chapters = []literature.Chapter{}
+	}
+
+	var book int = -1
+	for i, entry := range authorjson.Books {
 		if entry.HREF == title {
-			chapter = i
+			book = i
 		}
 	}
 
 	// add and sort (until we have publication years, by title)
-	if chapter == -1 {
-		newchapter := literature.Chapter{ HREF: title, Title: contents.Title }
-		authorjson.Chapters = append(authorjson.Chapters, newchapter)
-		sort.Slice(authorjson.Chapters, func(i, j int) bool {
-			return authorjson.Chapters[i].Title < authorjson.Chapters[j].Title
-		})
+	if book == -1 {
+		newchapter := literature.Book{ literature.Link{ title, contents.Title }, 0 }
+		authorjson.Books = append(authorjson.Books, newchapter)
 		// write out new author contents.json
 		authorjson.Title = contents.Author
 		authorjson.LastUpdated = lastUpdated
@@ -197,6 +198,12 @@ func main() {
 	}
 
 	// update changelog
+	err = literature.ReadJSON(filepath.Join(rootdir, "changelog.json"), &changelog)
+	if err != nil {
+		fmt.Printf("readJSON: %q\n", err)
+		changelog = make([]literature.Changelog, 1)
+	}
+
 	newchangelog := literature.Changelog{ Link: literature.Link{ HREF: "/authors/" + author + "/" + title,
 										  Title: contents.Title + " by " + contents.Author },
 										  LastUpdated: lastUpdated }
