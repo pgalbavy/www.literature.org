@@ -248,7 +248,7 @@ function literatureNav() {
 						html += "</nav>";
 
 						// top bar
-						html += "<nav class=\"w3-bar\" style=\"font-size:24px\">";
+						html += "<nav class=\"w3-bar\" style=\"font-size:24px; white-space: nowrap;\">";
 						html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_open()\"><i class=\"material-icons\">menu</i></button>";
 
 						if (typeof contents.chapters !== 'undefined' && f && f != "index.html") {
@@ -322,10 +322,11 @@ function literatureNav() {
 							// dropdown of pages here
 							var g = contents.chapters.find(o => o.href === f);
 							if (g) {
-								html += "<div class=\"w3-bar-item w3-button w3-hide-small\">" + g.title + "</div>";
+								html += "<div class=\"w3-bar-item lit w3-hide-small\">" + g.title + "</div>";
 								title = g.title + " - " + title;
 							} else {
-								html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-hide-small\">" + nameCapsHTML(contents.title) + "</a>";
+								html += "<a href=\"index.html\" class=\"w3-bar-item lit w3-button w3-hide-small\">";
+								html += nameCapsHTML(contents.title) + "</a>";
 							}
 
 						} else if (f != null) {
