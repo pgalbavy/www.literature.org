@@ -7,11 +7,15 @@
 		"goodreads": "https://www.goodreads.com/author/show/4453112",
 		"gutenberg": "https://www.gutenberg.org/ebooks/author/32733"
 	},
-	"lastupdated": "2020-06-19T17:25:54Z",
-	"chapters": [
+	"lastupdated": "2020-06-19T17:31:51Z",
+	"books": [
 		{
 			"href": "the-harbor-of-doubt",
 			"title": "The Harbor of Doubt"
+		},
+		{
+			"href": "the-free-range",
+			"title": "The Free Range"
 		}
 	]
 }

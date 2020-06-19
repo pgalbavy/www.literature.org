@@ -36,7 +36,7 @@ type Book struct {
 
 type Author struct {
 	HREF string `json:"href"`
-	Name string `json:"Name"`
+	Name string `json:"name"`
 }
 
 type Changelog struct {
