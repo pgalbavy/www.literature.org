@@ -33,6 +33,8 @@ function Include() {
 	}
 }
 
+var smallre = /^(the|an|a)\s/i;
+
 // sort by year or by title with short prefixes removed
 function bookSort(a, b) {
 	var left = 0;
@@ -52,8 +54,8 @@ function bookSort(a, b) {
 	}
 
 	if (result == 0) {
-		c = b.title.replace(/^(the|a|an)\s/i, "")
-		d = a.title.replace(/^(the|an|a)\s/i, "")
+		c = b.title.replace(smallre, "")
+		d = a.title.replace(smallre, "")
 		return c == d ? 0 : c > d ? -1 : 1
 	}
 
