@@ -58,7 +58,7 @@ func init() {
 
 	dashre = regexp.MustCompile(`[ _]`)
 
-	firstre = regexp.MustCompile(`(?mi)\A(?:the )?project gutenberg(?: ebook of|'s| ebook,) ([\w\.\-' ]+),\s+by\s+([\w\.\-' ]+)\,?\r?$`)
+	firstre = regexp.MustCompile(`(?mi)\A(?:the )?project gutenberg(?: ebook of|'s| ebook,) ([\w\.\-'" ]+),\s+by\s+([\w\.\-' ]+)\,?\r?$`)
 
 	levels = make([]Level, 2, 5)
 
@@ -117,7 +117,6 @@ func main() {
 
 	// process -chapters option
 	m := optre.FindStringSubmatch(chap.text)
-	m[2] = strings.TrimSuffix(m[2], m[3])
 	if m[0] == "" {
 		log.Fatal("-chapters must be in the format '[TEXT][/REGEXP/[iLNRP]]'")
 	}
@@ -128,6 +127,7 @@ func main() {
 		chap.text = m[1]
 	}
 
+	m[2] = strings.TrimSuffix(m[2], m[3])
 	chapreg := strings.Trim(m[2], "/")
 	if chapreg == "" {
 		//def is chap.text and space (case insenstive)
@@ -171,6 +171,7 @@ func main() {
 
 	// process -parts option
 	pm := optre.FindStringSubmatch(part.text)
+	fmt.Printf("pm=%v\n", strings.Join(pm, ":"))
 
 	if pm[0] == "" {
 		log.Fatal("-parts must be in the format '[TEXT][/REGEXP/[iLNRP]]'")
@@ -182,6 +183,7 @@ func main() {
 		part.text = pm[1]
 	}
 
+	pm[2] = strings.TrimSuffix(pm[2], pm[3])
 	partreg := strings.Trim(pm[2], "/")
 	if partreg == "" {
 		// def is none
@@ -189,6 +191,7 @@ func main() {
 	} else {
 		part.sep = `(?m)` + partreg
 	}
+	fmt.Printf("part.sep=%q\n", part.sep) 
 	if pm[3] != "" {
 		if strings.Contains(pm[3], "t") {
 			part.inctitle = true
@@ -320,6 +323,7 @@ func main() {
 		}
 
 		for p, text := range parts {
+			// parts are linearly numbers for now
 			splitfile(text, chap.sepre, part.text, head, foot, p, &contents)
 		}
 	} else {

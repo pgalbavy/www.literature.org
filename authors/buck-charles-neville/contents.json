@@ -2,16 +2,52 @@
 	"title": "Charles Neville BUCK",
 	"author": "",
 	"source": "",
-	"cmdline": null,
-	"lastupdated": "2020-06-17T08:33:03Z",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Charles_Neville_Buck",
+		"goodreads": "https://www.goodreads.com/author/list/2806506",
+		"gutenberg": "https://www.gutenberg.org/ebooks/author/2520"
+	},
+	"lastupdated": "2020-06-19T16:08:02Z",
 	"chapters": [
 		{
 			"href": "a-pagan-of-the-hills",
 			"title": "A Pagan of the Hills"
 		},
 		{
+			"href": "destiny",
+			"title": "Destiny"
+		},
+		{
+			"href": "the-call-of-the-cumberlands",
+			"title": "The Call of the Cumberlands"
+		},
+		{
 			"href": "the-code-of-the-mountains",
 			"title": "The Code of the Mountains"
+		},
+		{
+			"href": "the-key-to-yesterday",
+			"title": "The Key to Yesterday"
+		},
+		{
+			"href": "the-lighted-match",
+			"title": "The Lighted Match"
+		},
+		{
+			"href": "the-portal-of-dreams",
+			"title": "The Portal of Dreams"
+		},
+		{
+			"href": "the-roof-tree",
+			"title": "The Roof Tree"
+		},
+		{
+			"href": "the-tempering",
+			"title": "The Tempering"
+		},
+		{
+			"href": "the-tyranny-of-weakness",
+			"title": "The Tyranny of Weakness"
 		},
 		{
 			"href": "when-bear-cat-went-dry",

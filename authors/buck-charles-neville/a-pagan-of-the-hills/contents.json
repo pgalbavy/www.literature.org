@@ -2,13 +2,14 @@
 	"title": "A Pagan of the Hills",
 	"author": "Charles Neville BUCK",
 	"source": "http://www.gutenberg.org/cache/epub/19089/pg19089.txt",
+	"links": {},
 	"cmdline": [
 		"convtext",
-		"-author",
+		"-a",
 		"Charles Neville BUCK",
 		"http://www.gutenberg.org/cache/epub/19089/pg19089.txt"
 	],
-	"lastupdated": "2020-06-17T08:07:29Z",
+	"lastupdated": "2020-06-19T16:00:53Z",
 	"chapters": [
 		{
 			"href": "chapter-01.html",

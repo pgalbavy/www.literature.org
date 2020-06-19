@@ -1,0 +1,119 @@
+{
+	"title": "The Portal of Dreams",
+	"author": "Charles Neville BUCK",
+	"source": "http://www.gutenberg.org/cache/epub/31927/pg31927.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/31927/pg31927.txt"
+	],
+	"lastupdated": "2020-06-19T16:01:49Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Vision Upon A Warning"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Pursuing A Will-O'-The-Wisp"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - I Embark On A Fool's Errand"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Some Passages From A Diary"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Premonitions Become Realities"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The End Of The \"Wastrel\""
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - In Strange Circumstances"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Nature Indulges In Satire"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Portrait And A Temple"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - I Seek Orchids"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - I Find Myself A Demi-God"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Port And Starboard Lights"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Enter The Infantryman"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The \"Ash-Trash Lady\""
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Two Discoveries"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - An Interview And A Crisis"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - We Go To The Mountains"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Chat With A Dictator"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Volley From The Laurel"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Cavalcade From The Laurel"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - I Go Walking And Meet Enemies"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - I Fail To Return Home"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Offer Of Parole"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - My Day In Court"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Being Laughed At"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - How It Ended--And Began"
+		}
+	]
+}
