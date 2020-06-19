@@ -1,11 +1,29 @@
 {
 	"title": "Honoré de BALZAC",
 	"author": "",
+	"source": "",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac",
+		"goodreads": "https://www.goodreads.com/author/show/228089",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/251"
+	},
+	"lastupdated": "2020-06-19T14:07:41Z",
 	"chapters": [
-		{ "href": "bureaucracy", "title": "Bureaucracy" },
-		{ "href": "the-country-doctor", "title": "The Country Doctor" },
-		{ "href": "juana", "title": "Juana" },
-		{ "href": "an-old-maid", "title": "An Old Maid" }
+		{
+			"href": "bureaucracy",
+			"title": "Bureaucracy"
+		},
+		{
+			"href": "the-country-doctor",
+			"title": "The Country Doctor"
+		},
+		{
+			"href": "juana",
+			"title": "Juana"
+		},
+		{
+			"href": "an-old-maid",
+			"title": "An Old Maid"
+		}
 	]
 }
-

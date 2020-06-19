@@ -2,8 +2,12 @@
 	"title": "Waldron BAILY",
 	"author": "",
 	"source": "",
-	"cmdline": null,
-	"lastupdated": "2020-06-17T11:19:45Z",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Waldron_Baily",
+		"goodreads": "https://www.goodreads.com/author/list/3513647",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/33344"
+	},
+	"lastupdated": "2020-06-19T14:06:48Z",
 	"chapters": [
 		{
 			"href": "heart-of-the-blue-ridge",

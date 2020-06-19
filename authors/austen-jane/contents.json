@@ -1,12 +1,43 @@
 {
 	"title": "Jane AUSTEN",
 	"author": "",
+	"source": "",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Jane_Austen",
+		"goodreads": "https://www.goodreads.com/author/show/1265",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/68",
+		"other": [
+			{
+				"href": "https://www.bl.uk/people/jane-austen",
+				"title": "British Library"
+			},
+			{
+				"href": "http://www.bbc.co.uk/history/historic_figures/austen_jane.shtml",
+				"title": "BBC History"
+			}
+		]
+	},
+	"lastupdated": "2020-06-19T13:53:21Z",
 	"chapters": [
-		{ "href": "emma", "title": "Emma" },
-		{ "href": "mansfield-park", "title": "Mansfield Park" },
-		{ "href": "persuasion", "title": "Persuasion" },
-		{ "href": "pride-and-prejudice", "title": "Pride and Prejudice" },
-		{ "href": "sense-and-sensibility", "title": "Sense and Sensibility" }
+		{
+			"href": "emma",
+			"title": "Emma"
+		},
+		{
+			"href": "mansfield-park",
+			"title": "Mansfield Park"
+		},
+		{
+			"href": "persuasion",
+			"title": "Persuasion"
+		},
+		{
+			"href": "pride-and-prejudice",
+			"title": "Pride and Prejudice"
+		},
+		{
+			"href": "sense-and-sensibility",
+			"title": "Sense and Sensibility"
+		}
 	]
 }
-

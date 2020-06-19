@@ -2,13 +2,17 @@
 	"title": "Shoe-Bar Stratton",
 	"author": "Joseph Bushnell AMES",
 	"source": "http://www.gutenberg.org/cache/epub/27355/pg27355.txt",
+	"links": {
+		"goodreads": "https://www.goodreads.com/work/editions/6797067",
+		"gutenberg": "http://www.gutenberg.org/ebooks/27355"
+	},
 	"cmdline": [
 		"convtext",
 		"-chapters",
 		"//p",
 		"http://www.gutenberg.org/cache/epub/27355/pg27355.txt"
 	],
-	"lastupdated": "2020-06-17T08:23:19Z",
+	"lastupdated": "2020-06-19T13:47:20Z",
 	"chapters": [
 		{
 			"href": "chapter-01.html",

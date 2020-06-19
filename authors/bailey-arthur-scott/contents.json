@@ -2,8 +2,12 @@
 	"title": "Arthur Scott BAILEY",
 	"author": "",
 	"source": "",
-	"cmdline": null,
-	"lastupdated": "2020-06-17T14:59:54Z",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Arthur_Scott_Bailey",
+		"goodreads": "https://www.goodreads.com/author/list/309846",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/1842"
+	},
+	"lastupdated": "2020-06-19T13:55:06Z",
 	"chapters": [
 		{
 			"href": "the-tale-of-benny-badger",
