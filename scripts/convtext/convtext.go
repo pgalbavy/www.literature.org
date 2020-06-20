@@ -379,7 +379,13 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 	ct := dashre.ReplaceAllString(strings.ToLower(chap.text), "-")
 	fileprefix := partprefix + fmt.Sprintf("%s-%%0%dd", ct, cdigits)
 
-	var cn int
+	cn := 0
+
+	// if we are processing parts then chapters start immediately at 1 after
+	// the part split. otherwise chapters start at 0 for the starting-text
+	if parttext != "" {
+		cn = 1
+	}
 
 	for pn, part := range parts {
 		var title = ""
@@ -414,7 +420,7 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 			if rcn == 0 {
 				_, err = fmt.Sscanf(paraaftermatch, "%d", &rcn)
 				if err != nil {
-					rcn = pn
+					rcn = cn
 				} else {
 					paraaftermatch = strings.TrimLeft(paraaftermatch, "0123456789")
 				}
