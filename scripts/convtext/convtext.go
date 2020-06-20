@@ -176,7 +176,6 @@ func main() {
 
 	// process -parts option
 	pm := optre.FindStringSubmatch(part.text)
-	fmt.Printf("pm=%v\n", strings.Join(pm, ":"))
 
 	if pm[0] == "" {
 		log.Fatal("-p must be in the format '[TEXT][/REGEXP/[iLNRP]]'")
@@ -196,7 +195,6 @@ func main() {
 	} else {
 		part.sep = `(?m)` + partreg
 	}
-	fmt.Printf("part.sep=%q\n", part.sep) 
 	if pm[3] != "" {
 		if strings.Contains(pm[3], "t") {
 			part.inctitle = true
@@ -289,6 +287,7 @@ func main() {
 		}
 	}
 
+	fmt.Printf("Processing text: %q by %q\n", contents.Title, contents.Author)
 	if skipto != "" {
 		re, err := regexp.Compile("(?m)" + skipto)
 		if err != nil {
