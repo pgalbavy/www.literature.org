@@ -1,0 +1,77 @@
+{
+	"title": "The Moon Maid",
+	"author": "Edgar Rice BURROUGHS",
+	"source": "https://www.gutenberg.org/files/59752/59752-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Prologue",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/59752/59752-0.txt"
+	],
+	"lastupdated": "2020-06-20T12:04:50Z",
+	"chapters": [
+		{
+			"href": "prologue.html",
+			"title": "Prologue"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - An Adventure In Space"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Secret Of The Moon"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Animals Or Men?"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Captured"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Out Of The Storm"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Moon Maid"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Fight And A Chance"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Fight With A Tor-Ho"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - An Attack By Kalkars"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The City Of Kalkars"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Meeting With Ko-Tah"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Growing Danger"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Death Within And Without!"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Barsoom!"
+		}
+	]
+}

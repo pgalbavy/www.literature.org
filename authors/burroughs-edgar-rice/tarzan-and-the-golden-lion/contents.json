@@ -1,0 +1,99 @@
+{
+	"title": "Tarzan and the Golden Lion",
+	"author": "Edgar Rice BURROUGHS",
+	"source": "https://www.gutenberg.org/files/58874/58874-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"/^ +CHAPTER /",
+		"https://www.gutenberg.org/files/58874/58874-0.txt"
+	],
+	"lastupdated": "2020-06-20T12:06:36Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Golden Lion"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Training Of Jad-Bal-Ja"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Meeting Of Mystery"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - What The Footprints Told"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Fatal Drops"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Death Steals Behind"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - “you Must Sacrifice Him”"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Mystery Of The Past"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Shaft Of Death"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Mad Treachery"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Strange Incense Burns"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Golden Ingots"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Strange, Flat Tower"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Chamber Of Horrors"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Map Of Blood"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Diamond Hoard"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Torture Of Fire"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Spoor Of Revenge"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Barbed Shaft Kills"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Dead Return"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - An Escape And A Capture"
+		}
+	]
+}

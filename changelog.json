@@ -1,45 +1,5 @@
 [
 	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee",
-		"title": "The Tale of Buster Bumblebee by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T11:51:05Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket",
-		"title": "The Tale of Chirpy Cricket by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T12:09:19Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear",
-		"title": "The Tale of Cuffy Bear by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T12:13:53Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs",
-		"title": "The Tale of Daddy Longlegs by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T12:14:55Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse",
-		"title": "The Tale of Dickie Deer Mouse by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T12:17:41Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-fatty-coon",
-		"title": "The Tale of Fatty Coon by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T12:19:44Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog",
-		"title": "The Tale of Ferdinand Frog by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T12:26:40Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly",
-		"title": "The Tale of Freddie Firefly by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T12:37:32Z"
-	},
-	{
 		"href": "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel",
 		"title": "The Tale of Frisky Squirrel by Arthur Scott BAILEY",
 		"lastupdated": "2020-06-17T12:41:37Z"
@@ -498,5 +458,45 @@
 		"href": "/authors/ridge-w-pett/love-at-paddington",
 		"title": "Love at Paddington by W. Pett RIDGE",
 		"lastupdated": "2020-06-20T11:58:44Z"
+	},
+	{
+		"href": "/authors/burroughs-edgar-rice/the-girl-from-hollywood",
+		"title": "The Girl from Hollywood by Edgar Rice BURROUGHS",
+		"lastupdated": "2020-06-20T12:01:49Z"
+	},
+	{
+		"href": "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men",
+		"title": "Tarzan and the Ant Men by Edgar Rice BURROUGHS",
+		"lastupdated": "2020-06-20T12:04:13Z"
+	},
+	{
+		"href": "/authors/burroughs-edgar-rice/the-moon-maid",
+		"title": "The Moon Maid by Edgar Rice BURROUGHS",
+		"lastupdated": "2020-06-20T12:05:23Z"
+	},
+	{
+		"href": "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion",
+		"title": "Tarzan and the Golden Lion by Edgar Rice BURROUGHS",
+		"lastupdated": "2020-06-20T12:06:59Z"
+	},
+	{
+		"href": "/authors/burroughs-edgar-rice/the-efficiency-expert",
+		"title": "The Efficiency Expert by Edgar Rice BURROUGHS",
+		"lastupdated": "2020-06-20T12:08:36Z"
+	},
+	{
+		"href": "/authors/burroughs-edgar-rice/tarzan-the-terrible",
+		"title": "Tarzan the Terrible by Edgar Rice BURROUGHS",
+		"lastupdated": "2020-06-20T12:13:52Z"
+	},
+	{
+		"href": "/authors/burroughs-edgar-rice/the-mucker",
+		"title": "The Mucker by Edgar Rice BURROUGHS",
+		"lastupdated": "2020-06-20T12:19:08Z"
+	},
+	{
+		"href": "/authors/burroughs-edgar-rice/the-mad-king",
+		"title": "The Mad King by Edgar Rice BURROUGHS",
+		"lastupdated": "2020-06-20T12:35:36Z"
 	}
 ]

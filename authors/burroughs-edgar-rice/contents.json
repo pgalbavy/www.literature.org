@@ -1,27 +1,125 @@
 {
 	"title": "Edgar Rice BURROUGHS",
 	"author": "",
-	"chapters": [
-		{ "href": "the-land-that-time-forgot", "title": "The Land That Time Forgot" },
-		{ "href": "the-people-that-time-forgot", "title": "The People That Time Forgot" },
-		{ "href": "tarzan-of-the-apes", "title": "Tarzan of the Apes" },
-		{ "href": "the-return-of-tarzan", "title": "The Return of Tarzan" },
-		{ "href": "the-beasts-of-tarzan", "title": "The Beasts of Tarzan" },
-		{ "href": "the-son-of-tarzan", "title": "The Son of Tarzan" },
-		{ "href": "tarzan-and-the-jewels-of-opar", "title": "Tarzan and the Jewels of Opar" },
-		{ "href": "jungle-tales-of-tarzan", "title": "Jungle Tales of Tarzan" },
-		{ "href": "tarzan-the-untamed", "title": "Tarzan the Untamed" },
-		{ "href": "a-princess-of-mars", "title": "A Princess of Mars" },
-		{ "href": "the-gods-of-mars", "title": "The Gods of Mars" },
-		{ "href": "the-warlord-of-mars", "title": "The Warlord of Mars" },
-		{ "href": "thuvia-maid-of-mars", "title": "Thuvia, Maid of Mars" },
-		{ "href": "the-chessmen-of-mars", "title": "The Chessmen of Mars" },
-		{ "href": "at-the-earths-core", "title": "At the Earth's Core" },
-		{ "href": "the-lost-continent", "title": "The Lost Continent" },
-		{ "href": "the-monster-men", "title": "The Monster Men" },
-		{ "href": "out-of-times-abyss", "title": "Out of Time's Abyss" },
-		{ "href": "the-outlaw-of-torn", "title": "The Outlaw of Torn" },
-		{ "href": "pellucidar", "title": "Pellucidar" }
+	"source": "",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs",
+		"goodreads": "https://www.goodreads.com/author/show/10885",
+		"gutenberg": "https://www.gutenberg.org/ebooks/author/48"
+	},
+	"lastupdated": "2020-06-20T12:35:36Z",
+	"books": [
+		{
+			"href": "the-land-that-time-forgot",
+			"title": "The Land That Time Forgot"
+		},
+		{
+			"href": "the-people-that-time-forgot",
+			"title": "The People That Time Forgot"
+		},
+		{
+			"href": "tarzan-of-the-apes",
+			"title": "Tarzan of the Apes"
+		},
+		{
+			"href": "the-return-of-tarzan",
+			"title": "The Return of Tarzan"
+		},
+		{
+			"href": "the-beasts-of-tarzan",
+			"title": "The Beasts of Tarzan"
+		},
+		{
+			"href": "the-son-of-tarzan",
+			"title": "The Son of Tarzan"
+		},
+		{
+			"href": "tarzan-and-the-jewels-of-opar",
+			"title": "Tarzan and the Jewels of Opar"
+		},
+		{
+			"href": "jungle-tales-of-tarzan",
+			"title": "Jungle Tales of Tarzan"
+		},
+		{
+			"href": "tarzan-the-untamed",
+			"title": "Tarzan the Untamed"
+		},
+		{
+			"href": "a-princess-of-mars",
+			"title": "A Princess of Mars"
+		},
+		{
+			"href": "the-gods-of-mars",
+			"title": "The Gods of Mars"
+		},
+		{
+			"href": "the-warlord-of-mars",
+			"title": "The Warlord of Mars"
+		},
+		{
+			"href": "thuvia-maid-of-mars",
+			"title": "Thuvia, Maid of Mars"
+		},
+		{
+			"href": "the-chessmen-of-mars",
+			"title": "The Chessmen of Mars"
+		},
+		{
+			"href": "at-the-earths-core",
+			"title": "At the Earth's Core"
+		},
+		{
+			"href": "the-lost-continent",
+			"title": "The Lost Continent"
+		},
+		{
+			"href": "the-monster-men",
+			"title": "The Monster Men"
+		},
+		{
+			"href": "out-of-times-abyss",
+			"title": "Out of Time's Abyss"
+		},
+		{
+			"href": "the-outlaw-of-torn",
+			"title": "The Outlaw of Torn"
+		},
+		{
+			"href": "pellucidar",
+			"title": "Pellucidar"
+		},
+		{
+			"href": "the-girl-from-hollywood",
+			"title": "The Girl from Hollywood"
+		},
+		{
+			"href": "tarzan-and-the-ant-men",
+			"title": "Tarzan and the Ant Men"
+		},
+		{
+			"href": "the-moon-maid",
+			"title": "The Moon Maid"
+		},
+		{
+			"href": "tarzan-and-the-golden-lion",
+			"title": "Tarzan and the Golden Lion"
+		},
+		{
+			"href": "the-efficiency-expert",
+			"title": "The Efficiency Expert"
+		},
+		{
+			"href": "tarzan-the-terrible",
+			"title": "Tarzan the Terrible"
+		},
+		{
+			"href": "the-mucker",
+			"title": "The Mucker"
+		},
+		{
+			"href": "the-mad-king",
+			"title": "The Mad King"
+		}
 	]
 }
-

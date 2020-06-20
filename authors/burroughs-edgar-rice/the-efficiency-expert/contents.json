@@ -1,0 +1,127 @@
+{
+	"title": "The Efficiency Expert",
+	"author": "Edgar Rice BURROUGHS",
+	"source": "http://www.gutenberg.org/cache/epub/3475/pg3475.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/3475/pg3475.txt"
+	],
+	"lastupdated": "2020-06-20T12:08:13Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Jimmy Torrance, Jr"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Jimmy Will Accept A Position"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Lizard"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Jimmy Hunts A Job"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Jimmy Lands One"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Harold Plays The Raven"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Jobless Again"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Bread From The Waters"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Harold Sits In A Game"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - At Feinheimer's"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Christmas Eve"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Up Or Down?"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Harriet Philosophizes"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - In Again--Out Again"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Little Eva"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Jimmy Throws A Bluff"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Jimmy On The Job"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Efficiency Expert"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Plotting"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - An Invitation To Dine"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Jimmy Tells The Truth"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - A Letter From Murray"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Laid Up"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - In The Toils"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Circumstantial Evidence"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - \"The Only Friends He Has.\""
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - The Trial"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The Verdict"
+		}
+	]
+}

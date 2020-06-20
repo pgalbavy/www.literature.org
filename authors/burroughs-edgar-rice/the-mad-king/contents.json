@@ -1,0 +1,127 @@
+{
+	"title": "The Mad King",
+	"author": "Edgar Rice BURROUGHS",
+	"source": "http://www.gutenberg.org/cache/epub/364/pg364.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-p",
+		"Part/^PART /",
+		"http://www.gutenberg.org/cache/epub/364/pg364.txt"
+	],
+	"lastupdated": "2020-06-20T12:34:28Z",
+	"chapters": [
+		{
+			"href": "part-01-chapter-01.html",
+			"title": "Part 1 - Chapter 1 - A Runaway Horse"
+		},
+		{
+			"href": "part-01-chapter-02.html",
+			"title": "Part 1 - Chapter 2 - Over The Precipice"
+		},
+		{
+			"href": "part-01-chapter-03.html",
+			"title": "Part 1 - Chapter 3 - An Angry King"
+		},
+		{
+			"href": "part-01-chapter-04.html",
+			"title": "Part 1 - Chapter 4 - Barney Finds A Friend"
+		},
+		{
+			"href": "part-01-chapter-05.html",
+			"title": "Part 1 - Chapter 5 - The Escape"
+		},
+		{
+			"href": "part-01-chapter-06.html",
+			"title": "Part 1 - Chapter 6 - A King's Ransom"
+		},
+		{
+			"href": "part-01-chapter-07.html",
+			"title": "Part 1 - Chapter 7 - The Real Leopold"
+		},
+		{
+			"href": "part-01-chapter-08.html",
+			"title": "Part 1 - Chapter 8 - The Coronation Day"
+		},
+		{
+			"href": "part-01-chapter-09.html",
+			"title": "Part 1 - Chapter 9 - The King's Guests"
+		},
+		{
+			"href": "part-01-chapter-10.html",
+			"title": "Part 1 - Chapter 10 - On The Battlefield"
+		},
+		{
+			"href": "part-01-chapter-11.html",
+			"title": "Part 1 - Chapter 11 - A Timely Intervention"
+		},
+		{
+			"href": "part-01-chapter-12.html",
+			"title": "Part 1 - Chapter 12 - The Gratitude Of A King"
+		},
+		{
+			"href": "part-02-chapter-01.html",
+			"title": "Part 2 - Chapter 1 - Barney Returns To Lutha"
+		},
+		{
+			"href": "part-02-chapter-02.html",
+			"title": "Part 2 - Chapter 2 - Condemned To Death"
+		},
+		{
+			"href": "part-02-chapter-03.html",
+			"title": "Part 2 - Chapter 3 - Before The Firing Squad"
+		},
+		{
+			"href": "part-02-chapter-04.html",
+			"title": "Part 2 - Chapter 4 - A Race To Lutha"
+		},
+		{
+			"href": "part-02-chapter-05.html",
+			"title": "Part 2 - Chapter 5 - The Traitor King"
+		},
+		{
+			"href": "part-02-chapter-06.html",
+			"title": "Part 2 - Chapter 6 - A Trap Is Sprung"
+		},
+		{
+			"href": "part-02-chapter-07.html",
+			"title": "Part 2 - Chapter 7 - Barney To The Rescue"
+		},
+		{
+			"href": "part-02-chapter-08.html",
+			"title": "Part 2 - Chapter 8 - An Adventurous Day"
+		},
+		{
+			"href": "part-02-chapter-09.html",
+			"title": "Part 2 - Chapter 9 - The Capture"
+		},
+		{
+			"href": "part-02-chapter-10.html",
+			"title": "Part 2 - Chapter 10 - A New King In Lutha"
+		},
+		{
+			"href": "part-02-chapter-11.html",
+			"title": "Part 2 - Chapter 11 - The Battle"
+		},
+		{
+			"href": "part-02-chapter-12.html",
+			"title": "Part 2 - Chapter 12 - Leopold Waits For Dawn"
+		},
+		{
+			"href": "part-02-chapter-13.html",
+			"title": "Part 2 - Chapter 13 - The Two Kings"
+		},
+		{
+			"href": "part-02-chapter-14.html",
+			"title": "Part 2 - Chapter 14 - \"The King's Will Is Law\""
+		},
+		{
+			"href": "part-02-chapter-15.html",
+			"title": "Part 2 - Chapter 15 - Maenck Blunders"
+		},
+		{
+			"href": "part-02-chapter-16.html",
+			"title": "Part 2 - Chapter 16 - King Of Lutha"
+		}
+	]
+}
