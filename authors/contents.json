@@ -3,7 +3,7 @@
 	"author": "",
 	"source": "",
 	"links": {},
-	"lastupdated": "2020-06-20T08:07:45Z",
+	"lastupdated": "2020-06-20T11:46:05Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -272,6 +272,10 @@
 		{
 			"href": "williams-frank",
 			"name": "Frank WILLIAMS"
+		},
+		{
+			"href": "ridge-w-pett",
+			"name": "W. Pett RIDGE"
 		}
 	]
 }
