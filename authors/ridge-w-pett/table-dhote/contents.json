@@ -1,0 +1,83 @@
+{
+	"title": "Table d'Hôte",
+	"author": "W. Pett RIDGE",
+	"source": "https://www.gutenberg.org/files/57349/57349-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"/^[IVX][IVX]*—/n",
+		"https://www.gutenberg.org/files/57349/57349-0.txt"
+	],
+	"lastupdated": "2020-06-20T11:54:19Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Change Of Government"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Target"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Moving Pictures"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Country Confederates"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Surroundings"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Retiring Inspector"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Usurper"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Jules Zwinger"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Leading Lady"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Time’s Method"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Scotter’s Luck"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Means Of Transport"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Irene Mercer"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Young Nuisances"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - My Brother Edward"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Savoir Faire"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Magnificent Remedies"
+		}
+	]
+}

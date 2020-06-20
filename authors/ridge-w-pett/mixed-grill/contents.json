@@ -1,0 +1,75 @@
+{
+	"title": "Mixed Grill",
+	"author": "W. Pett RIDGE",
+	"source": "https://www.gutenberg.org/files/57704/57704-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"/^[IVX][IVX]*—/n",
+		"https://www.gutenberg.org/files/57704/57704-0.txt"
+	],
+	"lastupdated": "2020-06-20T11:52:50Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Third Person Singular"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Benevolent Character"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Wonderful Start"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Slow Recovery"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Loose Cash"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Price Of James Mcwinter"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Case Of Suspicion"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Question Of Temperature"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Foreign Affairs"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Before Lunch"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Counter Attractions"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Hero Of Hammerton Street"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Damages For Libel"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Rest Cure"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Reward For Courage"
+		}
+	]
+}

@@ -2,12 +2,36 @@
 	"title": "W. Pett RIDGE",
 	"author": "",
 	"source": "",
-	"links": {},
-	"lastupdated": "2020-06-20T11:46:05Z",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/William_Pett_Ridge",
+		"goodreads": "https://www.goodreads.com/author/show/488152",
+		"gutenberg": "https://www.gutenberg.org/ebooks/62418"
+	},
+	"lastupdated": "2020-06-20T11:58:44Z",
 	"books": [
 		{
 			"href": "the-amazing-years",
 			"title": "The Amazing Years"
+		},
+		{
+			"href": "a-son-of-the-state",
+			"title": "A Son of the State"
+		},
+		{
+			"href": "mixed-grill",
+			"title": "Mixed Grill"
+		},
+		{
+			"href": "table-dhote",
+			"title": "Table d'Hôte"
+		},
+		{
+			"href": "e-r-b",
+			"title": "\"E R B\""
+		},
+		{
+			"href": "love-at-paddington",
+			"title": "Love at Paddington"
 		}
 	]
 }
