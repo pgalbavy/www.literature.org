@@ -115,7 +115,7 @@ function Contents() {
 
 						// add other content here
 						if (typeof contents.links !== 'undefined' && Object.keys(contents.links) != 0 ) {
-							html += "<ul class=\"w3-bar-block w3-ul w3-hoverable w3-tiny\">";
+							html += "<ul class=\"w3-bar-block w3-ul w3-hoverable\">";
 							html += "<li><h2>External Links</h2></li>";
 							if (contents.links.wikipedia) {
 								html += "<li><a href=\"" + contents.links.wikipedia + "\" class=\"w3-bar-item w3-button\" target=\"_blank\">";
