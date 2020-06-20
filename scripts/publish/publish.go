@@ -1,3 +1,8 @@
+/*
+ * The original repo can be found at:
+ * https://github.com/pgalbavy/www.literature.org
+ */
+
 package main
 
 import (
