@@ -215,19 +215,17 @@ function Navigate() {
 						var html = "";
 
 						// sidebar
-						html += "<nav class=\"w3-sidebar w3-bar-block w3-card\" style=\"display:none\" id=\"mySidebar\">" +
-							"<button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons\">close</i> Close</button>";
-
-						html += "<a href=\"/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">home</i> literature.org</a>";
-
-						html += "<a href=\"/authors/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">people</i> Authors</a>";
+						html += "<nav class=\"w3-sidebar w3-bar-block w3-large\" style=\"display:none\" id=\"mySidebar\">"
+						html +=	" <button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons\">close</i> Close</button>";
+						html += " <a href=\"/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">home</i> literature.org</a>";
+						html += " <a href=\"/authors/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">people</i> Authors</a>";
 						if (contents.author) {
-							html += "<a href=\"../\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">person</i> " + contents.author + "</a>";
+							html += " <a href=\"../\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">person</i> " + contents.author + "</a>";
 							title = titleCase(contents.author) + " at " + title;
 						}
 
 						if (f && f != "index.html" && f != "authors") {
-							html += "<a href=\"index.html\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">menu_book</i> " + contents.title + "</a>";
+							html += " <a href=\"index.html\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">menu_book</i> " + contents.title + "</a>";
 							if (title == "literature.org") {
 								title = titleCase(contents.title) + " at " + title;
 							} else {
