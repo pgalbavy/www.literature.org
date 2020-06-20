@@ -1,0 +1,99 @@
+{
+	"title": "The Frontier",
+	"author": "Maurice LEBLANC",
+	"source": "http://www.gutenberg.org/cache/epub/28480/pg28480.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"THE SACRED SOIL",
+		"-p",
+		"Part/^PART\\s/",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/28480/pg28480.txt"
+	],
+	"lastupdated": "2020-06-20T07:15:12Z",
+	"chapters": [
+		{
+			"href": "part-01-chapter-01.html",
+			"title": "Part 1 - Chapter 1 - A Head Between The Bushes"
+		},
+		{
+			"href": "part-01-chapter-02.html",
+			"title": "Part 1 - Chapter 2 - The Girl With The Bare Arms"
+		},
+		{
+			"href": "part-01-chapter-03.html",
+			"title": "Part 1 - Chapter 3 - The Violet Pamphlet"
+		},
+		{
+			"href": "part-01-chapter-04.html",
+			"title": "Part 1 - Chapter 4 - Philippe And His Wife"
+		},
+		{
+			"href": "part-01-chapter-05.html",
+			"title": "Part 1 - Chapter 5 - The Sheet Of Note-Paper"
+		},
+		{
+			"href": "part-01-chapter-06.html",
+			"title": "Part 1 - Chapter 6 - The Plaster Statue"
+		},
+		{
+			"href": "part-01-chapter-07.html",
+			"title": "Part 1 - Chapter 7 - Eve Triumphant"
+		},
+		{
+			"href": "part-01-chapter-08.html",
+			"title": "Part 1 - Chapter 8 - The Trap"
+		},
+		{
+			"href": "part-02-chapter-01.html",
+			"title": "Part 2 - Chapter 1 - The Two Women"
+		},
+		{
+			"href": "part-02-chapter-02.html",
+			"title": "Part 2 - Chapter 2 - Philippe Tells A Lie"
+		},
+		{
+			"href": "part-02-chapter-03.html",
+			"title": "Part 2 - Chapter 3 - Father And Son"
+		},
+		{
+			"href": "part-02-chapter-04.html",
+			"title": "Part 2 - Chapter 4 - The Enquiries"
+		},
+		{
+			"href": "part-02-chapter-05.html",
+			"title": "Part 2 - Chapter 5 - The Thunderclap"
+		},
+		{
+			"href": "part-02-chapter-06.html",
+			"title": "Part 2 - Chapter 6 - The Butte-Aux-Loups"
+		},
+		{
+			"href": "part-02-chapter-07.html",
+			"title": "Part 2 - Chapter 7 - Marthe Asks A Question"
+		},
+		{
+			"href": "part-02-chapter-08.html",
+			"title": "Part 2 - Chapter 8 - The Stages To Calvary"
+		},
+		{
+			"href": "part-03-chapter-01.html",
+			"title": "Part 3 - Chapter 1 - The Armed Vigil"
+		},
+		{
+			"href": "part-03-chapter-02.html",
+			"title": "Part 3 - Chapter 2 - They Who Go To Their Death"
+		},
+		{
+			"href": "part-03-chapter-03.html",
+			"title": "Part 3 - Chapter 3 - Ideas And Facts"
+		},
+		{
+			"href": "part-03-chapter-04.html",
+			"title": "Part 3 - Chapter 4 - The Sacred Soil"
+		}
+	]
+}

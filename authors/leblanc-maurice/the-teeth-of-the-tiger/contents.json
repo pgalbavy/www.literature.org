@@ -1,0 +1,101 @@
+{
+	"title": "The Teeth of the Tiger",
+	"author": "Maurice LEBLANC",
+	"source": "http://www.gutenberg.org/cache/epub/13058/pg13058.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"^The Teeth of the Tiger",
+		"-c",
+		"//kp",
+		"http://www.gutenberg.org/cache/epub/13058/pg13058.txt"
+	],
+	"lastupdated": "2020-06-20T07:11:38Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - D'artagnan, Porthos ... And Monte Cristo"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Man Dead"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Man Doomed"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Clouded Turquoise"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Iron Curtain"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Man With The Ebony Walking-Stick"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Shakespeare's Works, Volume Viii"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Devil's Post-Office"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Lupin's Anger"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Gaston Sauverand Explains"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Routed"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - \"Help!\""
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Explosion"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The \"Hater\""
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Heir To The Hundred Millions"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Weber Takes His Revenge"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Open Sesame!"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Arsène I Emperor Of Mauretania"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - \"The Snare Is Laid. Beware, Lupin!\""
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Florence's Secret"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Lupin's Lupins"
+		}
+	]
+}

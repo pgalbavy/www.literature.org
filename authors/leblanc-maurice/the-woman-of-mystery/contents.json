@@ -1,0 +1,97 @@
+{
+	"title": "The Woman of Mystery",
+	"author": "Maurice LEBLANC",
+	"source": "http://www.gutenberg.org/cache/epub/34931/pg34931.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"XX",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/34931/pg34931.txt"
+	],
+	"lastupdated": "2020-06-20T08:20:57Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Murder"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Locked Room"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Call To Arms"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Letter From Élisabeth"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Peasant-Woman At Corvigny"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - What Paul Saw At Ornequin"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - H. E. R. M"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Élisabeth's Diary"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Sprig Of Empire"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - 75 Or 155?"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - \"Ysery, Misery\""
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Major Hermann"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Ferryman's House"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Masterpiece Of Kultur"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Prince Conrad Makes Merry"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Impossible Struggle"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Law Of The Conqueror"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Hill 132"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Hohenzollern"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Death Penalty--And A Capital Punishment"
+		}
+	]
+}

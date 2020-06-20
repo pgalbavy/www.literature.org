@@ -1,0 +1,89 @@
+{
+	"title": "The Tremendous Event",
+	"author": "Maurice LEBLANC",
+	"source": "http://www.gutenberg.org/cache/epub/33386/pg33386.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"THE HIGH COMMISSIONER",
+		"-pre",
+		"Preface",
+		"-p",
+		"Part/^PART THE /",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/33386/pg33386.txt"
+	],
+	"lastupdated": "2020-06-20T08:17:26Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "part-01-chapter-01.html",
+			"title": "Part 1 - Chapter 1 - The Suit"
+		},
+		{
+			"href": "part-01-chapter-02.html",
+			"title": "Part 1 - Chapter 2 - The Crossing"
+		},
+		{
+			"href": "part-01-chapter-03.html",
+			"title": "Part 1 - Chapter 3 - Good-Bye, Simon"
+		},
+		{
+			"href": "part-01-chapter-04.html",
+			"title": "Part 1 - Chapter 4 - The Great Upheaval"
+		},
+		{
+			"href": "part-01-chapter-05.html",
+			"title": "Part 1 - Chapter 5 - Virgin Soil"
+		},
+		{
+			"href": "part-01-chapter-06.html",
+			"title": "Part 1 - Chapter 6 - Triumph"
+		},
+		{
+			"href": "part-01-chapter-07.html",
+			"title": "Part 1 - Chapter 7 - Lynx-Eye"
+		},
+		{
+			"href": "part-01-chapter-08.html",
+			"title": "Part 1 - Chapter 8 - On The War-Path"
+		},
+		{
+			"href": "part-02-chapter-01.html",
+			"title": "Part 2 - Chapter 1 - Inside The Wreck"
+		},
+		{
+			"href": "part-02-chapter-02.html",
+			"title": "Part 2 - Chapter 2 - Along The Cable"
+		},
+		{
+			"href": "part-02-chapter-03.html",
+			"title": "Part 2 - Chapter 3 - Side By Side"
+		},
+		{
+			"href": "part-02-chapter-04.html",
+			"title": "Part 2 - Chapter 4 - The Battle"
+		},
+		{
+			"href": "part-02-chapter-05.html",
+			"title": "Part 2 - Chapter 5 - The Chief's Reward"
+		},
+		{
+			"href": "part-02-chapter-06.html",
+			"title": "Part 2 - Chapter 6 - Hell On Earth"
+		},
+		{
+			"href": "part-02-chapter-07.html",
+			"title": "Part 2 - Chapter 7 - The Fight For The Gold"
+		},
+		{
+			"href": "part-02-chapter-08.html",
+			"title": "Part 2 - Chapter 8 - The High Commissioner For The New Territories"
+		}
+	]
+}

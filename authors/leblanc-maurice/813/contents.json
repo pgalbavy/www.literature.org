@@ -1,0 +1,89 @@
+{
+	"title": "813",
+	"author": "Maurice LEBLANC",
+	"source": "https://www.gutenberg.org/files/34758/34758-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Preface",
+		"-c",
+		"/^(CHAPTER |EPILOGUE)/p",
+		"https://www.gutenberg.org/files/34758/34758-0.txt"
+	],
+	"lastupdated": "2020-06-20T06:51:27Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Tragedy At The Palace Hotel"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Blue-Edged Label"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - M. Lenormand Opens His Campaign"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Prince Sernine At Work"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - M. Lenormand At Work"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - M. Lenormand Succumbs"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Parbury-Ribeira-Altenheim"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Olive-Green Frock-Coat"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - \"Santé Palace\""
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Lupin's Great Scheme"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Charlemagne"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Emperor's Letters"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Seven Scoundrels"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Man In Black"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Map Of Europe"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Arsène Lupin's Three Murders"
+		},
+		{
+			"href": "epilogue.html",
+			"title": "Epilogue - The Suicide"
+		}
+	]
+}

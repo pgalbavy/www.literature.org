@@ -1,0 +1,93 @@
+{
+	"title": "The Golden Triangle",
+	"author": "Maurice LEBLANC",
+	"source": "https://www.gutenberg.org/files/34795/34795-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"XIX",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/34795/34795-0.txt"
+	],
+	"lastupdated": "2020-06-20T08:02:24Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Coralie"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Right Hand And Left Leg"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Rusty Key"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Before The Flames"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Husband And Wife"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Nineteen Minutes Past Seven"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Twenty-Three Minutes Past Twelve"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Essarès Bey's Work"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Patrice And Coralie"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Red Cord"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - On The Brink"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - In The Abyss"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Nails In The Coffin"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Strange Character"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Belle Hélène"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Fourth Act"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Siméon Gives Battle"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Siméon's Last Victim"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Fiat Lux!"
+		}
+	]
+}

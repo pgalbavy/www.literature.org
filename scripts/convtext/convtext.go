@@ -58,7 +58,7 @@ func init() {
 
 	dashre = regexp.MustCompile(`[ _]`)
 
-	firstre = regexp.MustCompile(`(?mi)\A(?:the )?project gutenberg(?: ebook of|'s| ebook,) ([\w\.\-'" ]+),\s+by\s+([\w\.\-' ]+)\,?\r?$`)
+	firstre = regexp.MustCompile(`(?mi)\A(?:the )?project gutenberg(?: ebook of|'s| ebook,) ([\pL\.\-'" ]+),\s+by\s+([\pL\.\-' ]+)\,?\r?$`)
 
 	levels = make([]Level, 2, 5)
 
@@ -174,7 +174,7 @@ func main() {
 	fmt.Printf("pm=%v\n", strings.Join(pm, ":"))
 
 	if pm[0] == "" {
-		log.Fatal("-parts must be in the format '[TEXT][/REGEXP/[iLNRP]]'")
+		log.Fatal("-p must be in the format '[TEXT][/REGEXP/[iLNRP]]'")
 	}
 
 	if pm[1] == "" {

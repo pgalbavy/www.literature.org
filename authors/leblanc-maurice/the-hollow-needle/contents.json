@@ -1,0 +1,55 @@
+{
+	"title": "The Hollow Needle",
+	"author": "Maurice LEBLANC",
+	"source": "http://www.gutenberg.org/cache/epub/4017/pg4017.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"/^CHAPTER /kp",
+		"http://www.gutenberg.org/cache/epub/4017/pg4017.txt"
+	],
+	"lastupdated": "2020-06-20T08:04:33Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Shot"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Isidore Beautrelet, Sixth-Form Schoolboy"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Corpse"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Face To Face"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - On The Track"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - An Historic Secret"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Treatise Of The Needle"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - From Caesar To Lupin"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Open, Sesame!"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Treasures Of The Kings Of France"
+		}
+	]
+}

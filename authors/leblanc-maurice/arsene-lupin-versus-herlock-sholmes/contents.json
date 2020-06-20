@@ -1,0 +1,51 @@
+{
+	"title": "Arsène Lupin versus Herlock Sholmes",
+	"author": "Maurice LEBLANC",
+	"source": "http://www.gutenberg.org/cache/epub/40203/pg40203.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-t",
+		"Arsène Lupin versus Herlock Sholmes",
+		"-a",
+		"Maurice LEBLANC",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/40203/pg40203.txt"
+	],
+	"lastupdated": "2020-06-20T07:00:55Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Lottery Ticket No. 514"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Blue Diamond"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Herlock Sholmes Opens Hostilities"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Light In The Darkness"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - An Abduction"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Second Arrest Of Arsène Lupin"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Jewish Lamp"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Shipwreck"
+		}
+	]
+}

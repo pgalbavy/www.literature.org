@@ -1,0 +1,93 @@
+{
+	"title": "The Secret of Sarek",
+	"author": "Maurice LEBLANC",
+	"source": "http://www.gutenberg.org/cache/epub/34939/pg34939.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Foreword",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/34939/pg34939.txt"
+	],
+	"lastupdated": "2020-06-20T08:12:42Z",
+	"chapters": [
+		{
+			"href": "foreword.html",
+			"title": "Foreword"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Deserted Cabin"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - On The Edge Of The Atlantic"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Vorski's Son"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Poor People Of Sarek"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - \"Four Women Crucified\""
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - All's Well"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - François And Stéphane"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Anguish"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Death-Chamber"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Escape"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Scourge Of God"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Ascent Of Golgotha"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - \"Eloi, Eloi, Lama Sabachthani!\""
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Ancient Druid"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Hall Of The Underground Sacrifices"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Hall Of The Kings Of Bohemia"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - \"Cruel Prince, Obeying Destiny\""
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The God-Stone"
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"title": "The Crystal Stopper",
+	"author": "Maurice LEBLANC",
+	"source": "https://www.gutenberg.org/files/1563/1563-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"https://www.gutenberg.org/files/1563/1563-0.txt"
+	],
+	"lastupdated": "2020-06-20T07:09:44Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Arrests"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Eight From Nine Leaves One"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Home Life Of Alexis Daubrecq"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Chief Of The Enemies"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Twenty-Seven"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Death-Sentence"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Profile Of Napoleon"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Lovers’ Tower"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - In The Dark"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Extra-Dry?"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Cross Of Lorraine"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Scaffold"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Last Battle"
+		}
+	]
+}

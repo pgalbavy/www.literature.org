@@ -1,0 +1,57 @@
+{
+	"title": "The Confessions of Arsène Lupin",
+	"author": "Maurice LEBLANC",
+	"source": "http://www.gutenberg.org/cache/epub/28093/pg28093.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"^THE CONFESSIONS ",
+		"-c",
+		"/^[IVX][IVX]*\\s*$/",
+		"http://www.gutenberg.org/cache/epub/28093/pg28093.txt"
+	],
+	"lastupdated": "2020-06-20T07:08:33Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Two Hundred Thousand Francs Reward!"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Wedding-Ring"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Sign Of The Shadow"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Infernal Trap"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Red Silk Scarf"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Shadowed By Death"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Tragedy In The Forest Of Morgues"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Lupin's Marriage"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Invisible Prisoner"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Edith Swan-Neck"
+		}
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"title": "Arsene Lupin (with Edgar Jepson)",
+	"author": "Maurice LEBLANC",
+	"source": "http://www.gutenberg.org/cache/epub/4014/pg4014.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-a",
+		"Maurice LEBLANC",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/4014/pg4014.txt"
+	],
+	"lastupdated": "2020-06-20T06:57:22Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Millionaire's Daughter"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Coming Of The Charolais"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Lupin's Way"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Duke Intervenes"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Letter From Lupin"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Again The Charolais"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Theft Of The Motor-Cars"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Duke Arrives"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - M. Formery Opens The Inquiry"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Guerchard Assists"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Family Arrives"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Theft Of The Pendant"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Lupin Wires"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Guerchard Picks Up The True Scent"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Examination Of Sonia"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Victoire's Slip"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Sonia's Escape"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Duke Stays"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Duke Goes"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Lupin Comes Home"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Cutting Of The Telephone Wires"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Bargain"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The End Of The Duel"
+		}
+	]
+}

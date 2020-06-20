@@ -2,9 +2,13 @@
 	"title": "Maurice LEBLANC",
 	"author": "",
 	"source": "",
-	"cmdline": null,
-	"lastupdated": "2020-06-17T08:25:52Z",
-	"chapters": [
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Maurice_Leblanc",
+		"goodreads": "https://www.goodreads.com/author/show/1569298",
+		"gutenberg": "https://www.gutenberg.org/ebooks/author/1358"
+	},
+	"lastupdated": "2020-06-20T08:21:26Z",
+	"books": [
 		{
 			"href": "the-secret-tomb",
 			"title": "The Secret Tomb"
@@ -12,6 +16,58 @@
 		{
 			"href": "the-three-eyes",
 			"title": "The Three Eyes"
+		},
+		{
+			"href": "813",
+			"title": "813"
+		},
+		{
+			"href": "arsene-lupin",
+			"title": "Arsene Lupin (with Edgar Jepson)"
+		},
+		{
+			"href": "arsene-lupin-versus-herlock-sholmes",
+			"title": "Arsène Lupin versus Herlock Sholmes"
+		},
+		{
+			"href": "the-confessions-of-arsene-lupin",
+			"title": "The Confessions of Arsène Lupin"
+		},
+		{
+			"href": "the-crystal-stopper",
+			"title": "The Crystal Stopper"
+		},
+		{
+			"href": "the-teeth-of-the-tiger",
+			"title": "The Teeth of the Tiger"
+		},
+		{
+			"href": "the-frontier",
+			"title": "The Frontier"
+		},
+		{
+			"href": "the-eight-strokes-of-the-clock",
+			"title": "The Eight Strokes of the Clock"
+		},
+		{
+			"href": "the-golden-triangle",
+			"title": "The Golden Triangle"
+		},
+		{
+			"href": "the-hollow-needle",
+			"title": "The Hollow Needle"
+		},
+		{
+			"href": "the-secret-of-sarek",
+			"title": "The Secret of Sarek"
+		},
+		{
+			"href": "the-tremendous-event",
+			"title": "The Tremendous Event"
+		},
+		{
+			"href": "the-woman-of-mystery",
+			"title": "The Woman of Mystery"
 		}
 	]
 }

@@ -1,0 +1,53 @@
+{
+	"title": "The Eight Strokes of the Clock",
+	"author": "Maurice LEBLANC",
+	"source": "http://www.gutenberg.org/cache/epub/7896/pg7896.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Preface",
+		"-skipto",
+		"VIII",
+		"http://www.gutenberg.org/cache/epub/7896/pg7896.txt"
+	],
+	"lastupdated": "2020-06-20T08:06:05Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - On The Top Of The Tower"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Water-Bottle"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Case Of Jean Louis"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Tell-Tale Film"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Thérèse And Germaine"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Lady With The Hatchet"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Footprints In The Snow"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - At The Sign Of Mercury"
+		}
+	]
+}
