@@ -293,6 +293,12 @@ function Navigate() {
 						}
 						html += "</div>";
 
+						if (g) {
+							html += "<div class=\"w3-bar-item lit w3-hide-medium w3-hide-large\">";
+							html += i+1 + "/" + n.length;
+							html += "</div>";
+						}
+
 					} else if (f != null) {
 						// author
 						html += "<a href=\"..\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">person</i></a>";

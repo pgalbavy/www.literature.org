@@ -21,8 +21,8 @@
 
 .material-icons.md-lit, li { font-size: 22px; }
 article { font-size: 18px; }
-.w3-bar-item.lit { white-space: nowrap; text-overflow: ellipsis; overflow: hidden; text-align: right; float: none; }
-.w3-bar-item.litleft { white-space: nowrap; text-overflow: ellipsis; overflow: hidden; text-align: left; float: none; }
+.w3-bar-item.lit { white-space: nowrap; text-overflow: ellipsis; overflow-x: hidden; text-align: right; float: none; }
+.w3-bar-item.litleft { white-space: nowrap; text-overflow: ellipsis; overflow-x: hidden; text-align: left; float: none; }
 html, body {
 	font-family: 'Open Sans', Karla, sans-serif;
 }
