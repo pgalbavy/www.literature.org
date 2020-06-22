@@ -211,6 +211,7 @@ func main() {
 		}
 
 		if strings.Contains(pm[3], "p") {
+			// in this case we don't expose the part/book title, just consume the next paragraph
 			part.titlepara = true
 		}
 	}
@@ -327,6 +328,17 @@ func main() {
 		}
 
 		for p, text := range parts {
+			// just consume the paragraph after the part / book heading
+			// as it's a title and we skip those for now
+			if part.titlepara {
+				t := blankline.Split(text, 3)
+				// 0 = rest of part line, 1 = next para, 2 = rest of text
+				fmt.Printf("t: %q, %q\n", t[0], t[1])
+				if t != nil && len(t[1]) < maxtitle {
+					text = t[2]
+				}
+			}
+
 			// parts are linearly numbers for now
 			splitfile(text, chap.sepre, part.text, head, foot, p, &contents)
 		}
