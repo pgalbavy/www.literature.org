@@ -283,14 +283,15 @@ function Navigate() {
 						})
 
 						// dropdown of pages here
+						html += "<div class=\"w3-bar-item lit w3-hide-small\">";
 						var g = n.find(o => o.href === f);
 						if (g) {
-							html += "<div class=\"w3-bar-item lit w3-hide-small\">" + g.title + "</div>";
+							html += g.title;
 							title = g.title + " - " + title;
 						} else {
-							html += "<a href=\"index.html\" class=\"w3-bar-item lit w3-button w3-hide-small\">";
-							html += nameCapsHTML(contents.title) + "</a>";
+							html += nameCapsHTML(contents.title);
 						}
+						html += "</div>";
 
 					} else if (f != null) {
 						// author
