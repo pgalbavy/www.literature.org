@@ -385,12 +385,26 @@ function titleCase(str) {
 		if (typeof word[0] === 'undefined') {
 			return undefined
 		}
-		return word.replace(word[0], word[0].toUpperCase());
+		word = word.replace(word[0], word[0].toUpperCase());
+		// check for Mc, Mac etc. - makes this a lookup table if it gets much longer
+		var n = -1;
+		if (word.startsWith("Mc")) {
+			n = 2;
+		}
+		if (word.startsWith*"Mac)") {
+			n = 3;
+		}
+
+		if (n != -1) {
+			word = word.replace(word[n], word[n].toUpperCase());
+		}
+
+		return word;
 	}).join(' ');
 }
 
 function nameCapsHTML(name) {
-	// convert any word that is  all CAPS and longer than one letter
+	// convert any word that is all CAPS and longer than one letter
 	// to BOLD and Title case
 	return name.replace(/(\b[A-Z\u00C0-\u00DC][A-Z\u00C0-\u00DC\b]+\s?)+/, function (match) {
 		return "<strong>" + titleCase(match.toLowerCase()) + "</strong>";
