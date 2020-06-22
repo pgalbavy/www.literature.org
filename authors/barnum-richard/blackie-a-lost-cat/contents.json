@@ -1,0 +1,67 @@
+{
+	"title": "Blackie, A Lost Cat",
+	"author": "Richard BARNUM",
+	"source": "https://www.gutenberg.org/files/61654/61654-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-t",
+		"Blackie, A Lost Cat",
+		"-a",
+		"Richard BARNUM",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/61654/61654-0.txt"
+	],
+	"lastupdated": "2020-06-22T16:02:23Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Blackie Hears Something"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Blackie Runs Away"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Blackie In Trouble"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Blackie Gets Out"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Blackie Finds A Friend"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Blackie In A Basket"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Blackie In A Train"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Blackie Is Chased"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Blackie Meets Don"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Blackie Scares A Dog"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Blackie Is Sad"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Blackie Is Happy"
+		}
+	]
+}
