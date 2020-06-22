@@ -15,17 +15,12 @@ function lastUpdatedSort(a, b) {
 }
 
 function Changelog() {
-	var z, i, elmnt, file, xhttp;
-	/* Loop through a collection of all HTML elements: */
-	z = document.getElementsByTagName("*");
-	for (i = 0; i < z.length; i++) {
-		elmnt = z[i];
-		/*search for elements with a certain atrribute:*/
-		file = elmnt.getAttribute("changelog");
+	for (var section of document.getElementsByTagName("section")) {
+		var file = section.getAttribute("changelog");
 		if (file) {
 			/* Make an HTTP request using the attribute value as the file name: */
-			xhttp = new XMLHttpRequest();
-			xhttp.onreadystatechange = function () {
+			req = new XMLHttpRequest();
+			req.onreadystatechange = function () {
 				if (this.readyState == 4) {
 					if (this.status == 200) {
 						// process JSON	
@@ -44,15 +39,15 @@ function Changelog() {
 						html += "</ul>";
 						html += "<div class=\"w3-container\">&nbsp<\div></div>";
 
-						elmnt.innerHTML = html;
+						section.innerHTML = html;
 					}
-					/* Remove the attribute, and call this function once more: */
-					elmnt.removeAttribute("contents");
-					loadsitecode();
+					/* Remove the attribute, and call this function once agains */
+					section.removeAttribute("contents");
+					loadchangelog;
 				}
 			}
-			xhttp.open("GET", file, true);
-			xhttp.send();
+			req.open("GET", file, true);
+			req.send();
 			/* Exit the function: */
 			return;
 		}
