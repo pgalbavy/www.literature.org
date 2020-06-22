@@ -9,66 +9,41 @@ function loadsitecode() {
 	Navigate();
 }
 
+// check all DIV elements for an attribute of type include-html
+// and replace contents with file
 function Include() {
-	var z, i, elmnt, file, xhttp;
-	/* Loop through a collection of all DIV elements: */
-	z = document.getElementsByTagName("div");
-	for (i = 0; i < z.length; i++) {
-		elmnt = z[i];
-		/*search for elements with a certain atrribute:*/
-		file = elmnt.getAttribute("include-html");
+	for (var div of document.getElementsByTagName("div")) {
+		var file = div.getAttribute("include-html");
 		if (file) {
-			/* Make an HTTP request using the attribute value as the file name: */
-			xhttp = new XMLHttpRequest();
-			xhttp.onreadystatechange = function () {
+			var req = new XMLHttpRequest();
+
+			req.onreadystatechange = function () {
 				if (this.readyState == 4) {
-					if (this.status == 200) { elmnt.innerHTML = this.responseText; }
-					if (this.status == 404) { elmnt.innerHTML = "Page not found."; }
-					/* Remove the attribute, and call this function once more: */
-					elmnt.removeAttribute("include-html");
+					if (this.status == 200) { div.innerHTML = this.responseText; }
+					if (this.status == 404) { div.innerHTML = "Page not found."; }
+					// Remove the attribute, and call this function again
+					// to account for nested elements handled by this local code
+					div.removeAttribute("include-html");
 					loadsitecode();
 				}
 			}
 
-			xhttp.open("GET", file, true);
-			xhttp.send();
+			req.open("GET", file, true);
+			req.send();
 			/* Exit the function: */
 			return;
 		}
 	}
 }
 
-// sort by year or by title with short prefixes removed
-var smallre = /^(the|an|a)\s/i;
-
-function bookSort(a, b) {
-	var result = a.year == b.year ? 0 : a.year > b.year ? -1 : 1
-
-	if (result == 0) {
-		c = b.title.replace(smallre, "")
-		d = a.title.replace(smallre, "")
-		return c == d ? 0 : c > d ? -1 : 1
-	}
-
-	return result;
-}
-
-function hrefSort(b, a) {
-	return a.href == b.href ? 0 : a.href > b.href ? -1 : 1
-}
-
 function Contents() {
-	var z, i, elmnt, file, xhttp;
-	/* Loop through a collection of all HTML elements: */
-	z = document.getElementsByTagName("article");
-	for (i = 0; i < z.length; i++) {
-		elmnt = z[i];
-		/*search for elements with a certain atrribute:*/
-		file = elmnt.getAttribute("contents");
+	/* Loop through a collection of all ARTICLE elements: */
+	for (var article of document.getElementsByTagName("article")) {
+		var file = article.getAttribute("contents");
 		if (file) {
 			/* Make an HTTP request using the attribute value as the file name: */
-			xhttp = new XMLHttpRequest();
-			xhttp.onreadystatechange = function () {
+			var req = new XMLHttpRequest();
+			req.onreadystatechange = function () {
 				if (this.readyState == 4) {
 					if (this.status == 200) {
 						// process JSON	
@@ -154,51 +129,28 @@ function Contents() {
 							html += "</ul>";
 						}
 
-						elmnt.innerHTML = html;
+						article.innerHTML = html;
 					}
 					/* Remove the attribute, and call this function once more: */
-					elmnt.removeAttribute("contents");
+					article.removeAttribute("contents");
 					loadsitecode();
 				}
 			}
-			xhttp.open("GET", file, true);
-			xhttp.send();
+			req.open("GET", file, true);
+			req.send();
 			/* Exit the function: */
 			return;
 		}
 	}
 }
 
-// from https://www.freecodecamp.org/news/three-ways-to-title-case-a-sentence-in-javascript-676a9175eb27/
-function titleCase(str) {
-	return str.toLowerCase().split(' ').map(function (word) {
-		if (typeof word[0] === 'undefined') {
-			return undefined
-		}
-		return word.replace(word[0], word[0].toUpperCase());
-	}).join(' ');
-}
-
-function nameCapsHTML(name) {
-	// convert any word that is  all CAPS and longer than one letter
-	// to BOLD and Title case
-	return name.replace(/(\b[A-Z\u00C0-\u00DC][A-Z\u00C0-\u00DC\b]+\s?)+/, function (match) {
-		return "<strong>" + titleCase(match.toLowerCase()) + "</strong>";
-	});
-}
-
 function Navigate() {
-	var z, i, elmnt, file, xhttp;
-	/* Loop through a collection of all HTML elements: */
-	z = document.getElementsByTagName("nav");
-	for (i = 0; i < z.length; i++) {
-		elmnt = z[i];
-		/*search for elements with a certain atrribute:*/
-		file = elmnt.getAttribute("navigate");
+	for (var nav of document.getElementsByTagName("nav")) {
+		var file = nav.getAttribute("navigate");
 		if (file) {
 			/* Make an HTTP request using the attribute value as the file name: */
-			xhttp = new XMLHttpRequest();
-			xhttp.onreadystatechange = function () {
+			req = new XMLHttpRequest();
+			req.onreadystatechange = function () {
 				if (this.readyState == 4 && this.status == 200) {
 					// process JSON	
 					var contents = JSON.parse(this.responseText);
@@ -348,15 +300,15 @@ function Navigate() {
 						title = contents.title + " - " + title;
 					}
 					html += "</nav>";
-					elmnt.innerHTML = html;
+					nav.innerHTML = html;
 				}
 				/* Remove the attribute, and call this function once more: */
-				elmnt.removeAttribute("navigate");
+				nav.removeAttribute("navigate");
 				document.title = title;
 				loadsitecode();
 			}
-			xhttp.open("GET", file, true);
-			xhttp.send();
+			req.open("GET", file, true);
+			req.send();
 			/* Exit the function: */
 			return;
 		}
@@ -402,4 +354,41 @@ function w3_open() {
 
 function w3_close() {
 	document.getElementById("mySidebar").style.display = "none";
+}
+
+// sort by year or by title with short prefixes removed
+var smallre = /^(the|an|a)\s/i;
+
+function bookSort(a, b) {
+	var result = a.year == b.year ? 0 : a.year > b.year ? -1 : 1
+
+	if (result == 0) {
+		c = b.title.replace(smallre, "")
+		d = a.title.replace(smallre, "")
+		return c == d ? 0 : c > d ? -1 : 1
+	}
+
+	return result;
+}
+
+function hrefSort(b, a) {
+	return a.href == b.href ? 0 : a.href > b.href ? -1 : 1
+}
+
+// from https://www.freecodecamp.org/news/three-ways-to-title-case-a-sentence-in-javascript-676a9175eb27/
+function titleCase(str) {
+	return str.toLowerCase().split(' ').map(function (word) {
+		if (typeof word[0] === 'undefined') {
+			return undefined
+		}
+		return word.replace(word[0], word[0].toUpperCase());
+	}).join(' ');
+}
+
+function nameCapsHTML(name) {
+	// convert any word that is  all CAPS and longer than one letter
+	// to BOLD and Title case
+	return name.replace(/(\b[A-Z\u00C0-\u00DC][A-Z\u00C0-\u00DC\b]+\s?)+/, function (match) {
+		return "<strong>" + titleCase(match.toLowerCase()) + "</strong>";
+	});
 }
