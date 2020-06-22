@@ -1,0 +1,65 @@
+{
+	"title": "Tum Tum, The Jolly Elephant",
+	"author": "Richard BARNUM",
+	"source": "http://www.gutenberg.org/cache/epub/21599/pg21599.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"ILLUSTRATIONS",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/21599/pg21599.txt"
+	],
+	"lastupdated": "2020-06-22T16:21:44Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Tum Tum Goes Swimming"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Tum Tum Is Caught"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Tum Tum And Mappo"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Tum Tum In The Circus"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Tum Tum And Don"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Tum Tum And The Wagon"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Tum Tum Looks For Mappo"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Tum Tum And The Fire"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Tum Tum And The Balloons"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Tum Tum And The Lemonade"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Tum Tum And The Tiger"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Tum Tum's Brave Deed"
+		}
+	]
+}

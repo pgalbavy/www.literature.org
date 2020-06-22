@@ -1,0 +1,65 @@
+{
+	"title": "Squinty, The Comical Pig",
+	"author": "Richard BARNUM",
+	"source": "http://www.gutenberg.org/cache/epub/11069/pg11069.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"ILLUSTRATIONS",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/11069/pg11069.txt"
+	],
+	"lastupdated": "2020-06-22T16:20:08Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Squinty And The Dog"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Squinty Runs Away"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Squinty Is Lost"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Squinty Gets Home"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Squinty And The Boy"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Squinty On A Journey"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Squinty Learns A Trick"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Squinty In The Woods"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Squinty's Balloon Ride"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Squinty And The Squirrel"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Squinty And The Merry Monkey"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Squinty Gets Home Again"
+		}
+	]
+}

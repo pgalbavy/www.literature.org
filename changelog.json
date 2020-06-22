@@ -1,65 +1,5 @@
 [
 	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-grunty-pig",
-		"title": "The Tale of Grunty Pig by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T13:19:28Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen",
-		"title": "The Tale of Henrietta Hen by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T13:21:32Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-jasper-jay",
-		"title": "The Tale of Jasper Jay by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T13:23:24Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit",
-		"title": "The Tale of Jimmy Rabbit by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T13:27:49Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-jolly-robin",
-		"title": "The Tale of Jolly Robin by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T13:28:58Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid",
-		"title": "The Tale of Kiddie Katydid by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T13:30:09Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-major-monkey",
-		"title": "The Tale of Major Monkey by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T13:54:35Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse",
-		"title": "The Tale of Master Meadow Mouse by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T14:09:34Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat",
-		"title": "The Tale of Miss Kitty Cat by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T14:11:40Z"
-	},
-	{
-		"href": "/authors/bailey-authur-scott/the-tale-of-mrs-ladybug",
-		"title": "The Tale of Mrs. Ladybug by Authur Scott BAILEY",
-		"lastupdated": "2020-06-17T14:13:41Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-nimble-deer",
-		"title": "The Tale of Nimble Deer by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T14:21:00Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot",
-		"title": "The Tale of Old Dog Spot by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T14:22:43Z"
-	},
-	{
 		"href": "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow",
 		"title": "The Tale of Old Mr. Crow by Arthur Scott BAILEY",
 		"lastupdated": "2020-06-17T14:24:01Z"
@@ -498,5 +438,65 @@
 		"href": "/authors/barnum-richard/blackie-a-lost-cat",
 		"title": "Blackie, A Lost Cat by Richard BARNUM",
 		"lastupdated": "2020-06-22T16:02:50Z"
+	},
+	{
+		"href": "/authors/barnum-richard/chunky-the-happy-hippo",
+		"title": "Chunky, The Happy Hippo by Richard BARNUM",
+		"lastupdated": "2020-06-22T16:09:45Z"
+	},
+	{
+		"href": "/authors/barnum-richard/dido-the-dancing-bear",
+		"title": "Dido, The Dancing Bear by Richard BARNUM",
+		"lastupdated": "2020-06-22T16:13:07Z"
+	},
+	{
+		"href": "/authors/barnum-richard/don-a-runaway-dog",
+		"title": "Don, A Runaway Dog by Richard BARNUM",
+		"lastupdated": "2020-06-22T16:14:24Z"
+	},
+	{
+		"href": "/authors/barnum-richard/flop-ear-the-funny-rabbit",
+		"title": "Flop Ear, The Funny Rabbit by Richard BARNUM",
+		"lastupdated": "2020-06-22T16:15:12Z"
+	},
+	{
+		"href": "/authors/barnum-richard/lightfoot-the-leaping-goat",
+		"title": "Lightfoot, The Leaping Goat by Richard BARNUM",
+		"lastupdated": "2020-06-22T16:15:55Z"
+	},
+	{
+		"href": "/authors/barnum-richard/mappo-the-merry-monkey",
+		"title": "Mappo, The Merry Monkey by Richard BARNUM",
+		"lastupdated": "2020-06-22T16:16:45Z"
+	},
+	{
+		"href": "/authors/barnum-richard/nero-the-circus-lion",
+		"title": "Nero, The Circus Lion by Richard BARNUM",
+		"lastupdated": "2020-06-22T16:18:05Z"
+	},
+	{
+		"href": "/authors/barnum-richard/sharp-eyes-the-silver-fox",
+		"title": "Sharp Eyes, The Silver Fox by Richard BARNUM",
+		"lastupdated": "2020-06-22T16:18:57Z"
+	},
+	{
+		"href": "/authors/richard/slicko-the-jumping-squirrel",
+		"title": "Slicko, The Jumping Squirrel by RICHARD",
+		"lastupdated": "2020-06-22T16:19:47Z"
+	},
+	{
+		"href": "/authors/barnum-richard/squinty-the-comical-pig",
+		"title": "Squinty, The Comical Pig by Richard BARNUM",
+		"lastupdated": "2020-06-22T16:20:37Z"
+	},
+	{
+		"href": "/authors/barnum-richard/tinkle-the-trick-pony",
+		"title": "Tinkle, The Trick Pony by Richard BARNUM",
+		"lastupdated": "2020-06-22T16:21:22Z"
+	},
+	{
+		"href": "/authors/barnum-richard/tum-tum-the-jolly-elephant",
+		"title": "Tum Tum, The Jolly Elephant by Richard BARNUM",
+		"lastupdated": "2020-06-22T16:22:11Z"
 	}
 ]

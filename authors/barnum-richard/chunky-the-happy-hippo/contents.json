@@ -1,0 +1,63 @@
+{
+	"title": "Chunky, The Happy Hippo",
+	"author": "Richard BARNUM",
+	"source": "https://www.gutenberg.org/files/62135/62135-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/62135/62135-0.txt"
+	],
+	"lastupdated": "2020-06-22T16:09:12Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Chunky Has A Laugh"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Chunky Is Surprised"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Chunky Is Bitten"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Chunky In The Mud"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Chunky Is Caught"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Chunky Takes A Trip"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Chunky’s New Friends"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Chunky On A Ship"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Chunky Falls Overboard"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Chunky In The Circus"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Chunky’s New Trick"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Chunky And The Little Girl"
+		}
+	]
+}

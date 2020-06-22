@@ -1,0 +1,65 @@
+{
+	"title": "Nero, The Circus Lion",
+	"author": "Richard BARNUM",
+	"source": "http://www.gutenberg.org/cache/epub/21546/pg21546.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"ILLUSTRATIONS",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/21546/pg21546.txt"
+	],
+	"lastupdated": "2020-06-22T16:17:32Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Nero Has Some Fun"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Nero Goes Hunting"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Nero Is Shot"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Nero In A Cave"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Nero In A Trap"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Nero In A Circus"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Nero Learns Some Tricks"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Nero Meets Don"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Nero Scares A Boy"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Nero Runs Away"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Nero And Blackie"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Nero And The Tramp"
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"title": "Flop Ear, The Funny Rabbit",
+	"author": "Richard BARNUM",
+	"source": "https://www.gutenberg.org/files/61688/61688-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/61688/61688-0.txt"
+	],
+	"lastupdated": "2020-06-22T16:14:48Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Flop Ear Hears A Noise"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Flop Ear Finds Something"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Flop Ear Is Lost"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Flop Ear In The Hay"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Flop Ear And The Boy"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Flop Ear Learns Tricks"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Flop Ear Gets Away"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Flop Ear Meets Slicko"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Flop Ear Meets Dido"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Flop Ear Helps Some Mice"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Flop Ear And The Monkey"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Flop Ear Gets Home Again"
+		}
+	]
+}

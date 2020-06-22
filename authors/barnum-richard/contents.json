@@ -6,11 +6,55 @@
 		"goodreads": "https://www.goodreads.com/author/show/966500",
 		"gutenberg": "https://www.gutenberg.org/ebooks/author/3820"
 	},
-	"lastupdated": "2020-06-22T16:04:56Z",
+	"lastupdated": "2020-06-22T16:22:11Z",
 	"books": [
 		{
 			"href": "blackie-a-lost-cat",
 			"title": "Blackie, A Lost Cat"
+		},
+		{
+			"href": "chunky-the-happy-hippo",
+			"title": "Chunky, The Happy Hippo"
+		},
+		{
+			"href": "dido-the-dancing-bear",
+			"title": "Dido, The Dancing Bear"
+		},
+		{
+			"href": "don-a-runaway-dog",
+			"title": "Don, A Runaway Dog"
+		},
+		{
+			"href": "flop-ear-the-funny-rabbit",
+			"title": "Flop Ear, The Funny Rabbit"
+		},
+		{
+			"href": "lightfoot-the-leaping-goat",
+			"title": "Lightfoot, The Leaping Goat"
+		},
+		{
+			"href": "mappo-the-merry-monkey",
+			"title": "Mappo, The Merry Monkey"
+		},
+		{
+			"href": "nero-the-circus-lion",
+			"title": "Nero, The Circus Lion"
+		},
+		{
+			"href": "sharp-eyes-the-silver-fox",
+			"title": "Sharp Eyes, The Silver Fox"
+		},
+		{
+			"href": "squinty-the-comical-pig",
+			"title": "Squinty, The Comical Pig"
+		},
+		{
+			"href": "tinkle-the-trick-pony",
+			"title": "Tinkle, The Trick Pony"
+		},
+		{
+			"href": "tum-tum-the-jolly-elephant",
+			"title": "Tum Tum, The Jolly Elephant"
 		}
 	]
 }

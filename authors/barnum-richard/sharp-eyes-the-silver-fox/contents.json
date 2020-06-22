@@ -1,0 +1,63 @@
+{
+	"title": "Sharp Eyes, The Silver Fox",
+	"author": "Richard BARNUM",
+	"source": "https://www.gutenberg.org/files/62441/62441-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/62441/62441-0.txt"
+	],
+	"lastupdated": "2020-06-22T16:18:27Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Sharp Eyes Sees Something"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Sharp Eyes Catches Something"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Sharp Eyes Hears Something"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Sharp Eyes Is Hurt"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Sharp Eyes Meets Don"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Sharp Eyes Is Captured"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Sharp Eyes Is Sold"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Sharp Eyes Goes Traveling"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Sharp Eyes In The Zoo"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Sharp Eyes Meets Chunky"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Sharp Eyes Gets Away"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Sharp Eyes Gets Home"
+		}
+	]
+}

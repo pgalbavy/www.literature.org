@@ -1,0 +1,63 @@
+{
+	"title": "Dido, The Dancing Bear",
+	"author": "Richard BARNUM",
+	"source": "https://www.gutenberg.org/files/61450/61450-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/61450/61450-0.txt"
+	],
+	"lastupdated": "2020-06-22T16:12:40Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Dido Cuts Up"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Dido Is Caught"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Dido Is Trained"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Dido Learns To Dance"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Dido Crosses The Ocean"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Dido In The Country"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Dido Meets Don"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Dido Helps A Girl"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Dido In The Bakery"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Dido Scares A Man"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Dido In The Circus"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Dido In A Fire"
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"title": "Mappo, The Merry Monkey",
+	"author": "Richard BARNUM",
+	"source": "http://www.gutenberg.org/cache/epub/13980/pg13980.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/13980/pg13980.txt"
+	],
+	"lastupdated": "2020-06-22T16:16:21Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Mappo And The Cocoanut"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Mappo Plays A Trick"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Mappo In A Net"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Mappo In A Box"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Mappo On The Ship"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Mappo Meets Tum Tum"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Mappo In The Circus"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Mappo And His Tricks"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Mappo Runs Away"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Mappo And Squinty"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Mappo And The Organ-Man"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Mappo And The Baby"
+		}
+	]
+}

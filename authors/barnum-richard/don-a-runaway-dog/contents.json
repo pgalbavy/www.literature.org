@@ -1,0 +1,63 @@
+{
+	"title": "Don, A Runaway Dog",
+	"author": "Richard BARNUM",
+	"source": "https://www.gutenberg.org/files/61401/61401-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/61401/61401-0.txt"
+	],
+	"lastupdated": "2020-06-22T16:13:50Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Don Falls In"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Don’s New Home"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Don And Squinty"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Don Sees Tum Tum"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Don Runs Away"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Don Is Locked In"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Don In The City"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Don And The Can"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Don And The Dog Catcher"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Don’s New Friend"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Don At A Party"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Don And The Bear"
+		}
+	]
+}

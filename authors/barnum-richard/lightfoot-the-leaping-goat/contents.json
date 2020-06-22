@@ -1,0 +1,63 @@
+{
+	"title": "Lightfoot, The Leaping Goat",
+	"author": "Richard BARNUM",
+	"source": "https://www.gutenberg.org/files/62020/62020-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/62020/62020-0.txt"
+	],
+	"lastupdated": "2020-06-22T16:15:34Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Lightfoot’s Big Leap"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Lightfoot Is Hurt"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Lightfoot Saves A Girl"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Lightfoot And The Wagon"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Lightfoot In The Park"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Lightfoot Butts A Boy"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Lightfoot On A Boat"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Lightfoot On A Voyage"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Lightfoot Goes Ashore"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Lightfoot In The Woods"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Lightfoot Meets Slicko"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Lightfoot’s New Home"
+		}
+	]
+}

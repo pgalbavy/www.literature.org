@@ -3,7 +3,7 @@
 	"author": "",
 	"source": "",
 	"links": {},
-	"lastupdated": "2020-06-22T16:02:50Z",
+	"lastupdated": "2020-06-22T16:19:47Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -280,6 +280,10 @@
 		{
 			"href": "barnum-richard",
 			"name": "Richard BARNUM"
+		},
+		{
+			"href": "richard",
+			"name": "RICHARD"
 		}
 	]
 }

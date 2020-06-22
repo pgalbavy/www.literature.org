@@ -1,0 +1,63 @@
+{
+	"title": "Tinkle, The Trick Pony",
+	"author": "Richard BARNUM",
+	"source": "https://www.gutenberg.org/files/61847/61847-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/61847/61847-0.txt"
+	],
+	"lastupdated": "2020-06-22T16:21:01Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Tinkle In The Swamp"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Tinkle Makes Trouble"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Tinkle And George"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Tinkle’s New Home"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Tinkle’s Friends"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Tinkle Meets Dido"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Tinkle Does Some Tricks"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Tinkle Is Taken Away"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Tinkle In The Circus"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Tinkle And Tum Tum"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Tinkle Is Sad"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Tinkle Is Happy"
+		}
+	]
+}
