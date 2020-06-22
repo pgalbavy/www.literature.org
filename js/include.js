@@ -11,8 +11,8 @@ function loadsitecode() {
 
 function Include() {
 	var z, i, elmnt, file, xhttp;
-	/* Loop through a collection of all HTML elements: */
-	z = document.getElementsByTagName("*");
+	/* Loop through a collection of all DIV elements: */
+	z = document.getElementsByTagName("div");
 	for (i = 0; i < z.length; i++) {
 		elmnt = z[i];
 		/*search for elements with a certain atrribute:*/
@@ -60,7 +60,7 @@ function hrefSort(b, a) {
 function Contents() {
 	var z, i, elmnt, file, xhttp;
 	/* Loop through a collection of all HTML elements: */
-	z = document.getElementsByTagName("*");
+	z = document.getElementsByTagName("article");
 	for (i = 0; i < z.length; i++) {
 		elmnt = z[i];
 		/*search for elements with a certain atrribute:*/
@@ -190,7 +190,7 @@ function nameCapsHTML(name) {
 function Navigate() {
 	var z, i, elmnt, file, xhttp;
 	/* Loop through a collection of all HTML elements: */
-	z = document.getElementsByTagName("*");
+	z = document.getElementsByTagName("nav");
 	for (i = 0; i < z.length; i++) {
 		elmnt = z[i];
 		/*search for elements with a certain atrribute:*/
@@ -199,165 +199,161 @@ function Navigate() {
 			/* Make an HTTP request using the attribute value as the file name: */
 			xhttp = new XMLHttpRequest();
 			xhttp.onreadystatechange = function () {
-				if (this.readyState == 4) {
-					if (this.status == 200) {
-						// process JSON	
-						var contents = JSON.parse(this.responseText);
-						var path = location.pathname;
-						var parts = path.split('/');
-						var f;
-						do {
-							f = parts.pop();
-						}
-						while (f != null && (f == "" || f == "index.html"));
-
-						var title = "literature.org";
-						var html = "";
-
-						// sidebar
-						html += "<nav class=\"w3-sidebar w3-bar-block w3-large\" style=\"display:none\" id=\"mySidebar\">"
-						html += " <button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons\">close</i> Close</button>";
-						html += " <a href=\"/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">home</i> literature.org</a>";
-						html += " <a href=\"/authors/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">people</i> Authors</a>";
-						if (contents.author) {
-							html += " <a href=\"../\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">person</i> " + contents.author + "</a>";
-							title = titleCase(contents.author) + " at " + title;
-						}
-
-						if (f && f != "index.html" && f != "authors") {
-							html += " <a href=\"index.html\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">menu_book</i> " + contents.title + "</a>";
-							if (title == "literature.org") {
-								title = titleCase(contents.title) + " at " + title;
-							} else {
-								title = titleCase(contents.title) + " by " + title;
-							}
-							if (typeof contents.chapters !== 'undefined' && f.endsWith(".html")) {
-								var chapter = contents.chapters.findIndex(o => o.href === f);
-								// dropdown here
-								html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons\">library_books</i></a>" + contents.chapters[chapter].title + "</button>";
-							}
-						}
-
-						html += "</nav>";
-
-						// top bar
-						html += "<nav class=\"w3-bar\" style=\"font-size:24px; white-space: nowrap;\">";
-						html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_open()\"><i class=\"material-icons\">menu</i></button>";
-
-						var n;
-						if (typeof contents.authors !== 'undefined' && contents.authors.length > 0) {
-							n = contents.authors
-						} else if (typeof contents.books !== 'undefined' && contents.books.length > 0) {
-							n = contents.books
-						} else {
-							n = contents.chapters
-						}
-
-						if (n && f && f != "index.html") {
-							var i = n.findIndex(o => o.href === f);
-
-
-							if (f == "authors") {
-								html += "<a href=\"/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">home</i></a>";
-							} else {
-								if (contents.author == "") {
-									html += "<a href=\"/authors/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">people</i></a>";
-								} else {
-									// author
-									html += "<a href=\"..\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">person</i></a>";
-								}
-
-								// contents page
-								if (!(contents.title != "Authors" && contents.author == "")) {
-									if (f.endsWith(".html")) {
-										html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">menu_book</i></a>";
-									} else {
-										html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left w3-disabled\"><i class=\"material-icons\">menu_book</i></a>";
-									}
-								}
-							}
-
-							var prev, next;
-
-							if (i > 0) {
-								// there is a valid previous page
-								prev = n[i - 1].href;
-								html += "<a href=\"" + prev +
-									"\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">arrow_back</i></a>";
-							} else {
-								html += "<div class=\"w3-bar-item w3-button w3-disabled\"><i class=\"material-icons\">arrow_back</i></div>";
-							}
-
-							if (i < n.length - 1 && contents.author != "") {
-								// there is a valid next page
-								next = n[i + 1].href
-								html += "<a href=\"" + next +
-									"\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">arrow_forward</i></a>";
-							} else {
-								html += "<div class=\"w3-bar-item w3-button w3-disabled\"><i class=\"material-icons\">arrow_forward</i></div>";
-							}
-
-							// update link rel="next"/"prev" values
-							var links = document.head.getElementsByTagName("link");
-							var gotnext = false, gotprev = false;
-							for (var l = 0; l < links.length; l++) {
-								if (links[l].rel == "next") {
-									gotnext = true;
-								} else if (links[l].rel == "prev") {
-									gotprev = true;
-								}
-							}
-
-							if (!gotnext && next) {
-								var link = document.createElement('link');
-								link.rel = 'next';
-								link.href = next;
-								document.head.appendChild(link);
-							}
-
-							if (!gotprev && prev) {
-								var link = document.createElement('link');
-								link.rel = 'prev';
-								link.href = prev;
-								document.head.appendChild(link);
-							}
-
-							// touch swipe navigation
-							var swipedir;
-							swipedetect(document.body, function (swipedir) {
-								if (swipedir == 'left' && next) {
-									window.location.href = next;
-								} else if (swipedir == 'right' && prev) {
-									window.location.href = prev;
-								}
-							})
-
-							// dropdown of pages here
-							var g = n.find(o => o.href === f);
-							if (g) {
-								html += "<div class=\"w3-bar-item lit w3-hide-small\">" + g.title + "</div>";
-								title = g.title + " - " + title;
-							} else {
-								html += "<a href=\"index.html\" class=\"w3-bar-item lit w3-button w3-hide-small\">";
-								html += nameCapsHTML(contents.title) + "</a>";
-							}
-
-						} else if (f != null) {
-							// author
-							html += "<a href=\"..\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">person</i></a>";
-
-							html += "<a href=\"index.html\" class=\"w3-bar-item w3-button\">" + contents.title + "</a>";
-
-							title = contents.title + " - " + title;
-						}
-						html += "</nav>";
-						elmnt.innerHTML = html;
+				if (this.readyState == 4 && this.status == 200) {
+					// process JSON	
+					var contents = JSON.parse(this.responseText);
+					var path = location.pathname;
+					var parts = path.split('/');
+					var f;
+					do {
+						f = parts.pop();
 					}
-					/* Remove the attribute, and call this function once more: */
-					elmnt.removeAttribute("navigate");
-					document.title = title;
-					loadsitecode();
+					while (f != null && (f == "" || f == "index.html"));
+
+					var title = "literature.org";
+					var html = "";
+
+					// sidebar
+					html += "<nav class=\"w3-sidebar w3-bar-block w3-large\" style=\"display:none\" id=\"mySidebar\">";
+					html += " <button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons\">close</i> Close</button>";
+					html += " <a href=\"/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">home</i> literature.org</a>";
+					html += " <a href=\"/authors/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">people</i> Authors</a>";
+					if (contents.author) {
+						html += " <a href=\"../\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">person</i> " + contents.author + "</a>";
+						title = titleCase(contents.author) + " at " + title;
+					}
+
+					if (f && f != "index.html" && f != "authors") {
+						html += " <a href=\"index.html\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">menu_book</i> " + contents.title + "</a>";
+						if (title == "literature.org") {
+							title = titleCase(contents.title) + " at " + title;
+						} else {
+							title = titleCase(contents.title) + " by " + title;
+						}
+						if (typeof contents.chapters !== 'undefined' && f.endsWith(".html")) {
+							var chapter = contents.chapters.findIndex(o => o.href === f);
+							// dropdown here
+							html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons\">library_books</i></a>";
+							html += contents.chapters[chapter].title + "</button>";
+						}
+					}
+
+					html += "</nav>";
+
+					// top bar
+					html += "<nav class=\"w3-bar\" style=\"font-size:24px; white-space: nowrap;\">";
+					html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_open()\"><i class=\"material-icons\">menu</i></button>";
+
+					var n;
+					if (typeof contents.authors !== 'undefined' && contents.authors.length > 0) {
+						n = contents.authors
+					} else if (typeof contents.books !== 'undefined' && contents.books.length > 0) {
+						n = contents.books
+					} else {
+						n = contents.chapters
+					}
+
+					if (n && f && f != "index.html") {
+						var i = n.findIndex(o => o.href === f);
+
+						if (f == "authors") {
+							html += "<a href=\"/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">home</i></a>";
+						} else {
+							if (contents.author == "") {
+								html += "<a href=\"/authors/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">people</i></a>";
+							} else {
+								// author
+								html += "<a href=\"..\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">person</i></a>";
+							}
+
+							// contents page
+							if (!(contents.title != "Authors" && contents.author == "")) {
+								if (f.endsWith(".html")) {
+									html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">menu_book</i></a>";
+								} else {
+									html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left w3-disabled\"><i class=\"material-icons\">menu_book</i></a>";
+								}
+							}
+						}
+
+						var prev, next;
+
+						if (i > 0) {
+							// there is a valid previous page
+							prev = n[i - 1].href;
+							html += "<a href=\"" + prev + "\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">arrow_back</i></a>";
+						} else {
+							html += "<div class=\"w3-bar-item w3-button w3-disabled\"><i class=\"material-icons\">arrow_back</i></div>";
+						}
+
+						if (i < n.length - 1 && contents.author != "") {
+							// there is a valid next page
+							next = n[i + 1].href
+							html += "<a href=\"" + next + "\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">arrow_forward</i></a>";
+						} else {
+							html += "<div class=\"w3-bar-item w3-button w3-disabled\"><i class=\"material-icons\">arrow_forward</i></div>";
+						}
+
+						// update link rel="next"/"prev" values
+						var links = document.head.getElementsByTagName("link");
+						var gotnext = false, gotprev = false;
+						for (var l = 0; l < links.length; l++) {
+							if (links[l].rel == "next") {
+								gotnext = true;
+							} else if (links[l].rel == "prev") {
+								gotprev = true;
+							}
+						}
+
+						if (!gotnext && next) {
+							var link = document.createElement('link');
+							link.rel = 'next';
+							link.href = next;
+							document.head.appendChild(link);
+						}
+
+						if (!gotprev && prev) {
+							var link = document.createElement('link');
+							link.rel = 'prev';
+							link.href = prev;
+							document.head.appendChild(link);
+						}
+
+						// touch swipe navigation
+						var swipedir;
+						swipedetect(document.body, function (swipedir) {
+							if (swipedir == 'left' && next) {
+								window.location.href = next;
+							} else if (swipedir == 'right' && prev) {
+								window.location.href = prev;
+							}
+						})
+
+						// dropdown of pages here
+						var g = n.find(o => o.href === f);
+						if (g) {
+							html += "<div class=\"w3-bar-item lit w3-hide-small\">" + g.title + "</div>";
+							title = g.title + " - " + title;
+						} else {
+							html += "<a href=\"index.html\" class=\"w3-bar-item lit w3-button w3-hide-small\">";
+							html += nameCapsHTML(contents.title) + "</a>";
+						}
+
+					} else if (f != null) {
+						// author
+						html += "<a href=\"..\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">person</i></a>";
+
+						html += "<a href=\"index.html\" class=\"w3-bar-item w3-button\">" + contents.title + "</a>";
+
+						title = contents.title + " - " + title;
+					}
+					html += "</nav>";
+					elmnt.innerHTML = html;
 				}
+				/* Remove the attribute, and call this function once more: */
+				elmnt.removeAttribute("navigate");
+				document.title = title;
+				loadsitecode();
 			}
 			xhttp.open("GET", file, true);
 			xhttp.send();
