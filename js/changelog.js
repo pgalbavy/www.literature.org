@@ -43,7 +43,7 @@ function Changelog() {
 					}
 					// Remove the attribute, and call this function once again
 					// Not necessary but maintains same pattern as other functions
-					section.removeAttribute("contents");
+					section.removeAttribute("changelog");
 					loadchangelog();
 				}
 			}
