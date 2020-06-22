@@ -25,19 +25,21 @@ function Changelog() {
 					if (this.status == 200) {
 						// process JSON	
 						var changelogs = JSON.parse(this.responseText);
-						var html = "<div class=\"w3-card-4\">";
-						html += "<header class=\"w3-container w3-teal\"><h3>Recently Added Books<span class=\"w3-hide-small\"> (Latest First)</span></h3></header>";
-						html += "<ul class=\"w3-bar-block w3-ul w3-hoverable\">";
+						var html = "";
+						html += "<header class=\"w3-container w3-teal\"><h3>Recently Added Books<span class=\"w3-hide-small\">";
+						html += " (Latest First)</span></h3></header>";
+						html += "<ul class=\"w3-bar-block w3-ul w3-hoverable w3-card-4\">";
 
 						for (c of changelogs.sort(lastUpdatedSort).slice(0, 5)) {
 							var d = new Date(c.lastupdated);
 
-							html += "<li class=\"w3-bar-item litleft\"><span class=\"w3-hide-small w3-hide-medium\">" + d.toLocaleDateString() + ": </span>";
-							html += "<a href=\"" + c.href + "\" class=\"w3-button\">" + nameCapsHTML(c.title) + "</a></li>"
+							html += "<li class=\"w3-bar-item litleft\">";
+							html += "<a href=\"" + c.href + "\" class=\"w3-bar-item litleft w3-button\">";
+							html += "<span class=\"w3-hide-small w3-hide-medium\">";
+							html += d.toLocaleDateString() + ": </span>" + nameCapsHTML(c.title) + "</a></li>";
 						}
 
 						html += "</ul>";
-						html += "<div class=\"w3-container\">&nbsp<\div></div>";
 
 						section.innerHTML = html;
 					}
