@@ -370,39 +370,33 @@ function Navigate() {
 // original from http://www.javascriptkit.com/javatutors/touchevents2.shtml
 //
 // simplified as we are all text and don't want to block link touches
-function swipedetect(el, callback) {
-	var touchsurface = el,
-		swipedir,
-		startX,
+function swipedetect(element, callback) {
+	var startX,
 		startY,
-		distX,
-		distY,
 		threshold = 150, //required min distance traveled to be considered swipe
 		restraint = 100, // maximum distance allowed at the same time in perpendicular direction
 		allowedTime = 300, // maximum time allowed to travel that distance
-		elapsedTime,
 		startTime;
 
-	touchsurface.addEventListener('touchstart', function (e) {
-		var touchobj = e.changedTouches[0]
-		swipedir = 'none'
-		dist = 0
-		startX = touchobj.pageX
-		startY = touchobj.pageY
-		startTime = new Date().getTime()
+	element.addEventListener('touchstart', function (e) {
+		var touchobj = e.changedTouches[0];
+		startX = touchobj.pageX;
+		startY = touchobj.pageY;
+		startTime = new Date().getTime();
 	}, false)
 
-	touchsurface.addEventListener('touchend', function (e) {
-		var touchobj = e.changedTouches[0]
-		distX = touchobj.pageX - startX
-		distY = touchobj.pageY - startY
-		elapsedTime = new Date().getTime() - startTime
+	element.addEventListener('touchend', function (e) {
+		var touchobj = e.changedTouches[0];
+		var distX = touchobj.pageX - startX;
+		var distY = touchobj.pageY - startY;
+		var elapsedTime = new Date().getTime() - startTime;
+		var swipedir = 'none';
 		if (elapsedTime <= allowedTime) {
 			if (Math.abs(distX) >= threshold && Math.abs(distY) <= restraint) {
 				swipedir = (distX < 0) ? 'left' : 'right'
 			}
 		}
-		callback(swipedir)
+		callback(swipedir);
 	}, false)
 }
 
