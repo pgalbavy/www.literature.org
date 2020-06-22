@@ -131,7 +131,8 @@ function Contents() {
 
 						article.innerHTML = html;
 					}
-					/* Remove the attribute, and call this function once more: */
+					// Remove the attribute, and call this function once again
+					// to supported nested tags
 					article.removeAttribute("contents");
 					loadsitecode();
 				}
@@ -302,9 +303,11 @@ function Navigate() {
 					html += "</nav>";
 					nav.innerHTML = html;
 				}
-				/* Remove the attribute, and call this function once more: */
-				nav.removeAttribute("navigate");
 				document.title = title;
+
+				// Remove the attribute, and call this function once again
+				// to supported nested tags
+				nav.removeAttribute("navigate");
 				loadsitecode();
 			}
 			req.open("GET", file, true);
