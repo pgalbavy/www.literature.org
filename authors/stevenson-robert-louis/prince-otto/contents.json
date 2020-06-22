@@ -1,0 +1,115 @@
+{
+	"title": "Prince Otto",
+	"author": "Robert Louis STEVENSON",
+	"source": "https://www.gutenberg.org/files/372/372-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Preface",
+		"-p",
+		"Book/^BOOK /",
+		"-c",
+		"/^CHAPTER /",
+		"https://www.gutenberg.org/files/372/372-0.txt"
+	],
+	"lastupdated": "2020-06-22T12:45:07Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "book-01-chapter-01.html",
+			"title": "Book 1 - Chapter 1 - Prince Errant"
+		},
+		{
+			"href": "book-01-chapter-01.html",
+			"title": "Book 1 - Chapter 1 - In Which The Prince Departs On An Adventure"
+		},
+		{
+			"href": "book-01-chapter-02.html",
+			"title": "Book 1 - Chapter 2 - In Which The Prince Plays Haroun-Al-Raschid"
+		},
+		{
+			"href": "book-01-chapter-03.html",
+			"title": "Book 1 - Chapter 3 - In Which The Prince Comforts Age And Beauty And Delivers A Lecture On Discretion In Love"
+		},
+		{
+			"href": "book-01-chapter-04.html",
+			"title": "Book 1 - Chapter 4 - In Which The Prince Collects Opinions By The Way"
+		},
+		{
+			"href": "book-02-chapter-01.html",
+			"title": "Book 2 - Chapter 1 - What Happened In The Library"
+		},
+		{
+			"href": "book-02-chapter-02.html",
+			"title": "Book 2 - Chapter 2 - ‘On The Court Of Grünewald,’ Being A Portion Of The Traveller’s Manuscript"
+		},
+		{
+			"href": "book-02-chapter-03.html",
+			"title": "Book 2 - Chapter 3 - The Prince And The English Traveller"
+		},
+		{
+			"href": "book-02-chapter-04.html",
+			"title": "Book 2 - Chapter 4 - While The Prince Is In The Ante-Room"
+		},
+		{
+			"href": "book-02-chapter-05.html",
+			"title": "Book 2 - Chapter 5 - Gondremark Is In My Lady’s Chamber"
+		},
+		{
+			"href": "book-02-chapter-06.html",
+			"title": "Book 2 - Chapter 6 - The Prince Delivers A Lecture On Marriage, With Practical Illustrations Of Divorce"
+		},
+		{
+			"href": "book-02-chapter-07.html",
+			"title": "Book 2 - Chapter 7 - The Prince Dissolves The Council"
+		},
+		{
+			"href": "book-02-chapter-08.html",
+			"title": "Book 2 - Chapter 8 - The Party Of War Takes Action"
+		},
+		{
+			"href": "book-02-chapter-09.html",
+			"title": "Book 2 - Chapter 9 - The Price Of The River Farm; In Which Vainglory Goes Before A Fall"
+		},
+		{
+			"href": "book-02-chapter-10.html",
+			"title": "Book 2 - Chapter 10 - Gotthold’s Revised Opinion; And The Fall Completed"
+		},
+		{
+			"href": "book-02-chapter-11.html",
+			"title": "Book 2 - Chapter 11 - Providence Von Rosen: Act The First She Beguiles The Baron"
+		},
+		{
+			"href": "book-02-chapter-12.html",
+			"title": "Book 2 - Chapter 12 - Providence Von Rosen: Act The Second She Informs The Prince"
+		},
+		{
+			"href": "book-02-chapter-13.html",
+			"title": "Book 2 - Chapter 13 - Providence Von Rosen: Act The Third She Enlightens Seraphina"
+		},
+		{
+			"href": "book-02-chapter-14.html",
+			"title": "Book 2 - Chapter 14 - Relates The Cause And Outbreak Of The Revolution"
+		},
+		{
+			"href": "book-03-chapter-01.html",
+			"title": "Book 3 - Chapter 1 - Princess Cinderella"
+		},
+		{
+			"href": "book-03-chapter-02.html",
+			"title": "Book 3 - Chapter 2 - Treats Of A Christian Virtue"
+		},
+		{
+			"href": "book-03-chapter-03.html",
+			"title": "Book 3 - Chapter 3 - Providence Von Rosen: Act The Last In Which She Gallops Off"
+		},
+		{
+			"href": "book-03-chapter-04.html",
+			"title": "Book 3 - Chapter 4 - Babes In The Wood"
+		}
+	]
+}

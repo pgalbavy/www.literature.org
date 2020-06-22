@@ -1,8 +1,37 @@
 {
 	"title": "Robert Louis STEVENSON",
 	"author": "",
-	"chapters": [
-		{ "href": "treasure-island", "title": "Treasure Island" }
+	"source": "",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson",
+		"goodreads": "https://www.goodreads.com/author/show/854076",
+		"gutenberg": "https://dev.gutenberg.org/ebooks/author/35"
+	},
+	"lastupdated": "2020-06-22T12:47:08Z",
+	"books": [
+		{
+			"href": "treasure-island",
+			"title": "Treasure Island"
+		},
+		{
+			"href": "the-strange-case-of-dr-jekyll-and-mr-hyde",
+			"title": "The Strange Case Of Dr. Jekyll And Mr. Hyde"
+		},
+		{
+			"href": "kidnapped",
+			"title": "Kidnapped"
+		},
+		{
+			"href": "the-black-arrow",
+			"title": "The Black Arrow"
+		},
+		{
+			"href": "in-the-south-seas",
+			"title": "In the South Seas"
+		},
+		{
+			"href": "prince-otto",
+			"title": "Prince Otto"
+		}
 	]
 }
-

@@ -1,0 +1,151 @@
+{
+	"title": "The Black Arrow",
+	"author": "Robert Louis STEVENSON",
+	"source": "http://www.gutenberg.org/cache/epub/32954/pg32954.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Prologue",
+		"-p",
+		"Book/^BOOK /p",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/32954/pg32954.txt"
+	],
+	"lastupdated": "2020-06-22T12:26:23Z",
+	"chapters": [
+		{
+			"href": "prologue.html",
+			"title": "Prologue"
+		},
+		{
+			"href": "book-01-chapter-01.html",
+			"title": "Book 1 - Chapter 1 - At The Sign Of The Sun In Kettley"
+		},
+		{
+			"href": "book-01-chapter-02.html",
+			"title": "Book 1 - Chapter 2 - In The Fen"
+		},
+		{
+			"href": "book-01-chapter-03.html",
+			"title": "Book 1 - Chapter 3 - The Fen Ferry"
+		},
+		{
+			"href": "book-01-chapter-04.html",
+			"title": "Book 1 - Chapter 4 - A Greenwood Company"
+		},
+		{
+			"href": "book-01-chapter-05.html",
+			"title": "Book 1 - Chapter 5 - \"Bloody As The Hunter\""
+		},
+		{
+			"href": "book-01-chapter-06.html",
+			"title": "Book 1 - Chapter 6 - To The Day's End"
+		},
+		{
+			"href": "book-01-chapter-07.html",
+			"title": "Book 1 - Chapter 7 - The Hooded Face"
+		},
+		{
+			"href": "book-02-chapter-01.html",
+			"title": "Book 2 - Chapter 1 - Dick Asks Questions"
+		},
+		{
+			"href": "book-02-chapter-02.html",
+			"title": "Book 2 - Chapter 2 - The Two Oaths"
+		},
+		{
+			"href": "book-02-chapter-03.html",
+			"title": "Book 2 - Chapter 3 - The Room Over The Chapel"
+		},
+		{
+			"href": "book-02-chapter-04.html",
+			"title": "Book 2 - Chapter 4 - The Passage"
+		},
+		{
+			"href": "book-02-chapter-05.html",
+			"title": "Book 2 - Chapter 5 - How Dick Changed Sides"
+		},
+		{
+			"href": "book-03-chapter-01.html",
+			"title": "Book 3 - Chapter 1 - The House By The Shore"
+		},
+		{
+			"href": "book-03-chapter-02.html",
+			"title": "Book 3 - Chapter 2 - A Skirmish In The Dark"
+		},
+		{
+			"href": "book-03-chapter-03.html",
+			"title": "Book 3 - Chapter 3 - St. Bride's Cross"
+		},
+		{
+			"href": "book-03-chapter-04.html",
+			"title": "Book 3 - Chapter 4 - The \"Good Hope\""
+		},
+		{
+			"href": "book-03-chapter-05.html",
+			"title": "Book 3 - Chapter 5 - The \"Good Hope\""
+		},
+		{
+			"href": "book-03-chapter-06.html",
+			"title": "Book 3 - Chapter 6 - The \"Good Hope\""
+		},
+		{
+			"href": "book-04-chapter-01.html",
+			"title": "Book 4 - Chapter 1 - The Den"
+		},
+		{
+			"href": "book-04-chapter-02.html",
+			"title": "Book 4 - Chapter 2 - \"In Mine Enemies' House\""
+		},
+		{
+			"href": "book-04-chapter-03.html",
+			"title": "Book 4 - Chapter 3 - The Dead Spy"
+		},
+		{
+			"href": "book-04-chapter-04.html",
+			"title": "Book 4 - Chapter 4 - In The Abbey Church"
+		},
+		{
+			"href": "book-04-chapter-05.html",
+			"title": "Book 4 - Chapter 5 - Earl Risingham"
+		},
+		{
+			"href": "book-04-chapter-06.html",
+			"title": "Book 4 - Chapter 6 - Arblaster Again"
+		},
+		{
+			"href": "book-05-chapter-01.html",
+			"title": "Book 5 - Chapter 1 - The Shrill Trumpet"
+		},
+		{
+			"href": "book-05-chapter-02.html",
+			"title": "Book 5 - Chapter 2 - The Battle Of Shoreby"
+		},
+		{
+			"href": "book-05-chapter-03.html",
+			"title": "Book 5 - Chapter 3 - The Battle Of Shoreby"
+		},
+		{
+			"href": "book-05-chapter-04.html",
+			"title": "Book 5 - Chapter 4 - The Sack Of Shoreby"
+		},
+		{
+			"href": "book-05-chapter-05.html",
+			"title": "Book 5 - Chapter 5 - Night In The Woods: Alicia Risingham"
+		},
+		{
+			"href": "book-05-chapter-06.html",
+			"title": "Book 5 - Chapter 6 - Night In The Woods (Concluded): Dick And Joan"
+		},
+		{
+			"href": "book-05-chapter-07.html",
+			"title": "Book 5 - Chapter 7 - Dick's Revenge"
+		},
+		{
+			"href": "book-05-chapter-08.html",
+			"title": "Book 5 - Chapter 8 - Conclusion"
+		}
+	]
+}

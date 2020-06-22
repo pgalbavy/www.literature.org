@@ -1,30 +1,5 @@
 [
 	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel",
-		"title": "The Tale of Frisky Squirrel by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T12:41:37Z"
-	},
-	{
-		"href": "/authors/forster-e-m/howards-end",
-		"title": "Howards End by E. M. FORSTER",
-		"lastupdated": "2020-06-17T12:57:55Z"
-	},
-	{
-		"href": "/authors/forster-e-m/a-room-with-a-view",
-		"title": "A Room With A View by E. M. FORSTER",
-		"lastupdated": "2020-06-17T13:03:15Z"
-	},
-	{
-		"href": "/authors/forster-e-m/a-passage-to-india",
-		"title": "A Passage to India by E. M. FORSTER",
-		"lastupdated": "2020-06-17T13:06:11Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole",
-		"title": "The Tale of Grandfather Mole by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T13:14:46Z"
-	},
-	{
 		"href": "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel",
 		"title": "The Tale of Grumpy Weasel by Arthur Scott BAILEY",
 		"lastupdated": "2020-06-17T13:17:03Z"
@@ -498,5 +473,30 @@
 		"href": "/authors/burroughs-edgar-rice/the-mad-king",
 		"title": "The Mad King by Edgar Rice BURROUGHS",
 		"lastupdated": "2020-06-20T12:35:36Z"
+	},
+	{
+		"href": "/authors/stevenson-robert-louis/the-strange-case-of-dr-jekyll-and-mr-hyde",
+		"title": "The Strange Case Of Dr. Jekyll And Mr. Hyde by Robert Louis STEVENSON",
+		"lastupdated": "2020-06-22T11:52:01Z"
+	},
+	{
+		"href": "/authors/stevenson-robert-louis/kidnapped",
+		"title": "Kidnapped by Robert Louis STEVENSON",
+		"lastupdated": "2020-06-22T11:55:29Z"
+	},
+	{
+		"href": "/authors/stevenson-robert-louis/the-black-arrow",
+		"title": "The Black Arrow by Robert Louis STEVENSON",
+		"lastupdated": "2020-06-22T12:30:30Z"
+	},
+	{
+		"href": "/authors/stevenson-robert-louis/in-the-south-seas",
+		"title": "In the South Seas by Robert Louis STEVENSON",
+		"lastupdated": "2020-06-22T12:41:18Z"
+	},
+	{
+		"href": "/authors/stevenson-robert-louis/prince-otto",
+		"title": "Prince Otto by Robert Louis STEVENSON",
+		"lastupdated": "2020-06-22T12:47:08Z"
 	}
 ]

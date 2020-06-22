@@ -1,0 +1,65 @@
+{
+	"title": "The Strange Case Of Dr. Jekyll And Mr. Hyde",
+	"author": "Robert Louis STEVENSON",
+	"source": "https://www.gutenberg.org/files/43/43-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"Contents",
+		"-a",
+		"Robert Louis STEVENSON",
+		"-t",
+		"The Strange Case Of Dr. Jekyll And Mr. Hyde",
+		"-c",
+		"/^[A-Z][A-Z\\. ]{8,}/t",
+		"https://www.gutenberg.org/files/43/43-0.txt"
+	],
+	"lastupdated": "2020-06-22T11:51:00Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Story Of The Door"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Search For Mr. Hyde"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Dr. Jekyll Was Quite At Ease"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Carew Murder Case"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Incident Of The Letter"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Incident Of Dr. Lanyon"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Incident At The Window"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Last Night"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Dr. Lanyon’s Narrative"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Hastie Lanyon"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Henry Jekyll’s Full Statement Of The Case"
+		}
+	]
+}

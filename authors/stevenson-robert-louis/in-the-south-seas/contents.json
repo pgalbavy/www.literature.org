@@ -1,0 +1,157 @@
+{
+	"title": "In the South Seas",
+	"author": "Robert Louis STEVENSON",
+	"source": "https://www.gutenberg.org/files/464/464-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"VII",
+		"-p",
+		"Part/^PART /",
+		"https://www.gutenberg.org/files/464/464-0.txt"
+	],
+	"lastupdated": "2020-06-22T12:40:20Z",
+	"chapters": [
+		{
+			"href": "part-01-chapter-01.html",
+			"title": "Part 1 - Chapter 1 - An Island Landfall"
+		},
+		{
+			"href": "part-01-chapter-02.html",
+			"title": "Part 1 - Chapter 2 - Making Friends"
+		},
+		{
+			"href": "part-01-chapter-03.html",
+			"title": "Part 1 - Chapter 3 - The Maroon"
+		},
+		{
+			"href": "part-01-chapter-04.html",
+			"title": "Part 1 - Chapter 4 - Death"
+		},
+		{
+			"href": "part-01-chapter-05.html",
+			"title": "Part 1 - Chapter 5 - Depopulation"
+		},
+		{
+			"href": "part-01-chapter-06.html",
+			"title": "Part 1 - Chapter 6 - Chiefs And Tapus"
+		},
+		{
+			"href": "part-01-chapter-07.html",
+			"title": "Part 1 - Chapter 7 - Hatiheu"
+		},
+		{
+			"href": "part-01-chapter-08.html",
+			"title": "Part 1 - Chapter 8 - The Port Of Entry"
+		},
+		{
+			"href": "part-01-chapter-09.html",
+			"title": "Part 1 - Chapter 9 - The House Of Temoana"
+		},
+		{
+			"href": "part-01-chapter-10.html",
+			"title": "Part 1 - Chapter 10 - A Portrait And A Story"
+		},
+		{
+			"href": "part-01-chapter-11.html",
+			"title": "Part 1 - Chapter 11 - Long-Pig—a Cannibal High Place"
+		},
+		{
+			"href": "part-01-chapter-12.html",
+			"title": "Part 1 - Chapter 12 - The Story Of A Plantation"
+		},
+		{
+			"href": "part-01-chapter-13.html",
+			"title": "Part 1 - Chapter 13 - Characters"
+		},
+		{
+			"href": "part-01-chapter-14.html",
+			"title": "Part 1 - Chapter 14 - In A Cannibal Valley"
+		},
+		{
+			"href": "part-01-chapter-15.html",
+			"title": "Part 1 - Chapter 15 - The Two Chiefs Of Atuona"
+		},
+		{
+			"href": "part-02-chapter-01.html",
+			"title": "Part 2 - Chapter 1 - The Dangerous Archipelago—atolls At A Distance"
+		},
+		{
+			"href": "part-02-chapter-02.html",
+			"title": "Part 2 - Chapter 2 - Fakarava: An Atoll At Hand"
+		},
+		{
+			"href": "part-02-chapter-03.html",
+			"title": "Part 2 - Chapter 3 - A House To Let In A Low Island"
+		},
+		{
+			"href": "part-02-chapter-04.html",
+			"title": "Part 2 - Chapter 4 - Traits And Sects In The Paumotus"
+		},
+		{
+			"href": "part-02-chapter-05.html",
+			"title": "Part 2 - Chapter 5 - A Paumotuan Funeral"
+		},
+		{
+			"href": "part-02-chapter-06.html",
+			"title": "Part 2 - Chapter 6 - Graveyard Stories"
+		},
+		{
+			"href": "part-03-chapter-01.html",
+			"title": "Part 3 - Chapter 1 - Butaritari"
+		},
+		{
+			"href": "part-03-chapter-02.html",
+			"title": "Part 3 - Chapter 2 - The Four Brothers"
+		},
+		{
+			"href": "part-03-chapter-03.html",
+			"title": "Part 3 - Chapter 3 - Around Our House"
+		},
+		{
+			"href": "part-03-chapter-04.html",
+			"title": "Part 3 - Chapter 4 - A Tale Of A Tapu"
+		},
+		{
+			"href": "part-03-chapter-05.html",
+			"title": "Part 3 - Chapter 5 - A Tale Of A Tapu—_continued"
+		},
+		{
+			"href": "part-03-chapter-06.html",
+			"title": "Part 3 - Chapter 6 - The Five Days’ Festival"
+		},
+		{
+			"href": "part-03-chapter-07.html",
+			"title": "Part 3 - Chapter 7 - Husband And Wife"
+		},
+		{
+			"href": "part-04-chapter-01.html",
+			"title": "Part 4 - Chapter 1 - The King Of Apemama: The Royal Trader"
+		},
+		{
+			"href": "part-04-chapter-02.html",
+			"title": "Part 4 - Chapter 2 - The King Of Apemama: Foundation Of Equator Town"
+		},
+		{
+			"href": "part-04-chapter-03.html",
+			"title": "Part 4 - Chapter 3 - The King Of Apemama: The Palace Of Many Women"
+		},
+		{
+			"href": "part-04-chapter-04.html",
+			"title": "Part 4 - Chapter 4 - The King Of Apemama: Equator Town And The Palace"
+		},
+		{
+			"href": "part-04-chapter-05.html",
+			"title": "Part 4 - Chapter 5 - King And Commons"
+		},
+		{
+			"href": "part-04-chapter-06.html",
+			"title": "Part 4 - Chapter 6 - The King Of Apemama: Devil-Work"
+		},
+		{
+			"href": "part-04-chapter-07.html",
+			"title": "Part 4 - Chapter 7 - The King Of Apemama"
+		}
+	]
+}

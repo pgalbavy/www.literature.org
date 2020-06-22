@@ -1,0 +1,141 @@
+{
+	"title": "Kidnapped",
+	"author": "Robert Louis STEVENSON",
+	"source": "https://www.gutenberg.org/files/421/421-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Preface",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/421/421-0.txt"
+	],
+	"lastupdated": "2020-06-22T11:53:46Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - I Set Off Upon My Journey To The House Of Shaws"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - I Come To My Journey’s End"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - I Make Acquaintance Of My Uncle"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - I Run A Great Danger In The House Of Shaws"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - I Go To The Queen’s Ferry"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - What Befell At The Queen’s Ferry"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - I Go To Sea In The Brig “Covenant” Of Dysart"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Round-House"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Man With The Belt Of Gold"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Siege Of The Round-House"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Captain Knuckles Under"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - I Hear Of The “Red Fox”"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Loss Of The Brig"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Islet"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Lad With The Silver Button: Through The Isle Of Mull"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Lad With The Silver Button: Across Morven"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Death Of The Red Fox"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - I Talk With Alan In The Wood Of Lettermore"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The House Of Fear"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Flight In The Heather: The Rocks"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Flight In The Heather: The Heugh Of Corrynakiegh"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Flight In The Heather: The Moor"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Cluny’s Cage"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Flight In The Heather: The Quarrel"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - In Balquhidder"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - End Of The Flight: We Pass The Forth"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - I Come To Mr. Rankeillor"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - I Go In Quest Of My Inheritance"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - I Come Into My Kingdom"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - Good-Bye"
+		}
+	]
+}
