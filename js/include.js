@@ -119,7 +119,7 @@ function Contents() {
 						html += "</ul>";
 
 						// add other content here
-						if (typeof contents.links !== 'undefined' && Object.keys(contents.links) != 0 ) {
+						if (typeof contents.links !== 'undefined' && Object.keys(contents.links) != 0) {
 							html += "<ul class=\"w3-bar-block w3-ul w3-hoverable\">";
 							html += "<li><h2>External Links</h2></li>";
 							if (contents.links.wikipedia) {
@@ -216,7 +216,7 @@ function Navigate() {
 
 						// sidebar
 						html += "<nav class=\"w3-sidebar w3-bar-block w3-large\" style=\"display:none\" id=\"mySidebar\">"
-						html +=	" <button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons\">close</i> Close</button>";
+						html += " <button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons\">close</i> Close</button>";
 						html += " <a href=\"/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">home</i> literature.org</a>";
 						html += " <a href=\"/authors/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">people</i> Authors</a>";
 						if (contents.author) {
@@ -322,6 +322,16 @@ function Navigate() {
 								document.head.appendChild(link);
 							}
 
+							// touch swipe navigation
+							var swipedir;
+							swipedetect(document.body, function (swipedir) {
+								if (swipedir == 'left' && next) {
+									window.location.href = next;
+								} else if (swipedir == 'right' && prev) {
+									window.location.href = prev;
+								}
+							})
+
 							// dropdown of pages here
 							var g = n.find(o => o.href === f);
 							if (g) {
@@ -355,6 +365,45 @@ function Navigate() {
 			return;
 		}
 	}
+}
+
+// original from http://www.javascriptkit.com/javatutors/touchevents2.shtml
+//
+// simplified as we are all text and don't want to block link touches
+function swipedetect(el, callback) {
+	var touchsurface = el,
+		swipedir,
+		startX,
+		startY,
+		distX,
+		distY,
+		threshold = 150, //required min distance traveled to be considered swipe
+		restraint = 100, // maximum distance allowed at the same time in perpendicular direction
+		allowedTime = 300, // maximum time allowed to travel that distance
+		elapsedTime,
+		startTime;
+
+	touchsurface.addEventListener('touchstart', function (e) {
+		var touchobj = e.changedTouches[0]
+		swipedir = 'none'
+		dist = 0
+		startX = touchobj.pageX
+		startY = touchobj.pageY
+		startTime = new Date().getTime()
+	}, false)
+
+	touchsurface.addEventListener('touchend', function (e) {
+		var touchobj = e.changedTouches[0]
+		distX = touchobj.pageX - startX
+		distY = touchobj.pageY - startY
+		elapsedTime = new Date().getTime() - startTime
+		if (elapsedTime <= allowedTime) {
+			if (Math.abs(distX) >= threshold && Math.abs(distY) <= restraint) {
+				swipedir = (distX < 0) ? 'left' : 'right'
+			}
+		}
+		callback(swipedir)
+	}, false)
 }
 
 function w3_open() {
