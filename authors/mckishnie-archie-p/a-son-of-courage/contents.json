@@ -1,0 +1,119 @@
+{
+	"title": "A Son of Courage",
+	"author": "Archie P. MCKISHNIE",
+	"source": "http://www.gutenberg.org/cache/epub/62278/pg62278.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"/^CHAPTER /p",
+		"http://www.gutenberg.org/cache/epub/62278/pg62278.txt"
+	],
+	"lastupdated": "2020-06-22T16:30:00Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Billy Wilson's Strategy"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Shower Of Fish"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Appraising The New Teacher"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Message Croaker Brought"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Wilderness Merchant"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Ruse That Failed"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Rabbit Foot Charm"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Luck Rides The Storm"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Moving The Menagerie"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - In Lost Man's Swamp"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Educating The New Boy"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Old Harry Makes A Find"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Erie Of The Light-House"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Old Harry Turns A Trick"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Billy's Problems Multiply"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Billy Meets A Divinity"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Dread Day Dawns"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Mettle Of The Breed"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Croaker Brings A Gift"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Billy Meets A Lovely Ghost"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Day With The Ducks"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Teacher Johnston Resigns"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Mr. Hinter Proves A Puzzle"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Billy To The Rescue"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Mr. Hinter Makes A Confession"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - A Golden Wedding Gift"
+		}
+	]
+}

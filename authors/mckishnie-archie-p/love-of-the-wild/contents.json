@@ -1,0 +1,141 @@
+{
+	"title": "Love of the Wild",
+	"author": "Archie P. MCKISHNIE",
+	"source": "https://www.gutenberg.org/files/49553/49553-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"XXXI",
+		"-c",
+		"/^\\s+CHAPTER /",
+		"https://www.gutenberg.org/files/49553/49553-0.txt"
+	],
+	"lastupdated": "2020-06-22T16:36:00Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The World Of The Untamed"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Glow And Gloss"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Babes In The Wood"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Bushwackers’ Place"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Comrades Of The Hardwoods"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Go-Between"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Where The Brook And River Meet"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Through The Deep Wood"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - And The Twilight"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Colonel Hallibut"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Wild Of The Wild"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Injun Noah"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - On The Creek Path"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Paisley Reconnoiters"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - War Tactics"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Preparing For The Loggin’"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Loggin’-Bee"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Old Betsy"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Of The Tribe Of Broadcrook"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Mr. Smythe Visits The Colonel"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Widow Ross Backslides"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Shot In The Dark"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - In The Fire Circle"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Night Attack"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - And The Day After"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - In The Manacles Of Winter"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - While The Rain Fell"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - A Clear Trail"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Blue Skies And A Cloud"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - The Dawn Of A New Day"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - A Mating Time"
+		}
+	]
+}
