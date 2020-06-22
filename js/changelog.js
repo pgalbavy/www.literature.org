@@ -41,9 +41,10 @@ function Changelog() {
 
 						section.innerHTML = html;
 					}
-					/* Remove the attribute, and call this function once agains */
+					// Remove the attribute, and call this function once again
+					// Not necessary but maintains same pattern as other functions
 					section.removeAttribute("contents");
-					loadchangelog;
+					loadchangelog();
 				}
 			}
 			req.open("GET", file, true);
