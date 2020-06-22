@@ -375,7 +375,7 @@ function swipedetect(element, callback) {
 		startY,
 		threshold = 150, //required min distance traveled to be considered swipe
 		restraint = 100, // maximum distance allowed at the same time in perpendicular direction
-		allowedTime = 300, // maximum time allowed to travel that distance
+		allowedTime = 1000, // maximum time allowed to travel that distance
 		startTime;
 
 	element.addEventListener('touchstart', function (e) {
