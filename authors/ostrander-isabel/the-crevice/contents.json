@@ -1,0 +1,101 @@
+{
+	"title": "The Crevice (with William John Burns)",
+	"author": "Isabel OSTRANDER",
+	"source": "http://www.gutenberg.org/cache/epub/29331/pg29331.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-a",
+		"Isabel OSTRANDER",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/29331/pg29331.txt"
+	],
+	"lastupdated": "2020-06-19T16:31:13Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Pennington Lawton And The Grim Reaper"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Revelations"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Henry Blaine Takes A Hand"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Search"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Will"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The First Counter-Move"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Letter"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Guy Morrow Faces A Problem"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Gone!"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Margaret Hefferman's Failure"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Confidence Of Emily"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Cipher"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Empty House"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - In The Open"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Checkmate!"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Library Chair"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Rescue"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Trap"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Unseen Listener"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Crevice"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Cleared Skies"
+		}
+	]
+}

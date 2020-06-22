@@ -1,0 +1,53 @@
+{
+	"title": "Anything Once",
+	"author": "Isabel OSTRANDER",
+	"source": "http://www.gutenberg.org/cache/epub/30640/pg30640.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-a",
+		"Isabel OSTRANDER",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/30640/pg30640.txt"
+	],
+	"lastupdated": "2020-06-19T16:29:13Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Roadside Meeting"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Partners"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Vendor Of Everything"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Under The Big Top"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Concerning An Omelet"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Red Note-Book"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Revelations"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Journey's End"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Long, Long Trail"
+		}
+	]
+}

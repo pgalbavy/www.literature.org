@@ -1,0 +1,119 @@
+{
+	"title": "The Wilderness Trail",
+	"author": "Frank WILLIAMS",
+	"source": "http://www.gutenberg.org/cache/epub/30925/pg30925.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"/^CHAPTER /p",
+		"http://www.gutenberg.org/cache/epub/30925/pg30925.txt"
+	],
+	"lastupdated": "2020-06-19T17:42:52Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Up For Judgment"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Ill Report"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Mysterious Message"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Into The Danger Zone"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Death Trail"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Last Stand"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Jean Puts It Up To Her Father"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Alarm"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Broken Pipe"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Escape"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Hot Scent"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Maria Takes Action"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Rescue And A Surprise"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Frigid Idyl"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Prey Of The Pack"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Fearful Disclosures"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Companion Of Many Trails"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - In New Clutches"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Forced March"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Awaiting The Hangman"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Note And Its Answer"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Secreted Evidence"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Brothers"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Nine Points Of The Law"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Against Fearful Odds"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Renunciation"
+		}
+	]
+}
