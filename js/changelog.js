@@ -34,10 +34,13 @@ function Changelog() {
 						for (c of changelogs.sort(lastUpdatedSort).slice(0, 5)) {
 							var d = new Date(c.lastupdated);
 
-							html += "<li class=\"w3-bar-item w3-border litleft\">";
-							html += "<a href=\"" + c.href + "\" class=\"w3-bar-item litleft w3-button\">";
-							html += "<span class=\"w3-hide-small w3-hide-medium\">";
-							html += d.toLocaleDateString() + ": </span>" + nameCapsHTML(c.title) + "</a></li>";
+							html += "<li class=\"w3-bar-item w3-border w3-padding-small\">";
+							html += "<a href=\"" + c.href + "\" class=\"w3-bar-item litleft w3-button w3-large w3-padding-small\">";
+							html += "<i class=\"material-icons md-lit w3-margin-right\">menu_book</i> ";
+
+							html += nameCapsHTML(c.title);
+							html += "<span class=\"w3-hide-small w3-hide-medium\"> (added " + d.toLocaleDateString() + ")</span>";
+							html += "</a></li>";
 						}
 
 						html += "</ul>";
