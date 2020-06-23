@@ -157,11 +157,11 @@ function Navigate() {
 					var contents = JSON.parse(this.responseText);
 					var path = location.pathname;
 					var parts = path.split('/');
-					var f;
+					var final;
 					do {
-						f = parts.pop();
+						final = parts.pop();
 					}
-					while (f != null && (f == "" || f == "index.html"));
+					while (final != null && (final == "" || final == "index.html"));
 
 					var title = "literature.org";
 					var html = "";
@@ -176,15 +176,15 @@ function Navigate() {
 						title = titleCase(contents.author) + " at " + title;
 					}
 
-					if (f && f != "index.html" && f != "authors") {
+					if (final && final != "index.html" && final != "authors") {
 						html += " <a href=\"index.html\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">menu_book</i> " + contents.title + "</a>";
 						if (title == "literature.org") {
 							title = titleCase(contents.title) + " at " + title;
 						} else {
 							title = titleCase(contents.title) + " by " + title;
 						}
-						if (typeof contents.chapters !== 'undefined' && f.endsWith(".html")) {
-							var chapter = contents.chapters.findIndex(o => o.href === f);
+						if (typeof contents.chapters !== 'undefined' && final.endsWith(".html")) {
+							var chapter = contents.chapters.findIndex(o => o.href === final);
 							// dropdown here
 							html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons\">library_books</i></a>";
 							html += contents.chapters[chapter].title + "</button>";
@@ -197,19 +197,20 @@ function Navigate() {
 					html += "<nav class=\"w3-bar\" style=\"font-size:24px; white-space: nowrap;\">";
 					html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_open()\"><i class=\"material-icons\">menu</i></button>";
 
-					var n;
+					// pick one and exactly one list of links, in this order
+					var list;
 					if (typeof contents.authors !== 'undefined' && contents.authors.length > 0) {
-						n = contents.authors
+						list = contents.authors
 					} else if (typeof contents.books !== 'undefined' && contents.books.length > 0) {
-						n = contents.books
+						list = contents.books
 					} else {
-						n = contents.chapters
+						list = contents.chapters
 					}
 
-					if (n && f && f != "index.html") {
-						var i = n.findIndex(o => o.href === f);
+					if (list && final && final != "index.html") {
+						var page = list.findIndex(o => o.href === final);
 
-						if (f == "authors") {
+						if (final == "authors") {
 							html += "<a href=\"/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">home</i></a>";
 						} else {
 							if (contents.author == "") {
@@ -221,7 +222,7 @@ function Navigate() {
 
 							// contents page
 							if (!(contents.title != "Authors" && contents.author == "")) {
-								if (f.endsWith(".html")) {
+								if (final.endsWith(".html")) {
 									html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">menu_book</i></a>";
 								} else {
 									html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left w3-disabled\"><i class=\"material-icons\">menu_book</i></a>";
@@ -231,17 +232,17 @@ function Navigate() {
 
 						var prev, next;
 
-						if (i > 0) {
+						if (page > 0) {
 							// there is a valid previous page
-							prev = n[i - 1].href;
+							prev = list[page - 1].href;
 							html += "<a href=\"" + prev + "\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">arrow_back</i></a>";
 						} else {
 							html += "<div class=\"w3-bar-item w3-button w3-disabled\"><i class=\"material-icons\">arrow_back</i></div>";
 						}
 
-						if (i < n.length - 1 && contents.author != "") {
+						if (page < list.length - 1 && contents.author != "") {
 							// there is a valid next page
-							next = n[i + 1].href
+							next = list[page + 1].href
 							html += "<a href=\"" + next + "\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">arrow_forward</i></a>";
 						} else {
 							html += "<div class=\"w3-bar-item w3-button w3-disabled\"><i class=\"material-icons\">arrow_forward</i></div>";
@@ -284,22 +285,21 @@ function Navigate() {
 
 						// dropdown of pages here
 						html += "<div class=\"w3-bar-item lit w3-hide-small\">";
-						var g = n.find(o => o.href === f);
-						if (g) {
-							html += g.title;
-							title = g.title + " - " + title;
+						if (list[page]) {
+							html += list[page].title;
+							title = list[page].title + " - " + title;
 						} else {
 							html += nameCapsHTML(contents.title);
 						}
 						html += "</div>";
 
-						if (g) {
+						if (list[page]) {
 							html += "<div class=\"w3-bar-item lit w3-hide-medium w3-hide-large\">";
-							html += i+1 + "/" + n.length;
+							html += "Page " + (page+1) + "/" + list.length;
 							html += "</div>";
 						}
 
-					} else if (f != null) {
+					} else if (final != null) {
 						// author
 						html += "<a href=\"..\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">person</i></a>";
 
