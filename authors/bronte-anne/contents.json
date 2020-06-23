@@ -1,9 +1,12 @@
 {
 	"title": "Anne BRONTË",
-	"author": "",
 	"source": "",
-	"cmdline": null,
-	"lastupdated": "2020-06-15T10:00:48Z",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Anne_Bront%C3%AB",
+		"goodreads": "https://www.goodreads.com/author/show/8249",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/404"
+	},
+	"lastupdated": "2020-06-23T11:22:10Z",
 	"books": [
 		{
 			"href": "agnes-grey",

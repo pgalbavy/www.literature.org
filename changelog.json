@@ -1,30 +1,5 @@
 [
 	{
-		"href": "/authors/arthur/the-tale-of-pony-twinkleheels",
-		"title": "The Tale of Pony Twinkleheels by ARTHUR",
-		"lastupdated": "2020-06-17T14:43:00Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker",
-		"title": "The Tale of Reddy Wokkpecker by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T14:48:47Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-rusty-wren",
-		"title": "The Tale of Rusty Wren by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T14:52:05Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk",
-		"title": "The Tale of Sandy Chipmunk by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T14:53:29Z"
-	},
-	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb",
-		"title": "The Tale of Snowball Lamb by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T14:54:35Z"
-	},
-	{
 		"href": "/authors/bailey-arthur-scott/the-tale-of-solomon-owl",
 		"title": "The Tale of Solomon Owl by Arthur Scott BAILEY",
 		"lastupdated": "2020-06-17T14:55:50Z"
@@ -498,5 +473,30 @@
 		"href": "/authors/mckishnie-archie-p/love-of-the-wild",
 		"title": "Love of the Wild by Archie P. MCKISHNIE",
 		"lastupdated": "2020-06-22T16:36:24Z"
+	},
+	{
+		"href": "/authors/cather-willa/alexanders-bridge",
+		"title": "Alexander’s Bridge by Willa CATHER",
+		"lastupdated": "2020-06-23T11:26:42Z"
+	},
+	{
+		"href": "/authors/cather-willa/my-antonia",
+		"title": "My Antonia by Willa CATHER",
+		"lastupdated": "2020-06-23T11:37:27Z"
+	},
+	{
+		"href": "/authors/cather-willa/one-of-ours",
+		"title": "One of Ours by Willa CATHER",
+		"lastupdated": "2020-06-23T11:39:47Z"
+	},
+	{
+		"href": "/authors/cather-willa/o-pioneers",
+		"title": "O Pioneers! by Willa CATHER",
+		"lastupdated": "2020-06-23T11:42:36Z"
+	},
+	{
+		"href": "/authors/cather-willa/song-of-the-lark",
+		"title": "Song of the Lark by Willa CATHER",
+		"lastupdated": "2020-06-23T11:46:16Z"
 	}
 ]

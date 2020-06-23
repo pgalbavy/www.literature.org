@@ -63,7 +63,7 @@ func init() {
 
 	dashre = regexp.MustCompile(`[ _]`)
 
-	firstre = regexp.MustCompile(`(?mi)\A(?:the )?project gutenberg(?: ebook of|'s| ebook,) ([\pL\.,\-'"\(\) ]+),\s+by\s+([\pL\.\-'\(\) ]+)\,?\r?$`)
+	firstre = regexp.MustCompile(`(?mi)\A(?:the )?project gutenberg(?: ebook of|'s| ebook,) ([\pL\.,!\-'"\(\) ]+),\s+by\s+([\pL\.\-'\(\) ]+)\,?\r?$`)
 
 	levels = make([]Level, 2, 5)
 
@@ -483,7 +483,7 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 			w.Close()
 		}
 
-		if (pn != 0 && partnum != 0) || (partnum < 2 && prename != "") {
+		if (cn != 0 && partnum != 0) || (partnum < 2 && prename != "") {
 			// update contents
 			var c literature.Chapter
 			c.HREF = filename

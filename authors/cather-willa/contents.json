@@ -1,8 +1,32 @@
 {
 	"title": "Willa CATHER",
-	"author": "",
+	"source": "",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Willa_Cather",
+		"goodreads": "https://www.goodreads.com/author/show/881203",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/22"
+	},
+	"lastupdated": "2020-06-23T11:46:16Z",
 	"books": [
-		{ "href": "alexanders-bridge", "title": "Alexander's Bridge" }
+		{
+			"href": "alexanders-bridge",
+			"title": "Alexander's Bridge"
+		},
+		{
+			"href": "my-antonia",
+			"title": "My Antonia"
+		},
+		{
+			"href": "one-of-ours",
+			"title": "One of Ours"
+		},
+		{
+			"href": "o-pioneers",
+			"title": "O Pioneers!"
+		},
+		{
+			"href": "song-of-the-lark",
+			"title": "Song of the Lark"
+		}
 	]
 }
-

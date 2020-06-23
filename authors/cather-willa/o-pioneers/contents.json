@@ -1,0 +1,141 @@
+{
+	"title": "O Pioneers!",
+	"author": "Willa CATHER",
+	"source": "http://www.gutenberg.org/files/24/24-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-p",
+		"Part/^PART\\s/p",
+		"-c",
+		"//k",
+		"http://www.gutenberg.org/files/24/24-0.txt"
+	],
+	"lastupdated": "2020-06-23T11:42:02Z",
+	"chapters": [
+		{
+			"href": "part-01-chapter-01.html",
+			"title": "Part 1 - Chapter 1"
+		},
+		{
+			"href": "part-01-chapter-02.html",
+			"title": "Part 1 - Chapter 2"
+		},
+		{
+			"href": "part-01-chapter-03.html",
+			"title": "Part 1 - Chapter 3"
+		},
+		{
+			"href": "part-01-chapter-04.html",
+			"title": "Part 1 - Chapter 4"
+		},
+		{
+			"href": "part-01-chapter-05.html",
+			"title": "Part 1 - Chapter 5"
+		},
+		{
+			"href": "part-02-chapter-01.html",
+			"title": "Part 2 - Chapter 1"
+		},
+		{
+			"href": "part-02-chapter-02.html",
+			"title": "Part 2 - Chapter 2"
+		},
+		{
+			"href": "part-02-chapter-03.html",
+			"title": "Part 2 - Chapter 3"
+		},
+		{
+			"href": "part-02-chapter-04.html",
+			"title": "Part 2 - Chapter 4"
+		},
+		{
+			"href": "part-02-chapter-05.html",
+			"title": "Part 2 - Chapter 5"
+		},
+		{
+			"href": "part-02-chapter-06.html",
+			"title": "Part 2 - Chapter 6"
+		},
+		{
+			"href": "part-02-chapter-07.html",
+			"title": "Part 2 - Chapter 7"
+		},
+		{
+			"href": "part-02-chapter-08.html",
+			"title": "Part 2 - Chapter 8"
+		},
+		{
+			"href": "part-02-chapter-09.html",
+			"title": "Part 2 - Chapter 9"
+		},
+		{
+			"href": "part-02-chapter-10.html",
+			"title": "Part 2 - Chapter 10"
+		},
+		{
+			"href": "part-02-chapter-11.html",
+			"title": "Part 2 - Chapter 11"
+		},
+		{
+			"href": "part-02-chapter-12.html",
+			"title": "Part 2 - Chapter 12"
+		},
+		{
+			"href": "part-03-chapter-01.html",
+			"title": "Part 3 - Chapter 1"
+		},
+		{
+			"href": "part-03-chapter-02.html",
+			"title": "Part 3 - Chapter 2"
+		},
+		{
+			"href": "part-04-chapter-01.html",
+			"title": "Part 4 - Chapter 1"
+		},
+		{
+			"href": "part-04-chapter-02.html",
+			"title": "Part 4 - Chapter 2"
+		},
+		{
+			"href": "part-04-chapter-03.html",
+			"title": "Part 4 - Chapter 3"
+		},
+		{
+			"href": "part-04-chapter-04.html",
+			"title": "Part 4 - Chapter 4"
+		},
+		{
+			"href": "part-04-chapter-05.html",
+			"title": "Part 4 - Chapter 5"
+		},
+		{
+			"href": "part-04-chapter-06.html",
+			"title": "Part 4 - Chapter 6"
+		},
+		{
+			"href": "part-04-chapter-07.html",
+			"title": "Part 4 - Chapter 7"
+		},
+		{
+			"href": "part-04-chapter-08.html",
+			"title": "Part 4 - Chapter 8"
+		},
+		{
+			"href": "part-04-chapter-09.html",
+			"title": "Part 4 - Chapter 9"
+		},
+		{
+			"href": "part-05-chapter-01.html",
+			"title": "Part 5 - Chapter 1"
+		},
+		{
+			"href": "part-05-chapter-02.html",
+			"title": "Part 5 - Chapter 2"
+		},
+		{
+			"href": "part-05-chapter-03.html",
+			"title": "Part 5 - Chapter 3"
+		}
+	]
+}
