@@ -15,8 +15,9 @@ function lastUpdatedSort(a, b) {
 }
 
 function Changelog() {
+	const ATTR = "changelog";
 	for (var section of document.getElementsByTagName("section")) {
-		var file = section.getAttribute("changelog");
+		var file = section.getAttribute(ATTR);
 		if (file) {
 			/* Make an HTTP request using the attribute value as the file name: */
 			req = new XMLHttpRequest();
@@ -45,7 +46,7 @@ function Changelog() {
 					}
 					// Remove the attribute, and call this function once again
 					// Not necessary but maintains same pattern as other functions
-					section.removeAttribute("changelog");
+					section.removeAttribute(ATTR);
 					loadchangelog();
 				}
 			}

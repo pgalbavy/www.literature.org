@@ -12,8 +12,9 @@ function loadsitecode() {
 // check all DIV elements for an attribute of type include-html
 // and replace contents with file
 function Include() {
+	const ATTR = "include-html";
 	for (var div of document.getElementsByTagName("div")) {
-		var file = div.getAttribute("include-html");
+		var file = div.getAttribute(ATTR);
 		if (file) {
 			var req = new XMLHttpRequest();
 
@@ -23,7 +24,7 @@ function Include() {
 					if (this.status == 404) { div.innerHTML = "Page not found."; }
 					// Remove the attribute, and call this function again
 					// to account for nested elements handled by this local code
-					div.removeAttribute("include-html");
+					div.removeAttribute(ATTR);
 					loadsitecode();
 				}
 			}
@@ -37,9 +38,10 @@ function Include() {
 }
 
 function Contents() {
+	const ATTR = "contents";
 	/* Loop through a collection of all ARTICLE elements: */
 	for (var article of document.getElementsByTagName("article")) {
-		var file = article.getAttribute("contents");
+		var file = article.getAttribute(ATTR);
 		if (file) {
 			/* Make an HTTP request using the attribute value as the file name: */
 			var req = new XMLHttpRequest();
@@ -133,7 +135,7 @@ function Contents() {
 					}
 					// Remove the attribute, and call this function once again
 					// to supported nested tags
-					article.removeAttribute("contents");
+					article.removeAttribute(ATTR);
 					loadsitecode();
 				}
 			}
@@ -146,8 +148,9 @@ function Contents() {
 }
 
 function Navigate() {
+	const ATTR = "navigate";
 	for (var nav of document.getElementsByTagName("nav")) {
-		var file = nav.getAttribute("navigate");
+		var file = nav.getAttribute(ATTR);
 		if (file) {
 			/* Make an HTTP request using the attribute value as the file name: */
 			req = new XMLHttpRequest();
@@ -314,7 +317,7 @@ function Navigate() {
 
 				// Remove the attribute, and call this function once again
 				// to supported nested tags
-				nav.removeAttribute("navigate");
+				nav.removeAttribute(ATTR);
 				loadsitecode();
 			}
 			req.open("GET", file, true);
