@@ -15,7 +15,8 @@ import (
 
 type Contents struct {
 	Title       string    `json:"title"`
-	Author      string    `json:"author"`
+	Author      string    `json:"author,omitempty"`
+	Aliases		[]string  `json:"aliases,omitempty"`
 	Year        int       `json:"year,omitempty"`
 	Source      string    `json:"source"`
 	Links       Links     `json:"links,omitempty"`
@@ -29,7 +30,6 @@ type Contents struct {
 type Link struct {
 	HREF  string `json:"href"`
 	Title string `json:"title"`
-
 }
 
 type Chapter Link

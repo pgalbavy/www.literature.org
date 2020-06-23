@@ -1,15 +1,61 @@
 {
 	"title": "George ELIOT",
-	"author": "",
+	"aliases": [
+		"Mary Ann EVANS"
+	],
+	"source": "",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/George_Eliot",
+		"goodreads": "https://www.goodreads.com/author/show/173",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/90",
+		"other": [
+			{
+				"href": "http://www.bbc.co.uk/history/historic_figures/eliot_george.shtml",
+				"title": "BBC History"
+			}
+		]
+	},
+	"lastupdated": "2020-06-23T08:51:19Z",
 	"books": [
-		{ "href": "adam-bede", "title": "Adam Bede (1859)" },
-		{ "href": "brother-jacob", "title": "Brother Jacob (1860)" },
-		{ "href": "daniel-deronda", "title": "Daniel Deronda (1876)" },
-		{ "href": "impressions-of-theophrastus-such", "title": "Impressions Of Theophrastus Such (1879)" },
-		{ "href": "the-lifted-veil", "title": "The Lifted Veil (1859)" },
-		{ "href": "middlemarch", "title": "Middlemarch (1872)" },
-		{ "href": "the-mill-on-the-floss", "title": "The Mill on the Floss (1860)" },
-		{ "href": "silas-marner", "title": "Silas Marner (1861)" }
+		{
+			"href": "adam-bede",
+			"title": "Adam Bede",
+			"year": 1859
+		},
+		{
+			"href": "brother-jacob",
+			"title": "Brother Jacob",
+			"year": 1860
+		},
+		{
+			"href": "daniel-deronda",
+			"title": "Daniel Deronda",
+			"year": 1876
+		},
+		{
+			"href": "impressions-of-theophrastus-such",
+			"title": "Impressions Of Theophrastus Such",
+			"year": 1879
+		},
+		{
+			"href": "the-lifted-veil",
+			"title": "The Lifted Veil",
+			"year": 1859
+		},
+		{
+			"href": "middlemarch",
+			"title": "Middlemarch",
+			"year": 1872
+		},
+		{
+			"href": "the-mill-on-the-floss",
+			"title": "The Mill on the Floss",
+			"year": 1860
+		},
+		{
+			"href": "silas-marner",
+			"title": "Silas Marner",
+			"year": 1861
+		}
 	]
 }
-

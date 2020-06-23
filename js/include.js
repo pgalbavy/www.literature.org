@@ -50,7 +50,7 @@ function Contents() {
 					if (this.status == 200) {
 						// process JSON	
 						var contents = JSON.parse(this.responseText);
-						var html = "<ul class=\"w3-row w3-bar-block w3-ul w3-hoverable\">";
+						var html = "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hoverable\">";
 
 						if (typeof contents.authors === 'undefined') {
 							contents.authors = [];
@@ -64,6 +64,19 @@ function Contents() {
 
 						if (typeof contents.books === 'undefined') {
 							contents.books = [];
+						} else if (typeof contents.title !== 'undefined') {
+							html += "<li class=\"w3-col w3-hover-none\"><span class=\"w3-bar-item\">";
+							html += "<i class=\"material-icons md-lit w3-margin-right\">person</i> ";
+							html += nameCapsHTML(contents.title);
+							if (typeof contents.aliases !== 'undefined') {
+									// list aliases here (maybe basic bio too, but then move this outside the test)
+									html += " - also known as: ";
+									for (var alias of contents.aliases) {
+										html += nameCapsHTML(alias) + ", ";
+									}
+									html = html.substring(0, html.length - 2)
+									html += "</span></li>";
+							}
 						}
 						for (var b of contents.books.sort(bookSort)) {
 							html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + b.href + "\" class=\"w3-bar-item litleft w3-button\">";
@@ -97,8 +110,8 @@ function Contents() {
 
 						// add other content here
 						if (typeof contents.links !== 'undefined' && Object.keys(contents.links) != 0) {
-							html += "<ul class=\"w3-row w3-bar-block w3-ul w3-hoverable\">";
-							html += "<li><h2>External Links</h2></li>";
+							html += "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hoverable\">";
+							html += "<li class=\"w3-hover-none\"><h2>External Links</h2></li>";
 							if (contents.links.wikipedia) {
 								html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + contents.links.wikipedia + "\" class=\"w3-bar-item litleft w3-button\" target=\"_blank\">";
 								html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
@@ -286,7 +299,7 @@ function Navigate() {
 							}
 						})
 
-						// dropdown of pages here
+						// dropdown of pages here (soon)
 						html += "<div class=\"w3-bar-item lit w3-hide-small\">";
 						if (list[page]) {
 							html += list[page].title;
@@ -373,7 +386,7 @@ function w3_close() {
 var smallre = /^(the|an|a)\s/i;
 
 function bookSort(a, b) {
-	var result = a.year == b.year ? 0 : a.year > b.year ? -1 : 1
+	var result = b.year == a.year ? 0 : b.year > a.year ? -1 : 1
 
 	if (result == 0) {
 		c = b.title.replace(smallre, "")
