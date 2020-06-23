@@ -184,16 +184,16 @@ function Navigate() {
 
 					// sidebar
 					html += "<nav class=\"w3-sidebar w3-bar-block w3-large\" style=\"width:66%; max-width: 400px; display:none\" id=\"sidebar\">";
-					html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons\">close</i> Close</button>";
-					html += "<a href=\"/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">home</i> literature.org</a>";
-					html += "<a href=\"/authors/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">people</i> Authors</a>";
+					html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons md-lit\">close</i> Close</button>";
+					html += "<a href=\"/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">home</i> literature.org</a>";
+					html += "<a href=\"/authors/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">people</i> Authors</a>";
 					if (contents.author) {
-						html += " <a href=\"../\" class=\"w3-bar-item w3-button litleft\"><i class=\"material-icons\">person</i> " + contents.author + "</a>";
+						html += " <a href=\"../\" class=\"w3-bar-item w3-button litleft\"><i class=\"material-icons md-lit\">person</i> " + contents.author + "</a>";
 						title = titleCase(contents.author) + " at " + title;
 					}
 
 					if (final && final != "index.html" && final != "authors") {
-						html += " <a href=\"index.html\" class=\"w3-bar-item w3-button litleft\"><i class=\"material-icons\">menu_book</i> " + contents.title + "</a>";
+						html += " <a href=\"index.html\" class=\"w3-bar-item w3-button litleft\"><i class=\"material-icons md-lit\">menu_book</i> " + contents.title + "</a>";
 						if (title == "literature.org") {
 							title = titleCase(contents.title) + " at " + title;
 						} else {
@@ -202,8 +202,8 @@ function Navigate() {
 						if (typeof contents.chapters !== 'undefined' && final.endsWith(".html")) {
 							var chapter = contents.chapters.findIndex(o => o.href === final);
 							// dropdown here
-							html += "<button class=\"w3-bar-item w3-button litleft\" onclick=\"w3_close()\"><i class=\"material-icons\">library_books</i></a>";
-							html += contents.chapters[chapter].title + "</button>";
+							html += "<button class=\"w3-bar-item w3-button litleft\" onclick=\"w3_close()\"><i class=\"material-icons md-lit\">library_books</i></a>";
+							html += " " + contents.chapters[chapter].title + "</button>";
 						}
 					}
 
@@ -211,7 +211,7 @@ function Navigate() {
 
 					// top bar
 					html += "<nav class=\"w3-bar\" style=\"font-size:24px; white-space: nowrap;\">";
-					html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_open()\"><i class=\"material-icons\">menu</i></button>";
+					html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_open()\"><i class=\"material-icons md-lit\">menu</i></button>";
 
 					// pick one and exactly one list of links, in this order
 					var list;
@@ -227,21 +227,21 @@ function Navigate() {
 						var page = list.findIndex(o => o.href === final);
 
 						if (final == "authors") {
-							html += "<a href=\"/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">home</i></a>";
+							html += "<a href=\"/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">home</i></a>";
 						} else {
 							if (typeof contents.author === 'undefined' || contents.author == "") {
-								html += "<a href=\"/authors/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">people</i></a>";
+								html += "<a href=\"/authors/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">people</i></a>";
 							} else {
 								// author
-								html += "<a href=\"..\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">person</i></a>";
+								html += "<a href=\"..\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">person</i></a>";
 							}
 
 							// contents page
 							if (!(contents.title != "Authors" && (typeof contents.author === 'undefined' || contents.author == ""))) {
 								if (final.endsWith(".html")) {
-									html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">menu_book</i></a>";
+									html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">menu_book</i></a>";
 								} else {
-									html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left w3-disabled\"><i class=\"material-icons\">menu_book</i></a>";
+									html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left w3-disabled\"><i class=\"material-icons md-lit\">menu_book</i></a>";
 								}
 							}
 						}
@@ -251,17 +251,17 @@ function Navigate() {
 						if (page > 0) {
 							// there is a valid previous page
 							prev = list[page - 1].href;
-							html += "<a href=\"" + prev + "\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">arrow_back</i></a>";
+							html += "<a href=\"" + prev + "\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">arrow_back</i></a>";
 						} else {
-							html += "<div class=\"w3-bar-item w3-button w3-disabled\"><i class=\"material-icons\">arrow_back</i></div>";
+							html += "<div class=\"w3-bar-item w3-button w3-disabled\"><i class=\"material-icons md-litttttt\">arrow_back</i></div>";
 						}
 
 						if (page < list.length - 1 && contents.author != "") {
 							// there is a valid next page
 							next = list[page + 1].href
-							html += "<a href=\"" + next + "\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">arrow_forward</i></a>";
+							html += "<a href=\"" + next + "\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">arrow_forward</i></a>";
 						} else {
-							html += "<div class=\"w3-bar-item w3-button w3-disabled\"><i class=\"material-icons\">arrow_forward</i></div>";
+							html += "<div class=\"w3-bar-item w3-button w3-disabled\"><i class=\"material-icons md-lit\">arrow_forward</i></div>";
 						}
 
 						// update link rel="next"/"prev" values
@@ -291,11 +291,16 @@ function Navigate() {
 
 						// touch swipe navigation
 						var swipedir;
-						swipedetect(document.body, function (swipedir) {
+						// this breaks if there is more than one article
+						var articles = document.getElementsByTagName("article")
+						swipedetect(articles[0], function (swipedir) {
 							if (swipedir == 'left' && next) {
 								window.location.href = next;
 							} else if (swipedir == 'right' && prev) {
 								window.location.href = prev;
+							} else {
+								// close sidebar if open if we touch but not swipe anywhere on the text
+								w3_close();
 							}
 						})
 
@@ -311,13 +316,13 @@ function Navigate() {
 
 						if (list[page]) {
 							html += "<div class=\"w3-bar-item lit w3-hide-medium w3-hide-large\">";
-							html += "Page " + (page+1) + "/" + list.length;
+							html += "Pg. " + (page+1) + "/" + list.length;
 							html += "</div>";
 						}
 
 					} else if (final != null) {
 						// author
-						html += "<a href=\"..\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">person</i></a>";
+						html += "<a href=\"..\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">person</i></a>";
 
 						html += "<a href=\"index.html\" class=\"w3-bar-item w3-button\">" + contents.title + "</a>";
 
