@@ -1,8 +1,10 @@
 {
-	"title": "My Antonia",
+	"title": "My Ántonia",
 	"author": "Willa CATHER",
 	"source": "http://www.gutenberg.org/files/242/242-0.txt",
-	"links": {},
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/My_%C3%81ntonia"
+	},
 	"cmdline": [
 		"convtext",
 		"-p",
@@ -11,7 +13,7 @@
 		"//k",
 		"http://www.gutenberg.org/files/242/242-0.txt"
 	],
-	"lastupdated": "2020-06-23T11:34:58Z",
+	"lastupdated": "2020-06-23T11:50:41Z",
 	"chapters": [
 		{
 			"href": "preface.html",
