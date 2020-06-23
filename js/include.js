@@ -170,17 +170,17 @@ function Navigate() {
 					var html = "";
 
 					// sidebar
-					html += "<nav class=\"w3-sidebar w3-bar-block w3-large\" style=\"display:none\" id=\"mySidebar\">";
-					html += " <button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons\">close</i> Close</button>";
-					html += " <a href=\"/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">home</i> literature.org</a>";
-					html += " <a href=\"/authors/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">people</i> Authors</a>";
+					html += "<nav class=\"w3-sidebar w3-bar-block w3-large\" style=\"width:66%; max-width: 400px; display:none\" id=\"sidebar\">";
+					html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons\">close</i> Close</button>";
+					html += "<a href=\"/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">home</i> literature.org</a>";
+					html += "<a href=\"/authors/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">people</i> Authors</a>";
 					if (contents.author) {
-						html += " <a href=\"../\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">person</i> " + contents.author + "</a>";
+						html += " <a href=\"../\" class=\"w3-bar-item w3-button litleft\"><i class=\"material-icons\">person</i> " + contents.author + "</a>";
 						title = titleCase(contents.author) + " at " + title;
 					}
 
 					if (final && final != "index.html" && final != "authors") {
-						html += " <a href=\"index.html\" class=\"w3-bar-item w3-button\"><i class=\"material-icons\">menu_book</i> " + contents.title + "</a>";
+						html += " <a href=\"index.html\" class=\"w3-bar-item w3-button litleft\"><i class=\"material-icons\">menu_book</i> " + contents.title + "</a>";
 						if (title == "literature.org") {
 							title = titleCase(contents.title) + " at " + title;
 						} else {
@@ -189,7 +189,7 @@ function Navigate() {
 						if (typeof contents.chapters !== 'undefined' && final.endsWith(".html")) {
 							var chapter = contents.chapters.findIndex(o => o.href === final);
 							// dropdown here
-							html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons\">library_books</i></a>";
+							html += "<button class=\"w3-bar-item w3-button litleft\" onclick=\"w3_close()\"><i class=\"material-icons\">library_books</i></a>";
 							html += contents.chapters[chapter].title + "</button>";
 						}
 					}
@@ -362,11 +362,11 @@ function swipedetect(element, callback) {
 }
 
 function w3_open() {
-	document.getElementById("mySidebar").style.display = "block";
+	document.getElementById("sidebar").style.display = "block";
 }
 
 function w3_close() {
-	document.getElementById("mySidebar").style.display = "none";
+	document.getElementById("sidebar").style.display = "none";
 }
 
 // sort by year or by title with short prefixes removed
