@@ -179,7 +179,7 @@ func main() {
 		ioutil.WriteFile(filepath.Join(rootdir, "authors", author, index), i, 0644)
 	}
 
-	// update changelog
+	// update changelog - search for entry and remove if it exists
 	newchangelog := literature.Changelog{HREF: "/authors/" + author + "/" + title,
 		Title:       contents.Title + " by " + contents.Author,
 		LastUpdated: lastUpdated}

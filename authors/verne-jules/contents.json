@@ -1,7 +1,7 @@
 {
 	"title": "Jules VERNE",
 	"author": "",
-	"chapters": [
+	"books": [
 		{ "href": "an-antartic-mystery", "title": "An Antartic Mystery" },
 		{ "href": "around-the-world-in-eighty-days", "title": "Around the World in Eighty Days" },
 		{ "href": "dick-sand-a-captain-at-fifteen", "title": "Dick Sand: A Captain At Fifteen" },

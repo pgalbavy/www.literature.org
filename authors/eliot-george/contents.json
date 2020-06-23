@@ -1,7 +1,7 @@
 {
 	"title": "George ELIOT",
 	"author": "",
-	"chapters": [
+	"books": [
 		{ "href": "adam-bede", "title": "Adam Bede (1859)" },
 		{ "href": "brother-jacob", "title": "Brother Jacob (1860)" },
 		{ "href": "daniel-deronda", "title": "Daniel Deronda (1876)" },

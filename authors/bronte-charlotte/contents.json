@@ -1,7 +1,7 @@
 {
 	"title": "Charlotte BRONTË",
 	"author": "",
-	"chapters": [
+	"books": [
 		{ "href": "jane-eyre", "title": "Jane Eyre" },
 		{ "href": "the-professor", "title": "The Professor" },
 		{ "href": "villette", "title": "Villette" }

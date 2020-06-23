@@ -1,7 +1,7 @@
 {
 	"title": "Alexandre DUMAS",
 	"author": "",
-	"chapters": [
+	"books": [
 		{ "href": "the-black-tulip", "title": "The Black Tulip" },
 		{ "href": "the-count-of-monte-cristo", "title": "The Count of Monte Cristo" },
 		{ "href": "the-three-musketeers", "title": "The Three Musketeers" },

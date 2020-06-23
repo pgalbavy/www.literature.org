@@ -1,17 +1,53 @@
 {
 	"title": "Arthur Conan DOYLE",
 	"author": "",
-	"chapters": [
-		{ "href": "the-sign-of-four", "title": "The Sign of Four" },
-		{ "href": "beyond-the-city", "title": "Beyond The City" },
-		{ "href": "the-lost-world", "title": "The Lost World" },
-		{ "href": "the-poison-belt", "title": "The Poison Belt" },
-		{ "href": "the-parasite", "title": "The Parasite" },
-		{ "href": "the-vital-message", "title": "The Vital Message" },
-		{ "href": "the-white-company", "title": "The White Company" },
-		{ "href": "a-study-in-scarlet", "title": "A Study In Scarlet" },
-		{ "href": "the-hound-of-the-baskervilles", "title": "The Hound of the Baskervilles" },
-		{ "href": "the-adventures-of-sherlock-holmes", "title": "The Adventures of Sherlock Holmes" }
+	"source": "",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle",
+		"goodreads": "https://www.goodreads.com/author/show/2448",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/69"
+	},
+	"lastupdated": "2020-06-23T06:39:16Z",
+	"books": [
+		{
+			"href": "the-sign-of-four",
+			"title": "The Sign of Four"
+		},
+		{
+			"href": "beyond-the-city",
+			"title": "Beyond The City"
+		},
+		{
+			"href": "the-lost-world",
+			"title": "The Lost World"
+		},
+		{
+			"href": "the-poison-belt",
+			"title": "The Poison Belt"
+		},
+		{
+			"href": "the-parasite",
+			"title": "The Parasite"
+		},
+		{
+			"href": "the-vital-message",
+			"title": "The Vital Message"
+		},
+		{
+			"href": "the-white-company",
+			"title": "The White Company"
+		},
+		{
+			"href": "a-study-in-scarlet",
+			"title": "A Study In Scarlet"
+		},
+		{
+			"href": "the-hound-of-the-baskervilles",
+			"title": "The Hound of the Baskervilles"
+		},
+		{
+			"href": "the-adventures-of-sherlock-holmes",
+			"title": "The Adventures of Sherlock Holmes"
+		}
 	]
 }
-

@@ -1,7 +1,7 @@
 {
 	"title": "Jack LONDON",
 	"author": "",
-	"chapters": [
+	"books": [
 		{ "href": "adventure", "title": "Adventure" },
 		{ "href": "before-adam", "title": "Before Adam" },
 		{ "href": "burning-daylight", "title": "Burning Daylight" },

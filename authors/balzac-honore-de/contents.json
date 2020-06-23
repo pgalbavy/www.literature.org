@@ -8,7 +8,7 @@
 		"gutenberg": "http://www.gutenberg.org/ebooks/author/251"
 	},
 	"lastupdated": "2020-06-19T14:07:41Z",
-	"chapters": [
+	"books": [
 		{
 			"href": "bureaucracy",
 			"title": "Bureaucracy"

@@ -1,7 +1,7 @@
 {
 	"title": "Lucy Maud MONTGOMERY",
 	"author": "",
-	"chapters": [
+	"books": [
 		{ "href": "anne-of-green-gables", "title": "Anne Of Green Gables" },
 		{ "href": "anne-of-avonlea", "title": "Anne Of Avonlea" },
 		{ "href": "anne-of-the-island", "title": "Anne Of The Island" },

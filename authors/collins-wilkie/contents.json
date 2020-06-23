@@ -1,7 +1,7 @@
 {
 	"title": "Wilkie COLLINS",
 	"author": "",
-	"chapters": [
+	"books": [
 		{ "href": "the-frozen-deep", "title": "The Frozen Deep" },
 		{ "href": "the-haunted-hotel", "title": "The Haunted Hotel" },
 		{ "href": "i-say-no", "title": "I Say No" },

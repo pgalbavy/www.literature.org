@@ -1,7 +1,7 @@
 {
 	"title": "Mark TWAIN",
 	"author": "",
-	"chapters": [
+	"books": [
 		{ "href": "a-connecticut-yankee-in-king-arthurs-court", "title": "A Connecticut Yankee in King Arthur's Court" },
 		{ "href": "the-adventures-of-huckleberry-finn", "title": "The Adventures of Huckleberry Finn" },
 		{ "href": "the-adventures-of-tom-sawyer", "title": "The Adventures Of Tom Sawyer" }
