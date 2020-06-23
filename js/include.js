@@ -229,7 +229,7 @@ function Navigate() {
 						if (final == "authors") {
 							html += "<a href=\"/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">home</i></a>";
 						} else {
-							if (contents.author == "") {
+							if (typeof contents.author === 'undefined' || contents.author == "") {
 								html += "<a href=\"/authors/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">people</i></a>";
 							} else {
 								// author
@@ -237,7 +237,7 @@ function Navigate() {
 							}
 
 							// contents page
-							if (!(contents.title != "Authors" && contents.author == "")) {
+							if (!(contents.title != "Authors" && (typeof contents.author === 'undefined' || contents.author == ""))) {
 								if (final.endsWith(".html")) {
 									html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons\">menu_book</i></a>";
 								} else {
