@@ -1,0 +1,241 @@
+{
+	"title": "Grimms’ Fairy Tales",
+	"author": "The Brothers GRIMM",
+	"source": "https://www.gutenberg.org/files/2591/2591-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"THE BROTHERS GRIMM FAIRY TALES",
+		"-c",
+		"/^[A-Z][A-Z,\\[\\] \\d\\.]*\\s$/tk",
+		"https://www.gutenberg.org/files/2591/2591-0.txt"
+	],
+	"lastupdated": "2020-06-24T12:51:17Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Golden Bird"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Hans In Luck"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Jorinda And Jorindel"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Travelling Musicians"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Old Sultan"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Straw, The Coal, And The Bean"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Briar Rose"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Dog And The Sparrow"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Twelve Dancing Princesses"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Fisherman And His Wife"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Cat And Mouse In Partnership"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Adventures Of Chanticleer And Partlet"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Rapunzel"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Fundevogel"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Valiant Little Tailor"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Hansel And Gretel"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Mouse, The Bird, And The Sausage"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Mother Holle"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Robber Bridegroom"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Tom Thumb"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Rumpelstiltskin"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Clever Gretel"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Old Man And His Grandson"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Little Peasant"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Frederick And Catherine"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Sweetheart Roland"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Snowdrop"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The Pink"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Clever Elsie"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - The Miser In The Bush"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Ashputtel"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - The White Snake"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - The Wolf And The Seven Little Kids"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - The Queen Bee"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - The Elves And The Shoemaker"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - The Turnip"
+		},
+		{
+			"href": "chapter-37.html",
+			"title": "Chapter 37 - Clever Hans"
+		},
+		{
+			"href": "chapter-38.html",
+			"title": "Chapter 38 - The Three Languages"
+		},
+		{
+			"href": "chapter-39.html",
+			"title": "Chapter 39 - The Fox And The Cat"
+		},
+		{
+			"href": "chapter-40.html",
+			"title": "Chapter 40 - The Four Clever Brothers"
+		},
+		{
+			"href": "chapter-41.html",
+			"title": "Chapter 41 - Lily And The Lion"
+		},
+		{
+			"href": "chapter-42.html",
+			"title": "Chapter 42 - The Fox And The Horse"
+		},
+		{
+			"href": "chapter-43.html",
+			"title": "Chapter 43 - The Blue Light"
+		},
+		{
+			"href": "chapter-44.html",
+			"title": "Chapter 44 - The Raven"
+		},
+		{
+			"href": "chapter-45.html",
+			"title": "Chapter 45 - The Golden Goose"
+		},
+		{
+			"href": "chapter-46.html",
+			"title": "Chapter 46 - The Water Of Life"
+		},
+		{
+			"href": "chapter-47.html",
+			"title": "Chapter 47 - The Twelve Huntsmen"
+		},
+		{
+			"href": "chapter-48.html",
+			"title": "Chapter 48 - The King Of The Golden Mountain"
+		},
+		{
+			"href": "chapter-49.html",
+			"title": "Chapter 49 - Doctor Knowall"
+		},
+		{
+			"href": "chapter-50.html",
+			"title": "Chapter 50 - The Seven Ravens"
+		},
+		{
+			"href": "chapter-51.html",
+			"title": "Chapter 51 - The Wedding Of Mrs Fox"
+		},
+		{
+			"href": "chapter-52.html",
+			"title": "Chapter 52 - First Story"
+		},
+		{
+			"href": "chapter-53.html",
+			"title": "Chapter 53 - Second Story"
+		},
+		{
+			"href": "chapter-54.html",
+			"title": "Chapter 54 - The Salad"
+		},
+		{
+			"href": "chapter-55.html",
+			"title": "Chapter 55 - The Story Of The Youth Who Went Forth To Learn What Fear Was"
+		},
+		{
+			"href": "chapter-56.html",
+			"title": "Chapter 56 - Iron Hans"
+		}
+	]
+}

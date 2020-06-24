@@ -1,6 +1,8 @@
 {
 	"title": "Authors",
-	"lastupdated": "2020-06-22T16:30:26Z",
+	"source": "",
+	"links": {},
+	"lastupdated": "2020-06-24T12:54:54Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -281,6 +283,10 @@
 		{
 			"href": "mckishnie-archie-p",
 			"name": "Archie P. MCKISHNIE"
+		},
+		{
+			"href": "grimm-the-brothers",
+			"name": "The Brothers GRIMM"
 		}
 	]
 }

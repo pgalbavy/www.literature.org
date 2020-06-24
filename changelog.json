@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-solomon-owl",
-		"title": "The Tale of Solomon Owl by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T14:55:50Z"
-	},
-	{
 		"href": "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow",
 		"title": "The Tale of the The Muley Cow by Arthur Scott BAILEY",
 		"lastupdated": "2020-06-17T14:56:49Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/cather-willa/song-of-the-lark",
 		"title": "Song of the Lark by Willa CATHER",
 		"lastupdated": "2020-06-23T11:46:16Z"
+	},
+	{
+		"href": "/authors/grimm-the-brothers/grimms-fairy-tales",
+		"title": "Grimms’ Fairy Tales by The Brothers GRIMM",
+		"lastupdated": "2020-06-24T12:54:54Z"
 	}
 ]
