@@ -1,8 +1,10 @@
 {
 	"title": "The Brothers GRIMM",
 	"source": "",
-	"links": {},
-	"lastupdated": "2020-06-24T12:54:54Z",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Brothers_Grimm"
+	},
+	"lastupdated": "2020-06-24T12:59:48Z",
 	"books": [
 		{
 			"href": "grimms-fairy-tales",

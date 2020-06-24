@@ -2,7 +2,11 @@
 	"title": "Grimms’ Fairy Tales",
 	"author": "The Brothers GRIMM",
 	"source": "https://www.gutenberg.org/files/2591/2591-0.txt",
-	"links": {},
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Grimms%27_Fairy_Tales",
+		"goodreads": "https://www.goodreads.com/book/show/20716520-grimm-fairy-tales",
+		"gutenberg": "https://www.gutenberg.org/ebooks/2591"
+	},
 	"cmdline": [
 		"convtext",
 		"-skipto",
@@ -11,7 +15,7 @@
 		"/^[A-Z][A-Z,\\[\\] \\d\\.]*\\s$/tk",
 		"https://www.gutenberg.org/files/2591/2591-0.txt"
 	],
-	"lastupdated": "2020-06-24T12:51:17Z",
+	"lastupdated": "2020-06-24T13:02:08Z",
 	"chapters": [
 		{
 			"href": "chapter-01.html",
