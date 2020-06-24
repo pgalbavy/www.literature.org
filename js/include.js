@@ -182,6 +182,10 @@ function Navigate() {
 					var title = "literature.org";
 					var html = "";
 
+					// this breaks if there is more than one article
+					var articles = document.getElementsByTagName("article")
+					var article = articles[0];
+
 					// sidebar
 					html += "<nav class=\"w3-sidebar w3-bar-block w3-large\" style=\"width:66%; max-width: 400px; display:none\" id=\"sidebar\">";
 					html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons md-lit\">close</i> Close</button>";
@@ -291,9 +295,7 @@ function Navigate() {
 
 						// touch swipe navigation
 						var swipedir;
-						// this breaks if there is more than one article
-						var articles = document.getElementsByTagName("article")
-						swipedetect(articles[0], function (swipedir) {
+						swipedetect(article, function (swipedir) {
 							if (swipedir == 'left' && next) {
 								window.location.href = next;
 							} else if (swipedir == 'right' && prev) {
@@ -330,8 +332,31 @@ function Navigate() {
 					}
 					html += "</nav>";
 					nav.innerHTML = html;
+
+					// grab first paragraph and massage it into a meta description,
+					// using the title as a suffix and truncating to a length of 160-ish
+					var paras = article.getElementsByTagName("p");
+					var firstpara = title;
+					if (paras[0]) {
+						firstpara = paras[0].textContent;
+						var tlen = 150 - title.length;
+						var trimpara = RegExp('^(.{0,' + tlen + '}\\w*).*');
+						firstpara = "'" + firstpara.trim().replace(/\s+/g, ' ').replace(trimpara, '$1');
+						firstpara += "...' - " + title;
+					}
+
+					var existing = document.head.querySelector('meta[name="description"');
+					if (existing) {
+						existing.content = firstpara
+					} else {
+						var meta = document.createElement('meta');
+						meta.name = 'description';
+						meta.content = firstpara;
+						document.head.appendChild(meta);
+					}
+
+					document.title = title;
 				}
-				document.title = title;
 
 				// Remove the attribute, and call this function once again
 				// to supported nested tags
