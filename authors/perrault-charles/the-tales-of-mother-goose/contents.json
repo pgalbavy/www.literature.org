@@ -1,0 +1,55 @@
+{
+	"title": "The Tales of Mother Goose",
+	"author": "Charles PERRAULT",
+	"source": "http://www.gutenberg.org/cache/epub/17208/pg17208.txt",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Histoires_ou_contes_du_temps_pass%C3%A9"
+	},
+	"cmdline": [
+		"convtext",
+		"-skipto",
+		"^The Tales of Mother Goose",
+		"-c",
+		"/^[A-Z][A-Z,\\[\\] \\d\\.]*\\s$/tk",
+		"http://www.gutenberg.org/cache/epub/17208/pg17208.txt"
+	],
+	"lastupdated": "2020-06-24T13:29:43Z",
+	"chapters": [
+		{
+			"href": "introduction.html",
+			"title": "Introduction"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Cinderella, Or The Little Glass Slipper"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Sleeping Beauty In The Woods"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Little Thumb"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Master Cat, Or Puss In Boots"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Riquet With The Tuft"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Blue Beard"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Fairy"
+		},
+		{
+			"href": "note.html",
+			"title": "Note"
+		}
+	]
+}

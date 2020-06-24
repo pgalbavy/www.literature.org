@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow",
-		"title": "The Tale of the The Muley Cow by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T14:56:49Z"
-	},
-	{
 		"href": "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle",
 		"title": "The Tale of Timothy Turtle by Arthur Scott BAILEY",
 		"lastupdated": "2020-06-17T14:57:40Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/grimm-the-brothers/grimms-fairy-tales",
 		"title": "Grimms’ Fairy Tales by The Brothers GRIMM",
 		"lastupdated": "2020-06-24T12:54:54Z"
+	},
+	{
+		"href": "/authors/perrault-charles/the-tales-of-mother-goose",
+		"title": "The Tales of Mother Goose by Charles PERRAULT",
+		"lastupdated": "2020-06-24T13:27:50Z"
 	}
 ]

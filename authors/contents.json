@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2020-06-24T12:54:54Z",
+	"lastupdated": "2020-06-24T13:27:50Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -287,6 +287,10 @@
 		{
 			"href": "grimm-the-brothers",
 			"name": "The Brothers GRIMM"
+		},
+		{
+			"href": "perrault-charles",
+			"name": "Charles PERRAULT"
 		}
 	]
 }
