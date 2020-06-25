@@ -318,7 +318,7 @@ function Navigate() {
 
 						if (list[page]) {
 							html += "<div class=\"w3-bar-item lit w3-hide-medium w3-hide-large\">";
-							html += "Pg. " + (page+1) + "/" + list.length;
+							html += "<i class=\"material-icons md-lit w3-margin-right\">library_books</i>" + (page+1) + "/" + list.length;
 							html += "</div>";
 						}
 
