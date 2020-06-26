@@ -87,7 +87,6 @@ function Contents() {
 							}
 							html += "</a></li>";
 						}
-
 						if (typeof contents.chapters === 'undefined') {
 							contents.chapters = [];
 						}
@@ -174,6 +173,8 @@ function Navigate() {
 					var path = location.pathname;
 					var parts = path.split('/');
 					var final;
+					var texthead = "";
+
 					do {
 						final = parts.pop();
 					}
@@ -308,17 +309,29 @@ function Navigate() {
 
 						// dropdown of pages here (soon)
 						html += "<div class=\"w3-bar-item lit w3-hide-small\">";
+
 						if (list[page]) {
+							texthead = "<h3 class=\"w3-hide-medium w3-hide-large w3-left-align\" id= \"heading\">" + list[page].title + "</h3>";
 							html += list[page].title;
+
 							title = list[page].title + " - " + title;
 						} else {
+							if (!(contents.title != "Authors" && (typeof contents.author === 'undefined' || contents.author == ""))) {
+								texthead =  "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hide-medium w3-hide-large\">";
+								texthead += "<li><span class=\"w3-bar-item w3-button litleft w3-hover-none\">";
+								// for some reason the size is required in this one instance
+								texthead += "<i class=\"material-icons md-lit w3-margin-right\" style=\"width: 24px\">menu_books</i> ";
+								texthead += nameCapsHTML(contents.title);
+								texthead += "</span></li></ul>";
+							}
 							html += nameCapsHTML(contents.title);
 						}
 						html += "</div>";
 
 						if (list[page]) {
 							html += "<div class=\"w3-bar-item lit w3-hide-medium w3-hide-large\">";
-							html += "<i class=\"material-icons md-lit w3-margin-right\">library_books</i>" + (page+1) + "/" + list.length;
+							// html += "<i class=\"material-icons md-lit w3-margin-right\">library_books</i>";
+							html += (page+1) + "/" + list.length;
 							html += "</div>";
 						}
 
@@ -355,6 +368,9 @@ function Navigate() {
 						document.head.appendChild(meta);
 					}
 
+					// also add a header before the main text for the chapter that is only revealed on screens where the topbar
+					// title is hidden (above)
+					article.insertAdjacentHTML("afterbegin", texthead);
 					document.title = title;
 				}
 
