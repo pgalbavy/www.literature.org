@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2020-06-24T13:27:50Z",
+	"lastupdated": "2020-06-27T07:30:53Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -291,6 +291,10 @@
 		{
 			"href": "perrault-charles",
 			"name": "Charles PERRAULT"
+		},
+		{
+			"href": "wollstonecraft-mary",
+			"name": "Mary WOLLSTONECRAFT"
 		}
 	]
 }

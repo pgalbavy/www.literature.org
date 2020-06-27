@@ -1,0 +1,81 @@
+{
+	"title": "A Vindication of the Rights of Woman",
+	"author": "Mary WOLLSTONECRAFT",
+	"source": "http://www.gutenberg.org/cache/epub/3420/pg3420.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Introduction",
+		"-a",
+		"Mary Wollstonecraft",
+		"-t",
+		"A Vindication of the Rights of Woman",
+		"-maxtitle",
+		"400",
+		"-c",
+		"//p",
+		"-s",
+		"http://www.gutenberg.org/cache/epub/3420/pg3420.txt",
+		"pg3420.txt"
+	],
+	"lastupdated": "2020-06-27T07:29:30Z",
+	"chapters": [
+		{
+			"href": "introduction.html",
+			"title": "Introduction"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Rights And Involved Duties Of Mankind Considered"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Prevailing Opinion Of A Sexual Character Discussed"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Same Subject Continued"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Observations On The State Of Degradation To Which Woman Is Reduced By Various Causes"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Animadversions On Some Of The Writers Who Have Rendered Women Objects Of Pity, Bordering On Contempt"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Effect Which An Early Association Of Ideas Has Upon The Character"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Modesty Comprehensively Considered And Not As A Sexual Virtue"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Morality Undermined By Sexual Notions Of The Importance Of A Good Reputation"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Of The Pernicious Effects Which Arise From The Unnatural Distinctions Established In Society"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Parental Affection"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Duty To Parents"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - On National Education"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Some Instances Of The Folly Which The Ignorance Of Women Generates; With Concluding Reflections On The Moral Improvement That A Revolution In Female Manners Might Naturally Be Expected To Produce"
+		}
+	]
+}

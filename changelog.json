@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle",
-		"title": "The Tale of Timothy Turtle by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T14:57:40Z"
-	},
-	{
 		"href": "/authors/bailey-arthur-scott/the-tale-of-tommy-fox",
 		"title": "The Tale of Tommy Fox by Arthur Scott BAILEY",
 		"lastupdated": "2020-06-17T14:58:53Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/perrault-charles/the-tales-of-mother-goose",
 		"title": "The Tales of Mother Goose by Charles PERRAULT",
 		"lastupdated": "2020-06-24T13:27:50Z"
+	},
+	{
+		"href": "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman",
+		"title": "A Vindication of the Rights of Woman by Mary WOLLSTONECRAFT",
+		"lastupdated": "2020-06-27T07:30:53Z"
 	}
 ]
