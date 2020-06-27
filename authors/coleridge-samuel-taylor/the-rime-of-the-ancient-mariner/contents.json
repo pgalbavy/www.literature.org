@@ -1,0 +1,49 @@
+{
+	"title": "The Rime of the Ancient Mariner",
+	"author": "Samuel Taylor COLERIDGE",
+	"source": "http://www.gutenberg.org/cache/epub/151/pg151.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-a",
+		"Samuel Taylor COLERIDGE",
+		"-t",
+		"The Rime of the Ancient Mariner",
+		"-c",
+		"Part/^PART /k",
+		"-s",
+		"http://www.gutenberg.org/cache/epub/151/pg151.txt",
+		"pg151.txt"
+	],
+	"lastupdated": "2020-06-27T07:48:12Z",
+	"chapters": [
+		{
+			"href": "part-01.html",
+			"title": "Part 1"
+		},
+		{
+			"href": "part-02.html",
+			"title": "Part 2"
+		},
+		{
+			"href": "part-03.html",
+			"title": "Part 3"
+		},
+		{
+			"href": "part-04.html",
+			"title": "Part 4"
+		},
+		{
+			"href": "part-05.html",
+			"title": "Part 5"
+		},
+		{
+			"href": "part-06.html",
+			"title": "Part 6"
+		},
+		{
+			"href": "part-07.html",
+			"title": "Part 7"
+		}
+	]
+}

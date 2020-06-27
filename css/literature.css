@@ -26,3 +26,19 @@ article { font-size: 18px; }
 html, body {
 	font-family: 'Open Sans', Karla, sans-serif;
 }
+
+.poem {
+	margin: auto;
+	text-align: left;
+}
+.poem span + p:first-letter {
+	float: left;
+	font-size: 200%;
+	line-height: 1;
+	margin: 2px 5px 0 0;
+}
+
+.poem p:first-line {
+	font-variant: small-caps;
+	letter-spacing: 1px;
+}

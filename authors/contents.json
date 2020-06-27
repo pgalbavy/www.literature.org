@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2020-06-27T07:30:53Z",
+	"lastupdated": "2020-06-27T07:50:05Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -295,6 +295,10 @@
 		{
 			"href": "wollstonecraft-mary",
 			"name": "Mary WOLLSTONECRAFT"
+		},
+		{
+			"href": "coleridge-samuel-taylor",
+			"name": "Samuel Taylor COLERIDGE"
 		}
 	]
 }

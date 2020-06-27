@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-tommy-fox",
-		"title": "The Tale of Tommy Fox by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T14:58:53Z"
-	},
-	{
 		"href": "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot",
 		"title": "The Tale of Turkey Proudfoot by Arthur Scott BAILEY",
 		"lastupdated": "2020-06-17T14:59:54Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman",
 		"title": "A Vindication of the Rights of Woman by Mary WOLLSTONECRAFT",
 		"lastupdated": "2020-06-27T07:30:53Z"
+	},
+	{
+		"href": "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner",
+		"title": "The Rime of the Ancient Mariner by Samuel Taylor COLERIDGE",
+		"lastupdated": "2020-06-27T07:50:05Z"
 	}
 ]
