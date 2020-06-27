@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot",
-		"title": "The Tale of Turkey Proudfoot by Arthur Scott BAILEY",
-		"lastupdated": "2020-06-17T14:59:54Z"
-	},
-	{
 		"href": "/authors/haggard-h-rider/allan-and-the-holy-flower",
 		"title": "Allan and the Holy Flower by H. Rider HAGGARD",
 		"lastupdated": "2020-06-17T15:10:50Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner",
 		"title": "The Rime of the Ancient Mariner by Samuel Taylor COLERIDGE",
 		"lastupdated": "2020-06-27T07:50:05Z"
+	},
+	{
+		"href": "/authors/alcott-louisa-may/an-old-fashioned-girl",
+		"title": "An Old-Fashioned Girl by Louisa May ALCOTT",
+		"lastupdated": "2020-06-27T10:50:37Z"
 	}
 ]
