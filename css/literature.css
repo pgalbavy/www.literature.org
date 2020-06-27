@@ -29,7 +29,7 @@ html, body {
 
 .poem {
 	margin: auto;
-	text-align: left;
+	text-align: center;
 }
 .poem span + p:first-letter {
 	float: left;
