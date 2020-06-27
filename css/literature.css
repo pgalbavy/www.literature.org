@@ -27,6 +27,11 @@ html, body {
 	font-family: 'Open Sans', Karla, sans-serif;
 }
 
+div.lit-narrow, a.lit-narrow {
+	padding-left: 4px !important;
+	padding-right: 4px !important;
+}
+
 .poem {
 	margin: auto;
 	text-align: center;

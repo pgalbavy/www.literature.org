@@ -256,11 +256,16 @@ function Navigate() {
 						if (page > 0) {
 							// there is a valid previous page
 							prev = list[page - 1].href;
-							html += "<a href=\"" + prev + "\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">arrow_back</i></a>";
+							html += "<a href=\"" + prev + "\" class=\"w3-bar-item w3-buttonm\"><i class=\"material-icons md-lit\">arrow_back</i></a>";
 						} else {
-							html += "<div class=\"w3-bar-item w3-button w3-disabled\"><i class=\"material-icons md-litttttt\">arrow_back</i></div>";
+							html += "<div class=\"w3-bar-item w3-button w3-disabled w3-hover-none\"><i class=\"material-icons md-lit\">arrow_back</i></div>";
 						}
 
+						if (is_touch_enabled() === true) {
+							html += "<div class=\"w3-bar-item w3-button w3-disabled lit-narrow\"><i class=\"material-icons md-lit\">touch_app</i></div>"
+						}
+
+						console.log("touch: ", is_touch_enabled())
 						if (page < list.length - 1 && contents.author != "") {
 							// there is a valid next page
 							next = list[page + 1].href
@@ -478,3 +483,9 @@ function nameCapsHTML(name) {
 		return "<strong>" + titleCase(match.toLowerCase()) + "</strong>";
 	});
 }
+
+function is_touch_enabled() { 
+	return ( 'ontouchstart' in window ) || 
+		( navigator.maxTouchPoints > 0 ) || 
+		( navigator.msMaxTouchPoints > 0 ); 
+} 
