@@ -42,3 +42,7 @@ html, body {
 	font-variant: small-caps;
 	letter-spacing: 1px;
 }
+
+.quote {
+	font-style: italic;
+}
