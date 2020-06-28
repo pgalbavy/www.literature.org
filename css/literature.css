@@ -1,28 +1,49 @@
-
 /* open-sans-regular - latin */
+
 @font-face {
 	font-family: 'Open Sans';
 	font-style: normal;
 	font-weight: 400;
-	src: local('Open Sans Regular'), local('OpenSans-Regular'),
-		 url('/fonts/open-sans-v17-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-		 url('/fonts/open-sans-v17-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-  }
+	src: local('Open Sans Regular'), local('OpenSans-Regular'), url('/fonts/open-sans-v17-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+	url('/fonts/open-sans-v17-latin-regular.woff') format('woff');
+	/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
 
-  /* karla-regular - latin */
+/* karla-regular - latin */
+
 @font-face {
 	font-family: 'Karla';
 	font-style: normal;
 	font-weight: 400;
 	src: local('Karla'), local('Karla-Regular'),
-		 url('/fonts/karla-v13-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-		 url('/fonts/karla-v13-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-  }
+	url('/fonts/karla-v13-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+	url('/fonts/karla-v13-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
 
-.material-icons.md-lit, li, .w3-button { font-size: 24px; }
-article { font-size: 18px; }
-.w3-bar-item.lit { white-space: nowrap; text-overflow: ellipsis; overflow-x: hidden; text-align: right; float: none; }
-.w3-bar-item.litleft { white-space: nowrap; text-overflow: ellipsis; overflow-x: hidden; text-align: left; float: none; }
+.material-icons.md-lit, li, .w3-button {
+	font-size: 24px;
+}
+
+article {
+	font-size: 18px;
+}
+
+.w3-bar-item.lit {
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow-x: hidden;
+	text-align: right;
+	float: none;
+}
+
+.w3-bar-item.litleft {
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow-x: hidden;
+	text-align: left;
+	float: none;
+}
+
 html, body {
 	font-family: 'Open Sans', Karla, sans-serif;
 }
@@ -36,7 +57,8 @@ div.lit-narrow, a.lit-narrow {
 	margin: auto;
 	text-align: center;
 }
-.poem span + p:first-letter {
+
+.poem span+p:first-letter {
 	float: left;
 	font-size: 200%;
 	line-height: 1;
