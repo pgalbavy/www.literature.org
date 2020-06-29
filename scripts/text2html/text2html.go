@@ -36,8 +36,8 @@ func init() {
 	}
 }
 
-func replacechars(patterns []swapchars, text string) (string) {
-	for _, swap := range patterns {
+func ReplaceChars(text string) (string) {
+	for _, swap := range otherchars {
 		text = swap.pattern.ReplaceAllString(text, swap.replace)
 	}
 	return text
@@ -51,7 +51,7 @@ func ConvertString(text string) (string) {
 			para = joinlines.ReplaceAllString(para, "<br/>\n")
 
 			para = html.EscapeString(para)
-			para = replacechars(otherchars, para)
+			para = ReplaceChars(para)
 
 			paras[p] = "<blockquote>\n" + para + "\n</blockquote>\n"
 		} else {
@@ -59,7 +59,7 @@ func ConvertString(text string) (string) {
 			para = joinlines.ReplaceAllString(para, " ")
 			para = wordwrap.ReplaceAllString(para, "$1\n\t$2")
 			para = html.EscapeString(para)
-			para = replacechars(otherchars, para)
+			para = ReplaceChars(para)
 			paras[p] = "<p>\n\t" + para + "\n</p>\n"
 		}
 
