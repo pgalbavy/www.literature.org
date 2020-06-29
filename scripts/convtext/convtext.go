@@ -6,7 +6,6 @@
 package main
 
 import (
-	"bytes"
 	"flag"
 	"fmt"
 	"io"
@@ -14,13 +13,13 @@ import (
 	"log"
 	"net/http"
 	"os"
-	"os/exec"
 	"path/filepath"
 	"regexp"
 	"strings"
 	"time"
 
 	"github.com/pgalbavy/www.literature.org/scripts/literature"
+	"github.com/pgalbavy/www.literature.org/scripts/text2html"
 )
 
 const defrootdir = "/var/www/www.literature.org"
@@ -469,7 +468,7 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 		}
 
 		if len(part) > 0 {
-			html, _ := txt2html(part)
+			html := text2html.ConvertString(part)
 
 			fmt.Printf("filename=%q size %d\n", filename, len(part))
 
@@ -505,20 +504,6 @@ func splitfile(data string, re *regexp.Regexp, parttext string,
 		// no skip, inc default chap num but this can be updated if infer is on
 		cn++
 	}
-}
-
-func txt2html(txt string) (string, error) {
-	var out bytes.Buffer
-
-	cmd := exec.Command("txt2html", "--extract", "--eight_bit_clean")
-	cmd.Stdin = bytes.NewBufferString(txt)
-	cmd.Stdout = &out
-
-	err := cmd.Run()
-	if err != nil {
-		log.Fatal(err)
-	}
-	return out.String(), nil
 }
 
 // below from https://github.com/chonla/roman-number-go/blob/master/roman.go
