@@ -59,8 +59,10 @@ func main() {
 	flag.Parse()
 
 	// utf8/unicode to ascii for filesystem names
-	t := transform.Chain(norm.NFD, transform.RemoveFunc(isMn), norm.NFC)
+	utf8toascii := transform.Chain(norm.NFD, transform.RemoveFunc(isMn), norm.NFC)
 	dashre := regexp.MustCompile(`[ _]`)
+	titlere := regexp.MustCompile(`[^\w -_]+`)
+	authore := regexp.MustCompile(`^(.*?)\s([A-Z\s]+)$`)
 
 	var dir string
 	dirs := flag.Args()
@@ -93,15 +95,13 @@ func main() {
 	fmt.Printf("publishing %q by %q\n", title, author)
 	// transform title and author into filesystem versions
 
-	title, _, _ = transform.String(t, title)
-	re := regexp.MustCompile(`[^\w ]+`)
-	title = re.ReplaceAllString(title, "")
+	title, _, _ = transform.String(utf8toascii, title)
+	title = titlere.ReplaceAllString(title, "")
 	title = dashre.ReplaceAllString(title, "-")
 	title = strings.ToLower(title)
 
-	author, _, _ = transform.String(t, author)
-	re = regexp.MustCompile(`^(.*?)\s([A-Z\s]+)$`)
-	author = re.ReplaceAllString(author, "$2-$1")
+	author, _, _ = transform.String(utf8toascii, author)
+	author = authore.ReplaceAllString(author, "$2-$1")
 	author = dashre.ReplaceAllString(author, "-")
 	author = strings.ToLower(author)
 	author = strings.ReplaceAll(author, ".", "")
