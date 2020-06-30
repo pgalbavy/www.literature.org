@@ -2,8 +2,14 @@
 <link rel="stylesheet" href="/css/icon.css">
 <link rel="stylesheet" href="/css/literature.css">
 
+<script>
+    if (window.location.protocol != 'https:') {
+        location.href = location.href.replace("http://", "https://");
+    }
+</script>
+
 <header class="w3-bar w3-pale-green w3-top">
-<nav navigate="contents.json"></nav>
+    <nav navigate="contents.json"></nav>
 </header>
 
 <br>

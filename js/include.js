@@ -4,6 +4,9 @@
  */
 
 function loadsitecode() {
+	if (window.location.protocol != 'https:') {
+		location.href = location.href.replace("http://", "https://");
+	}
 	Include();
 	Contents();
 	Navigate();
@@ -69,13 +72,13 @@ function Contents() {
 							html += "<i class=\"material-icons md-lit w3-margin-right\">person</i> ";
 							html += nameCapsHTML(contents.title);
 							if (typeof contents.aliases !== 'undefined') {
-									// list aliases here (maybe basic bio too, but then move this outside the test)
-									html += " - also known as: ";
-									for (var alias of contents.aliases) {
-										html += nameCapsHTML(alias) + ", ";
-									}
-									html = html.substring(0, html.length - 2)
-									html += "</span></li>";
+								// list aliases here (maybe basic bio too, but then move this outside the test)
+								html += " - also known as: ";
+								for (var alias of contents.aliases) {
+									html += nameCapsHTML(alias) + ", ";
+								}
+								html = html.substring(0, html.length - 2)
+								html += "</span></li>";
 							}
 						}
 						for (var b of contents.books.sort(bookSort)) {
@@ -322,7 +325,7 @@ function Navigate() {
 							title = list[page].title + " - " + title;
 						} else {
 							if (!(contents.title != "Authors" && (typeof contents.author === 'undefined' || contents.author == ""))) {
-								texthead =  "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hide-medium w3-hide-large\">";
+								texthead = "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hide-medium w3-hide-large\">";
 								texthead += "<li><span class=\"w3-bar-item w3-button litleft w3-hover-none\">";
 								// for some reason the size is required in this one instance
 								texthead += "<i class=\"material-icons md-lit w3-margin-right\" style=\"width: 24px\">menu_books</i> ";
@@ -336,7 +339,7 @@ function Navigate() {
 						if (list[page]) {
 							html += "<div class=\"w3-bar-item lit w3-hide-medium w3-hide-large\">";
 							// html += "<i class=\"material-icons md-lit w3-margin-right\">library_books</i>";
-							html += (page+1) + "/" + list.length;
+							html += (page + 1) + "/" + list.length;
 							html += "</div>";
 						}
 
@@ -464,7 +467,7 @@ function titleCase(str) {
 		if (word.startsWith("Mc")) {
 			n = 2;
 		}
-		if (word.startsWith*"Mac)") {
+		if (word.startsWith * "Mac)") {
 			n = 3;
 		}
 
@@ -484,8 +487,8 @@ function nameCapsHTML(name) {
 	});
 }
 
-function is_touch_enabled() { 
-	return ( 'ontouchstart' in window ) || 
-		( navigator.maxTouchPoints > 0 ) || 
-		( navigator.msMaxTouchPoints > 0 ); 
+function is_touch_enabled() {
+	return ('ontouchstart' in window) ||
+		(navigator.maxTouchPoints > 0) ||
+		(navigator.msMaxTouchPoints > 0);
 } 
