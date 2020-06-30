@@ -56,7 +56,7 @@ div.lit-narrow, a.lit-narrow {
 .poem {
 	margin: auto;
 	text-align: center;
-	font-size: min(18px, 3.5vw);
+	font-size: clamp(14px, 3.5vw, 18px);
 }
 
 .poem span+p:first-letter {
