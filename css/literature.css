@@ -21,7 +21,7 @@
 }
 
 .material-icons.md-lit, li, .w3-button {
-	font-size: 24px;
+	font-size: clamp(20px, 4vw, 28px);
 }
 
 article {
@@ -34,6 +34,7 @@ article {
 	overflow-x: hidden;
 	text-align: right;
 	float: none;
+	font-size: clamp(20px, 4vw, 28px);
 }
 
 .w3-bar-item.litleft {
