@@ -1,7 +1,6 @@
 package text2html
 
 import (
-	"html"
 	"log"
 	"regexp"
 	"strings"
@@ -34,6 +33,14 @@ func init() {
 
 	prehtmlrules = []swapchars{
 		swapchars { pattern: regexp.MustCompile(`(?m)[“”]`), replace: `"` },
+		swapchars { pattern: regexp.MustCompile(`(?m)&`), replace: `&amp;` },
+		swapchars { pattern: regexp.MustCompile(`(?m)<`), replace: `&lt;` },
+		swapchars { pattern: regexp.MustCompile(`(?m)>`), replace: `&gt;` },
+		// quotes only need to be escaped in tags, not in main text
+		//swapchars { pattern: regexp.MustCompile(`(?m)"`), replace: `&quot;` },
+		// ditto single quotes
+		//swapchars { pattern: regexp.MustCompile(`(?m)'`), replace: `&#39;;` },
+
 	}
 
 	charrules = []swapchars{
@@ -48,6 +55,9 @@ func init() {
 		swapchars { pattern: regexp.MustCompile(`(?m)^([[:blank:]]*)?(.*)--([[:upper:]])`), replace: "$1$2\n$1&mdash;$3" },
 		// a sequence of 3 or more capitals (or dots) are emphasised
 		swapchars { pattern: regexp.MustCompile(`(?m)([[:upper:]][[:upper:]\.-]{2,}[^[:lower:]]*)\b`), replace: "<em>$1</em>"},
+		// underscores at a word boundary enclose emphasised text, hashes mean string
+		swapchars { pattern: regexp.MustCompile(`(?ms)\b_(.*?)_\b`), replace: "<em>$1</em>"},
+		swapchars { pattern: regexp.MustCompile(`(?ms)\#(.*?)#\b`), replace: "<strong>$1</strong>"},
 	}
 }
 
@@ -71,7 +81,7 @@ func replace(text string, rules []swapchars) (string) {
 	return text
 }
 
-var poemopen = `<div class="w3-container w3-justify poem">`
+var poemopen = `<div class="w3-container w3-justify poem">` + "\n<span></span>"
 var poemclose = `</div>`
 
 /*
@@ -90,9 +100,6 @@ var poemclose = `</div>`
 func ConvertString(text string) (string) {
 	// stage 1 - global substitution of character sets as required
 	text = PreHTMLReplaceChars(text)
-
-	// convert the minimal set of characters to be HTML valid
-	text = html.EscapeString(text)
 
 	paras := parasplit.Split(text, -1)
 
