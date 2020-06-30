@@ -60,8 +60,11 @@ func main() {
 
 	// utf8/unicode to ascii for filesystem names
 	utf8toascii := transform.Chain(norm.NFD, transform.RemoveFunc(isMn), norm.NFC)
+	// these are stripped without replacement
+	titlere := regexp.MustCompile(`[^\w _-]+`)
+	// these are the chars to replace with a single dash
 	dashre := regexp.MustCompile(`[ _]`)
-	titlere := regexp.MustCompile(`[^\w -_]+`)
+	
 	authore := regexp.MustCompile(`^(.*?)\s([A-Z\s]+)$`)
 
 	var dir string
