@@ -1,8 +1,12 @@
 {
 	"title": "Thomas HUGHES",
-	"author": "",
+	"source": "",
+	"links": {},
+	"lastupdated": "2020-06-30T17:40:48Z",
 	"books": [
-		{ "href": "tom-browns-schooldays", "title": "Tom Brown's Schooldays" }
+		{
+			"href": "tom-browns-schooldays",
+			"title": "Tom Brown's Schooldays"
+		}
 	]
 }
-

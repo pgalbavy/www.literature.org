@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/haggard-h-rider/allans-wife",
-		"title": "Allan's Wife by H. Rider HAGGARD",
-		"lastupdated": "2020-06-17T15:17:00Z"
-	},
-	{
 		"href": "/authors/haggard-h-rider/the-ancient-allan",
 		"title": "The Ancient Allan by H. Rider HAGGARD",
 		"lastupdated": "2020-06-17T15:18:31Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/carroll-lewis/the-hunting-of-the-snark",
 		"title": "The Hunting of the Snark by Lewis CARROLL",
 		"lastupdated": "2020-06-30T14:25:45Z"
+	},
+	{
+		"href": "/authors/hughes-thomas/tom-browns-schooldays",
+		"title": "Tom Brown's Schooldays by Thomas HUGHES",
+		"lastupdated": "2020-06-30T17:40:48Z"
 	}
 ]
