@@ -57,6 +57,7 @@ func init() {
 		swapchars { pattern: regexp.MustCompile(`(?m)([[:upper:]][[:upper:]\.-]{2,}[^[:lower:]]*)\b`), replace: "<em>$1</em>"},
 		// underscores at a word boundary enclose emphasised text, hashes mean string
 		swapchars { pattern: regexp.MustCompile(`(?ms)\b_(.*?)_\b`), replace: "<em>$1</em>"},
+		swapchars { pattern: regexp.MustCompile(`(?ms)\b/(.*?)/\b`), replace: "<em>$1</em>"},
 		swapchars { pattern: regexp.MustCompile(`(?ms)\#(.*?)#\b`), replace: "<strong>$1</strong>"},
 	}
 }
