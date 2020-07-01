@@ -225,7 +225,7 @@ func main() {
 
 	// split file starting at the top level and working down to level[0]
 
-	for (l := len(levels) + 1; l >= 0; l--) {
+	for l := len(levels)-1; l >= 0; l-- {
 		level := levels[l]
 		if l == 0 {
 			splitfile(text, levels, head, foot, 1, &contents)
