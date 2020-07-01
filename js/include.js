@@ -10,6 +10,8 @@ function loadsitecode() {
 	Include();
 	Contents();
 	Navigate();
+	// once we are done we can reveal the page
+	document.body.style.display = "block";
 }
 
 // check all DIV elements for an attribute of type include-html
