@@ -269,7 +269,7 @@ func partnames(levels *[]Level) (partprefix string, partformat string) {
 		}
 
 		if level.title != "" {
-			title := fmt.Sprintf("%s %%d - ", level.title)
+			title := fmt.Sprintf("%s %%d", level.title)
 			// replace spaces and underscores
 			filetitle := dashre.ReplaceAllString(strings.ToLower(level.title), "-")
 			digits := 2
@@ -283,7 +283,7 @@ func partnames(levels *[]Level) (partprefix string, partformat string) {
 				partformat += title
 			} else {
 				partprefix += fmt.Sprintf(partpre, level.index) + "-"
-				partformat += fmt.Sprintf(title, level.index)
+				partformat += fmt.Sprintf(title, level.index) + " - "
 			}
 		}
 	}
