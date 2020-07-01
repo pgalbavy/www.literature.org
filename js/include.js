@@ -331,7 +331,7 @@ function Navigate() {
 							title = list[page].title + " - " + title;
 						} else {
 							if (!(contents.title != "Authors" && (typeof contents.author === 'undefined' || contents.author == ""))) {
-								texthead = "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hide-medium w3-hide-large\">";
+								texthead = "<ul class=\"w3-row w3-bar-block w3-ul w3-hide-medium w3-hide-large\">";
 								texthead += "<li><span class=\"w3-bar-item w3-button litleft w3-hover-none\">";
 								// for some reason the size is required in this one instance
 								texthead += "<i class=\"material-icons md-lit w3-margin-right\" style=\"width: 24px\">menu_books</i> ";
