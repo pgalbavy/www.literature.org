@@ -30,7 +30,12 @@ function Include() {
 					// Remove the attribute, and call this function again
 					// to account for nested elements handled by this local code
 					div.removeAttribute(ATTR);
-					loadsitecode();
+					// this is the only function we call ourselves (and Navigate)
+					// again as the header contains the nav tag - the other
+					// functions only repcae innerHTML with fixed html and no
+					// special tags
+					Include();
+					Navigate();
 				}
 			}
 
@@ -153,7 +158,6 @@ function Contents() {
 					// Remove the attribute, and call this function once again
 					// to supported nested tags
 					article.removeAttribute(ATTR);
-					loadsitecode();
 				}
 			}
 			req.open("GET", file, true);
@@ -387,7 +391,6 @@ function Navigate() {
 				// Remove the attribute, and call this function once again
 				// to supported nested tags
 				nav.removeAttribute(ATTR);
-				loadsitecode();
 			}
 			req.open("GET", file, true);
 			req.send();
