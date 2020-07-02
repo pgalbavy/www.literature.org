@@ -30,7 +30,7 @@ const header = "header.html"
 const footer = "footer.html"
 const index = "index.html"
 
-var blankline, end, dashre, firstre *regexp.Regexp
+var blankline, end, dashre, puncre, firstre *regexp.Regexp
 var maxtitle int
 var writedir string
 var prename string
@@ -41,9 +41,9 @@ var prename string
 // etc.
 type Level struct {
 	title   string
-	inctitle  bool
+	inctitlematch  bool
 	dontinfer bool
-	matchskip bool
+	skiptitleline bool
 	titlepara bool
 	sep       string
 	sepre     *regexp.Regexp
@@ -66,7 +66,8 @@ func init() {
 	// look for paragraph seperator (two EOL sequences)
 	blankline = regexp.MustCompile(`(\r?\n){2,}`)
 
-	dashre = regexp.MustCompile(`[ _]`)
+	dashre = regexp.MustCompile(`[ _]+`)
+	puncre = regexp.MustCompile(`[[:punct:][:cntrl:]]+`)
 
 	firstre = regexp.MustCompile(`(?mi)\A(?:the )?project gutenberg(?: ebook of|'s| ebook,) ([\pL\.,!\-’'"\(\) ]+),\s+by\s+([\pL\.\-'\(\) ]+)\,?\r?$`)
 
@@ -109,8 +110,8 @@ func main() {
 	flag.StringVar(&prename, "pre", "", "Rename chapter-00 to this")
 	flag.Parse()
 
-	levelOpts(&levels[0], "Chapter", `(?m)^(((?i)`+levels[0].title+`\s)|[IVXC]+\.?\s*$)`)
-	levelOpts(&levels[1], "Part", "")
+	levelOpts(&levels[0], "Chapter")
+	levelOpts(&levels[1], "Part")
 
 	// save command line, even if it is not much use
 	contents.Cmdline = os.Args
@@ -234,6 +235,8 @@ func splitlevel(leveltext string, levels *[]Level, l int, contents *literature.C
 	} else {
 		level := &(*levels)[l]
 		if level.sep == "" {
+			// if level is unset, then make it "1" and not "0"
+			level.index = 1
 			splitlevel(leveltext, levels, l-1, contents)
 			return
 		}
@@ -271,7 +274,7 @@ func partnames(levels *[]Level) (partprefix string, partformat string) {
 		if level.title != "" {
 			title := fmt.Sprintf("%s %%d", level.title)
 			// replace spaces and underscores
-			filetitle := dashre.ReplaceAllString(strings.ToLower(level.title), "-")
+			filetitle := dashre.ReplaceAllString(puncre.ReplaceAllString(strings.ToLower(level.title), ""), "-")
 			digits := 2
 			if len(level.parts) > 100 {
 				digits = 3
@@ -296,70 +299,60 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 
 	fileprefix, titleformat := partnames(levels)
 
-    // XXX fix this
-	sepre := level.sepre
-	parts := sepre.Split(text, -1)
-	titles := sepre.FindAllString(text, -1)
+	parts := level.sepre.Split(text, -1)
+	titles := level.sepre.FindAllString(text, -1)
 	level.chunks = []Chunk{}
 
-	// parts[0] + titles[0] + parts[1] + titles[1] + ... + title[N-1] + part[N]
+	chapternumber := 0
 
-	// by now we have a file name format, just need to insert lowest level
-
-	cn := 0
-
-	// if we are processing parts then chapters start immediately at 1 after
-	// the part split. otherwise chapters start at 0 for the starting-text
-	/* if part.text != "" {
-		cn = 1
-	} */
-
-	for pn, pt := range parts {
+	if (*levels)[1].index != 1 {
+		chapternumber = 1
+	}
+ 
+	for partnum, parttext := range parts {
 		chunk := Chunk{title: "", html: "", filename: ""}
 
-		if level.inctitle && pn > 0 {
-			chunk.title = titles[pn-1]
+		if level.inctitlematch && partnum > 0 {
+			chunk.title = titles[partnum-1]
 		}
 
-		// level.matchskip and level.titlepara
+		// level.skiptitleline and level.titlepara
 
 		// split on first blankline line(s) and process first part(s), pass on the rest
 		// paras[] = "LINE-AFTER-CHAPSEP[BLANK]PARA[BLANK]PARA2"
-		paras := blankline.Split(pt, 3)
+		paras := blankline.Split(parttext, 3)
 
 		n := len(paras)
 
 		// if all we have is the first paragraph then skip
-		if len(paras) < 2 {
+		if n < 2 {
 			// skip
 			continue
 		}
-
-		paraaftermatch := paras[0] // rest-of-para after match, check level.matchskip
 
 		// infer = assume chapter title is NUMBER [PUNC] [SPACE TITLE]
 
 		var err error
 
 		if !level.dontinfer {
-			var rcn int
-			rcn, paraaftermatch = roman(paraaftermatch)
-			if rcn == 0 {
-				_, err = fmt.Sscanf(paraaftermatch, "%d", &rcn)
+			var romanchapternum int
+			romanchapternum, paras[0] = roman(paras[0])
+			if romanchapternum == 0 {
+				_, err = fmt.Sscanf(paras[0], "%d", &romanchapternum)
 				if err != nil {
-					rcn = cn
+					romanchapternum = chapternumber
 				} else {
-					paraaftermatch = strings.TrimLeft(paraaftermatch, "0123456789")
+					paras[0] = strings.TrimLeft(paras[0], "0123456789")
 				}
 			}
-			cn = rcn
+			chapternumber = romanchapternum
 		}
 
-		if !level.matchskip {
-			chunk.title += paraaftermatch
-			pt = strings.Join(paras[1:], "\n\n")
+		if !level.skiptitleline {
+			chunk.title += paras[0]
 		}
-
+		parttext = strings.Join(paras[1:], "\n\n")
+		
 		// append next para to any existing title, but limit to maxtitle chars
 		if level.titlepara {
 			if len(paras[1]) < maxtitle {
@@ -367,7 +360,7 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 
 				// we've used paras[1] so move on
 				if n == 3 {
-					pt = paras[2]
+					parttext = paras[2]
 				}
 			}
 		}
@@ -379,39 +372,39 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 		chunk.title = text2html.PreHTMLReplaceChars(chunk.title)
 
 		// convert
-		chunk.filename = fmt.Sprintf(fileprefix, cn) + ".html"
-		if cn == 0 && prename != "" {
-			chunk.filename = strings.ToLower(prename) + ".html"
+		chunk.filename = fmt.Sprintf(fileprefix, chapternumber) + ".html"
+
+		if len(parttext) > 0 {
+			chunk.html = level.header + text2html.ConvertString(parttext) + level.footer
 		}
 
-		if len(pt) > 0 {
-			chunk.html = level.header + text2html.ConvertString(pt) + level.footer
-		}
-
-		// fix index checks
-		if (cn != 0 && (*levels)[1].index != 0) || ((*levels)[1].index < 2 && prename != "") {
-			// update contents
-			var c literature.Chapter
-			c.HREF = chunk.filename
-			if cn == 0 && prename != "" {
-				c.Title = prename
-			} else {
-				c.Title = fmt.Sprintf(titleformat, cn)
-				chunk.title = strings.Trim(chunk.title, " .-_—")
-				if len(chunk.title) > 0 {
-					c.Title += " - " + strings.Title(strings.ToLower(chunk.title))
-					// revert 'S and 'T etc.
-					re := regexp.MustCompile(`[[:alpha:]]'[[:upper:]]`)
-					c.Title = re.ReplaceAllStringFunc(c.Title, strings.ToLower)
-				}
+		if (chapternumber == 0 || (chapternumber == 1 && (*levels)[1].index == 0)) && prename != "" {
+			// looking to rename part 1, chapter-00
+			var chapter literature.Chapter
+			chunk.filename = dashre.ReplaceAllString(puncre.ReplaceAllString(strings.ToLower(prename), ""), "-") + ".html"
+			chapter.HREF = chunk.filename
+			chapter.Title = prename
+			contents.Chapters = append(contents.Chapters, chapter)
+			prename = "" // only one of these ever
+		} else {
+			// other stuff
+			var chapter literature.Chapter
+			chapter.HREF = chunk.filename
+			chapter.Title = fmt.Sprintf(titleformat, chapternumber)
+			chunk.title = strings.Trim(chunk.title, " .-_—")
+			if len(chunk.title) > 0 {
+				chapter.Title += " - " + strings.Title(strings.ToLower(chunk.title))
+				// revert 'S and 'T etc.
+				re := regexp.MustCompile(`[[:alpha:]]'[[:upper:]]`)
+				chapter.Title = re.ReplaceAllStringFunc(chapter.Title, strings.ToLower)
 			}
-			contents.Chapters = append(contents.Chapters, c)
+			contents.Chapters = append(contents.Chapters, chapter)
 		}
 
 		level.chunks = append(level.chunks, chunk)
 
 		// no skip, inc default chap num but this can be updated if infer is on
-		cn++
+		chapternumber++
 	}
 	fmt.Printf("writing %d chunks\n", len(level.chunks))
 	writeChunks(level.chunks)
@@ -481,7 +474,7 @@ func roman(n string) (int, string) {
 	return out, ""
 }
 
-func levelOpts(level *Level, defaultText string, defaultSep string) {
+func levelOpts(level *Level, defaultText string) {
 	// no option set? return without processing
 	if level.title == "" {
 		return
@@ -495,24 +488,29 @@ func levelOpts(level *Level, defaultText string, defaultSep string) {
 		log.Fatal("level args must be in the format '[TEXT][/REGEXP/[itnkp]]'")
 	}
 
+	// opts[1] => title
+	// opts[2] => regexp seperator
+	// opts[3] => flags
+
 	if opts[1] == "" {
 		level.title = defaultText
 	} else {
 		level.title = opts[1]
 	}
 
+	// at this point opts[2] still has delimiters and flags attached
 	opts[2] = strings.TrimSuffix(opts[2], opts[3])
 	levelreg := strings.Trim(opts[2], "/")
 	if levelreg == "" {
-		level.sep = defaultSep
+		level.sep = `(?m)^(((?i)` + level.title + `\s)|[IVXLC]+\.?\s*$)`
 	} else {
-		level.sep = `(?m)` + levelreg
+		level.sep = `(?m)^` + levelreg
 	}
 
 	// check flags
 	if opts[3] != "" {
 		if strings.Contains(opts[3], "t") {
-			level.inctitle = true
+			level.inctitlematch = true
 		}
 
 		if strings.Contains(opts[3], "n") {
@@ -521,7 +519,7 @@ func levelOpts(level *Level, defaultText string, defaultSep string) {
 
 		// skipping the rest of line implies no infer of chapter number
 		if strings.Contains(opts[3], "k") {
-			level.matchskip = true
+			level.skiptitleline = true
 			level.dontinfer = true
 		}
 
