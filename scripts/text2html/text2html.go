@@ -35,7 +35,7 @@ func init() {
 		swapchars { pattern: regexp.MustCompile(`(?m)&`), replace: `&amp;` },
 		swapchars { pattern: regexp.MustCompile(`(?m)<`), replace: `&lt;` },
 		swapchars { pattern: regexp.MustCompile(`(?m)>`), replace: `&gt;` },
-		swapchars { pattern: regexp.MustCompile(`(?m)[“”\223\224]`), replace: `"` },
+		swapchars { pattern: regexp.MustCompile(`(?m)[“”]`), replace: `"` },
 	}
 
 	charrules = []swapchars{
