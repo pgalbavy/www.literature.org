@@ -251,7 +251,6 @@ func splitlevel(leveltext string, levels *[]Level, l int, contents *literature.C
 			if t != nil {
 
 				if !level.dontinfer && len(t[0]) > 0 {
-					fmt.Printf("t1=%q\n", t[0])
 					t[0], level.index = infernumber(t[0], level.index)			
 				}
 
@@ -376,7 +375,6 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 		// no skip, inc default chap num but this can be updated if infer is on
 		chapternumber++
 	}
-	fmt.Printf("writing %d chunks\n", len(level.chunks))
 	writeChunks(level.chunks)
 }
 
