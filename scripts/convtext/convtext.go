@@ -184,6 +184,8 @@ func main() {
 	}
 	fmt.Printf("Processing text: %q by %q\n", contents.Title, contents.Author)
 
+	// also optionally save as chap 0 ?
+
 	if skipto != "" {
 		re, err := regexp.Compile("(?m)" + skipto)
 		if err != nil {
@@ -244,53 +246,23 @@ func splitlevel(leveltext string, levels *[]Level, l int, contents *literature.C
 
 		var parttext string
 		for level.index, parttext = range level.parts {
-			if level.titlepara {
-				t := blankline.Split(parttext, 3)
-				// 0 = rest of part line, 1 = next para, 2 = rest of text
-				if t != nil && len(t[1]) < maxtitle {
+			// 0 = rest of part line, 1 = next para, 2 = rest of text
+			t := blankline.Split(parttext, 3)
+			if t != nil {
+
+				if !level.dontinfer && len(t[0]) > 0 {
+					fmt.Printf("t1=%q\n", t[0])
+					t[0], level.index = infernumber(t[0], level.index)			
+				}
+
+				if level.titlepara && t != nil && len(t[1]) < maxtitle {
 					parttext = t[2]
 				}
 			}
-
 			// recurse	
 			splitlevel(parttext, levels, l-1, contents)
 		}
 	}
-}
-
-// always called for level[0], so based on index values build prefix
-// and format
-func partnames(levels *[]Level) (partprefix string, partformat string) {
-	partprefix = ""
-	partformat = ""
-
-	for l := len(*levels)-1; l >= 0; l-- {
-		level := (*levels)[l]
-		// skip levels without a prefix
-		if level.sep == "" {
-			continue;
-		}
-
-		if level.title != "" {
-			title := fmt.Sprintf("%s %%d", level.title)
-			// replace spaces and underscores
-			filetitle := dashre.ReplaceAllString(puncre.ReplaceAllString(strings.ToLower(level.title), ""), "-")
-			digits := 2
-			if len(level.parts) > 100 {
-				digits = 3
-			}
-			partpre := fmt.Sprintf("%s-%%0%dd", filetitle, digits)
-
-			if l == 0 {
-				partprefix += partpre
-				partformat += title
-			} else {
-				partprefix += fmt.Sprintf(partpre, level.index) + "-"
-				partformat += fmt.Sprintf(title, level.index) + " - "
-			}
-		}
-	}
-	return
 }
 
 // split the lowest level text into named files, using upper level to build the filename
@@ -312,8 +284,12 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 	for partnum, parttext := range parts {
 		chunk := Chunk{title: "", html: "", filename: ""}
 
-		if level.inctitlematch && partnum > 0 {
-			chunk.title = titles[partnum-1]
+		// try to rescue the title roman number
+		if partnum > 0 {
+			if level.inctitlematch {
+				chunk.title = titles[partnum-1]
+			}
+			parttext = level.sepre.ReplaceAllString(titles[partnum-1], "${roman}") + "\n" + parttext
 		}
 
 		// level.skiptitleline and level.titlepara
@@ -329,23 +305,12 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 			// skip
 			continue
 		}
+		//fmt.Printf("para0:\n%q\n", paras[0])
 
 		// infer = assume chapter title is NUMBER [PUNC] [SPACE TITLE]
 
-		var err error
-
 		if !level.dontinfer {
-			var romanchapternum int
-			romanchapternum, paras[0] = roman(paras[0])
-			if romanchapternum == 0 {
-				_, err = fmt.Sscanf(paras[0], "%d", &romanchapternum)
-				if err != nil {
-					romanchapternum = chapternumber
-				} else {
-					paras[0] = strings.TrimLeft(paras[0], "0123456789")
-				}
-			}
-			chapternumber = romanchapternum
+			paras[0], chapternumber = infernumber(paras[0], chapternumber)			
 		}
 
 		if !level.skiptitleline {
@@ -401,7 +366,9 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 				re := regexp.MustCompile(`[[:alpha:]]'[[:upper:]]`)
 				chapter.Title = re.ReplaceAllStringFunc(chapter.Title, strings.ToLower)
 			}
-			contents.Chapters = append(contents.Chapters, chapter)
+			if chapternumber > 0 {
+				contents.Chapters = append(contents.Chapters, chapter)
+			}
 		}
 
 		level.chunks = append(level.chunks, chunk)
@@ -477,6 +444,21 @@ func roman(n string) (int, string) {
 	return out, ""
 }
 
+func infernumber(text string, number int) (string, int) {
+	var romanchapternum int
+	romanchapternum, text = roman(text)
+	if romanchapternum == 0 {
+		_, err := fmt.Sscanf(text, "%d", &romanchapternum)
+		if err != nil {
+			romanchapternum = number
+		} else {
+			text = strings.TrimLeft(text, "0123456789")
+		}
+	}
+	number = romanchapternum
+	return text, number
+}
+
 func levelOpts(level *Level, defaultText string) {
 	// no option set? return without processing
 	if level.title == "" {
@@ -505,7 +487,7 @@ func levelOpts(level *Level, defaultText string) {
 	opts[2] = strings.TrimSuffix(opts[2], opts[3])
 	levelreg := strings.Trim(opts[2], "/")
 	if levelreg == "" {
-		level.sep = `(?m)^(((?i)` + level.title + `\s)|[IVXLC]+\.?\s*$)`
+		level.sep = `(?m)^(((?i)` + level.title + `\s)|(?P<roman>[IVXLC]+)\.?\s*$)`
 	} else {
 		level.sep = `(?m)^` + levelreg
 	}
@@ -537,4 +519,39 @@ func levelOpts(level *Level, defaultText string) {
 	if err != nil {
 		log.Fatal(err)
 	}
+}
+
+// always called for level[0], so based on index values build prefix
+// and format
+func partnames(levels *[]Level) (partprefix string, partformat string) {
+	partprefix = ""
+	partformat = ""
+
+	for l := len(*levels)-1; l >= 0; l-- {
+		level := (*levels)[l]
+		// skip levels without a prefix
+		if level.sep == "" {
+			continue;
+		}
+
+		if level.title != "" {
+			title := fmt.Sprintf("%s %%d", level.title)
+			// replace spaces and underscores
+			filetitle := dashre.ReplaceAllString(puncre.ReplaceAllString(strings.ToLower(level.title), ""), "-")
+			digits := 2
+			if len(level.parts) > 100 {
+				digits = 3
+			}
+			partpre := fmt.Sprintf("%s-%%0%dd", filetitle, digits)
+
+			if l == 0 {
+				partprefix += partpre
+				partformat += title
+			} else {
+				partprefix += fmt.Sprintf(partpre, level.index) + "-"
+				partformat += fmt.Sprintf(title, level.index) + " - "
+			}
+		}
+	}
+	return
 }
