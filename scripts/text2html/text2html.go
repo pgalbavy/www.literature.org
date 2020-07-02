@@ -32,15 +32,10 @@ func init() {
 
 
 	prehtmlrules = []swapchars{
-		swapchars { pattern: regexp.MustCompile(`(?m)[“”]`), replace: `"` },
 		swapchars { pattern: regexp.MustCompile(`(?m)&`), replace: `&amp;` },
 		swapchars { pattern: regexp.MustCompile(`(?m)<`), replace: `&lt;` },
 		swapchars { pattern: regexp.MustCompile(`(?m)>`), replace: `&gt;` },
-		// quotes only need to be escaped in tags, not in main text
-		//swapchars { pattern: regexp.MustCompile(`(?m)"`), replace: `&quot;` },
-		// ditto single quotes
-		//swapchars { pattern: regexp.MustCompile(`(?m)'`), replace: `&#39;;` },
-
+		swapchars { pattern: regexp.MustCompile(`(?m)[“”\223\224]`), replace: `"` },
 	}
 
 	charrules = []swapchars{
