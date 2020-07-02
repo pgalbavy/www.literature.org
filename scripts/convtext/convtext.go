@@ -365,6 +365,13 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 			}
 		}
 
+		if len(parttext) > 0 {
+			chunk.html = level.header + text2html.ConvertString(parttext) + level.footer
+		} else {
+			chapternumber++
+			continue
+		}
+
 		// strip annoying prefixes
 		spacere := regexp.MustCompile(`\s+`)
 		chunk.title = spacere.ReplaceAllString(chunk.title, " ")
@@ -373,10 +380,6 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 
 		// convert
 		chunk.filename = fmt.Sprintf(fileprefix, chapternumber) + ".html"
-
-		if len(parttext) > 0 {
-			chunk.html = level.header + text2html.ConvertString(parttext) + level.footer
-		}
 
 		if (chapternumber == 0 || (chapternumber == 1 && (*levels)[1].index == 0)) && prename != "" {
 			// looking to rename part 1, chapter-00
