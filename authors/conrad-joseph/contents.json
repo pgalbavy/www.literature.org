@@ -1,0 +1,76 @@
+{
+	"title": "Joseph CONRAD",
+	"source": "",
+	"links": {},
+	"lastupdated": "2020-07-02T17:10:03Z",
+	"books": [
+		{
+			"href": "heart-of-darkness",
+			"title": "Heart of Darkness"
+		},
+		{
+			"href": "almayers-folly",
+			"title": "Almayer's Folly"
+		},
+		{
+			"href": "chance",
+			"title": "Chance"
+		},
+		{
+			"href": "end-of-the-tether",
+			"title": "End of the Tether"
+		},
+		{
+			"href": "gaspar-ruiz",
+			"title": "Gaspar Ruiz"
+		},
+		{
+			"href": "the-inheritors",
+			"title": "The Inheritors"
+		},
+		{
+			"href": "lord-jim",
+			"title": "Lord Jim"
+		},
+		{
+			"href": "the-mirror-of-the-sea",
+			"title": "The Mirror of the Sea"
+		},
+		{
+			"href": "an-outcast-of-the-islands",
+			"title": "An Outcast of the Islands"
+		},
+		{
+			"href": "the-point-of-honor",
+			"title": "The Point Of Honor"
+		},
+		{
+			"href": "the-rescue",
+			"title": "The Rescue"
+		},
+		{
+			"href": "romance",
+			"title": "Romance"
+		},
+		{
+			"href": "the-rover",
+			"title": "The Rover"
+		},
+		{
+			"href": "the-secret-agent",
+			"title": "The Secret Agent"
+		},
+		{
+			"href": "the-secret-sharer",
+			"title": "The Secret Sharer"
+		},
+		{
+			"href": "the-shadow-line",
+			"title": "The Shadow-Line"
+		},
+		{
+			"href": "typhoon",
+			"title": "Typhoon"
+		}
+	]
+}

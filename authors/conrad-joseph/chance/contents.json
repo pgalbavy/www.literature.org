@@ -1,0 +1,69 @@
+{
+	"title": "Chance",
+	"author": "Joseph CONRAD",
+	"source": "http://www.gutenberg.org/cache/epub/1476/pg1476.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-p",
+		"Part/^PART /",
+		"-c",
+		"//n",
+		"http://www.gutenberg.org/cache/epub/1476/pg1476.txt"
+	],
+	"lastupdated": "2020-07-01T19:50:56Z",
+	"chapters": [
+		{
+			"href": "part-01-chapter-01.html",
+			"title": "Part 1 - Chapter 1 - Young Powell And His Chance"
+		},
+		{
+			"href": "part-01-chapter-02.html",
+			"title": "Part 1 - Chapter 2 - The Fynes And The Girl-Friend"
+		},
+		{
+			"href": "part-01-chapter-03.html",
+			"title": "Part 1 - Chapter 3 - Thrift--And The Child"
+		},
+		{
+			"href": "part-01-chapter-04.html",
+			"title": "Part 1 - Chapter 4 - The Governess"
+		},
+		{
+			"href": "part-01-chapter-05.html",
+			"title": "Part 1 - Chapter 5 - The Tea-Party"
+		},
+		{
+			"href": "part-01-chapter-06.html",
+			"title": "Part 1 - Chapter 6 - Flora"
+		},
+		{
+			"href": "part-01-chapter-07.html",
+			"title": "Part 1 - Chapter 7 - On The Pavement"
+		},
+		{
+			"href": "part-02-chapter-01.html",
+			"title": "Part 2 - Chapter 1 - The Ferndale"
+		},
+		{
+			"href": "part-02-chapter-02.html",
+			"title": "Part 2 - Chapter 2 - Young Powell Sees And Hears"
+		},
+		{
+			"href": "part-02-chapter-03.html",
+			"title": "Part 2 - Chapter 3 - Devoted Servants--And The Light Of A Flare"
+		},
+		{
+			"href": "part-02-chapter-04.html",
+			"title": "Part 2 - Chapter 4 - Anthony And Flora"
+		},
+		{
+			"href": "part-02-chapter-05.html",
+			"title": "Part 2 - Chapter 5 - The Great De Barral"
+		},
+		{
+			"href": "part-02-chapter-06.html",
+			"title": "Part 2 - Chapter 6 - . . A Moonless Night, Thick With Stars Above, Very Dark On The Water"
+		}
+	]
+}

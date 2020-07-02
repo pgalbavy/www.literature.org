@@ -1,0 +1,21 @@
+{
+	"title": "The Secret Sharer",
+	"author": "Joseph CONRAD",
+	"source": "https://www.gutenberg.org/files/220/220-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"https://www.gutenberg.org/files/220/220-0.txt"
+	],
+	"lastupdated": "2020-07-02T16:32:01Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2"
+		}
+	]
+}

@@ -1,0 +1,129 @@
+{
+	"title": "An Outcast of the Islands",
+	"author": "Joseph CONRAD",
+	"source": "http://www.gutenberg.org/files/638/638-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-p",
+		"Part/^PART /kp",
+		"-c",
+		"//kp",
+		"-pre",
+		"Author's Note",
+		"-maxtitle",
+		"3",
+		"http://www.gutenberg.org/files/638/638-0.txt"
+	],
+	"lastupdated": "2020-07-02T12:06:38Z",
+	"chapters": [
+		{
+			"href": "authors-note.html",
+			"title": "Author's Note"
+		},
+		{
+			"href": "part-01-chapter-01.html",
+			"title": "Part 1 - Chapter 1"
+		},
+		{
+			"href": "part-01-chapter-02.html",
+			"title": "Part 1 - Chapter 2"
+		},
+		{
+			"href": "part-01-chapter-03.html",
+			"title": "Part 1 - Chapter 3"
+		},
+		{
+			"href": "part-01-chapter-04.html",
+			"title": "Part 1 - Chapter 4"
+		},
+		{
+			"href": "part-01-chapter-05.html",
+			"title": "Part 1 - Chapter 5"
+		},
+		{
+			"href": "part-01-chapter-06.html",
+			"title": "Part 1 - Chapter 6"
+		},
+		{
+			"href": "part-01-chapter-07.html",
+			"title": "Part 1 - Chapter 7"
+		},
+		{
+			"href": "part-02-chapter-01.html",
+			"title": "Part 2 - Chapter 1"
+		},
+		{
+			"href": "part-02-chapter-02.html",
+			"title": "Part 2 - Chapter 2"
+		},
+		{
+			"href": "part-02-chapter-03.html",
+			"title": "Part 2 - Chapter 3"
+		},
+		{
+			"href": "part-02-chapter-04.html",
+			"title": "Part 2 - Chapter 4"
+		},
+		{
+			"href": "part-02-chapter-05.html",
+			"title": "Part 2 - Chapter 5"
+		},
+		{
+			"href": "part-02-chapter-06.html",
+			"title": "Part 2 - Chapter 6"
+		},
+		{
+			"href": "part-03-chapter-01.html",
+			"title": "Part 3 - Chapter 1"
+		},
+		{
+			"href": "part-03-chapter-02.html",
+			"title": "Part 3 - Chapter 2"
+		},
+		{
+			"href": "part-03-chapter-03.html",
+			"title": "Part 3 - Chapter 3"
+		},
+		{
+			"href": "part-03-chapter-04.html",
+			"title": "Part 3 - Chapter 4"
+		},
+		{
+			"href": "part-04-chapter-01.html",
+			"title": "Part 4 - Chapter 1"
+		},
+		{
+			"href": "part-04-chapter-02.html",
+			"title": "Part 4 - Chapter 2"
+		},
+		{
+			"href": "part-04-chapter-03.html",
+			"title": "Part 4 - Chapter 3"
+		},
+		{
+			"href": "part-04-chapter-04.html",
+			"title": "Part 4 - Chapter 4"
+		},
+		{
+			"href": "part-04-chapter-05.html",
+			"title": "Part 4 - Chapter 5"
+		},
+		{
+			"href": "part-05-chapter-01.html",
+			"title": "Part 5 - Chapter 1"
+		},
+		{
+			"href": "part-05-chapter-02.html",
+			"title": "Part 5 - Chapter 2"
+		},
+		{
+			"href": "part-05-chapter-03.html",
+			"title": "Part 5 - Chapter 3"
+		},
+		{
+			"href": "part-05-chapter-04.html",
+			"title": "Part 5 - Chapter 4"
+		}
+	]
+}

@@ -1,0 +1,159 @@
+{
+	"title": "Romance",
+	"author": "Joseph CONRAD",
+	"source": "https://www.gutenberg.org/files/17642/17642-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Preface",
+		"-p",
+		"Part/^PART /",
+		"-c",
+		"//k",
+		"https://www.gutenberg.org/files/17642/17642-0.txt"
+	],
+	"lastupdated": "2020-07-02T16:27:36Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "part-01-chapter-01.html",
+			"title": "Part 1 - Chapter 1"
+		},
+		{
+			"href": "part-01-chapter-02.html",
+			"title": "Part 1 - Chapter 2"
+		},
+		{
+			"href": "part-01-chapter-03.html",
+			"title": "Part 1 - Chapter 3"
+		},
+		{
+			"href": "part-01-chapter-04.html",
+			"title": "Part 1 - Chapter 4"
+		},
+		{
+			"href": "part-01-chapter-05.html",
+			"title": "Part 1 - Chapter 5"
+		},
+		{
+			"href": "part-02-chapter-02.html",
+			"title": "Part 2 - Chapter 2"
+		},
+		{
+			"href": "part-02-chapter-03.html",
+			"title": "Part 2 - Chapter 3"
+		},
+		{
+			"href": "part-02-chapter-04.html",
+			"title": "Part 2 - Chapter 4"
+		},
+		{
+			"href": "part-02-chapter-05.html",
+			"title": "Part 2 - Chapter 5"
+		},
+		{
+			"href": "part-02-chapter-06.html",
+			"title": "Part 2 - Chapter 6"
+		},
+		{
+			"href": "part-02-chapter-07.html",
+			"title": "Part 2 - Chapter 7"
+		},
+		{
+			"href": "part-02-chapter-08.html",
+			"title": "Part 2 - Chapter 8"
+		},
+		{
+			"href": "part-03-chapter-02.html",
+			"title": "Part 3 - Chapter 2"
+		},
+		{
+			"href": "part-03-chapter-03.html",
+			"title": "Part 3 - Chapter 3"
+		},
+		{
+			"href": "part-03-chapter-04.html",
+			"title": "Part 3 - Chapter 4"
+		},
+		{
+			"href": "part-03-chapter-05.html",
+			"title": "Part 3 - Chapter 5"
+		},
+		{
+			"href": "part-03-chapter-06.html",
+			"title": "Part 3 - Chapter 6"
+		},
+		{
+			"href": "part-03-chapter-07.html",
+			"title": "Part 3 - Chapter 7"
+		},
+		{
+			"href": "part-04-chapter-02.html",
+			"title": "Part 4 - Chapter 2"
+		},
+		{
+			"href": "part-04-chapter-03.html",
+			"title": "Part 4 - Chapter 3"
+		},
+		{
+			"href": "part-04-chapter-04.html",
+			"title": "Part 4 - Chapter 4"
+		},
+		{
+			"href": "part-04-chapter-05.html",
+			"title": "Part 4 - Chapter 5"
+		},
+		{
+			"href": "part-04-chapter-06.html",
+			"title": "Part 4 - Chapter 6"
+		},
+		{
+			"href": "part-04-chapter-07.html",
+			"title": "Part 4 - Chapter 7"
+		},
+		{
+			"href": "part-04-chapter-08.html",
+			"title": "Part 4 - Chapter 8"
+		},
+		{
+			"href": "part-04-chapter-09.html",
+			"title": "Part 4 - Chapter 9"
+		},
+		{
+			"href": "part-04-chapter-10.html",
+			"title": "Part 4 - Chapter 10"
+		},
+		{
+			"href": "part-04-chapter-11.html",
+			"title": "Part 4 - Chapter 11"
+		},
+		{
+			"href": "part-04-chapter-12.html",
+			"title": "Part 4 - Chapter 12"
+		},
+		{
+			"href": "part-05-chapter-02.html",
+			"title": "Part 5 - Chapter 2"
+		},
+		{
+			"href": "part-05-chapter-03.html",
+			"title": "Part 5 - Chapter 3"
+		},
+		{
+			"href": "part-05-chapter-04.html",
+			"title": "Part 5 - Chapter 4"
+		},
+		{
+			"href": "part-05-chapter-05.html",
+			"title": "Part 5 - Chapter 5"
+		},
+		{
+			"href": "part-05-chapter-06.html",
+			"title": "Part 5 - Chapter 6"
+		}
+	]
+}

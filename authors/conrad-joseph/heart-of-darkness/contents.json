@@ -1,0 +1,27 @@
+{
+	"title": "Heart of Darkness",
+	"author": "Joseph CONRAD",
+	"source": "http://www.gutenberg.org/files/219/219-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"Part//k",
+		"http://www.gutenberg.org/files/219/219-0.txt"
+	],
+	"lastupdated": "2020-07-01T19:16:40Z",
+	"chapters": [
+		{
+			"href": "part-01.html",
+			"title": "Part 1"
+		},
+		{
+			"href": "part-02.html",
+			"title": "Part 2"
+		},
+		{
+			"href": "part-03.html",
+			"title": "Part 3"
+		}
+	]
+}

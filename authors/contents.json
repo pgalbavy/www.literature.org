@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2020-06-27T07:50:05Z",
+	"lastupdated": "2020-07-01T19:16:58Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -299,6 +299,10 @@
 		{
 			"href": "coleridge-samuel-taylor",
 			"name": "Samuel Taylor COLERIDGE"
+		},
+		{
+			"href": "conrad-joseph",
+			"name": "Joseph CONRAD"
 		}
 	]
 }

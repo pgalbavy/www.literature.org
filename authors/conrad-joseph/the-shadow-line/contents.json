@@ -1,0 +1,39 @@
+{
+	"title": "The Shadow-Line",
+	"author": "Joseph CONRAD",
+	"source": "https://www.gutenberg.org/files/451/451-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-p",
+		"Part/^PART /",
+		"https://www.gutenberg.org/files/451/451-0.txt"
+	],
+	"lastupdated": "2020-07-02T16:34:14Z",
+	"chapters": [
+		{
+			"href": "part-01-chapter-01.html",
+			"title": "Part 1 - Chapter 1"
+		},
+		{
+			"href": "part-01-chapter-02.html",
+			"title": "Part 1 - Chapter 2"
+		},
+		{
+			"href": "part-01-chapter-03.html",
+			"title": "Part 1 - Chapter 3"
+		},
+		{
+			"href": "part-02-chapter-04.html",
+			"title": "Part 2 - Chapter 4"
+		},
+		{
+			"href": "part-02-chapter-05.html",
+			"title": "Part 2 - Chapter 5"
+		},
+		{
+			"href": "part-02-chapter-06.html",
+			"title": "Part 2 - Chapter 6"
+		}
+	]
+}

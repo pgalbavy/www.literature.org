@@ -1,0 +1,189 @@
+{
+	"title": "The Rescue",
+	"author": "Joseph CONRAD",
+	"source": "https://www.gutenberg.org/files/1712/1712-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Author's Note",
+		"-p",
+		"Part/^PART /",
+		"https://www.gutenberg.org/files/1712/1712-0.txt"
+	],
+	"lastupdated": "2020-07-02T16:21:52Z",
+	"chapters": [
+		{
+			"href": "authors-note.html",
+			"title": "Author's Note"
+		},
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "part-01-chapter-01.html",
+			"title": "Part 1 - Chapter 1"
+		},
+		{
+			"href": "part-01-chapter-02.html",
+			"title": "Part 1 - Chapter 2"
+		},
+		{
+			"href": "part-01-chapter-03.html",
+			"title": "Part 1 - Chapter 3"
+		},
+		{
+			"href": "part-01-chapter-04.html",
+			"title": "Part 1 - Chapter 4"
+		},
+		{
+			"href": "part-02-chapter-01.html",
+			"title": "Part 2 - Chapter 1"
+		},
+		{
+			"href": "part-02-chapter-02.html",
+			"title": "Part 2 - Chapter 2"
+		},
+		{
+			"href": "part-02-chapter-03.html",
+			"title": "Part 2 - Chapter 3"
+		},
+		{
+			"href": "part-02-chapter-04.html",
+			"title": "Part 2 - Chapter 4"
+		},
+		{
+			"href": "part-02-chapter-05.html",
+			"title": "Part 2 - Chapter 5"
+		},
+		{
+			"href": "part-02-chapter-06.html",
+			"title": "Part 2 - Chapter 6"
+		},
+		{
+			"href": "part-02-chapter-07.html",
+			"title": "Part 2 - Chapter 7"
+		},
+		{
+			"href": "part-03-chapter-01.html",
+			"title": "Part 3 - Chapter 1"
+		},
+		{
+			"href": "part-03-chapter-02.html",
+			"title": "Part 3 - Chapter 2"
+		},
+		{
+			"href": "part-03-chapter-03.html",
+			"title": "Part 3 - Chapter 3"
+		},
+		{
+			"href": "part-03-chapter-04.html",
+			"title": "Part 3 - Chapter 4"
+		},
+		{
+			"href": "part-03-chapter-05.html",
+			"title": "Part 3 - Chapter 5"
+		},
+		{
+			"href": "part-03-chapter-06.html",
+			"title": "Part 3 - Chapter 6"
+		},
+		{
+			"href": "part-03-chapter-07.html",
+			"title": "Part 3 - Chapter 7"
+		},
+		{
+			"href": "part-03-chapter-08.html",
+			"title": "Part 3 - Chapter 8"
+		},
+		{
+			"href": "part-03-chapter-09.html",
+			"title": "Part 3 - Chapter 9"
+		},
+		{
+			"href": "part-03-chapter-10.html",
+			"title": "Part 3 - Chapter 10"
+		},
+		{
+			"href": "part-04-chapter-01.html",
+			"title": "Part 4 - Chapter 1"
+		},
+		{
+			"href": "part-04-chapter-02.html",
+			"title": "Part 4 - Chapter 2"
+		},
+		{
+			"href": "part-04-chapter-03.html",
+			"title": "Part 4 - Chapter 3"
+		},
+		{
+			"href": "part-04-chapter-04.html",
+			"title": "Part 4 - Chapter 4"
+		},
+		{
+			"href": "part-04-chapter-05.html",
+			"title": "Part 4 - Chapter 5"
+		},
+		{
+			"href": "part-05-chapter-01.html",
+			"title": "Part 5 - Chapter 1"
+		},
+		{
+			"href": "part-05-chapter-02.html",
+			"title": "Part 5 - Chapter 2"
+		},
+		{
+			"href": "part-05-chapter-03.html",
+			"title": "Part 5 - Chapter 3"
+		},
+		{
+			"href": "part-05-chapter-04.html",
+			"title": "Part 5 - Chapter 4"
+		},
+		{
+			"href": "part-05-chapter-05.html",
+			"title": "Part 5 - Chapter 5"
+		},
+		{
+			"href": "part-05-chapter-06.html",
+			"title": "Part 5 - Chapter 6"
+		},
+		{
+			"href": "part-06-chapter-01.html",
+			"title": "Part 6 - Chapter 1"
+		},
+		{
+			"href": "part-06-chapter-02.html",
+			"title": "Part 6 - Chapter 2"
+		},
+		{
+			"href": "part-06-chapter-03.html",
+			"title": "Part 6 - Chapter 3"
+		},
+		{
+			"href": "part-06-chapter-04.html",
+			"title": "Part 6 - Chapter 4"
+		},
+		{
+			"href": "part-06-chapter-05.html",
+			"title": "Part 6 - Chapter 5"
+		},
+		{
+			"href": "part-06-chapter-06.html",
+			"title": "Part 6 - Chapter 6"
+		},
+		{
+			"href": "part-06-chapter-07.html",
+			"title": "Part 6 - Chapter 7"
+		},
+		{
+			"href": "part-06-chapter-08.html",
+			"title": "Part 6 - Chapter 8"
+		},
+		{
+			"href": "part-06-chapter-09.html",
+			"title": "Part 6 - Chapter 9"
+		}
+	]
+}
