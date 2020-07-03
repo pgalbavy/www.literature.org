@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/haggard-h-rider/king-solomons-mines",
-		"title": "King Solomon's Mines by H. Rider HAGGARD",
-		"lastupdated": "2020-06-17T16:28:54Z"
-	},
-	{
 		"href": "/authors/titus-harold/i-conquered",
 		"title": "\"I Conquered\" by Harold TITUS",
 		"lastupdated": "2020-06-19T15:33:58Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/conrad-joseph/typhoon",
 		"title": "Typhoon by Joseph CONRAD",
 		"lastupdated": "2020-07-02T17:10:03Z"
+	},
+	{
+		"href": "/authors/nesbit-edith/the-enchanted-castle",
+		"title": "The Enchanted Castle by Edith NESBIT",
+		"lastupdated": "2020-07-03T07:58:58Z"
 	}
 ]

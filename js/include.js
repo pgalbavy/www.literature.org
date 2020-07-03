@@ -7,18 +7,23 @@ function loadsitecode() {
 	if (window.location.protocol != 'https:') {
 		location.href = location.href.replace("http://", "https://");
 	}
-	Include();
-	Contents();
-	Navigate();
+	var scriptTag = document.getElementsByTagName('script');
+    scriptTag = scriptTag[scriptTag.length - 1];
+
+    var parent = scriptTag.parentNode;
+	// console.log("parent=", parent)
+	Include(document.body);
+	Contents(document.body);
+	Navigate(document.body);
 	// once we are done we can reveal the page
 	document.body.style.display = "block";
 }
 
 // check all DIV elements for an attribute of type include-html
 // and replace contents with file
-function Include() {
+function Include(element) {
 	const ATTR = "include-html";
-	for (var div of document.getElementsByTagName("div")) {
+	for (var div of element.getElementsByTagName("div")) {
 		var file = div.getAttribute(ATTR);
 		if (file) {
 			var req = new XMLHttpRequest();
@@ -34,8 +39,8 @@ function Include() {
 					// again as the header contains the nav tag - the other
 					// functions only repcae innerHTML with fixed html and no
 					// special tags
-					Include();
-					Navigate();
+					Include(div);
+					Navigate(div);
 				}
 			}
 
@@ -47,10 +52,10 @@ function Include() {
 	}
 }
 
-function Contents() {
+function Contents(element) {
 	const ATTR = "contents";
 	/* Loop through a collection of all ARTICLE elements: */
-	for (var article of document.getElementsByTagName("article")) {
+	for (var article of element.getElementsByTagName("article")) {
 		var file = article.getAttribute(ATTR);
 		if (file) {
 			/* Make an HTTP request using the attribute value as the file name: */
@@ -155,8 +160,7 @@ function Contents() {
 
 						article.innerHTML = html;
 					}
-					// Remove the attribute, and call this function once again
-					// to supported nested tags
+					// Remove the attribute - no recursion though
 					article.removeAttribute(ATTR);
 				}
 			}
@@ -168,9 +172,9 @@ function Contents() {
 	}
 }
 
-function Navigate() {
+function Navigate(element) {
 	const ATTR = "navigate";
-	for (var nav of document.getElementsByTagName("nav")) {
+	for (var nav of element.getElementsByTagName("nav")) {
 		var file = nav.getAttribute(ATTR);
 		if (file) {
 			/* Make an HTTP request using the attribute value as the file name: */
@@ -274,7 +278,6 @@ function Navigate() {
 							html += "<div class=\"w3-bar-item w3-button w3-disabled lit-narrow\"><i class=\"material-icons md-lit\">touch_app</i></div>"
 						}
 
-						console.log("touch: ", is_touch_enabled())
 						if (page < list.length - 1 && contents.author != "") {
 							// there is a valid next page
 							next = list[page + 1].href
@@ -388,8 +391,7 @@ function Navigate() {
 					document.title = title;
 				}
 
-				// Remove the attribute, and call this function once again
-				// to supported nested tags
+				// Remove the attribute
 				nav.removeAttribute(ATTR);
 			}
 			req.open("GET", file, true);
