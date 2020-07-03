@@ -7,16 +7,18 @@ function loadsitecode() {
 	if (window.location.protocol != 'https:') {
 		location.href = location.href.replace("http://", "https://");
 	}
-	var scriptTag = document.getElementsByTagName('script');
-    scriptTag = scriptTag[scriptTag.length - 1];
 
-    var parent = scriptTag.parentNode;
+	// restrict changes to the element we are called from
+	var scripts = document.getElementsByTagName('script');
+	script = scripts[scripts.length - 1];
+	var parent = scripts.parentNode;
+
 	// console.log("parent=", parent)
-	Include(document.body);
-	Contents(document.body);
-	Navigate(document.body);
+	Include(parent);
+	Contents(parent);
+	Navigate(parent);
 	// once we are done we can reveal the page
-	document.body.style.display = "block";
+	parent.style.display = "block";
 }
 
 // check all DIV elements for an attribute of type include-html
@@ -32,13 +34,12 @@ function Include(element) {
 				if (this.readyState == 4) {
 					if (this.status == 200) { div.innerHTML = this.responseText; }
 					if (this.status == 404) { div.innerHTML = "Page not found."; }
-					// Remove the attribute, and call this function again
-					// to account for nested elements handled by this local code
+					// Remove the attribute
 					div.removeAttribute(ATTR);
-					// this is the only function we call ourselves (and Navigate)
+					// this is the only function where we call ourselves (and Navigate)
 					// again as the header contains the nav tag - the other
-					// functions only repcae innerHTML with fixed html and no
-					// special tags
+					// functions only replace innerHTML with fixed html and no
+					// special tags are allowed there
 					Include(div);
 					Navigate(div);
 				}
