@@ -11,7 +11,7 @@ function loadsitecode() {
 	// restrict changes to the element we are called from
 	var scripts = document.getElementsByTagName('script');
 	script = scripts[scripts.length - 1];
-	var parent = scripts.parentNode;
+	var parent = script.parentNode;
 
 	// console.log("parent=", parent)
 	Include(parent);
