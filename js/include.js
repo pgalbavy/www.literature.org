@@ -270,7 +270,7 @@ function Navigate(element) {
 						if (page > 0) {
 							// there is a valid previous page
 							prev = list[page - 1].href;
-							html += "<a href=\"" + prev + "\" class=\"w3-bar-item w3-buttonm\"><i class=\"material-icons md-lit\">arrow_back</i></a>";
+							html += "<a href=\"" + prev + "\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">arrow_back</i></a>";
 						} else {
 							html += "<div class=\"w3-bar-item w3-button w3-disabled w3-hover-none\"><i class=\"material-icons md-lit\">arrow_back</i></div>";
 						}
