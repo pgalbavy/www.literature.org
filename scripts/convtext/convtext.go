@@ -45,8 +45,8 @@ type Level struct {
 	dontinfer bool
 	skiptitleline bool
 	titlepara bool
-	sep       string
 	sepre     *regexp.Regexp
+	firstmatchre *regexp.Regexp
 	parts	  []string
 	index	  int
 	chunks    []Chunk
@@ -101,11 +101,11 @@ func main() {
 	flag.StringVar(&levels[0].title, "c", "Chapter", "Text for chapter level splits")
 	flag.StringVar(&levels[1].title, "p", "", "Text for part level seperator - empty means ignore")
 
-	var skipto, skipafter string
-	flag.StringVar(&skipto, "skipto", "", "Skipto regexp before reading text")
-	flag.StringVar(&skipafter, "skipafter", `(?i)^.*end of .*project gutenberg`, "Skipafter regexp truncate text")
-	flag.IntVar(&maxtitle, "maxtitle", 60, "Max Title Length (when on another line)")
-	flag.StringVar(&writedir, "output", ".", "Destination directory")
+	var firstmatch, discard string
+	flag.StringVar(&firstmatch, "f", "", "firstmatch regexp before reading text")
+	flag.StringVar(&discard, "d", `(?i)^.*end of .*project gutenberg`, "Discard regexp to truncate text")
+	flag.IntVar(&maxtitle, "m", 60, "Max Title Length (when on another line)")
+	flag.StringVar(&writedir, "dir", ".", "Destination directory")
 
 	flag.StringVar(&prename, "pre", "", "Rename chapter-00 to this")
 	flag.Parse()
@@ -184,22 +184,23 @@ func main() {
 	}
 	fmt.Printf("Processing text: %q by %q\n", contents.Title, contents.Author)
 
-	// also optionally save as chap 0 ?
-
-	if skipto != "" {
-		re, err := regexp.Compile("(?m)" + skipto)
-		if err != nil {
-			log.Fatal(err)
-		}
-
-		parts := re.Split(text, 2)
-		if len(parts) == 2 {
-			text = parts[1]
+	// just prefix the sep regexp, at the highest enabled level, with a non-capturing prefix?
+	// nope XXX
+	if firstmatch != "" {
+		for l := len(levels)-1; l >= 0; l-- {
+			level := &(levels)[l]
+			// skip levels without a prefix
+			if level.sepre == nil {
+				continue
+			}
+			fmt.Printf("adding firstmatch %q to level %d\n", firstmatch, l)
+			level.firstmatchre = regexp.MustCompile(`(?m)` + firstmatch)
+			break
 		}
 	}
 
-	if skipafter != "" {
-		re, err := regexp.Compile("(?m)" + skipafter)
+	if discard != "" {
+		re, err := regexp.Compile("(?m)" + discard)
 		if err != nil {
 			log.Fatal(err)
 		}
@@ -236,11 +237,18 @@ func splitlevel(leveltext string, levels *[]Level, l int, contents *literature.C
 		splittofiles(leveltext, levels, contents)
 	} else {
 		level := &(*levels)[l]
-		if level.sep == "" {
+		if level.sepre == nil {
 			// if level is unset, then make it "1" and not "0"
 			level.index = 1
 			splitlevel(leveltext, levels, l-1, contents)
 			return
+		}
+		if level.firstmatchre != nil {
+			parts := level.firstmatchre.Split(leveltext, 2)
+			// can save chunk specially here
+			fmt.Printf("firstmatch[0] => %q\n", parts[0])
+			leveltext = parts[1]
+			level.firstmatchre = nil
 		}
 		level.parts = level.sepre.Split(leveltext, -1)
 
@@ -269,6 +277,14 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 	level := &(*levels)[0]
 
 	fileprefix, titleformat := partnames(levels)
+
+	if level.firstmatchre != nil {
+		parts := level.firstmatchre.Split(text, 2)
+		// can save chunk specially here
+		fmt.Printf("firstmatch[0] => %q\n", parts[0])
+		text = parts[1]
+		level.firstmatchre = nil
+	}
 
 	parts := level.sepre.Split(text, -1)
 	titles := level.sepre.FindAllString(text, -1)
@@ -481,13 +497,14 @@ func levelOpts(level *Level, defaultText string) {
 		level.title = opts[1]
 	}
 
+	var seperator string
 	// at this point opts[2] still has delimiters and flags attached
 	opts[2] = strings.TrimSuffix(opts[2], opts[3])
 	levelreg := strings.Trim(opts[2], "/")
 	if levelreg == "" {
-		level.sep = `(?m)^(((?i)` + level.title + `\s)|(?P<roman>[IVXLC]+)\.?\s*$)`
+		seperator = `(?m)^(((?i)` + level.title + `\s)|(?P<roman>[IVXLC]+)\.?\s*$)`
 	} else {
-		level.sep = `(?m)^` + levelreg
+		seperator = `(?m)^` + levelreg
 	}
 
 	// check flags
@@ -512,11 +529,7 @@ func levelOpts(level *Level, defaultText string) {
 
 	}
 
-	var err error
-	level.sepre, err = regexp.Compile(level.sep)
-	if err != nil {
-		log.Fatal(err)
-	}
+	level.sepre = regexp.MustCompile(seperator)
 }
 
 // always called for level[0], so based on index values build prefix
@@ -528,8 +541,8 @@ func partnames(levels *[]Level) (partprefix string, partformat string) {
 	for l := len(*levels)-1; l >= 0; l-- {
 		level := (*levels)[l]
 		// skip levels without a prefix
-		if level.sep == "" {
-			continue;
+		if level.sepre == nil {
+			continue
 		}
 
 		if level.title != "" {
