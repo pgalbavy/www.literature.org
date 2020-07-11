@@ -419,7 +419,7 @@ function swipedetect(element, callback) {
 		startX = touchobj.pageX;
 		startY = touchobj.pageY;
 		startTime = new Date().getTime();
-	}, false)
+	}, {passive: true})
 
 	element.addEventListener('touchend', function (e) {
 		var touchobj = e.changedTouches[0];
