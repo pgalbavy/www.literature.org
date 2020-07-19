@@ -4,7 +4,7 @@
 	"source": "http://www.gutenberg.org/cache/epub/21700/pg21700.txt",
 	"links": {},
 	"cmdline": [
-		"C:\\Users\\peter\\go\\bin\\convtext.exe",
+		"convtext.exe",
 		"-pre",
 		"Dedication",
 		"-c",
