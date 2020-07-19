@@ -1,8 +1,12 @@
 {
 	"title": "Lord BYRON",
 	"source": "",
-	"links": {},
-	"lastupdated": "2020-07-19T15:40:38Z",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Lord_Byron",
+		"goodreads": "https://www.goodreads.com/author/show/44407",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/1708"
+	},
+	"lastupdated": "2020-07-19T15:50:43Z",
 	"books": [
 		{
 			"href": "don-juan",
