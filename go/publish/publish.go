@@ -19,7 +19,7 @@ import (
 )
 
 
-const defrootdir = "/var/www/www.literature.org"
+const defrootdir = "../"
 
 const templates = "templates"
 const index = "index.html"

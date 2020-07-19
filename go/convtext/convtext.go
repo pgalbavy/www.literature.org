@@ -18,7 +18,7 @@ import (
 	"literature.org/go/text2html"
 )
 
-const defrootdir = "/var/www/www.literature.org"
+const defrootdir = ".."
 
 const templates = "templates"
 const header = "header.html"

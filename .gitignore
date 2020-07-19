@@ -3,3 +3,4 @@ go/convtext/convtext
 go/addlink/addlink
 go.sum
 *.exe
+tmp
