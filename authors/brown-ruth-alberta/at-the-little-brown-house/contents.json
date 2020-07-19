@@ -1,0 +1,99 @@
+{
+	"title": "At the Little Brown House",
+	"author": "Ruth Alberta BROWN",
+	"source": "http://www.gutenberg.org/cache/epub/23785/pg23785.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"/^CHAPTER /kp",
+		"http://www.gutenberg.org/cache/epub/23785/pg23785.txt"
+	],
+	"lastupdated": "2020-07-19T15:52:50Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Morning Caller"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Minister's Reception"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Shoes And Strawberries"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Little Flower Girls"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Sackcloth And Ashes"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Thanksgiving Day At The Brown House"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Peace Surprises The Ladies' Aid"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Mysterious Santa Claus"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Faith's Awakening"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Company For Supper"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Gardens And Gophers"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Raspberry Patch"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Peace Gets Even"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Peace, The Good Samaritan"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Peace Collects Damages"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The State Fair Cake"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Circus And The Missionary"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Hand-Organ Man"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Heartbreak"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - At The Broker's Office"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Surprises"
+		}
+	]
+}

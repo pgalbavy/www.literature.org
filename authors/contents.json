@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2020-07-19T15:40:38Z",
+	"lastupdated": "2020-07-19T15:53:47Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -307,6 +307,10 @@
 		{
 			"href": "byron-lord",
 			"name": "Lord BYRON"
+		},
+		{
+			"href": "brown-ruth-alberta",
+			"name": "Ruth Alberta BROWN"
 		}
 	]
 }

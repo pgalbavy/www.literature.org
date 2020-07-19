@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/buck-charles-neville/the-call-of-the-cumberlands",
-		"title": "The Call of the Cumberlands by Charles Neville BUCK",
-		"lastupdated": "2020-06-19T15:37:09Z"
-	},
-	{
 		"href": "/authors/buck-charles-neville/destiny",
 		"title": "Destiny by Charles Neville BUCK",
 		"lastupdated": "2020-06-19T15:57:49Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/byron-lord/don-juan",
 		"title": "Don Juan by Lord BYRON",
 		"lastupdated": "2020-07-19T15:40:38Z"
+	},
+	{
+		"href": "/authors/brown-ruth-alberta/at-the-little-brown-house",
+		"title": "At the Little Brown House by Ruth Alberta BROWN",
+		"lastupdated": "2020-07-19T15:53:47Z"
 	}
 ]
