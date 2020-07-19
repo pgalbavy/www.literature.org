@@ -1,0 +1,75 @@
+{
+	"title": "Tabitha's Vacation",
+	"author": "Ruth Alberta BROWN",
+	"source": "http://www.gutenberg.org/cache/epub/20332/pg20332.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"/^CHAPTER /kp",
+		"http://www.gutenberg.org/cache/epub/20332/pg20332.txt"
+	],
+	"lastupdated": "2020-07-19T16:05:39Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The McKittricks' Misfortune"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Tabitha And Gloriana, Housekeepers"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Unwelcome Guests"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Mischief Makers"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Irene's Song"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Gloriana's Burglars"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Toady And The Castor Beans"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Billiard Runs Away"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Billiard Surrenders"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Susanne Entertains A Caller"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - In The Canyon"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Bank Of Silver Bow Is Robbed"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Robbers And The Haunted House"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Unexpected Happens"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Myra's Climax"
+		}
+	]
+}

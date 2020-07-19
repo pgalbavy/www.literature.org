@@ -1,0 +1,91 @@
+{
+	"title": "Heart of Gold",
+	"author": "Ruth Alberta BROWN",
+	"source": "http://www.gutenberg.org/cache/epub/23448/pg23448.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"/^CHAPTER /kp",
+		"http://www.gutenberg.org/cache/epub/23448/pg23448.txt"
+	],
+	"lastupdated": "2020-07-19T15:59:27Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Girl Who Took A Dare"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Scrap-Book Brigade"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Gussie's New Play"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Peace Learns The Bitter Truth"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Lilac Lady's Message"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Parsonage Twins"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - An Endless Chain Of Letters"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Allee's Album"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Peace Interviews The Bishop"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The New Pastor Of South Avenue Church"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Doctor Dick"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Miss Wayne"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Little Author Lady"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Keturah And Billy Bolee"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Ring That Built A Hospital"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Peace Discovers Some Secrets"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Hospital Wedding"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Seven Mcgees"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Wonderful Tidings"
+		}
+	]
+}

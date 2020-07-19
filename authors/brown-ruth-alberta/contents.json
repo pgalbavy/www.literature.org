@@ -5,11 +5,27 @@
 		"goodreads": "https://www.goodreads.com/author/show/15002527",
 		"gutenberg": "https://www.gutenberg.org/ebooks/author/9237"
 	},
-	"lastupdated": "2020-07-19T15:58:47Z",
+	"lastupdated": "2020-07-19T16:06:22Z",
 	"books": [
 		{
 			"href": "at-the-little-brown-house",
 			"title": "At the Little Brown House"
+		},
+		{
+			"href": "heart-of-gold",
+			"title": "Heart of Gold"
+		},
+		{
+			"href": "the-lilac-lady",
+			"title": "The Lilac Lady"
+		},
+		{
+			"href": "tabitha-at-ivy-hall",
+			"title": "Tabitha at Ivy Hall"
+		},
+		{
+			"href": "tabithas-vacation",
+			"title": "Tabitha's Vacation"
 		}
 	]
 }

@@ -1,0 +1,95 @@
+{
+	"title": "Tabitha at Ivy Hall",
+	"author": "Ruth Alberta BROWN",
+	"source": "http://www.gutenberg.org/cache/epub/25390/pg25390.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"/^CHAPTER /kp",
+		"http://www.gutenberg.org/cache/epub/25390/pg25390.txt"
+	],
+	"lastupdated": "2020-07-19T16:04:45Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Hateful Name"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Tabitha Chooses A New Name"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Tabitha Adopts Her New Name"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Name Causes Tabitha Trouble"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Tabitha Is Comforted"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Dog And A Cat"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The New Boy"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Tabitha Begs Pardon"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Brave Little Catt"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Carrie Goes Away To School"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Fire In The Night"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Dr. Vane Has A Visitor"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Aunt Maria Decides The Question"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Tabitha's Room-Mate"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The First Night At Ivy Hall"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Madame's Advice"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Holiday Plans"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Tabitha's Christmas"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Strike!"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Happy Home"
+		}
+	]
+}

@@ -1,0 +1,79 @@
+{
+	"title": "The Lilac Lady",
+	"author": "Ruth Alberta BROWN",
+	"source": "http://www.gutenberg.org/cache/epub/23782/pg23782.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"/^CHAPTER /kp",
+		"http://www.gutenberg.org/cache/epub/23782/pg23782.txt"
+	],
+	"lastupdated": "2020-07-19T16:03:45Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Exploring The New Home"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Flag Room"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Christmas Day With The Campbells"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Zealous Little Missionary"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - An Unexpected Invitation"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Peace's Spring Vacation"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Voice From The Lilac Bushes"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Picnic In The Enchanted Garden"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Giuseppe Nicoli And The Monkey"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Last Day Of School"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Peace Finds New Playmates"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Little Child Shall Lead Them"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Children's Day At Hill Street Church"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - How The Fourth Of July Money Was Spent"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Peace Gives The Lilac Lady An Idea"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Lilac Lady Falls Asleep"
+		}
+	]
+}

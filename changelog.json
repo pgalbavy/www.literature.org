@@ -1,25 +1,5 @@
 [
 	{
-		"href": "/authors/buck-charles-neville/destiny",
-		"title": "Destiny by Charles Neville BUCK",
-		"lastupdated": "2020-06-19T15:57:49Z"
-	},
-	{
-		"href": "/authors/buck-charles-neville/the-key-to-yesterday",
-		"title": "The Key to Yesterday by Charles Neville BUCK",
-		"lastupdated": "2020-06-19T15:58:41Z"
-	},
-	{
-		"href": "/authors/buck-charles-neville/the-lighted-match",
-		"title": "The Lighted Match by Charles Neville BUCK",
-		"lastupdated": "2020-06-19T16:00:12Z"
-	},
-	{
-		"href": "/authors/buck-charles-neville/a-pagan-of-the-hills",
-		"title": "A Pagan of the Hills by Charles Neville BUCK",
-		"lastupdated": "2020-06-19T16:01:17Z"
-	},
-	{
 		"href": "/authors/buck-charles-neville/the-portal-of-dreams",
 		"title": "The Portal of Dreams by Charles Neville BUCK",
 		"lastupdated": "2020-06-19T16:02:58Z"
@@ -498,5 +478,25 @@
 		"href": "/authors/brown-ruth-alberta/at-the-little-brown-house",
 		"title": "At the Little Brown House by Ruth Alberta BROWN",
 		"lastupdated": "2020-07-19T15:53:47Z"
+	},
+	{
+		"href": "/authors/brown-ruth-alberta/heart-of-gold",
+		"title": "Heart of Gold by Ruth Alberta BROWN",
+		"lastupdated": "2020-07-19T16:00:35Z"
+	},
+	{
+		"href": "/authors/brown-ruth-alberta/the-lilac-lady",
+		"title": "The Lilac Lady by Ruth Alberta BROWN",
+		"lastupdated": "2020-07-19T16:04:19Z"
+	},
+	{
+		"href": "/authors/brown-ruth-alberta/tabitha-at-ivy-hall",
+		"title": "Tabitha at Ivy Hall by Ruth Alberta BROWN",
+		"lastupdated": "2020-07-19T16:05:11Z"
+	},
+	{
+		"href": "/authors/brown-ruth-alberta/tabithas-vacation",
+		"title": "Tabitha's Vacation by Ruth Alberta BROWN",
+		"lastupdated": "2020-07-19T16:06:22Z"
 	}
 ]
