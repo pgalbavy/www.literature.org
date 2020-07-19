@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/buck-charles-neville/the-portal-of-dreams",
-		"title": "The Portal of Dreams by Charles Neville BUCK",
-		"lastupdated": "2020-06-19T16:02:58Z"
-	},
-	{
 		"href": "/authors/buck-charles-neville/the-roof-tree",
 		"title": "The Roof Tree by Charles Neville BUCK",
 		"lastupdated": "2020-06-19T16:05:06Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/brown-ruth-alberta/tabithas-vacation",
 		"title": "Tabitha's Vacation by Ruth Alberta BROWN",
 		"lastupdated": "2020-07-19T16:06:22Z"
+	},
+	{
+		"href": "/authors/swift-jonathan/gullivers-travels",
+		"title": "Gulliver's Travels by Jonathan SWIFT",
+		"lastupdated": "2020-07-19T19:18:51Z"
 	}
 ]

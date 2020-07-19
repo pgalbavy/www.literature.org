@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2020-07-19T15:53:47Z",
+	"lastupdated": "2020-07-19T19:18:51Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -311,6 +311,10 @@
 		{
 			"href": "brown-ruth-alberta",
 			"name": "Ruth Alberta BROWN"
+		},
+		{
+			"href": "swift-jonathan",
+			"name": "Jonathan SWIFT"
 		}
 	]
 }
