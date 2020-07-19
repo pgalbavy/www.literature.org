@@ -1,8 +1,11 @@
 {
 	"title": "Ruth Alberta BROWN",
 	"source": "",
-	"links": {},
-	"lastupdated": "2020-07-19T15:53:47Z",
+	"links": {
+		"goodreads": "https://www.goodreads.com/author/show/15002527",
+		"gutenberg": "https://www.gutenberg.org/ebooks/author/9237"
+	},
+	"lastupdated": "2020-07-19T15:58:47Z",
 	"books": [
 		{
 			"href": "at-the-little-brown-house",
