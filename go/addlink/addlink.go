@@ -1,8 +1,3 @@
-/*
- * The original repo can be found at:
- * https://github.com/pgalbavy/www.literature.org
- */
-
 package main
 
 // add links to an author or an individual book
@@ -20,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pgalbavy/www.literature.org/scripts/literature"
+	"literature.org/go/literature"
 )
 
 var wikipediaRE, goodreadsRE, gutenbergRE *regexp.Regexp

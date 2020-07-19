@@ -1,8 +1,3 @@
-/*
- * The original repo can be found at:
- * https://github.com/pgalbavy/www.literature.org
- */
-
 package main
 
 import (
@@ -17,7 +12,7 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/pgalbavy/www.literature.org/scripts/literature"
+	"literature.org/go/literature"
 
 	"golang.org/x/text/transform"
     "golang.org/x/text/unicode/norm"

@@ -1,8 +1,3 @@
-/*
- * The original repo can be found at:
- * https://github.com/pgalbavy/www.literature.org
- */
-
 package main
 
 import (
@@ -19,8 +14,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/pgalbavy/www.literature.org/scripts/literature"
-	"github.com/pgalbavy/www.literature.org/scripts/text2html"
+	"literature.org/go/literature"
+	"literature.org/go/text2html"
 )
 
 const defrootdir = "/var/www/www.literature.org"

@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pgalbavy/www.literature.org/scripts/literature"
+	"literature.org/go/literature"
 
 	"golang.org/x/text/transform"
 )

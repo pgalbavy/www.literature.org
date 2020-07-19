@@ -1,4 +1,4 @@
-package text2html
+package text2html // import literature.org/go/text2html
 
 import (
 	
@@ -9,9 +9,6 @@ import (
 	"log"
 	"os"
 	"strings"
-
-	"github.com/pgalbavy/www.literature.org/scripts/text2html"
-
 )
 
 func main() {

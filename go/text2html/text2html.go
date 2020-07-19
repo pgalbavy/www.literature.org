@@ -1,4 +1,4 @@
-package text2html
+package text2html // import literature.org/go/text2html
 
 import (
 	"log"

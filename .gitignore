@@ -1,3 +1,4 @@
-scripts/publish/publish
-scripts/convtext/convtext
-scripts/addlink/addlink
+go/publish/publish
+go/convtext/convtext
+go/addlink/addlink
+go.sum

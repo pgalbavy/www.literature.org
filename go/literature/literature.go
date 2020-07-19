@@ -1,9 +1,4 @@
-/*
- * The original repo can be found at:
- * https://github.com/pgalbavy/www.literature.org
- */
-
-package literature
+package literature // import literature.org/go/literature
 
 import (
 	"encoding/json"
