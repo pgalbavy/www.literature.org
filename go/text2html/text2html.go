@@ -30,47 +30,46 @@ func init() {
 	joinlines = regexp.MustCompile(`(?m)\r?\n`)
 	wordwrap = regexp.MustCompile(`(.{60,}?)\s(\S)`)
 
-
 	prehtmlrules = []swapchars{
-		swapchars { pattern: regexp.MustCompile(`(?m)&`), replace: `&amp;` },
-		swapchars { pattern: regexp.MustCompile(`(?m)<`), replace: `&lt;` },
-		swapchars { pattern: regexp.MustCompile(`(?m)>`), replace: `&gt;` },
-		swapchars { pattern: regexp.MustCompile(`(?m)[“”]`), replace: `"` },
+		swapchars{pattern: regexp.MustCompile(`(?m)&`), replace: `&amp;`},
+		swapchars{pattern: regexp.MustCompile(`(?m)<`), replace: `&lt;`},
+		swapchars{pattern: regexp.MustCompile(`(?m)>`), replace: `&gt;`},
+		swapchars{pattern: regexp.MustCompile(`(?m)[“”]`), replace: `"`},
 	}
 
 	charrules = []swapchars{
 		// four or more dashes with a horizontal rule
-		swapchars { pattern: regexp.MustCompile(`(?m)-{4,}`), replace: "<hr>" },
+		swapchars{pattern: regexp.MustCompile(`(?m)^\s*-{4,}\s*$`), replace: "<hr>"},
 		// all remaining pairs of dashes become an HTML mdash
-		swapchars { pattern: regexp.MustCompile(`(?m)--`), replace: "&mdash;" },
+		swapchars{pattern: regexp.MustCompile(`(?m)---+`), replace: "&#11834;"},
+		swapchars{pattern: regexp.MustCompile(`(?m)--`), replace: "&mdash;"},
 	}
 
 	linerules = []swapchars{
 		// a double dash followed by a capital is the name of an author or reference. move them to a new line
-		swapchars { pattern: regexp.MustCompile(`(?m)^([[:blank:]]*)?(.*)--([[:upper:]])`), replace: "$1$2\n$1&mdash;$3" },
+		swapchars{pattern: regexp.MustCompile(`(?m)^([[:blank:]]*)?(.*)--([[:upper:]])`), replace: "$1$2\n$1&mdash;$3"},
 		// a sequence of 3 or more capitals (or dots) are emphasised
-		swapchars { pattern: regexp.MustCompile(`(?m)([[:upper:]][[:upper:]\.-]{2,}[^[:lower:]]*)\b`), replace: "<em>$1</em>"},
+		swapchars{pattern: regexp.MustCompile(`(?m)([[:upper:]][[:upper:]\.-]{2,}[^[:lower:]]*)\b`), replace: "<em>$1</em>"},
 		// underscores at a word boundary enclose emphasised text, hashes mean string
-		swapchars { pattern: regexp.MustCompile(`(?ms)\b_(.*?)_\b`), replace: "<em>$1</em>"},
-		swapchars { pattern: regexp.MustCompile(`(?ms)\b/(.*?)/\b`), replace: "<em>$1</em>"},
-		swapchars { pattern: regexp.MustCompile(`(?ms)\#(.*?)#\b`), replace: "<strong>$1</strong>"},
+		swapchars{pattern: regexp.MustCompile(`(?ms)\b_(.*?)_\b`), replace: "<em>$1</em>"},
+		swapchars{pattern: regexp.MustCompile(`(?ms)\b/(.*?)/\b`), replace: "<em>$1</em>"},
+		swapchars{pattern: regexp.MustCompile(`(?ms)\#(.*?)#\b`), replace: "<strong>$1</strong>"},
 	}
 }
 
-func PreHTMLReplaceChars(text string) (string) {
+func PreHTMLReplaceChars(text string) string {
 	return replace(text, prehtmlrules)
 }
 
-func ReplaceChars(text string) (string) {
+func ReplaceChars(text string) string {
 	return replace(text, charrules)
 }
 
-func ReplaceLines(text string) (string) {
+func ReplaceLines(text string) string {
 	return replace(text, linerules)
 }
 
-
-func replace(text string, rules []swapchars) (string) {
+func replace(text string, rules []swapchars) string {
 	for _, swap := range rules {
 		text = swap.pattern.ReplaceAllString(text, swap.replace)
 	}
@@ -93,7 +92,7 @@ var poemclose = `</div>`
 	5. Other paragraphs have rules applied to process specific queues such as emphasis
 	   etc.
 */
-func ConvertString(text string) (string) {
+func ConvertString(text string) string {
 	// stage 1 - global substitution of character sets as required
 	text = PreHTMLReplaceChars(text)
 
@@ -130,11 +129,11 @@ func ConvertString(text string) (string) {
 			}
 
 			// was the previous para also a poem/quote ? if so, merge with a blank line?
-			if p > 0 && strings.HasSuffix(paras[p-1], poemclose + "\n") {
+			if p > 0 && strings.HasSuffix(paras[p-1], poemclose+"\n") {
 				paras[p-1] = paras[p-1][:len(paras[p-1])-len(poemclose)-1]
-				paras[p] = strings.Join([]string{ "<p>", para, "</p>", poemclose, "" }, "\n")
+				paras[p] = strings.Join([]string{"<p>", para, "</p>", poemclose, ""}, "\n")
 			} else {
-				paras[p] = strings.Join([]string{ poemopen, "<p>", para, "</p>", poemclose, "" }, "\n")
+				paras[p] = strings.Join([]string{poemopen, "<p>", para, "</p>", poemclose, ""}, "\n")
 			}
 		} else {
 			para = ReplaceLines(para)
