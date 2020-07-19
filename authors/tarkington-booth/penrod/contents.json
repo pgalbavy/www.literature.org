@@ -1,0 +1,137 @@
+{
+	"title": "Penrod",
+	"author": "Booth TARKINGTON",
+	"source": "http://www.gutenberg.org/files/402/402-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"http://www.gutenberg.org/files/402/402-0.txt"
+	],
+	"lastupdated": "2020-07-19T20:41:36Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Boy And His Dog"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Romance"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Costume"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Desperation"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Pageant Of The Table Round"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Evening"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Evils Of Drink"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - School"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Soaring"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Uncle John"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Fidelity Of A Little Dog"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Miss Rennsdale Accepts"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Smallpox Medicine"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Maurice Levy's Constitution"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Two Families"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The New Star"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Retiring From The Show-Business"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Music"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Inner Boy"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Brothers Of Angels"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Rupe Collins"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Imitator"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Coloured Troops In Action"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - \"Little Gentleman\""
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Tar"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - The Quiet Afternoon"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Conclusion Of The Quiet Afternoon"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Twelve"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Fanchon"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - The Birthday Party"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Over The Fence"
+		}
+	]
+}

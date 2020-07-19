@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2020-07-19T19:18:51Z",
+	"lastupdated": "2020-07-19T19:52:22Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -315,6 +315,10 @@
 		{
 			"href": "swift-jonathan",
 			"name": "Jonathan SWIFT"
+		},
+		{
+			"href": "tarkington-booth",
+			"name": "Booth TARKINGTON"
 		}
 	]
 }

@@ -1,0 +1,93 @@
+{
+	"title": "The Two Vanrevels",
+	"author": "Booth TARKINGTON",
+	"source": "http://www.gutenberg.org/files/3428/3428-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"http://www.gutenberg.org/files/3428/3428-0.txt"
+	],
+	"lastupdated": "2020-07-19T21:12:55Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Cat Can Do More Than Look At A King"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Surviving Evils Of The Reign Of Terror"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Rogue's Gallery Of A Father Should Be Exhibited To A Daughter With Particular Care"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - \"But Spare Your Country's Flag\""
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Nero Not The Last Violinist Of His Kind"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Ever Unpractical Feminine"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Comedian"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Tale Of A Political Difference"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Rule Of The Regent"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Echoes Of A Serenade"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Voice In A Garden"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Room In The Cupola"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Tocsin"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Firm Of Gray And Vanrevel"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - When June Came"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - \"Those Endearing Young Charms\""
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Price Of Silence"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Uniform"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Flag Goes Marching By"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - \"Goodby\""
+		}
+	]
+}

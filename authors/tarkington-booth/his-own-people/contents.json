@@ -1,0 +1,55 @@
+{
+	"title": "His Own People",
+	"author": "Booth TARKINGTON",
+	"source": "http://www.gutenberg.org/files/2326/2326-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"/^[IVCXL]+\\./",
+		"http://www.gutenberg.org/files/2326/2326-0.txt"
+	],
+	"lastupdated": "2020-07-19T21:01:16Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Change Of Lodging"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Music On The Pincio"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Glamour"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Good Fellowship"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Lady Mount Rhyswicke"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Rake's Progress"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Next Morning"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - What Cornish Knew"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Expiation"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Cab At The Corner"
+		}
+	]
+}

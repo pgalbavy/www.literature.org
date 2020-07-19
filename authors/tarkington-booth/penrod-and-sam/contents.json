@@ -1,0 +1,109 @@
+{
+	"title": "Penrod and Sam",
+	"author": "Booth TARKINGTON",
+	"source": "http://www.gutenberg.org/files/1158/1158-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"http://www.gutenberg.org/files/1158/1158-0.txt"
+	],
+	"lastupdated": "2020-07-19T21:07:34Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Penrod And Sam"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Bonded Prisoner"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Militarist"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Bingism"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The In-Or-In"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Georgie Becomes A Member"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Whitey"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Salvage"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Reward Of Merit"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Conscience"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Tonic"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Gipsy"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Concerning Trousers"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Camera Work In The Jungle"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Model Letter To A Friend"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Wednesday Madness"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Penrod's Busy Day"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - On Account Of The Weather"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Creative Art"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Departing Guest"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Yearnings"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Horn Of Fame"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Party"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Heart Of Marjorie Jones"
+		}
+	]
+}

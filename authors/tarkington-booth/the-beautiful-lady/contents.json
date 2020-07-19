@@ -1,0 +1,55 @@
+{
+	"title": "The Beautiful Lady",
+	"author": "Booth TARKINGTON",
+	"source": "http://www.gutenberg.org/files/5798/5798-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"/^Chapter /k",
+		"http://www.gutenberg.org/files/5798/5798-0.txt"
+	],
+	"lastupdated": "2020-07-19T20:49:59Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10"
+		}
+	]
+}

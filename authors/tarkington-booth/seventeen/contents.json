@@ -1,0 +1,135 @@
+{
+	"title": "Seventeen",
+	"author": "Booth TARKINGTON",
+	"source": "http://www.gutenberg.org/files/1611/1611-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/files/1611/1611-0.txt"
+	],
+	"lastupdated": "2020-07-19T21:09:59Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - William"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Unknown"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Painful Age"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Genesis And Clematis"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Sorrows Within A Boiler"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Truculence"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Mr. Baxter's Evening Clothes"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Jane"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Little Sisters Have Big Ears"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Mr. Parcher And Love"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Beginning A True Friendship"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Progress Of The Symptoms"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - At Home To His Friends"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Time Does Fly"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Romance Of Statistics"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Shower"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Jane's Theory"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Big, Fat Lummox"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - \"I Dunno Why It Is\""
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Sydney Carton"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - My Little Sweethearts"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Foreshadowings"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Fathers Forget"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Clothes Make The Man"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Youth And Mr. Parcher"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Miss Boke"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Marooned"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Rannie Kirsted"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - \"Don't Forget!\""
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - The Bride-To-Be"
+		}
+	]
+}
