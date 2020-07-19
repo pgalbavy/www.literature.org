@@ -276,7 +276,6 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 	if level.firstmatchre != nil {
 		parts := level.firstmatchre.Split(text, 2)
 		// can save chunk specially here
-		fmt.Printf("firstmatch[0] => %q\n", parts[0])
 		text = parts[1]
 		level.firstmatchre = nil
 	}
@@ -292,7 +291,7 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 	//}
 
 	for partnum, parttext := range parts {
-		chunk := Chunk{} // title: "", html: "", filename: ""}
+		chunk := Chunk{}
 
 		// try to rescue the title roman number
 		if partnum > 0 {
@@ -469,6 +468,8 @@ func infernumber(text string, number int) (string, int) {
 	return text, number
 }
 
+var optre = regexp.MustCompile(`([^/]*)+(/.*/(\w+)*)?`)
+
 func levelOpts(level *Level, defaultText string) {
 	// no option set? return without processing
 	if level.title == "" {
@@ -476,7 +477,6 @@ func levelOpts(level *Level, defaultText string) {
 	}
 
 	// process -c/-p options - '[TEXT][/REGEXP/[FLAGS]]'
-	optre := regexp.MustCompile(`([^/]*)+(/.*/(\w+)*)?`)
 
 	opts := optre.FindStringSubmatch(level.title)
 	if opts[0] == "" {
@@ -498,7 +498,7 @@ func levelOpts(level *Level, defaultText string) {
 	opts[2] = strings.TrimSuffix(opts[2], opts[3])
 	levelreg := strings.Trim(opts[2], "/")
 	if levelreg == "" {
-		seperator = `(?m)^(((?i)` + level.title + `\s)|(?P<roman>[IVXLC]+)\.?\s*$)`
+		seperator = `(?m)^(((?i)` + level.title + `\s(?P<roman>[IVXLC]+))|(?P<roman>[IVXLC]+)[\.\s]*$)`
 	} else {
 		seperator = `(?m)^` + levelreg
 	}
