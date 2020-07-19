@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2020-07-01T19:16:58Z",
+	"lastupdated": "2020-07-19T15:40:38Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -303,6 +303,10 @@
 		{
 			"href": "conrad-joseph",
 			"name": "Joseph CONRAD"
+		},
+		{
+			"href": "byron-lord",
+			"name": "Lord BYRON"
 		}
 	]
 }

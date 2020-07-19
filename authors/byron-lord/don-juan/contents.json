@@ -1,0 +1,89 @@
+{
+	"title": "Don Juan",
+	"author": "Lord BYRON",
+	"source": "http://www.gutenberg.org/cache/epub/21700/pg21700.txt",
+	"links": {},
+	"cmdline": [
+		"C:\\Users\\peter\\go\\bin\\convtext.exe",
+		"-pre",
+		"Dedication",
+		"-c",
+		"Canto/^CANTO /k",
+		"http://www.gutenberg.org/cache/epub/21700/pg21700.txt"
+	],
+	"lastupdated": "2020-07-19T15:39:36Z",
+	"chapters": [
+		{
+			"href": "dedication.html",
+			"title": "Dedication"
+		},
+		{
+			"href": "canto-01.html",
+			"title": "Canto 1"
+		},
+		{
+			"href": "canto-02.html",
+			"title": "Canto 2"
+		},
+		{
+			"href": "canto-03.html",
+			"title": "Canto 3"
+		},
+		{
+			"href": "canto-04.html",
+			"title": "Canto 4"
+		},
+		{
+			"href": "canto-05.html",
+			"title": "Canto 5"
+		},
+		{
+			"href": "canto-06.html",
+			"title": "Canto 6"
+		},
+		{
+			"href": "canto-07.html",
+			"title": "Canto 7"
+		},
+		{
+			"href": "canto-08.html",
+			"title": "Canto 8"
+		},
+		{
+			"href": "canto-09.html",
+			"title": "Canto 9"
+		},
+		{
+			"href": "canto-10.html",
+			"title": "Canto 10"
+		},
+		{
+			"href": "canto-11.html",
+			"title": "Canto 11"
+		},
+		{
+			"href": "canto-12.html",
+			"title": "Canto 12"
+		},
+		{
+			"href": "canto-13.html",
+			"title": "Canto 13"
+		},
+		{
+			"href": "canto-14.html",
+			"title": "Canto 14"
+		},
+		{
+			"href": "canto-15.html",
+			"title": "Canto 15"
+		},
+		{
+			"href": "canto-16.html",
+			"title": "Canto 16"
+		},
+		{
+			"href": "canto-17.html",
+			"title": "Canto 17"
+		}
+	]
+}

@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/titus-harold/i-conquered",
-		"title": "\"I Conquered\" by Harold TITUS",
-		"lastupdated": "2020-06-19T15:33:58Z"
-	},
-	{
 		"href": "/authors/buck-charles-neville/the-call-of-the-cumberlands",
 		"title": "The Call of the Cumberlands by Charles Neville BUCK",
 		"lastupdated": "2020-06-19T15:37:09Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/nesbit-edith/the-enchanted-castle",
 		"title": "The Enchanted Castle by Edith NESBIT",
 		"lastupdated": "2020-07-03T07:58:58Z"
+	},
+	{
+		"href": "/authors/byron-lord/don-juan",
+		"title": "Don Juan by Lord BYRON",
+		"lastupdated": "2020-07-19T15:40:38Z"
 	}
 ]
