@@ -110,6 +110,7 @@ func main() {
 
 	// save command line, even if it is not much use
 	contents.Cmdline = os.Args
+	contents.Cmdline[0] = filepath.Base(contents.Cmdline[0])
 
 	var file string
 	files := flag.Args()
