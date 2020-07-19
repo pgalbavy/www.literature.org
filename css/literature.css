@@ -72,6 +72,6 @@ div.lit-narrow, a.lit-narrow {
 	letter-spacing: 1px;
 }
 
-.quote {
+section, .quote {
 	font-style: italic;
 }
