@@ -35,18 +35,18 @@ var prename string
 // level[1] => parts
 // etc.
 type Level struct {
-	title   string
-	inctitlematch  bool
-	dontinfer bool
+	title         string
+	inctitlematch bool
+	dontinfer     bool
 	skiptitleline bool
-	titlepara bool
-	sepre     *regexp.Regexp
-	firstmatchre *regexp.Regexp
-	parts	  []string
-	index	  int
-	chunks    []Chunk
-	header		string
-	footer		string
+	titlepara     bool
+	sepre         *regexp.Regexp
+	firstmatchre  *regexp.Regexp
+	parts         []string
+	index         int
+	chunks        []Chunk
+	header        string
+	footer        string
 }
 
 type Chunk struct {
@@ -183,7 +183,7 @@ func main() {
 	// just prefix the sep regexp, at the highest enabled level, with a non-capturing prefix?
 	// nope XXX
 	if firstmatch != "" {
-		for l := len(levels)-1; l >= 0; l-- {
+		for l := len(levels) - 1; l >= 0; l-- {
 			level := &(levels)[l]
 			// skip levels without a prefix
 			if level.sepre == nil {
@@ -207,7 +207,6 @@ func main() {
 		}
 	}
 
-
 	// split file starting at the top level and working down to level[0]
 
 	// for each level above 0, split and store the slice of parts in the level and then recurse
@@ -224,7 +223,7 @@ func main() {
 }
 
 // given the "text" in a level, split it up further based on settings and return
-// the results as a slice of text segments 
+// the results as a slice of text segments
 
 // pass the file name formats down as we go?
 
@@ -255,14 +254,14 @@ func splitlevel(leveltext string, levels *[]Level, l int, contents *literature.C
 			if t != nil {
 
 				if !level.dontinfer && len(t[0]) > 0 {
-					t[0], level.index = infernumber(t[0], level.index)			
+					t[0], level.index = infernumber(t[0], level.index)
 				}
 
 				if level.titlepara && t != nil && len(t[1]) < maxtitle {
 					parttext = t[2]
 				}
 			}
-			// recurse	
+			// recurse
 			splitlevel(parttext, levels, l-1, contents)
 		}
 	}
@@ -288,12 +287,12 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 
 	chapternumber := 0
 
-	if (*levels)[1].index != 1 {
-		chapternumber = 1
-	}
- 
+	//if (*levels)[1].index != 1 {
+	//	chapternumber = 1
+	//}
+
 	for partnum, parttext := range parts {
-		chunk := Chunk{title: "", html: "", filename: ""}
+		chunk := Chunk{} // title: "", html: "", filename: ""}
 
 		// try to rescue the title roman number
 		if partnum > 0 {
@@ -321,14 +320,14 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 		// infer = assume chapter title is NUMBER [PUNC] [SPACE TITLE]
 
 		if !level.dontinfer {
-			paras[0], chapternumber = infernumber(paras[0], chapternumber)			
+			paras[0], chapternumber = infernumber(paras[0], chapternumber)
 		}
 
 		if !level.skiptitleline {
 			chunk.title += paras[0]
 		}
 		parttext = strings.Join(paras[1:], "\n\n")
-		
+
 		// append next para to any existing title, but limit to maxtitle chars
 		if level.titlepara {
 			if len(paras[1]) < maxtitle {
@@ -344,6 +343,7 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 		if len(parttext) > 0 {
 			chunk.html = level.header + text2html.ConvertString(parttext) + level.footer
 		} else {
+			// skip empty parts (like part 0)
 			chapternumber++
 			continue
 		}
@@ -534,7 +534,7 @@ func partnames(levels *[]Level) (partprefix string, partformat string) {
 	partprefix = ""
 	partformat = ""
 
-	for l := len(*levels)-1; l >= 0; l-- {
+	for l := len(*levels) - 1; l >= 0; l-- {
 		level := (*levels)[l]
 		// skip levels without a prefix
 		if level.sepre == nil {
