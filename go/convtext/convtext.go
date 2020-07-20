@@ -64,7 +64,7 @@ func init() {
 	dashre = regexp.MustCompile(`[ _]+`)
 	puncre = regexp.MustCompile(`[[:punct:][:cntrl:]]+`)
 
-	firstre = regexp.MustCompile(`(?mi)\A(?:the )?project gutenberg(?: ebook of|'s| ebook,) ([\pL\.,!\-’'"\(\) ]+),\s+by\s+([\pL\.\-'\(\) ]+)\,?\r?$`)
+	firstre = regexp.MustCompile(`(?mi)\A(?:the )?project gutenberg(?: e\w+ of|'s| e\w+,) ([\pL\.,!\-’'"\(\) ]+),\s+by\s+([\pL\.\-'\(\) ]+)\,?\r?$`)
 
 	levels = make([]Level, 2, 5)
 }

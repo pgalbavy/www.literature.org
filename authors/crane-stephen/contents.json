@@ -1,9 +1,20 @@
 {
 	"title": "Stephen CRANE",
-	"author": "",
+	"source": "",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Stephen_Crane",
+		"goodreads": "https://www.goodreads.com/author/show/19879",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/55"
+	},
+	"lastupdated": "2020-07-20T19:49:19Z",
 	"books": [
-		{ "href": "maggie-a-girl-of-the-streets", "title": "Maggie: A Girl of the Streets" },
-		{ "href": "the-red-badge-of-courage", "title": "The Red Badge of Courage" }
+		{
+			"href": "maggie-a-girl-of-the-streets",
+			"title": "Maggie: A Girl of the Streets"
+		},
+		{
+			"href": "the-red-badge-of-courage",
+			"title": "The Red Badge of Courage"
+		}
 	]
 }
-

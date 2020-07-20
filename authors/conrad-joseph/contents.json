@@ -1,8 +1,12 @@
 {
 	"title": "Joseph CONRAD",
 	"source": "",
-	"links": {},
-	"lastupdated": "2020-07-02T17:10:03Z",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Joseph_Conrad",
+		"goodreads": "https://www.goodreads.com/author/show/3345",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/125"
+	},
+	"lastupdated": "2020-07-20T19:39:35Z",
 	"books": [
 		{
 			"href": "heart-of-darkness",

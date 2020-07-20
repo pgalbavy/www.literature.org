@@ -1,8 +1,18 @@
 {
 	"title": "Samuel Taylor COLERIDGE",
 	"source": "",
-	"links": {},
-	"lastupdated": "2020-06-27T07:50:05Z",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge",
+		"goodreads": "https://www.goodreads.com/author/show/11525",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/95",
+		"other": [
+			{
+				"href": "https://www.bl.uk/people/samuel-taylor-coleridge",
+				"title": "British Library"
+			}
+		]
+	},
+	"lastupdated": "2020-07-20T19:35:54Z",
 	"books": [
 		{
 			"href": "the-rime-of-the-ancient-mariner",

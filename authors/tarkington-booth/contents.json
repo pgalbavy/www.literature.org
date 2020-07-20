@@ -1,8 +1,12 @@
 {
 	"title": "Booth TARKINGTON",
 	"source": "",
-	"links": {},
-	"lastupdated": "2020-07-19T21:13:15Z",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Booth_Tarkington",
+		"goodreads": "https://www.goodreads.com/author/show/73021",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/169"
+	},
+	"lastupdated": "2020-07-20T19:22:03Z",
 	"books": [
 		{
 			"href": "alice-adams",

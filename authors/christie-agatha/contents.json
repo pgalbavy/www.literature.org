@@ -1,9 +1,20 @@
 {
 	"title": "Agatha CHRISTIE",
-	"author": "",
+	"source": "",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Agatha_Christie",
+		"goodreads": "https://www.goodreads.com/author/show/123715",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/451"
+	},
+	"lastupdated": "2020-07-20T19:27:12Z",
 	"books": [
-		{ "href": "the-mysterious-affair-at-styles", "title": "The Mysterious Affair at Styles" },
-		{ "href": "the-man-in-the-brown-suit", "title": "The Man in the Brown Suit" }
+		{
+			"href": "the-mysterious-affair-at-styles",
+			"title": "The Mysterious Affair at Styles"
+		},
+		{
+			"href": "the-man-in-the-brown-suit",
+			"title": "The Man in the Brown Suit"
+		}
 	]
 }
-

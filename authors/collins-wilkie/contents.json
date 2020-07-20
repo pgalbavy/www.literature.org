@@ -1,17 +1,52 @@
 {
 	"title": "Wilkie COLLINS",
-	"author": "",
+	"source": "",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Wilkie_Collins",
+		"goodreads": "https://www.goodreads.com/author/show/4012",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/98"
+	},
+	"lastupdated": "2020-07-20T19:37:56Z",
 	"books": [
-		{ "href": "the-frozen-deep", "title": "The Frozen Deep" },
-		{ "href": "the-haunted-hotel", "title": "The Haunted Hotel" },
-		{ "href": "i-say-no", "title": "I Say No" },
-		{ "href": "the-law-and-the-lady", "title": "The Law and the Lady" },
-		{ "href": "my-ladys-money", "title": "My Lady's Money" },
-		{ "href": "the-new-magdalen", "title": "The New Magdalen" },
-		{ "href": "a-rogues-life", "title": "A Rogue's Life" },
-		{ "href": "the-two-destinies", "title": "The Two Destinies" },
-		{ "href": "miss-or-mrs", "title": "Miss or Mrs?" },
-		{ "href": "man-and-wife", "title": "Man and Wife" }
+		{
+			"href": "the-frozen-deep",
+			"title": "The Frozen Deep"
+		},
+		{
+			"href": "the-haunted-hotel",
+			"title": "The Haunted Hotel"
+		},
+		{
+			"href": "i-say-no",
+			"title": "I Say No"
+		},
+		{
+			"href": "the-law-and-the-lady",
+			"title": "The Law and the Lady"
+		},
+		{
+			"href": "my-ladys-money",
+			"title": "My Lady's Money"
+		},
+		{
+			"href": "the-new-magdalen",
+			"title": "The New Magdalen"
+		},
+		{
+			"href": "a-rogues-life",
+			"title": "A Rogue's Life"
+		},
+		{
+			"href": "the-two-destinies",
+			"title": "The Two Destinies"
+		},
+		{
+			"href": "miss-or-mrs",
+			"title": "Miss or Mrs?"
+		},
+		{
+			"href": "man-and-wife",
+			"title": "Man and Wife"
+		}
 	]
 }
-
