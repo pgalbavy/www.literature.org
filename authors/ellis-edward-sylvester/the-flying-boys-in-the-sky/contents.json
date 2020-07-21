@@ -1,0 +1,151 @@
+{
+	"title": "The Flying Boys in the Sky",
+	"author": "Edward Sylvester ELLIS",
+	"source": "https://www.gutenberg.org/files/50823/50823-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-f",
+		"XXXIII",
+		"-c",
+		"/^\\s+CHAPTER /p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"https://www.gutenberg.org/files/50823/50823-0.txt"
+	],
+	"lastupdated": "2020-07-21T10:06:06Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Learning To Fly"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Bohunkus Johnson"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Aeroplane In A Race"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Trying For Altitude"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Woodland Expert"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Working For Dinner"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Dragon Of The Skies"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Professor Talks On Aviation"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Professor Talks On Aviation (Continued.)"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Flying Boys Continue Their Journey"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Fired On"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Peaceful Overtures Fail"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Science Wins"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Milo Morgan Saves The Day"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Uncle Tommy"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Mysterious Communication"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Called To The Rescue"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Planning The Search"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Aeroplane Destroyed"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Puzzling Telegram"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Beginning The Search"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - In Danger Of Collision"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Cabin In The Woods"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - On The Trail Of The Black Handers"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - A False Clue"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - The Search Renewed"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Bohunkus At The Levers"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Fired On By The Kidnappers"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Retribution"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - The Rescue"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Lynch Law"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - Mysteries Are Explained"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Where Is Bohunkus?"
+		}
+	]
+}

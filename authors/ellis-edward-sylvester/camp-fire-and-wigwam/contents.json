@@ -1,0 +1,149 @@
+{
+	"title": "Camp-fire and Wigwam",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/25966/pg25966.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/25966/pg25966.txt"
+	],
+	"lastupdated": "2020-07-21T09:38:40Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - At Home"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Doubtful Enterprise"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - What Might Have Been Expected"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Captors And Captives"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Journeying Southward"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - An Involuntary Bath"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Two Visitors"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Surprise"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - By The Camp-Fire"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Waiting And Hoping"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Through The Forest"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Signal Fires"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Indian Village"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - On The Mountain Crest"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Return And Departure"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Perplexing Question"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Two Acquaintances And Friends"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Trappers"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Deerfoot's Woodcraft"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Sauk And Shawanoe"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Christian And Pagan"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - An Aboriginal Sermon"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - In The Lodge Of Ogallah"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - A Row"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The War Feast"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - An Alarming Discovery"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - \"Gah-Haw-Ge.\""
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - A Patient Of The Medicine Man"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Convalescence"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - Out In The World"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Journeying Eastward"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - A Miscalculation"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Conclusion"
+		}
+	]
+}

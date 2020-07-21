@@ -1,0 +1,77 @@
+{
+	"title": "The Frontier Angel",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/34681/pg34681.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/34681/pg34681.txt"
+	],
+	"lastupdated": "2020-07-21T10:14:26Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Night Before The Departure"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Fate Of The Flat-Boat"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Two Scouts"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Faint Hope"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Mysterious Warning"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Frontier Angel--The Shawnees"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Pursuit Of Knowledge Under Difficulties"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Man In Trouble"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Peter Jenkins--A Couple Of Speeches"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Prize Gained And Lost"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Mingling Of Fear, Doubt, And Hope"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Dark"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Attack In The Wood"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - \"All's Well That Ends Well.\""
+		}
+	]
+}

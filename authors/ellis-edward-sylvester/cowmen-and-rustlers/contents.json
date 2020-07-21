@@ -1,0 +1,157 @@
+{
+	"title": "Cowmen and Rustlers",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/11337/pg11337.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/11337/pg11337.txt"
+	],
+	"lastupdated": "2020-07-21T09:41:57Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Merry Group"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Warning From The Woods"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Flight Over The Ice"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Report Of Guns"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Looking Southward"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Cowmen And Rustlers"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Warning"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Good-Bye"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Summons And A Reply"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Hot Pursuit"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Strange Diversion"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Back Trail"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Consultation"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Unwelcome Callers"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The \"Dog Indians.\""
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - An Unpleasant Visit"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Delicate Situation"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Miscalculation"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Burned Ranch"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Truce"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Messenger In Haste"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Important Tidings"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - At Bay"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Primitive Fort"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Flag Of Truce"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - The Underground Missive"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - On Parole"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The Final Summons"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - A Strange Occurrence"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - The Missing One"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Why It Was Done"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - The Hostage"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - The Prisoner"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - Out In The Night"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - Conclusion"
+		}
+	]
+}

@@ -1,0 +1,129 @@
+{
+	"title": "Deerfoot in The Mountains",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/25334/pg25334.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/25334/pg25334.txt"
+	],
+	"lastupdated": "2020-07-21T09:45:16Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Eastward Bound"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Lost, Strayed Or Stolen"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Trail Northward"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Land Of The Assiniboines"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Welcome Sight"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Comrades True"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Mishap"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Enemies And Friends"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - In The Rockies"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - In The Blackfoot Country"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - In Winter Quarters"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Blackfoot Citizens"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Summoned To Court"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A New Blackfoot Citizen"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Spirit Circle"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Field Of Honor"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Memorable Duel"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Discipline In The Ranks"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - \"Behold He Prayeth.\""
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Light In Darkness"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Homeward Bound"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - A Memorable Meeting"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Lewis And Clark's Expedition"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Overboard"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Jack Halloway Again"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - A Temperance Agitator"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - \"Good-Bye\""
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Retrospect"
+		}
+	]
+}

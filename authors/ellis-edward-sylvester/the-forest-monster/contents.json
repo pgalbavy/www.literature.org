@@ -1,0 +1,73 @@
+{
+	"title": "The Forest Monster",
+	"author": "Edward Sylvester ELLIS",
+	"source": "https://www.gutenberg.org/files/59147/59147-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"https://www.gutenberg.org/files/59147/59147-0.txt"
+	],
+	"lastupdated": "2020-07-21T10:13:27Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Mysterious Rescue"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - What Is It?"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Teddy O’doherty’s Encounters"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Demon At The Camp-Fire"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - In The Canon"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Black Tom’s Adventure"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Gold!"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Lovers"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - \"I Had A Dream Which Was Not All A Dream.\""
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Wonderful Cavern"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Around The Camp-Fire"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Hunting Wealth By Firelight"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Between Two Clouds"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Conclusion"
+		}
+	]
+}

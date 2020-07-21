@@ -1,0 +1,165 @@
+{
+	"title": "Adrift on the Pacific",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/29667/pg29667.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/29667/pg29667.txt"
+	],
+	"lastupdated": "2020-07-21T08:29:30Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Captain Strathmore's Passenger"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Captain And Inez"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - An Accident"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Missing"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The New Passenger"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - \"Port Your Helm!\""
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Reason Why The Voyage Was Undertaken"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Voyaging Southward"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Groping In The Dark"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Mutineers"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Captain Bergen Makes Two Important Discoveries"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - In The Haven At Last"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Oyster Bed"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Revolt"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Friend In Need"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Strange Visitor"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - On The Coral"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Visit From Shore"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Departure"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - How Diamond Cut Diamond"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - At Last"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Pearl Of The Pacific"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Dismal Home"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Three Years"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - An Arrival"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - The Flying Proa And Its Commander"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Fred Sanders"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The Mate Becomes Captain"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Farewell To The Island"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - On The Flying Proa"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - A Strange Craft"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - A Friend Among Enemies"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - The Pursuit"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - Closing In"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - Wauparmur"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - Homeward Bound"
+		},
+		{
+			"href": "chapter-37.html",
+			"title": "Chapter 37 - Conclusion"
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"title": "The Daughter of the Chieftain",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/7493/pg7493.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"/^CHAPTER /",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/7493/pg7493.txt"
+	],
+	"lastupdated": "2020-07-21T09:44:08Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Omas, Alice, And Linna"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Danger In The Air"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - July Third, 1778"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Eastern Shore"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - In The Woods"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Pushing Eastward"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Jabez Zitner"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Linna's Woodcraft"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - In A Circle"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Near The End"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - All In Vain"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Conclusion"
+		}
+	]
+}

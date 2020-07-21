@@ -1,0 +1,117 @@
+{
+	"title": "The Boy Patrol Around the Council Fire",
+	"author": "Edward Sylvester ELLIS",
+	"source": "https://www.gutenberg.org/files/43218/43218-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"/^\\s+CHAPTER /",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"https://www.gutenberg.org/files/43218/43218-0.txt"
+	],
+	"lastupdated": "2020-07-21T08:51:53Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - \"He And I Must Never Meet\""
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Slight Miscalculation"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Strange Occurrence"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Curious Sights And Doings"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Concerning Certain American Trees"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Patriot Martyr"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Concerning Certain New England Birds"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Council Of War"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - An Unwelcome Guest"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Sudden Separation"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - An Unsatisfactory Interview"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Groping After The Truth"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Committee Of Investigation"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Men Who Laughed"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The True Story Of A Famous Sea Serpent"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Zip"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Wonderful Work"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Match Of Wits"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Final Test"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Speed The Parting Guest"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Call For Help"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Groping In The Dark"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Fortunate Meeting"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - \"The Latchstring Was Inside!\""
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - And The Last"
+		}
+	]
+}

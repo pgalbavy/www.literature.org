@@ -1,0 +1,125 @@
+{
+	"title": "The Cave in the Mountain",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/14647/pg14647.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/14647/pg14647.txt"
+	],
+	"lastupdated": "2020-07-21T09:40:33Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Strange Guide"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Alone In The Gloom"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Strange Experiences"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Sunlight And Hope"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Mining And Countermining"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Daring Exploit"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Fishing For A Friend"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Fishing For A Prize"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Groping In Darkness"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - \"Here We Are Again!\""
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Through The Mountains"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Through The Mountains. Continued"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - In The Nick Of Time"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Between Two Fires"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - On The Defensive"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Friend Or Enemy?"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Fortunate Diversion"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - An Old Acquaintance"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - How It Was Done"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Sut's Camp Fire"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Safety And Sleep"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Two Old Acquaintances"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Border Chivalry"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Night Visitors"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Hunting A Steed"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Lone Wolf's Tactics"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - The End"
+		}
+	]
+}

@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2020-07-19T19:52:22Z",
+	"lastupdated": "2020-07-21T08:26:27Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -319,6 +319,10 @@
 		{
 			"href": "tarkington-booth",
 			"name": "Booth TARKINGTON"
+		},
+		{
+			"href": "ellis-edward-sylvester",
+			"name": "Edward Sylvester ELLIS"
 		}
 	]
 }

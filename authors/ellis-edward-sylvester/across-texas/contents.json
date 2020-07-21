@@ -1,0 +1,167 @@
+{
+	"title": "Across Texas",
+	"author": "Edward Sylvester ELLIS",
+	"source": "https://www.gutenberg.org/files/48970/48970-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/files/48970/48970-0.txt"
+	],
+	"lastupdated": "2020-07-21T08:17:47Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Letter And A Telegram"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Through To Texas"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - In San Antonio"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Startling Interruption"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Test Of One’s Nerves"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Two Good Shots"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - An Intruder In Camp"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Bell Rickard"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Departure Of The Guest"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Danger In The East"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Strange Proceedings"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - What Does It Mean?"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - An Unexpected Signal"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Strange Absence"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Caught Foul"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - An Astounding Discovery"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Solitary Pursuer"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Second Range Of Hills"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - In The Ravine"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Reinforcements"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Pursuit"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Across The Border"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Relic Of Other Days"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - A Race With An Avalanche"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Ranch"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Bell Rickard’s Scheme"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Watching And Waiting"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The Sound Of A Pistol"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Through The Night"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - A Figure In The Darkness"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - The Return"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - The Encounter"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Important Negotiations"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - A Strange Discovery"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - Through The Lines Again"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - The Decision"
+		},
+		{
+			"href": "chapter-37.html",
+			"title": "Chapter 37 - The Final Charge"
+		},
+		{
+			"href": "chapter-38.html",
+			"title": "Chapter 38 - Conclusion"
+		}
+	]
+}

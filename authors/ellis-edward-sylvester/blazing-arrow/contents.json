@@ -1,0 +1,149 @@
+{
+	"title": "Blazing Arrow",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/41777/pg41777.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/41777/pg41777.txt"
+	],
+	"lastupdated": "2020-07-21T08:45:32Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Larry And Wharton"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - On The Brink"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Over The Falls"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Blazing Arrow"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Through The Woods"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Miscalculation"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Check"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Chat"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Turning Back"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Groping In The Dark"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - In A Corner"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Reversing Positions"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Blunder"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Looking On"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Hail And An Answer"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Detour"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - By The Lake"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Strange Sight"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Zany Or Lunatic"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Across The Gorge"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Strange Pursuit"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Arqu-Wao"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Serious Question"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Tracks Of Horses"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - A Singular Meeting"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Footprints"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Red Crow"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Good News"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Red Crow's Errand"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - All Together"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - The New Route"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - The Last Halt"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Conclusion"
+		}
+	]
+}

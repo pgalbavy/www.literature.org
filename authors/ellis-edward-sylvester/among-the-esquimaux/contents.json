@@ -1,0 +1,149 @@
+{
+	"title": "Among the Esquimaux",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/45192/pg45192.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/45192/pg45192.txt"
+	],
+	"lastupdated": "2020-07-21T08:36:01Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Two Passengers On The \"Nautilus\""
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Colossal Somersault"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - An Alarming Situation"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Adrift"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - An Icy Couch"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Missing"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Point Of Light"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Hope Deferred"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Startling Occurrence"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - An Ugly Customer"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Lively Times"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Fred's Experience"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Fog"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Collision"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Sound Of A Voice"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Land Ho!"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Docak And His Home"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A New Expedition"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Wonderful Exhibition"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Herd Of Musk Oxen"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Close Quarters"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Fred's Turn"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - In The Cavern"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Unwelcome Callers"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Coming Shadow"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Walled In"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - \"Come On!\""
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - A Hopeless Task"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Ten Miles"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - The Last Pause"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Another Sound"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - The Wild Men Of Greenland"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Conclusion"
+		}
+	]
+}

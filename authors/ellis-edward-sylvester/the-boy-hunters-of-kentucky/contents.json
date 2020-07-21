@@ -1,0 +1,89 @@
+{
+	"title": "The Boy Hunters of Kentucky",
+	"author": "Edward Sylvester ELLIS",
+	"source": "https://www.gutenberg.org/files/49143/49143-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"/^\\s+\\*CHAPTER /p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"https://www.gutenberg.org/files/49143/49143-0.txt"
+	],
+	"lastupdated": "2020-07-21T08:49:07Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Young Pioneer"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Training A Kentucky Rifleman"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Meeting On The Bridge"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Home Of Jack"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Young Wyandot"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Wrestling Bout"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Jack Resumes His Journey"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Travelling Southward"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Royal Game"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Hunting The Hunters"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - George Makes A Shot"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Strange Camp Fire"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Captive And Captors"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Signal And Its Reply"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Another Arrival"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - How To Conquer An Enemy"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Friend At Court"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Conclusion"
+		}
+	]
+}

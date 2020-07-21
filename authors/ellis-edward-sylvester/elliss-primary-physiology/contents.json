@@ -1,0 +1,109 @@
+{
+	"title": "Ellis's Primary Physiology",
+	"author": "Edward Sylvester ELLIS",
+	"source": "https://www.gutenberg.org/files/52775/52775-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-m",
+		"160",
+		"-f",
+		"THE DIGESTIBILITY OF SOLID FOODS",
+		"-c",
+		"/^\\s+CHAPTER /np",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"https://www.gutenberg.org/files/52775/52775-0.txt"
+	],
+	"lastupdated": "2020-07-21T09:58:27Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Why The Laws Of Good Health Should Be Studied"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Cleanliness-Bathing"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Drinking"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Eating"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Hair, Ears, Eyes, And Feet"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Teeth"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Exercise"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Art Of Swimming"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - How To Treat Drowned Persons"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Another Method Of Treatment In Cases Of Asphyxia From Drowning, Chloroform, Coal-Gas, Etc"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Muscles"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Rest And Posture"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Pure Air, Clothing, Etc"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Accidents And Emergencies"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Nerves, Brain, Spinal Cord, Etc"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Sunstroke And Poisons"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Cigarette Smoking"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Alcohol"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Bones, Skeleton, Etc"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Cheerful Disposition"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Digestibility Of Solid Foods"
+		}
+	]
+}

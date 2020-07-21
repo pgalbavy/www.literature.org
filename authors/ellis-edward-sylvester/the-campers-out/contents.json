@@ -1,0 +1,149 @@
+{
+	"title": "The Campers Out",
+	"author": "Edward Sylvester ELLIS",
+	"source": "https://www.gutenberg.org/files/42504/42504-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"https://www.gutenberg.org/files/42504/42504-0.txt"
+	],
+	"lastupdated": "2020-07-21T09:33:10Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Plotters"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - How The Scheme Worked"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Startling Occurrence"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Runaways"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Way Of The Transgressor"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Sowing Seed"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - One Afternoon In Autumn"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Fellow-Passengers"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Dick Halliard"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Startling Summons"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - No Joke"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Victim Of A Mistake"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Adrift In The Swamp"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Host And Guests"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Forest Path"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Plotters"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Brave Exploit"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - An Act Of Forgetfulness"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - An Error Of Judgment"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Baying Of A Hound"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - \"Help! Help!\""
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Hot Quarters"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Brilliant Shot"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Suspicious Footprints"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Up A Tree"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Hunting The Hunters"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - A Race For Life"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - A Cry From The Darkness"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - A Sad Discovery"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - A Friend Indeed"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Dick Halliard Is Astounded"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - How It Happened"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Conclusion"
+		}
+	]
+}

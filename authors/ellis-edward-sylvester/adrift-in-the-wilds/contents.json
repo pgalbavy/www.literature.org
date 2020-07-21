@@ -1,0 +1,217 @@
+{
+	"title": "Adrift in the Wilds",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/21626/pg21626.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/21626/pg21626.txt"
+	],
+	"lastupdated": "2020-07-21T08:27:53Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Ho, For California"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Fire"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Afloat"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Passenger"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Land"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The California Coast"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Rescue"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Indians"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Pursuit"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Good Samaritan"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Further East"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Salinas Valley"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Another Bargain"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Strange Occurrence"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Crotalus"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Camp-Fire"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Miners"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Want Supplied"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Canoe"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Shasta, The Pah Utah"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Hunt For Food"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Danger"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Drifting Away"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - A Hunt"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - A Singular Escape"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Shasta's Hunt"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - The Night Voyage"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - A Pah Utah's Method Of Fishing"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - A Night Disturbance"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - The Wolverines"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Shasta's Humor"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - Again On The River"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - A Halt"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - Exit Shasta"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - The Western Shore"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - The Ramble"
+		},
+		{
+			"href": "chapter-37.html",
+			"title": "Chapter 37 - Back To Camp"
+		},
+		{
+			"href": "chapter-38.html",
+			"title": "Chapter 38 - Waiting And Watching"
+		},
+		{
+			"href": "chapter-39.html",
+			"title": "Chapter 39 - The Search"
+		},
+		{
+			"href": "chapter-40.html",
+			"title": "Chapter 40 - The End Of The Search"
+		},
+		{
+			"href": "chapter-41.html",
+			"title": "Chapter 41 - A Boy Lost"
+		},
+		{
+			"href": "chapter-42.html",
+			"title": "Chapter 42 - A Dreary Night"
+		},
+		{
+			"href": "chapter-43.html",
+			"title": "Chapter 43 - Wanderings"
+		},
+		{
+			"href": "chapter-44.html",
+			"title": "Chapter 44 - A Old Acquaintance"
+		},
+		{
+			"href": "chapter-45.html",
+			"title": "Chapter 45 - A Friend In Need"
+		},
+		{
+			"href": "chapter-46.html",
+			"title": "Chapter 46 - What Shasta Did"
+		},
+		{
+			"href": "chapter-47.html",
+			"title": "Chapter 47 - Still Waiting"
+		},
+		{
+			"href": "chapter-48.html",
+			"title": "Chapter 48 - The Meeting"
+		},
+		{
+			"href": "chapter-49.html",
+			"title": "Chapter 49 - Homeward Bound"
+		},
+		{
+			"href": "chapter-50.html",
+			"title": "Chapter 50 - Rescued"
+		}
+	]
+}

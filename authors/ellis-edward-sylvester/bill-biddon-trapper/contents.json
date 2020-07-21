@@ -1,0 +1,65 @@
+{
+	"title": "Bill Biddon, Trapper",
+	"author": "Edward Sylvester ELLIS",
+	"source": "https://www.gutenberg.org/files/42057/42057-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"https://www.gutenberg.org/files/42057/42057-0.txt"
+	],
+	"lastupdated": "2020-07-21T08:44:07Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Out Late At Night"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A New Friend"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Trapper’s Story"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Trapping Grounds"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Conversations And Plans"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Still In The Dark--The Canoe Again"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Alone In The Wilderness"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Trapping Among The Indians"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Buffalo Hunt And Its Consequences"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - An Awful Awakening"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Brigade And An Old Friend"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Found At Last"
+		}
+	]
+}

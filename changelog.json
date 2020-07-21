@@ -1,125 +1,5 @@
 [
 	{
-		"href": "/authors/leblanc-maurice/arsene-lupin",
-		"title": "Arsene Lupin by Maurice LEBLANC",
-		"lastupdated": "2020-06-20T06:58:19Z"
-	},
-	{
-		"href": "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes",
-		"title": "Arsène Lupin versus Herlock Sholmes by Maurice LEBLANC",
-		"lastupdated": "2020-06-20T07:01:23Z"
-	},
-	{
-		"href": "/authors/leblanc-maurice/the-confessions-of-arsene-lupin",
-		"title": "The Confessions of Arsène Lupin by Maurice LEBLANC",
-		"lastupdated": "2020-06-20T07:09:04Z"
-	},
-	{
-		"href": "/authors/leblanc-maurice/the-crystal-stopper",
-		"title": "The Crystal Stopper by Maurice LEBLANC",
-		"lastupdated": "2020-06-20T07:10:15Z"
-	},
-	{
-		"href": "/authors/leblanc-maurice/the-teeth-of-the-tiger",
-		"title": "The Teeth of the Tiger by Maurice LEBLANC",
-		"lastupdated": "2020-06-20T07:12:26Z"
-	},
-	{
-		"href": "/authors/leblanc-maurice/the-frontier",
-		"title": "The Frontier by Maurice LEBLANC",
-		"lastupdated": "2020-06-20T07:15:57Z"
-	},
-	{
-		"href": "/authors/leblanc-maurice/the-golden-triangle",
-		"title": "The Golden Triangle by Maurice LEBLANC",
-		"lastupdated": "2020-06-20T08:02:49Z"
-	},
-	{
-		"href": "/authors/leblanc-maurice/the-hollow-needle",
-		"title": "The Hollow Needle by Maurice LEBLANC",
-		"lastupdated": "2020-06-20T08:04:55Z"
-	},
-	{
-		"href": "/authors/leblanc-maurice/the-eight-strokes-of-the-clock",
-		"title": "The Eight Strokes of the Clock by Maurice LEBLANC",
-		"lastupdated": "2020-06-20T08:07:45Z"
-	},
-	{
-		"href": "/authors/leblanc-maurice/the-secret-of-sarek",
-		"title": "The Secret of Sarek by Maurice LEBLANC",
-		"lastupdated": "2020-06-20T08:13:46Z"
-	},
-	{
-		"href": "/authors/leblanc-maurice/the-tremendous-event",
-		"title": "The Tremendous Event by Maurice LEBLANC",
-		"lastupdated": "2020-06-20T08:19:52Z"
-	},
-	{
-		"href": "/authors/leblanc-maurice/the-woman-of-mystery",
-		"title": "The Woman of Mystery by Maurice LEBLANC",
-		"lastupdated": "2020-06-20T08:21:26Z"
-	},
-	{
-		"href": "/authors/ridge-w-pett/the-amazing-years",
-		"title": "The Amazing Years by W. Pett RIDGE",
-		"lastupdated": "2020-06-20T11:46:05Z"
-	},
-	{
-		"href": "/authors/ridge-w-pett/a-son-of-the-state",
-		"title": "A Son of the State by W. Pett RIDGE",
-		"lastupdated": "2020-06-20T11:48:50Z"
-	},
-	{
-		"href": "/authors/ridge-w-pett/mixed-grill",
-		"title": "Mixed Grill by W. Pett RIDGE",
-		"lastupdated": "2020-06-20T11:53:40Z"
-	},
-	{
-		"href": "/authors/ridge-w-pett/table-dhote",
-		"title": "Table d'Hôte by W. Pett RIDGE",
-		"lastupdated": "2020-06-20T11:54:47Z"
-	},
-	{
-		"href": "/authors/ridge-w-pett/e-r-b",
-		"title": "\"E R B\" by W. Pett RIDGE",
-		"lastupdated": "2020-06-20T11:57:44Z"
-	},
-	{
-		"href": "/authors/ridge-w-pett/love-at-paddington",
-		"title": "Love at Paddington by W. Pett RIDGE",
-		"lastupdated": "2020-06-20T11:58:44Z"
-	},
-	{
-		"href": "/authors/burroughs-edgar-rice/the-girl-from-hollywood",
-		"title": "The Girl from Hollywood by Edgar Rice BURROUGHS",
-		"lastupdated": "2020-06-20T12:01:49Z"
-	},
-	{
-		"href": "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men",
-		"title": "Tarzan and the Ant Men by Edgar Rice BURROUGHS",
-		"lastupdated": "2020-06-20T12:04:13Z"
-	},
-	{
-		"href": "/authors/burroughs-edgar-rice/the-moon-maid",
-		"title": "The Moon Maid by Edgar Rice BURROUGHS",
-		"lastupdated": "2020-06-20T12:05:23Z"
-	},
-	{
-		"href": "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion",
-		"title": "Tarzan and the Golden Lion by Edgar Rice BURROUGHS",
-		"lastupdated": "2020-06-20T12:06:59Z"
-	},
-	{
-		"href": "/authors/burroughs-edgar-rice/the-efficiency-expert",
-		"title": "The Efficiency Expert by Edgar Rice BURROUGHS",
-		"lastupdated": "2020-06-20T12:08:36Z"
-	},
-	{
-		"href": "/authors/burroughs-edgar-rice/tarzan-the-terrible",
-		"title": "Tarzan the Terrible by Edgar Rice BURROUGHS",
-		"lastupdated": "2020-06-20T12:13:52Z"
-	},
-	{
 		"href": "/authors/burroughs-edgar-rice/the-mucker",
 		"title": "The Mucker by Edgar Rice BURROUGHS",
 		"lastupdated": "2020-06-20T12:19:08Z"
@@ -498,5 +378,125 @@
 		"href": "/authors/tarkington-booth/the-two-vanrevels",
 		"title": "The Two Vanrevels by Booth TARKINGTON",
 		"lastupdated": "2020-07-19T21:13:15Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/across-texas",
+		"title": "Across Texas by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T08:26:27Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/adrift-in-the-wilds",
+		"title": "Adrift in the Wilds by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T08:28:44Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/adrift-on-the-pacific",
+		"title": "Adrift on the Pacific by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T08:30:15Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/among-the-esquimaux",
+		"title": "Among the Esquimaux by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T08:36:44Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/bill-biddon-trapper",
+		"title": "Bill Biddon, Trapper by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T08:44:47Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/blazing-arrow",
+		"title": "Blazing Arrow by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T08:47:05Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-boy-patriot",
+		"title": "The Boy Patriot by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T08:48:21Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky",
+		"title": "The Boy Hunters of Kentucky by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T08:50:53Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire",
+		"title": "The Boy Patrol Around the Council Fire by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T08:54:24Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard",
+		"title": "The Boy Patrol on Guard by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T08:59:14Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/brave-tom",
+		"title": "Brave Tom by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T09:30:56Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-campers-out",
+		"title": "The Campers Out by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T09:37:29Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/camp-fire-and-wigwam",
+		"title": "Camp-fire and Wigwam by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T09:40:14Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-cave-in-the-mountain",
+		"title": "The Cave in the Mountain by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T09:41:39Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/cowmen-and-rustlers",
+		"title": "Cowmen and Rustlers by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T09:43:40Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain",
+		"title": "The Daughter of the Chieftain by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T09:45:06Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains",
+		"title": "Deerfoot in The Mountains by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T09:47:00Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies",
+		"title": "Deerfoot on the Prairies by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T09:50:11Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders",
+		"title": "Dewey and Other Naval Commanders by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T09:54:51Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/elliss-primary-physiology",
+		"title": "Ellis's Primary Physiology by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T10:01:24Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky",
+		"title": "The Flying Boys in the Sky by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T10:07:13Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/footprints-in-the-forest",
+		"title": "Footprints in the Forest by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T10:09:10Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-forest-monster",
+		"title": "The Forest Monster by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T10:14:06Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-frontier-angel",
+		"title": "The Frontier Angel by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-21T10:15:08Z"
 	}
 ]

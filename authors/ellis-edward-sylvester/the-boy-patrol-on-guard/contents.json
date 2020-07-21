@@ -1,0 +1,105 @@
+{
+	"title": "The Boy Patrol on Guard",
+	"author": "Edward Sylvester ELLIS",
+	"source": "https://www.gutenberg.org/files/43079/43079-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"/^\\s+CHAPTER /",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"https://www.gutenberg.org/files/43079/43079-0.txt"
+	],
+	"lastupdated": "2020-07-21T08:55:38Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Prospective Tenderfoot"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Lost In The Woods"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Hermit Of The Woods"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Training Of The Tenderfoot"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - How \"Knot\" To Do Several Things"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - How Two Millionaires Did A Good Turn"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - On Gosling Lake"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The \"Instructor In Woodcraft\""
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The New Tenderfoot"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Few Native Trees"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Lesson In Trailing"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - How It Was Done"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Bit Of Detective Work"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Story Of Johnny Appleseed"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Other Neighbors"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Sunbeam Of Gosling Lake"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - An \"Injin\" Story"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Echo Of A World Tragedy"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Queen And Her Subjects"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - What Did It Mean?"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - How It Happened"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Sunshine"
+		}
+	]
+}

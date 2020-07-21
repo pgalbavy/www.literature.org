@@ -1,0 +1,129 @@
+{
+	"title": "Deerfoot on the Prairies",
+	"author": "Edward Sylvester ELLIS",
+	"source": "https://www.gutenberg.org/files/56238/56238-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"/^\\s+CHAPTER /p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"https://www.gutenberg.org/files/56238/56238-0.txt"
+	],
+	"lastupdated": "2020-07-21T09:47:53Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Westward Bound"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The First Camp"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Thieves Of The Night"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - An Acquaintance"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Close Call"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Mishap"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Jack Halloway"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Good Seed"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Battle Royal"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Whirlwind"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Physician And Patient"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Hurried Flight"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Startling Awakening"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Shoshone Callers"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Question Of Skill And Courage"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Wireless Telegraphy"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - In The Mountains"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Indian Chivalry"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Calamity"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Old Friends"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Pressing Northward"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - A Change Of Plan"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Monarch Of The Solitudes"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - A Memorable Encounter"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Through The Great Divide"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Parting Company"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Down The Columbia"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - At Last"
+		}
+	]
+}

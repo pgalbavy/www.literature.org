@@ -1,0 +1,149 @@
+{
+	"title": "Footprints in the Forest",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/25980/pg25980.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/25980/pg25980.txt"
+	],
+	"lastupdated": "2020-07-21T10:07:38Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Retrospective"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Valuable Ally"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Camp Of The Strangers"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Quarrel"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Shawanoe Vs. Pawnee"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Double Failure"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Disappointment"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Flight Of Deerfoot"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Two Pawnees Are Astonished"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Sauk And Pawnee"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Reversal Of Situation"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Indian Honor"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Twinkle Of A Camp-Fire"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - In The Tree-Top"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - An Unexpected Call"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Startling Conclusion"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Other Arrivals"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - With The River Between"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Jack And Hay-Uta"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Uncongenial Neighbors"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Jack Carleton Makes A Move On His Own Account"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - A Clew At Last"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Recrossing The River"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - A Summons And A Surrender"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Lone Bear's Revelation"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - An Interesting Question"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - A Strange Story"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - A Startling Interruption"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - A Fight And A Retreat"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - A Surprising Discovery"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - A Fatal Failure"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - The Prayer Of Hay-Uta Is The Prayer Of Deerfoot"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Conclusion"
+		}
+	]
+}

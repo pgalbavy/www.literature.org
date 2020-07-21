@@ -1,0 +1,101 @@
+{
+	"title": "The Boy Patriot",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/21125/pg21125.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/21125/pg21125.txt"
+	],
+	"lastupdated": "2020-07-21T08:47:50Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Fairport"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Young Orator"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The English Boy"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Patriot's Work"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Blair's Company"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Pilot"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - No!"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Storm"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Reward"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A New Deck"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - \"Mum.\""
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The First Effort"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Temptation"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Derry Duck"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Letter"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Marvel"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Conflict"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Wages"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Home"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Sacred Joy"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Conclusion"
+		}
+	]
+}
