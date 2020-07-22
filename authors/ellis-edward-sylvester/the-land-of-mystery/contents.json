@@ -1,0 +1,173 @@
+{
+	"title": "The Land of Mystery",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/16855/pg16855.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/16855/pg16855.txt"
+	],
+	"lastupdated": "2020-07-22T16:40:52Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - In The Matto Grosso"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Trio Of Enemies"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Lively Work"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - How It Ended"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Native Village"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Along The Forest Path"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Desperate Work"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Land Of Mystery"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Native Hercules"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Double-Guarded"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Mystified Sentinel"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - To The Death"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Change Of Camp"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Strange Encounter"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Ziffak"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Land Of The Murhapas"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The New Ally"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Nick Of Time"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Journey's End"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - At The Murhapa Village"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Haffgo, King Of The Murhapas"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Ariel The Beautiful"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Shadow Of Danger"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Young Love's Dream"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Ziffak's Blow"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - The Flight"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Shut In"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Besiegers And Besieged"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Across The Lake"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - A Guess"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - A Desperate Scheme"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - The Burning Mountain"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - The Pursuers"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - Watching And Waiting"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - The Cavern Of Diamonds"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - Pursuers And Pursued"
+		},
+		{
+			"href": "chapter-37.html",
+			"title": "Chapter 37 - At Bay"
+		},
+		{
+			"href": "chapter-38.html",
+			"title": "Chapter 38 - The Poisoned Arrow"
+		},
+		{
+			"href": "chapter-39.html",
+			"title": "Chapter 39 - Conclusion"
+		}
+	]
+}

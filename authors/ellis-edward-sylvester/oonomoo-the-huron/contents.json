@@ -1,0 +1,57 @@
+{
+	"title": "Oonomoo the Huron",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/16869/pg16869.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/16869/pg16869.txt"
+	],
+	"lastupdated": "2020-07-22T16:49:49Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Hans Vanderbum"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Other Characters"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Oonomoo And The Shawnees"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Young Lieutenant And Cato"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Home Of The Huron"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Adventures On The Way"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Plan For The Rescue"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Exploit Of Hans Vanderbum"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A New Danger"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Conclusion"
+		}
+	]
+}

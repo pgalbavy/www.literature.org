@@ -1,0 +1,101 @@
+{
+	"title": "Two Boys in Wyoming",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/20223/pg20223.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/20223/pg20223.txt"
+	],
+	"lastupdated": "2020-07-22T17:02:01Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Jack And Fred"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Riding Northward"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - On Guard"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Visitors Of The Night"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - \"Now For The Ranch\""
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - At The Ranch"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The First Game"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Look Before You Leap"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Night In The Mountains"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Signal-Fires"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A King Of The Forest"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Tug Of War"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Strange Occurrence"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Missing"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Tozer"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Watching And Watched"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Into And Out Of The Canyon"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Quest Of The Cowman"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Into The Cavern"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Climb For Liberty"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - How It All Ended"
+		}
+	]
+}

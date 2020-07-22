@@ -1,0 +1,97 @@
+{
+	"title": "The Huge Hunter",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/7506/pg7506.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"/^\\s+CHAPTER /",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/7506/pg7506.txt"
+	],
+	"lastupdated": "2020-07-22T16:34:42Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Terror Of The Prairies"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - 'Handle Me Gently'"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Genius"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Trapper And The Artisan"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - On The Yellowstone"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Miners"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Steam Man On His Travels"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Indians"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Steam Man As A Hunter"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Wolf Ravine"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Steam Man On A Buffalo Hunt"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Grizzly Bear"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - An Appalling Danger"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Huge Hunter"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Attack In The Ravine"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Repulse"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Homeward Bound"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Encampment"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Doings Of A Night"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Concluding Catastrophe"
+		}
+	]
+}

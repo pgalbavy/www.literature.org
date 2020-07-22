@@ -1,0 +1,125 @@
+{
+	"title": "A Waif of the Mountains",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/29693/pg29693.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/29693/pg29693.txt"
+	],
+	"lastupdated": "2020-07-22T17:03:41Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - At New Constantinople"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - What The Blizzard Brought To New Constantinople"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Slip Or Two"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Suiting The Punishment To The Crime"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Hundred Fold"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Teacher And Pupil"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Pupil And Teacher"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Passing Years"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Cloud Of War"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Blue And The Gray"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Waiting"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Home Again"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Young Love's Dream"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Thunderbolt"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Comrades In Sorrow"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Now"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Pursuers"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Close Call"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Collision"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Camp Fire"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Strangers"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Friends"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Vose Adams"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - An Unexpected Ally"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Instinct Or Reason"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - At Bay"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - No Braver Deed Ever Was Done"
+		}
+	]
+}

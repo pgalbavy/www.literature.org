@@ -1,0 +1,65 @@
+{
+	"title": "The Story of Red Feather",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/24097/pg24097.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"/^CHAPTER /kp",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/24097/pg24097.txt"
+	],
+	"lastupdated": "2020-07-22T16:55:24Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Brother And Sister--The Signal"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - An Important Letter--Shut In"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Caught Fast--A Friend In Need"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Consultation--On The Roof"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Strange Visit--Ominous Signs"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Muddy Creek Band--The Torch"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - \"A Little Child Shall Lead Them\"--Surrounded By Peril"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Tall Bear And His Warriors--A Surprising Discovery"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Nat Trumbull And His Men--Out In The Night"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - An Old Friend--Separated"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - At The Lower Crossing--Tall Bear's Last Failure"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Conclusion"
+		}
+	]
+}

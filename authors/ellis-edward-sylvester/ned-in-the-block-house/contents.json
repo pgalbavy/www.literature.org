@@ -1,0 +1,101 @@
+{
+	"title": "Ned in the Block-House",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/43675/pg43675.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/43675/pg43675.txt"
+	],
+	"lastupdated": "2020-07-22T16:47:15Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - In The Forest"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Boy Pioneer--Deerfoot, The Shawanoe"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Old Friends"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Through The Trackless Forest--The Cause"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - \"Shut Out\""
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Block-House"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Message"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Opening Communication"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Within The Block-House"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Flaming Messengers"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - In Great Peril"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - \"Birds Of The Night\""
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Shadowy Visitors"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Mishap And A Sentence"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - An Unexpected Visitor"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Out-Doors On A Dark Night"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Long Clearing"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Fiery Enemy"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Tug Of War"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The South Wind"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Conclusion"
+		}
+	]
+}

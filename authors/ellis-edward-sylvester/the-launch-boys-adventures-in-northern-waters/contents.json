@@ -1,0 +1,143 @@
+{
+	"title": "The Launch Boys' Adventures in Northern Waters",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/25849/pg25849.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"-t",
+		"The Launch Boys' Adventures in Northern Waters",
+		"http://www.gutenberg.org/cache/epub/25849/pg25849.txt"
+	],
+	"lastupdated": "2020-07-22T16:42:22Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Proposal And An Acceptance"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Scout Of The Kennebec"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - At The Inlet"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Strange Race"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Loser Of The Race"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Warm Reception"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Science Versus Strength"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Lone Guest"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Break Down"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - At Beartown"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - At The Post Office In Beartown"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Hostesses And Guests"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - An Incident On Shipboard"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - \"The Night Shall Be Filled With Music\""
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Knock At The Door"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Visitors Of The Night"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - \"Tall Oaks From Little Acorns Grow\""
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Clever Trick"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - In The Nick Of Time"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - \"I Piped And Ye Danced\""
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - How It Was Done"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - A Startling Discovery"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Through The Fog"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Bad For Mike Murphy"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - What Saved Mike"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - The Good Samaritans"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - An Unwelcome Caller"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Plucking A Brand From The Burning"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - \"The Beautiful Isle Of Somewhere\""
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - A Through Ticket To Home"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Gathering Up The Ravelled Threads"
+		}
+	]
+}

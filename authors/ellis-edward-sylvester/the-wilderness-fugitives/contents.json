@@ -1,0 +1,149 @@
+{
+	"title": "The Wilderness Fugitives",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/30335/pg30335.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/30335/pg30335.txt"
+	],
+	"lastupdated": "2020-07-22T17:04:18Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Alone And Together"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Soft And Low"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Eavesdropping"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Course Of True Love"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Light Ahead"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Fragments Of The Feast"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Report Of A Gun"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Mr. Isaac Perkins"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Border Bravery"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - On The River"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - An Unfavorable Omen"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Forced Backward"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - New Peril"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Diamond Cut Diamond"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Delicate And Dangerous Task"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Iroquois Against Iroquois"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - At Last!"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Southeastern Shore"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Mohawk Objects"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Longest Way Home"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Curious Discovery"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Another Fugitive"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Doubt And Perplexity"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The New Guide"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Hiding-Place"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Curious Proceedings"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - What Does It All Mean?"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Up And Doing"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - A Startling Check"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - A Merited Fate"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - The Mohawk Explains"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - The Fatal Tree"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Captive And Captors"
+		}
+	]
+}

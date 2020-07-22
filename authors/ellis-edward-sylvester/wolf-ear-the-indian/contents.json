@@ -1,0 +1,65 @@
+{
+	"title": "Wolf Ear the Indian",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/60633/pg60633.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/60633/pg60633.txt"
+	],
+	"lastupdated": "2020-07-22T17:05:28Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - \"The Bullet Had Passed Startlingly Near Him\""
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - \"He's Up To Some Mischief, i'll Warrant\""
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - \"There Are Fifty Hostiles\""
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - \"We Abe Enemies\""
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - \"What Will Be Their Next Step?\""
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - \"Ay, Where Were They?\""
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - \"It Came Like One Of Them Kansan Cyclones\""
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - \"The Bucks Were Coming Up Alarmingly Fast\""
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - \"He Has Made His Last Scout\""
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - \"Oh, There Is Wolf Ear!\""
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - \"i'm Off; Good-Bye!\""
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - What Happened To Wolf Ear"
+		}
+	]
+}

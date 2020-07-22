@@ -1,0 +1,149 @@
+{
+	"title": "The Lost Trail",
+	"author": "Edward Sylvester ELLIS",
+	"source": "https://www.gutenberg.org/files/6906/6906-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"https://www.gutenberg.org/files/6906/6906-0.txt"
+	],
+	"lastupdated": "2020-07-22T16:46:28Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - An Enemy In A Tree"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - What A Rifle-Shot Did"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - On The Bank Of The Mississippi"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Visitor From The Other Shore"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Around The Camp-Fire"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Night And Morning"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Surprised Fisherman"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Behind The Tree"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Timely Arrival"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - At Bay"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Primitive Fort"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Among The Tree-Tops"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Message"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Maneuvres Of Deerfoot"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - \"Tall Oaks From Little Acorns Grow\""
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - On The River"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Louisiana Shore"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - On The Louisiana Shore"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Smoke Of A Campfire"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - \"Good-Bye!\""
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Neigh Of A Horse"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - A Stranger"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - An Aboriginal Home"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Deerfoot"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - At Bay"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - An Unexpected Interview"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - A Failure"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The Eavesdropper"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Within The Wigwam"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - An Unwelcome Visitor"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Pursuer And Pursued"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - Turning The Tables"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Conclusion"
+		}
+	]
+}

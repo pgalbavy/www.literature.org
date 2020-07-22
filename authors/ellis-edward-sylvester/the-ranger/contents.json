@@ -1,0 +1,77 @@
+{
+	"title": "The Ranger",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/28663/pg28663.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/28663/pg28663.txt"
+	],
+	"lastupdated": "2020-07-22T16:51:48Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Zeb And His Master"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Night Of Terror"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Kent And Leslie"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Captives"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Meeting On The River"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Raft"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Lost And Found"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Companion In Captivity"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Zeb's Revenge"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Brief Reprieve"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Friend"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Escape"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Captive"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Rescue"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Fugitives Flying No Longer"
+		}
+	]
+}

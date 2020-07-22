@@ -1,0 +1,109 @@
+{
+	"title": "A Young Hero",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/59853/pg59853.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/59853/pg59853.txt"
+	],
+	"lastupdated": "2020-07-22T17:07:54Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Peacemaker"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Call To School"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Startling News"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - On Guard"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Brave Work"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - On The Outside"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - \"The Lion Is Loose!\""
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Day Of Excitement In Tottenville"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Several Mishaps"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Brave Act"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Reward Well Earned"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Business Transaction"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Eavesdropper"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Fred's Best Friend"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Meeting In The Wood"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Bud's Mishaps"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Two Unexpected Visitors"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Eureka!"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Slight Mistake"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - All In Good Time"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - How It Was Done"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - An Attempted Rescue"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Silverware Returned"
+		}
+	]
+}

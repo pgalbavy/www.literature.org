@@ -1,0 +1,141 @@
+{
+	"title": "The Launch Boys' Cruise in the Deerfoot",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/41434/pg41434.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/41434/pg41434.txt"
+	],
+	"lastupdated": "2020-07-22T16:44:08Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Between Two Fires"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Lively Times"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Mike Murphy"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Loan To Captain Landon"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Motor Boat"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Captain And Crew"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - One August Day"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Passing Glimpse"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - No Man's Land"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Lure Of Gold"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - A Missing Motor Boat"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - In The Telegraph Office"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Slight Mistake"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Friend In Need"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Glimpse Of Something"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - On Barter Island"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Man In Gray"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - At The Inlet"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Not Near Either Bank"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Disappointment"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Telegram"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Found"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Captain And Mate"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - \"This Is Where I Stop\""
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Good News"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Disquieting News"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - An Alarming Fact"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The Cry Across The Waters"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Marooned"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - A New England Home Coming"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - The Man In Gray"
+		}
+	]
+}

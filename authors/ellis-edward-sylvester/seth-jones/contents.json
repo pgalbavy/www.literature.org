@@ -1,0 +1,91 @@
+{
+	"title": "Seth Jones",
+	"author": "Edward Sylvester ELLIS",
+	"source": "https://www.gutenberg.org/files/58422/58422-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"https://www.gutenberg.org/files/58422/58422-0.txt"
+	],
+	"lastupdated": "2020-07-22T16:53:36Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Stranger"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Dark Cloud"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Dark Cloud Bursts"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Lost Home And A Found Friend"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - On The Trail, And A Sudden Departure From It By Seth"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Run For Life"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Experience Of Seth"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - An Unexpected Meeting"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Chase"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Couple Of Indian Captives"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Still In Pursuit"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Pencilings By The Way"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Some Explanations"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - In The Enemy’s Camp"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Maneuvering And Scheming"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - In Which A Hunter’s Nerves Are Tested"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Encompassed By Danger"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Getting Out Of The Wilderness"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Denouement"
+		}
+	]
+}

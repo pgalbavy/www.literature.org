@@ -1,0 +1,173 @@
+{
+	"title": "Through Forest and Fire",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/16472/pg16472.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/16472/pg16472.txt"
+	],
+	"lastupdated": "2020-07-22T16:58:55Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Nick"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - School Days"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Mathematical Discussion"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Lost"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Party Of Search"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Groping In Darkness"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - An Alarming Discovery"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Startling Footprints"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Little Wanderer"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - In Great Danger"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - \"Gott Sei Dank!\""
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Ominous Preparations"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Bear Hunters"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Recruit"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Surprise"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Dinner In The Woods"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Test Of Marksmanship"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Quail"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - An Unexpected Lesson"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Bowser Proves Himself Of Some Use"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Face To Face"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The \"Vacant Chair\""
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Hunting A Buck"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Hunted By A Buck"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Camp Fire"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - An Unexpected Attack"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Was It A Joke?"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The Trail Of The Bear"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - \"Help! Help!\""
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - A Friend In Need"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - The \"Dark Day\" Of September, 1881"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - The Burning Forest"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Through The Fire"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - Calling In Vain"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - What Frightened Nellie"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - An Unwelcome Passenger"
+		},
+		{
+			"href": "chapter-37.html",
+			"title": "Chapter 37 - A Brave Struggle"
+		},
+		{
+			"href": "chapter-38.html",
+			"title": "Chapter 38 - Bear And Forbear"
+		},
+		{
+			"href": "chapter-39.html",
+			"title": "Chapter 39 - Conclusion"
+		}
+	]
+}

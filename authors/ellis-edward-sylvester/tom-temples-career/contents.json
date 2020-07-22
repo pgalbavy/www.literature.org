@@ -1,0 +1,189 @@
+{
+	"title": "Tom Temple's Career",
+	"author": "Edward Sylvester ELLIS",
+	"source": "https://www.gutenberg.org/files/56686/56686-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"/^\\s+CHAPTER /kp",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"https://www.gutenberg.org/files/56686/56686-0.txt"
+	],
+	"lastupdated": "2020-07-22T17:00:34Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Nathan Middleton"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Introduces Tom Temple"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Tom’s First Battle"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Troublesome Boarder"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Warlike Visit"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Poor Relation"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Row And A Rescue"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Two Cousins"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Dog And His Master"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Girl’s Spite"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - After Three Months"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Bad News For Tom"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - News Affects Tom’s Friends"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Tom Learns What Is Up"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Lesson Of Poverty"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - New Plans"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Tom Arrives In New York"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Midnight Adventure"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Tom Makes A Proposal"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - An Important Conference"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Bound For California"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - First Prospects"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Mike’s Good Luck"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Tom Gets A Place"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Tom In A Tight Place"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - The Burglar Baffled"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Arrested"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The Man Tom Wanted To See"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - The Absconding Clerk"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - The Effect Of A Name"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Herr Schmidt"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - Captured By Highwaymen"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Morton’s Secret"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - The Robbers’ Den"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - The Captain Of The Robbers"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - Tom And The Robbers"
+		},
+		{
+			"href": "chapter-37.html",
+			"title": "Chapter 37 - Herr Schmidt Dances"
+		},
+		{
+			"href": "chapter-38.html",
+			"title": "Chapter 38 - The Captain’s Resolve"
+		},
+		{
+			"href": "chapter-39.html",
+			"title": "Chapter 39 - An Avenger On The Track"
+		},
+		{
+			"href": "chapter-40.html",
+			"title": "Chapter 40 - The Captain’s Fate"
+		},
+		{
+			"href": "chapter-41.html",
+			"title": "Chapter 41 - Tom Adopts A Rich Uncle"
+		},
+		{
+			"href": "chapter-42.html",
+			"title": "Chapter 42 - Tom’s Return"
+		},
+		{
+			"href": "chapter-43.html",
+			"title": "Chapter 43 - Circumstances Alter Cases"
+		}
+	]
+}

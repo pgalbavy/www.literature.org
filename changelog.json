@@ -1,150 +1,5 @@
 [
 	{
-		"href": "/authors/burroughs-edgar-rice/the-mucker",
-		"title": "The Mucker by Edgar Rice BURROUGHS",
-		"lastupdated": "2020-06-20T12:19:08Z"
-	},
-	{
-		"href": "/authors/burroughs-edgar-rice/the-mad-king",
-		"title": "The Mad King by Edgar Rice BURROUGHS",
-		"lastupdated": "2020-06-20T12:35:36Z"
-	},
-	{
-		"href": "/authors/stevenson-robert-louis/the-strange-case-of-dr-jekyll-and-mr-hyde",
-		"title": "The Strange Case Of Dr. Jekyll And Mr. Hyde by Robert Louis STEVENSON",
-		"lastupdated": "2020-06-22T11:52:01Z"
-	},
-	{
-		"href": "/authors/stevenson-robert-louis/kidnapped",
-		"title": "Kidnapped by Robert Louis STEVENSON",
-		"lastupdated": "2020-06-22T11:55:29Z"
-	},
-	{
-		"href": "/authors/stevenson-robert-louis/the-black-arrow",
-		"title": "The Black Arrow by Robert Louis STEVENSON",
-		"lastupdated": "2020-06-22T12:30:30Z"
-	},
-	{
-		"href": "/authors/stevenson-robert-louis/in-the-south-seas",
-		"title": "In the South Seas by Robert Louis STEVENSON",
-		"lastupdated": "2020-06-22T12:41:18Z"
-	},
-	{
-		"href": "/authors/stevenson-robert-louis/prince-otto",
-		"title": "Prince Otto by Robert Louis STEVENSON",
-		"lastupdated": "2020-06-22T12:47:08Z"
-	},
-	{
-		"href": "/authors/barnum-richard/blackie-a-lost-cat",
-		"title": "Blackie, A Lost Cat by Richard BARNUM",
-		"lastupdated": "2020-06-22T16:02:50Z"
-	},
-	{
-		"href": "/authors/barnum-richard/chunky-the-happy-hippo",
-		"title": "Chunky, The Happy Hippo by Richard BARNUM",
-		"lastupdated": "2020-06-22T16:09:45Z"
-	},
-	{
-		"href": "/authors/barnum-richard/dido-the-dancing-bear",
-		"title": "Dido, The Dancing Bear by Richard BARNUM",
-		"lastupdated": "2020-06-22T16:13:07Z"
-	},
-	{
-		"href": "/authors/barnum-richard/don-a-runaway-dog",
-		"title": "Don, A Runaway Dog by Richard BARNUM",
-		"lastupdated": "2020-06-22T16:14:24Z"
-	},
-	{
-		"href": "/authors/barnum-richard/flop-ear-the-funny-rabbit",
-		"title": "Flop Ear, The Funny Rabbit by Richard BARNUM",
-		"lastupdated": "2020-06-22T16:15:12Z"
-	},
-	{
-		"href": "/authors/barnum-richard/lightfoot-the-leaping-goat",
-		"title": "Lightfoot, The Leaping Goat by Richard BARNUM",
-		"lastupdated": "2020-06-22T16:15:55Z"
-	},
-	{
-		"href": "/authors/barnum-richard/mappo-the-merry-monkey",
-		"title": "Mappo, The Merry Monkey by Richard BARNUM",
-		"lastupdated": "2020-06-22T16:16:45Z"
-	},
-	{
-		"href": "/authors/barnum-richard/nero-the-circus-lion",
-		"title": "Nero, The Circus Lion by Richard BARNUM",
-		"lastupdated": "2020-06-22T16:18:05Z"
-	},
-	{
-		"href": "/authors/barnum-richard/sharp-eyes-the-silver-fox",
-		"title": "Sharp Eyes, The Silver Fox by Richard BARNUM",
-		"lastupdated": "2020-06-22T16:18:57Z"
-	},
-	{
-		"href": "/authors/richard/slicko-the-jumping-squirrel",
-		"title": "Slicko, The Jumping Squirrel by RICHARD",
-		"lastupdated": "2020-06-22T16:19:47Z"
-	},
-	{
-		"href": "/authors/barnum-richard/squinty-the-comical-pig",
-		"title": "Squinty, The Comical Pig by Richard BARNUM",
-		"lastupdated": "2020-06-22T16:20:37Z"
-	},
-	{
-		"href": "/authors/barnum-richard/tinkle-the-trick-pony",
-		"title": "Tinkle, The Trick Pony by Richard BARNUM",
-		"lastupdated": "2020-06-22T16:21:22Z"
-	},
-	{
-		"href": "/authors/barnum-richard/tum-tum-the-jolly-elephant",
-		"title": "Tum Tum, The Jolly Elephant by Richard BARNUM",
-		"lastupdated": "2020-06-22T16:22:11Z"
-	},
-	{
-		"href": "/authors/mckishnie-archie-p/a-son-of-courage",
-		"title": "A Son of Courage by Archie P. MCKISHNIE",
-		"lastupdated": "2020-06-22T16:30:26Z"
-	},
-	{
-		"href": "/authors/mckishnie-archie-p/love-of-the-wild",
-		"title": "Love of the Wild by Archie P. MCKISHNIE",
-		"lastupdated": "2020-06-22T16:36:24Z"
-	},
-	{
-		"href": "/authors/cather-willa/alexanders-bridge",
-		"title": "Alexander’s Bridge by Willa CATHER",
-		"lastupdated": "2020-06-23T11:26:42Z"
-	},
-	{
-		"href": "/authors/cather-willa/my-antonia",
-		"title": "My Ántonia by Willa CATHER",
-		"lastupdated": "2020-06-23T11:37:27Z"
-	},
-	{
-		"href": "/authors/cather-willa/one-of-ours",
-		"title": "One of Ours by Willa CATHER",
-		"lastupdated": "2020-06-23T11:39:47Z"
-	},
-	{
-		"href": "/authors/cather-willa/o-pioneers",
-		"title": "O Pioneers! by Willa CATHER",
-		"lastupdated": "2020-06-23T11:42:36Z"
-	},
-	{
-		"href": "/authors/cather-willa/song-of-the-lark",
-		"title": "Song of the Lark by Willa CATHER",
-		"lastupdated": "2020-06-23T11:46:16Z"
-	},
-	{
-		"href": "/authors/grimm-the-brothers/grimms-fairy-tales",
-		"title": "Grimms’ Fairy Tales by The Brothers GRIMM",
-		"lastupdated": "2020-06-24T12:54:54Z"
-	},
-	{
-		"href": "/authors/perrault-charles/the-tales-of-mother-goose",
-		"title": "The Tales of Mother Goose by Charles PERRAULT",
-		"lastupdated": "2020-06-24T13:27:50Z"
-	},
-	{
 		"href": "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman",
 		"title": "A Vindication of the Rights of Woman by Mary WOLLSTONECRAFT",
 		"lastupdated": "2020-06-27T07:30:53Z"
@@ -498,5 +353,150 @@
 		"href": "/authors/ellis-edward-sylvester/the-frontier-angel",
 		"title": "The Frontier Angel by Edward Sylvester ELLIS",
 		"lastupdated": "2020-07-21T10:15:08Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-great-cattle-trail",
+		"title": "The Great Cattle Trail by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:34:04Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-huge-hunter",
+		"title": "The Huge Hunter by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:35:59Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark",
+		"title": "The Hunters of the Ozark by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:37:56Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/in-the-pecos-country",
+		"title": "In the Pecos Country by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:39:03Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/klondike-nuggets",
+		"title": "Klondike Nuggets by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:40:33Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-land-of-mystery",
+		"title": "The Land of Mystery by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:41:25Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters",
+		"title": "The Launch Boys' Adventures in Northern Waters by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:43:00Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot",
+		"title": "The Launch Boys' Cruise in the Deerfoot by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:44:29Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-lost-trail",
+		"title": "The Lost Trail by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:46:48Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/ned-in-the-block-house",
+		"title": "Ned in the Block-House by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:48:35Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/oonomoo-the-huron",
+		"title": "Oonomoo the Huron by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:50:13Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-phantom-of-the-river",
+		"title": "The Phantom of the River by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:51:25Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-ranger",
+		"title": "The Ranger by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:52:16Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami",
+		"title": "The Riflemen of the Miami by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:53:11Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/seth-jones",
+		"title": "Seth Jones by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:54:18Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-story-of-red-feather",
+		"title": "The Story of Red Feather by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:55:53Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy",
+		"title": "The Telegraph Messenger Boy by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:57:25Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/through-apache-lands",
+		"title": "Through Apache Lands by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:58:38Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/through-forest-and-fire",
+		"title": "Through Forest and Fire by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T16:59:38Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/tom-temples-career",
+		"title": "Tom Temple's Career by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T17:01:42Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/two-boys-in-wyoming",
+		"title": "Two Boys in Wyoming by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T17:02:27Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/up-the-forked-river",
+		"title": "Up the Forked River by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T17:03:17Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/a-waif-of-the-mountains",
+		"title": "A Waif of the Mountains by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T17:04:03Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-wilderness-fugitives",
+		"title": "The Wilderness Fugitives by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T17:04:54Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/wolf-ear-the-indian",
+		"title": "Wolf Ear the Indian by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T17:06:31Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/wyoming",
+		"title": "Wyoming by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T17:07:33Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/a-young-hero",
+		"title": "A Young Hero by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T17:08:35Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-young-ranchers",
+		"title": "The Young Ranchers by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T17:09:18Z"
+	},
+	{
+		"href": "/authors/ellis-edward-sylvester/the-young-scout",
+		"title": "The Young Scout by Edward Sylvester ELLIS",
+		"lastupdated": "2020-07-22T17:09:57Z"
 	}
 ]

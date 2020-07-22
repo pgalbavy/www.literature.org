@@ -1,0 +1,133 @@
+{
+	"title": "The Young Scout",
+	"author": "Edward Sylvester ELLIS",
+	"source": "https://www.gutenberg.org/files/57699/57699-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"https://www.gutenberg.org/files/57699/57699-0.txt"
+	],
+	"lastupdated": "2020-07-22T17:09:35Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Young Champion"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Well Earned Reward"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Danger In The Air"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Geronimo"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Compliments At Long Range"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Apache Cunning"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Signal"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Maroz And Ceballos"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Mendez, The Scout"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Eavesdropper"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Cavarho And Mendez"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Call And A Reply"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Troopers"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Waiting For Daylight"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - An Interrupted Flight"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Ranchman’s Home"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Shadow Of Danger"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Cruel Blow"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - \"Now For It\""
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - \"See Dere!\""
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - An Apache Signal"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - On The Mountain Side"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Game Of Hide And Seek"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - What Does It Mean?"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - What Befell Maurice Freeman"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Reality"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - A Reminiscence"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - A Surprise Indeed"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Conclusion"
+		}
+	]
+}

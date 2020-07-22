@@ -1,0 +1,153 @@
+{
+	"title": "The Great Cattle Trail",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/30212/pg30212.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/30212/pg30212.txt"
+	],
+	"lastupdated": "2020-07-22T16:32:17Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - At The Ranch"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - An Alarming Interruption"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Just In Time"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Desperate Venture"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Upstairs And Downstairs"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Dinah's Discovery"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Dinah's Exploit"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - In The Mesquite Bush"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - At Fault"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Surprise"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Changing Places"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - On The Roof"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Dead Race"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Friend In Need"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Vanished"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Cleverly Done"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - At Fault"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - An Unexpected Query"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Down The Ladder"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - \"The Boys Have Arrived!\""
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Through The Bush"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Thunderbolt"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - \"Good-By!\""
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - A Strange Delay"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Heading Northward"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - A Shot From The Darkness"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Shackaye, The Comanche"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - A Mishap"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Old Acquaintances"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - At Bay"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Flag Of Truce"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - Diplomacy"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Driven To The Wall"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - The Flank Movement"
+		}
+	]
+}

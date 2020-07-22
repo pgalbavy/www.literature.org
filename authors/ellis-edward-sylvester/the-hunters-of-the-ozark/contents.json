@@ -1,0 +1,169 @@
+{
+	"title": "The Hunters of the Ozark",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/22646/pg22646.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/22646/pg22646.txt"
+	],
+	"lastupdated": "2020-07-22T16:36:44Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - An Estray"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Tinkle Of A Bell"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - An Aboriginal Plot"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - A Party Of The Third Part"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Friend In Need"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Fred Linden Receives A Message From The Ozark Camp"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Hunters Of Ozark"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Welcome Acquaintance"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - A Mishap"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Struggle For Life"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Tramping Southward"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Strange Animal"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Troublesome Visitor"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Welcome Ally"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - \"Deerfoot Will Be Sentinel To-Night\""
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Around The Camp-Fire"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Suspicious Sound"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Like A Thief In The Night"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Shawanoe And Winnebago"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Another Night Visitor"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Camp Of The Winnebagos"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - \"Keep To The Trail\""
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - An Infuriate Shawanoe"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Defiance"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Signal Fire"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - On The Edge Of The Prairie"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - A Morning Meal"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - A Strange Ride"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - A Young Hunter's Strategy"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - Terry Finishes His Ride"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - The Devil's Punch Bowl"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - The Terror In The Air"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Fred Linden Awakens To An Alarming Fact"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - The Canoe"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - America Versus Ireland"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - America Versus America"
+		},
+		{
+			"href": "chapter-37.html",
+			"title": "Chapter 37 - The Last Camp-Fire"
+		},
+		{
+			"href": "chapter-38.html",
+			"title": "Chapter 38 - Conclusion"
+		}
+	]
+}

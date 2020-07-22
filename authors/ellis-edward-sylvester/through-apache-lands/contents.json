@@ -1,0 +1,173 @@
+{
+	"title": "Through Apache Lands",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/31421/pg31421.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/31421/pg31421.txt"
+	],
+	"lastupdated": "2020-07-22T16:57:55Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Moonlight On The Rio Gila"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Tom Hardynge's Ruse"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Pursued By The Apaches"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Outwitted"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - An Alarming Message"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Two Scouts"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Cavalry Escort"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - In Devil's Pass"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Among The Apaches"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Lone Wolf"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Surrounded By Danger"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - \"The Hour Has Come\""
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Flight"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Pursued"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - In The Solitude"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Among The Mountains"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Mysterious Camp Fire"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Indian Fight"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Terrible Meeting"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - White Vs. Red"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Friends Together"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Anxious Waiting"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Death Shot"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Buffaloes"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Alone Again"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Capturing A Mustang"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - A Run For Life"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - A Great Misfortune"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - The Lone Camp Fire"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - Fighting A Grizzly"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Sleep"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - Reunited"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Closing In"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - Hurricane Hill"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - The Sentinel"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - A Desperate Scheme"
+		},
+		{
+			"href": "chapter-37.html",
+			"title": "Chapter 37 - The Two Defenders"
+		},
+		{
+			"href": "chapter-38.html",
+			"title": "Chapter 38 - Hand To Hand"
+		},
+		{
+			"href": "chapter-39.html",
+			"title": "Chapter 39 - Conclusion"
+		}
+	]
+}

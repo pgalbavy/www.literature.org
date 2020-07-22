@@ -1,0 +1,149 @@
+{
+	"title": "The Young Ranchers",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/28331/pg28331.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/28331/pg28331.txt"
+	],
+	"lastupdated": "2020-07-22T17:08:53Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Danger Ahead"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Voiceless Friend"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Companions In Peril"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Tim Brophy's Discovery"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Leaving The Ranch"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - \"Timothy Brophy, Esq., At Your Service\""
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Stirring Times"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Starcus"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - On The Bank Of A Stream"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Bent Arm And His Band"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - At Bay"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Facing Westward"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - In The Fringe Of The Woods"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Turned Back"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Missing"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Thief Of The Night"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Through The Wood"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Night And Morning"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Startling Surprise"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Run For Life"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Away We Go!"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - On Foot"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Down!"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Friend In Need"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Prairie Duel"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - On The Ground"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - A Good Samaritan"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The Lone Horseman"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - A Break For Freedom"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - Comrades Again"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - The Last Hope"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - Away! Away!"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Bread Cast Upon The Waters"
+		}
+	]
+}

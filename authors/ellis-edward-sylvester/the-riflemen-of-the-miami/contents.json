@@ -1,0 +1,65 @@
+{
+	"title": "The Riflemen of the Miami",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/27231/pg27231.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/27231/pg27231.txt"
+	],
+	"lastupdated": "2020-07-22T16:52:34Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Rescue"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Settlers"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Riflemen Of The Miami"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Passage Of The Creek"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Apprehension"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Hunter's Wooing"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Countryman"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Flight"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Rifleman And Huron On The Trail"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Pursuit Of The Pursuers"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - At Bay"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Conclusion"
+		}
+	]
+}

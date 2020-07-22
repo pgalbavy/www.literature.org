@@ -1,0 +1,149 @@
+{
+	"title": "In the Pecos Country",
+	"author": "Edward Sylvester ELLIS",
+	"source": "https://www.gutenberg.org/files/5828/5828-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"https://www.gutenberg.org/files/5828/5828-0.txt"
+	],
+	"lastupdated": "2020-07-22T16:38:19Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Warning"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Brief Conference"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Fred Goes On Guard"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Facing Lone Wolf"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Apaches Are Coming"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Apache Attack"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - In A Tree"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Swoop Of The Apache"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - In Lone Wolf's Clutches"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Two Old Enemies"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Hot Quarters"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Young Captive"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Encampment"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Strange Camp"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Leap For Liberty"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Reconnoissance"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Foraging For Food"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Alone In The Ravine"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Mysterious Pursuer"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - An Uncomfortable Lodging"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Terrible Night"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Lost"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Perilous Passage"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - A Terrible Bed"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Within The Earth"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - A Welcome Visitor"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - A Subterranean Camp-Fire"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The Exploring Tour"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - A Mystery"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - Discussions And Plans"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - An Exchange Of Shots"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - Footsteps In The Darkness"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - What The Footsteps Meant"
+		}
+	]
+}

@@ -1,0 +1,113 @@
+{
+	"title": "Klondike Nuggets",
+	"author": "Edward Sylvester ELLIS",
+	"source": "http://www.gutenberg.org/cache/epub/21652/pg21652.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-a",
+		"Edward Sylvester ELLIS",
+		"http://www.gutenberg.org/cache/epub/21652/pg21652.txt"
+	],
+	"lastupdated": "2020-07-22T16:40:13Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Gold-Hunters"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - At Juneau"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Up The Lynn Canal"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Avalanche"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Through Chilkoot Pass"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Significant Discovery"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Plotters"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - On Lake Bennet"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Into British Territory"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - At White Horse Rapids"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - On The Yukon"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - At Dawson City"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - On The Edge Of The Gold-Fields"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Prospecting"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Find"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Claim"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Golden Harvest"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Startling Discovery"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Trail Into The Mountains"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Sound From Out The Stillness"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Turning Of The Tables"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - A Lion In The Path"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A General Settlement Of Accounts"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Conclusion"
+		}
+	]
+}
