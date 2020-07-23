@@ -1,8 +1,12 @@
 {
 	"title": "Charlotte Perkins GILMAN",
-	"author": "",
 	"source": "",
-	"lastupdated": "2020-06-15T19:38:48Z",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman",
+		"goodreads": "https://www.goodreads.com/author/show/29527",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/27"
+	},
+	"lastupdated": "2020-07-23T08:20:41Z",
 	"books": [
 		{
 			"href": "concerning-children",

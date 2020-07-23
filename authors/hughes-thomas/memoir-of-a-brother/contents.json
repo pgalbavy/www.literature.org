@@ -1,0 +1,63 @@
+{
+	"title": "Memoir of a Brother",
+	"author": "Thomas HUGHES",
+	"source": "http://www.gutenberg.org/files/58795/58795-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/files/58795/58795-0.txt"
+	],
+	"lastupdated": "2020-07-23T08:26:42Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - First Years"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Rugby"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Father’s Letters"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Oxford"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Degree"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Start In Life"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - 1849-50 — An Episode"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Italy"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Middle Life"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Letters To His Boys"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Conclusion"
+		}
+	]
+}

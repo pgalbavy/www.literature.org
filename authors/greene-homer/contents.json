@@ -1,8 +1,11 @@
 {
 	"title": "Homer GREENE",
-	"author": "",
 	"source": "",
-	"lastupdated": "2020-06-17T07:03:49Z",
+	"links": {
+		"goodreads": "https://www.goodreads.com/author/list/795420",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/3540"
+	},
+	"lastupdated": "2020-07-23T08:22:40Z",
 	"books": [
 		{
 			"href": "a-lincoln-conscript",

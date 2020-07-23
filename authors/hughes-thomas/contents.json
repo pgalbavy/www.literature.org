@@ -1,12 +1,28 @@
 {
 	"title": "Thomas HUGHES",
 	"source": "",
-	"links": {},
-	"lastupdated": "2020-06-30T17:40:48Z",
+	"links": {
+		"wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hughes",
+		"goodreads": "https://www.goodreads.com/author/show/244491",
+		"gutenberg": "http://www.gutenberg.org/ebooks/author/645"
+	},
+	"lastupdated": "2020-07-23T08:40:01Z",
 	"books": [
 		{
 			"href": "tom-browns-schooldays",
 			"title": "Tom Brown's Schooldays"
+		},
+		{
+			"href": "memoir-of-a-brother",
+			"title": "Memoir of a Brother"
+		},
+		{
+			"href": "the-scouring-of-the-white-horse",
+			"title": "The Scouring of the White Horse"
+		},
+		{
+			"href": "tom-brown-at-oxford",
+			"title": "Tom Brown at Oxford"
 		}
 	]
 }

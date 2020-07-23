@@ -1,0 +1,223 @@
+{
+	"title": "Tom Brown at Oxford",
+	"author": "Thomas HUGHES",
+	"source": "http://www.gutenberg.org/cache/epub/26851/pg26851.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-pre",
+		"Preface",
+		"http://www.gutenberg.org/cache/epub/26851/pg26851.txt"
+	],
+	"lastupdated": "2020-07-23T08:35:39Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "introduction.html",
+			"title": "Introductory"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - St. Ambrose's College"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Row On The River"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Breakfast At Drysdale's"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The St. Ambrose Boat Club: Its Ministery And Their Budget"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Hardy, The Servitor"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - How Drysdale And Blake Went Fishing"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - An Explosion"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Hardy's History"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - \"A Brown Bait\""
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Summer Term"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Muscular Christianity"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Captain's Notions"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The First Bump"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Change In The Crew, And What Came Of It"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Storm Brews And Breaks"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Storm Rages"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - New Ground"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Englebourne Village"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Promise Of Fairer Weather"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Reconciliation"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Captain Hardy Entertained By St. Ambrose"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Departures Expected And Unexpected"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Englebourn Constable"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Schools"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Commemoration"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - The Long Walk In Christchurch Meadows"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Lecturing A Lioness"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The End Of The Freshman's Year"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - The Long Vacation Letter-Bag"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - Amusements At Barton Manor"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Behind The Scenes"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - A Crisis"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Brown Patronus"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - [Greek Text] Mehden Agan"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - Second Year"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - The River Side"
+		},
+		{
+			"href": "chapter-37.html",
+			"title": "Chapter 37 - The Night Watch"
+		},
+		{
+			"href": "chapter-38.html",
+			"title": "Chapter 38 - Mary In Mayfair"
+		},
+		{
+			"href": "chapter-39.html",
+			"title": "Chapter 39 - What Came Of The Night Watch"
+		},
+		{
+			"href": "chapter-40.html",
+			"title": "Chapter 40"
+		},
+		{
+			"href": "chapter-41.html",
+			"title": "Chapter 41 - The Lieutenant's Sentiments And Problems"
+		},
+		{
+			"href": "chapter-42.html",
+			"title": "Chapter 42 - Third Year"
+		},
+		{
+			"href": "chapter-43.html",
+			"title": "Chapter 43 - Afternoon Visitors"
+		},
+		{
+			"href": "chapter-44.html",
+			"title": "Chapter 44 - The Intercepted Letter-Bag"
+		},
+		{
+			"href": "chapter-45.html",
+			"title": "Chapter 45 - Master's Term"
+		},
+		{
+			"href": "chapter-46.html",
+			"title": "Chapter 46 - From India To Englebourn"
+		},
+		{
+			"href": "chapter-47.html",
+			"title": "Chapter 47 - The Wedding-Day"
+		},
+		{
+			"href": "chapter-48.html",
+			"title": "Chapter 48 - The Beginning Of The End"
+		},
+		{
+			"href": "chapter-49.html",
+			"title": "Chapter 49 - The End"
+		},
+		{
+			"href": "chapter-50.html",
+			"title": "Chapter 50"
+		}
+	]
+}

@@ -1,20 +1,5 @@
 [
 	{
-		"href": "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman",
-		"title": "A Vindication of the Rights of Woman by Mary WOLLSTONECRAFT",
-		"lastupdated": "2020-06-27T07:30:53Z"
-	},
-	{
-		"href": "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner",
-		"title": "The Rime of the Ancient Mariner by Samuel Taylor COLERIDGE",
-		"lastupdated": "2020-06-27T07:50:05Z"
-	},
-	{
-		"href": "/authors/alcott-louisa-may/an-old-fashioned-girl",
-		"title": "An Old-Fashioned Girl by Louisa May ALCOTT",
-		"lastupdated": "2020-06-27T10:50:37Z"
-	},
-	{
 		"href": "/authors/carroll-lewis/alices-adventures-in-wonderland",
 		"title": "Alice’s Adventures in Wonderland by Lewis CARROLL",
 		"lastupdated": "2020-06-30T14:10:05Z"
@@ -498,5 +483,20 @@
 		"href": "/authors/ellis-edward-sylvester/the-young-scout",
 		"title": "The Young Scout by Edward Sylvester ELLIS",
 		"lastupdated": "2020-07-22T17:09:57Z"
+	},
+	{
+		"href": "/authors/hughes-thomas/memoir-of-a-brother",
+		"title": "Memoir of a Brother by Thomas HUGHES",
+		"lastupdated": "2020-07-23T08:29:03Z"
+	},
+	{
+		"href": "/authors/hughes-thomas/the-scouring-of-the-white-horse",
+		"title": "The Scouring of the White Horse by Thomas HUGHES",
+		"lastupdated": "2020-07-23T08:33:25Z"
+	},
+	{
+		"href": "/authors/hughes-thomas/tom-brown-at-oxford",
+		"title": "Tom Brown at Oxford by Thomas HUGHES",
+		"lastupdated": "2020-07-23T08:40:01Z"
 	}
 ]
