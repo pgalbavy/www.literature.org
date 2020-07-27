@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2020-07-21T08:26:27Z",
+	"lastupdated": "2020-07-27T12:10:41Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -323,6 +323,10 @@
 		{
 			"href": "ellis-edward-sylvester",
 			"name": "Edward Sylvester ELLIS"
+		},
+		{
+			"href": "woolf-virginia",
+			"name": "Virginia WOOLF"
 		}
 	]
 }

@@ -1,0 +1,20 @@
+{
+	"title": "Virginia WOOLF",
+	"source": "",
+	"links": {},
+	"lastupdated": "2020-07-27T12:13:21Z",
+	"books": [
+		{
+			"href": "jacobs-room",
+			"title": "Jacob's Room"
+		},
+		{
+			"href": "night-and-day",
+			"title": "Night and Day"
+		},
+		{
+			"href": "the-voyage-out",
+			"title": "The Voyage Out"
+		}
+	]
+}

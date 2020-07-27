@@ -1,20 +1,5 @@
 [
 	{
-		"href": "/authors/carroll-lewis/alices-adventures-in-wonderland",
-		"title": "Alice’s Adventures in Wonderland by Lewis CARROLL",
-		"lastupdated": "2020-06-30T14:10:05Z"
-	},
-	{
-		"href": "/authors/carroll-lewis/the-hunting-of-the-snark",
-		"title": "The Hunting of the Snark by Lewis CARROLL",
-		"lastupdated": "2020-06-30T14:25:45Z"
-	},
-	{
-		"href": "/authors/hughes-thomas/tom-browns-schooldays",
-		"title": "Tom Brown's Schooldays by Thomas HUGHES",
-		"lastupdated": "2020-06-30T17:40:48Z"
-	},
-	{
 		"href": "/authors/conrad-joseph/heart-of-darkness",
 		"title": "Heart of Darkness by Joseph CONRAD",
 		"lastupdated": "2020-07-01T19:16:58Z"
@@ -498,5 +483,20 @@
 		"href": "/authors/hughes-thomas/tom-brown-at-oxford",
 		"title": "Tom Brown at Oxford by Thomas HUGHES",
 		"lastupdated": "2020-07-23T08:40:01Z"
+	},
+	{
+		"href": "/authors/woolf-virginia/jacobs-room",
+		"title": "Jacob's Room by Virginia WOOLF",
+		"lastupdated": "2020-07-27T12:10:41Z"
+	},
+	{
+		"href": "/authors/woolf-virginia/night-and-day",
+		"title": "Night and Day by Virginia WOOLF",
+		"lastupdated": "2020-07-27T12:12:26Z"
+	},
+	{
+		"href": "/authors/woolf-virginia/the-voyage-out",
+		"title": "The Voyage Out by Virginia WOOLF",
+		"lastupdated": "2020-07-27T12:13:21Z"
 	}
 ]
