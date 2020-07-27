@@ -1,0 +1,539 @@
+{
+	"title": "The History of Don Quixote (translated by John ORMSBY)",
+	"author": "Miguel de CERVANTES",
+	"source": "https://www.gutenberg.org/files/996/996-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-p",
+		"Volume//n",
+		"-pre",
+		"Preface",
+		"-s",
+		"https://www.gutenberg.org/files/996/996-0.txt",
+		".\\996-0.txt"
+	],
+	"lastupdated": "2020-07-27T12:37:24Z",
+	"chapters": [
+		{
+			"href": "translators-preface.html",
+			"title": "Translator's Preface"
+		},
+		{
+			"href": "authors-preface.html",
+			"title": "Author's Preface"
+		},
+		{
+			"href": "volume-01-dedication.html",
+			"title": "Volume 1 - Dedication"
+		},
+		{
+			"href": "volume-01-chapter-01.html",
+			"title": "Volume 1 - Chapter 1 - Which Treats Of The Character And Pursuits Of The Famous Gentleman Don Quixote Of La Mancha"
+		},
+		{
+			"href": "volume-01-chapter-02.html",
+			"title": "Volume 1 - Chapter 2 - Which Treats Of The First Sally The Ingenious Don Quixote Made From Home"
+		},
+		{
+			"href": "volume-01-chapter-03.html",
+			"title": "Volume 1 - Chapter 3 - Wherein Is Related The Droll Way In Which Don Quixote Had Himself Dubbed A Knight"
+		},
+		{
+			"href": "volume-01-chapter-04.html",
+			"title": "Volume 1 - Chapter 4 - Of What Happened To Our Knight When He Left The Inn"
+		},
+		{
+			"href": "volume-01-chapter-05.html",
+			"title": "Volume 1 - Chapter 5 - In Which The Narrative Of Our Knight’s Mishap Is Continued"
+		},
+		{
+			"href": "volume-01-chapter-06.html",
+			"title": "Volume 1 - Chapter 6 - Of The Diverting And Important Scrutiny Which The Curate And The Barber Made In The Library Of Our Ingenious Gentleman"
+		},
+		{
+			"href": "volume-01-chapter-07.html",
+			"title": "Volume 1 - Chapter 7 - Of The Second Sally Of Our Worthy Knight Don Quixote Of La Mancha"
+		},
+		{
+			"href": "volume-01-chapter-08.html",
+			"title": "Volume 1 - Chapter 8 - Of The Good Fortune Which The Valiant Don Quixote Had In The Terrible And Undreamt-Of Adventure Of The Windmills, With Other Occurrences Worthy To Be Fitly Recorded"
+		},
+		{
+			"href": "volume-01-chapter-09.html",
+			"title": "Volume 1 - Chapter 9 - In Which Is Concluded And Finished The Terrific Battle Between The Gallant Biscayan And The Valiant Manchegan"
+		},
+		{
+			"href": "volume-01-chapter-10.html",
+			"title": "Volume 1 - Chapter 10 - Of The Pleasant Discourse That Passed Between Don Quixote And His Squire Sancho Panza"
+		},
+		{
+			"href": "volume-01-chapter-11.html",
+			"title": "Volume 1 - Chapter 11 - What Befell Don Quixote With Certain Goatherds"
+		},
+		{
+			"href": "volume-01-chapter-12.html",
+			"title": "Volume 1 - Chapter 12 - Of What A Goatherd Related To Those With Don Quixote"
+		},
+		{
+			"href": "volume-01-chapter-13.html",
+			"title": "Volume 1 - Chapter 13 - In Which Is Ended The Story Of The Shepherdess Marcela, With Other Incidents"
+		},
+		{
+			"href": "volume-01-chapter-14.html",
+			"title": "Volume 1 - Chapter 14 - Wherein Are Inserted The Despairing Verses Of The Dead Shepherd, Together With Other Incidents Not Looked For"
+		},
+		{
+			"href": "volume-01-chapter-15.html",
+			"title": "Volume 1 - Chapter 15 - In Which Is Related The Unfortunate Adventure That Don Quixote Fell In With When He Fell Out With Certain Heartless Yanguesans"
+		},
+		{
+			"href": "volume-01-chapter-16.html",
+			"title": "Volume 1 - Chapter 16 - Of What Happened To The Ingenious Gentleman In The Inn Which He Took To Be A Castle"
+		},
+		{
+			"href": "volume-01-chapter-17.html",
+			"title": "Volume 1 - Chapter 17 - In Which Are Contained The Innumerable Troubles Which The Brave Don Quixote And His Good Squire Sancho Panza Endured In The Inn, Which To His Misfortune He Took To Be A Castle"
+		},
+		{
+			"href": "volume-01-chapter-18.html",
+			"title": "Volume 1 - Chapter 18 - In Which Is Related The Discourse Sancho Panza Held With His Master, Don Quixote, And Other Adventures Worth Relating"
+		},
+		{
+			"href": "volume-01-chapter-19.html",
+			"title": "Volume 1 - Chapter 19 - Of The Shrewd Discourse Which Sancho Held With His Master, And Of The Adventure That Befell Him With A Dead Body, Together With Other Notable Occurrences"
+		},
+		{
+			"href": "volume-01-chapter-20.html",
+			"title": "Volume 1 - Chapter 20 - Of The Unexampled And Unheard-Of Adventure Which Was Achieved By The Valiant Don Quixote Of La Mancha With Less Peril Than Any Ever Achieved By Any Famous Knight In The World"
+		},
+		{
+			"href": "volume-01-chapter-21.html",
+			"title": "Volume 1 - Chapter 21 - Which Treats Of The Exalted Adventure And Rich Prize Of Mambrino’s Helmet, Together With Other Things That Happened To Our Invincible Knight"
+		},
+		{
+			"href": "volume-01-chapter-22.html",
+			"title": "Volume 1 - Chapter 22 - Of The Freedom Don Quixote Conferred On Several Unfortunates Who Against Their Will Were Being Carried Where They Had No Wish To Go"
+		},
+		{
+			"href": "volume-01-chapter-23.html",
+			"title": "Volume 1 - Chapter 23 - Of What Befell Don Quixote In The Sierra Morena, Which Was One Of The Rarest Adventures Related In This Veracious History"
+		},
+		{
+			"href": "volume-01-chapter-24.html",
+			"title": "Volume 1 - Chapter 24 - In Which Is Continued The Adventure Of The Sierra Morena"
+		},
+		{
+			"href": "volume-01-chapter-25.html",
+			"title": "Volume 1 - Chapter 25 - Which Treats Of The Strange Things That Happened To The Stout Knight Of La Mancha In The Sierra Morena, And Of His Imitation Of The Penance Of Beltenebros"
+		},
+		{
+			"href": "volume-01-chapter-26.html",
+			"title": "Volume 1 - Chapter 26 - In Which Are Continued The Refinements Wherewith Don Quixote Played The Part Of A Lover In The Sierra Morena"
+		},
+		{
+			"href": "volume-01-chapter-27.html",
+			"title": "Volume 1 - Chapter 27 - Of How The Curate And The Barber Proceeded With Their Scheme; Together With Other Matters Worthy Of Record In This Great History"
+		},
+		{
+			"href": "volume-01-chapter-28.html",
+			"title": "Volume 1 - Chapter 28 - Which Treats Of The Strange And Delightful Adventure That Befell The Curate And The Barber In The Same Sierra"
+		},
+		{
+			"href": "volume-01-chapter-29.html",
+			"title": "Volume 1 - Chapter 29 - Which Treats Of The Droll Device And Method Adopted To Extricate Our Love-Stricken Knight From The Severe Penance He Had Imposed Upon Himself"
+		},
+		{
+			"href": "volume-01-chapter-30.html",
+			"title": "Volume 1 - Chapter 30 - Which Treats Of Address Displayed By The Fair Dorothea, With Other Matters Pleasant And Amusing"
+		},
+		{
+			"href": "volume-01-chapter-31.html",
+			"title": "Volume 1 - Chapter 31 - Of The Delectable Discussion Between Don Quixote And Sancho Panza, His Squire, Together With Other Incidents"
+		},
+		{
+			"href": "volume-01-chapter-32.html",
+			"title": "Volume 1 - Chapter 32 - Which Treats Of What Befell Don Quixote’s Party At The Inn"
+		},
+		{
+			"href": "volume-01-chapter-33.html",
+			"title": "Volume 1 - Chapter 33 - In Which Is Related The Novel Of \"The Ill-Advised Curiosity\""
+		},
+		{
+			"href": "volume-01-chapter-34.html",
+			"title": "Volume 1 - Chapter 34 - In Which Is Continued The Novel Of \"The Ill-Advised Curiosity\""
+		},
+		{
+			"href": "volume-01-chapter-35.html",
+			"title": "Volume 1 - Chapter 35 - Which Treats Of The Heroic And Prodigious Battle Don Quixote Had With Certain Skins Of Red Wine, And Brings The Novel Of \"The Ill-Advised Curiosity\" To A Close"
+		},
+		{
+			"href": "volume-01-chapter-36.html",
+			"title": "Volume 1 - Chapter 36 - Which Treats Of More Curious Incidents That Occurred At The Inn"
+		},
+		{
+			"href": "volume-01-chapter-37.html",
+			"title": "Volume 1 - Chapter 37 - In Which Is Continued The Story Of The Famous Princess Micomicona, With Other Droll Adventures"
+		},
+		{
+			"href": "volume-01-chapter-38.html",
+			"title": "Volume 1 - Chapter 38 - Which Treats Of The Curious Discourse Don Quixote Delivered On Arms And Letters"
+		},
+		{
+			"href": "volume-01-chapter-39.html",
+			"title": "Volume 1 - Chapter 39 - Wherein The Captive Relates His Life And Adventures"
+		},
+		{
+			"href": "volume-01-chapter-40.html",
+			"title": "Volume 1 - Chapter 40 - In Which The Story Of The Captive Is Continued"
+		},
+		{
+			"href": "volume-01-chapter-41.html",
+			"title": "Volume 1 - Chapter 41 - In Which The Captive Still Continues His Adventures"
+		},
+		{
+			"href": "volume-01-chapter-42.html",
+			"title": "Volume 1 - Chapter 42 - Which Treats Of What Further Took Place In The Inn, And Of Several Other Things Worth Knowing"
+		},
+		{
+			"href": "volume-01-chapter-43.html",
+			"title": "Volume 1 - Chapter 43 - Wherein Is Related The Pleasant Story Of The Muleteer, Together With Other Strange Things That Came To Pass In The Inn"
+		},
+		{
+			"href": "volume-01-chapter-44.html",
+			"title": "Volume 1 - Chapter 44 - In Which Are Continued The Unheard-Of Adventures Of The Inn"
+		},
+		{
+			"href": "volume-01-chapter-45.html",
+			"title": "Volume 1 - Chapter 45 - In Which The Doubtful Question Of Mambrino’s Helmet And The Pack-Saddle Is Finally Settled, With Other Adventures That Occurred In Truth And Earnest"
+		},
+		{
+			"href": "volume-01-chapter-46.html",
+			"title": "Volume 1 - Chapter 46 - Of The End Of The Notable Adventure Of The Officers Of The Holy Brotherhood; And Of The Great Ferocity Of Our Worthy Knight, Don Quixote"
+		},
+		{
+			"href": "volume-01-chapter-47.html",
+			"title": "Volume 1 - Chapter 47 - Of The Strange Manner In Which Don Quixote Of La Mancha Was Carried Away Enchanted, Together With Other Remarkable Incidents"
+		},
+		{
+			"href": "volume-01-chapter-48.html",
+			"title": "Volume 1 - Chapter 48 - In Which The Canon Pursues The Subject Of The Books Of Chivalry, With Other Matters Worthy Of His Wit"
+		},
+		{
+			"href": "volume-01-chapter-49.html",
+			"title": "Volume 1 - Chapter 49 - Which Treats Of The Shrewd Conversation Which Sancho Panza Held With His Master Don Quixote"
+		},
+		{
+			"href": "volume-01-chapter-50.html",
+			"title": "Volume 1 - Chapter 50 - Of The Shrewd Controversy Which Don Quixote And The Canon Held, Together With Other Incidents"
+		},
+		{
+			"href": "volume-01-chapter-51.html",
+			"title": "Volume 1 - Chapter 51 - Which Deals With What The Goatherd Told Those Who Were Carrying Off Don Quixote"
+		},
+		{
+			"href": "volume-01-chapter-52.html",
+			"title": "Volume 1 - Chapter 52 - Of The Quarrel That Don Quixote Had With The Goatherd, Together With The Rare Adventure Of The Penitents, Which With An Expenditure Of Sweat He Brought To A Happy Conclusion"
+		},
+		{
+			"href": "volume-02-dedication.html",
+			"title": "Volume 2 - Dedication"
+		},
+		{
+			"href": "volume-02-chapter-01.html",
+			"title": "Volume 2 - Chapter 1 - Of The Interview The Curate And The Barber Had With Don Quixote About His Malady"
+		},
+		{
+			"href": "volume-02-chapter-02.html",
+			"title": "Volume 2 - Chapter 2 - Which Treats Of The Notable Altercation Which Sancho Panza Had With Don Quixote’s Niece, And Housekeeper, Together With Other Droll Matters"
+		},
+		{
+			"href": "volume-02-chapter-03.html",
+			"title": "Volume 2 - Chapter 3 - Of The Laughable Conversation That Passed Between Don Quixote, Sancho Panza, And The Bachelor Samson Carrasco"
+		},
+		{
+			"href": "volume-02-chapter-04.html",
+			"title": "Volume 2 - Chapter 4 - In Which Sancho Panza Gives A Satisfactory Reply To The Doubts And Questions Of The Bachelor Samson Carrasco, Together With Other Matters Worth Knowing And Telling"
+		},
+		{
+			"href": "volume-02-chapter-05.html",
+			"title": "Volume 2 - Chapter 5 - Of The Shrewd And Droll Conversation That Passed Between Sancho Panza And His Wife Teresa Panza, And Other Matters Worthy Of Being Duly Recorded"
+		},
+		{
+			"href": "volume-02-chapter-06.html",
+			"title": "Volume 2 - Chapter 6 - Of What Took Place Between Don Quixote And His Niece And Housekeeper; One Of The Most Important Chapters In The Whole History"
+		},
+		{
+			"href": "volume-02-chapter-07.html",
+			"title": "Volume 2 - Chapter 7 - Of What Passed Between Don Quixote And His Squire, Together With Other Very Notable Incidents"
+		},
+		{
+			"href": "volume-02-chapter-08.html",
+			"title": "Volume 2 - Chapter 8 - Wherein Is Related What Befell Don Quixote On His Way To See His Lady Dulcinea Del Toboso"
+		},
+		{
+			"href": "volume-02-chapter-09.html",
+			"title": "Volume 2 - Chapter 9 - Wherein Is Related What Will Be Seen There"
+		},
+		{
+			"href": "volume-02-chapter-10.html",
+			"title": "Volume 2 - Chapter 10 - Wherein Is Related The Crafty Device Sancho Adopted To Enchant The Lady Dulcinea, And Other Incidents As Ludicrous As They Are True"
+		},
+		{
+			"href": "volume-02-chapter-11.html",
+			"title": "Volume 2 - Chapter 11 - Of The Strange Adventure Which The Valiant Don Quixote Had With The Car Or Cart Of \"The Cortes Of Death\""
+		},
+		{
+			"href": "volume-02-chapter-12.html",
+			"title": "Volume 2 - Chapter 12 - Of The Strange Adventure Which Befell The Valiant Don Quixote With The Bold Knight Of The Mirrors"
+		},
+		{
+			"href": "volume-02-chapter-13.html",
+			"title": "Volume 2 - Chapter 13 - In Which Is Continued The Adventure Of The Knight Of The Grove, Together With The Sensible, Original, And Tranquil Colloquy That Passed Between The Two Squires"
+		},
+		{
+			"href": "volume-02-chapter-14.html",
+			"title": "Volume 2 - Chapter 14 - Wherein Is Continued The Adventure Of The Knight Of The Grove"
+		},
+		{
+			"href": "volume-02-chapter-15.html",
+			"title": "Volume 2 - Chapter 15 - Wherein It Is Told And Known Who The Knight Of The Mirrors And His Squire Were"
+		},
+		{
+			"href": "volume-02-chapter-16.html",
+			"title": "Volume 2 - Chapter 16 - Of What Befell Don Quixote With A Discreet Gentleman Of La Mancha"
+		},
+		{
+			"href": "volume-02-chapter-17.html",
+			"title": "Volume 2 - Chapter 17 - Wherein Is Shown The Furthest And Highest Point Which The Unexampled Courage Of Don Quixote Reached Or Could Reach; Together With The Happily Achieved Adventure Of The Lions"
+		},
+		{
+			"href": "volume-02-chapter-18.html",
+			"title": "Volume 2 - Chapter 18 - Of What Happened Don Quixote In The Castle Or House Of The Knight Of The Green Gaban, Together With Other Matters Out Of The Common"
+		},
+		{
+			"href": "volume-02-chapter-19.html",
+			"title": "Volume 2 - Chapter 19 - In Which Is Related The Adventure Of The Enamoured Shepherd, Together With Other Truly Droll Incidents"
+		},
+		{
+			"href": "volume-02-chapter-20.html",
+			"title": "Volume 2 - Chapter 20 - Wherein An Account Is Given Of The Wedding Of Camacho The Rich, Together With The Incident Of Basilio The Poor"
+		},
+		{
+			"href": "volume-02-chapter-21.html",
+			"title": "Volume 2 - Chapter 21 - In Which Camacho’s Wedding Is Continued, With Other Delightful Incidents"
+		},
+		{
+			"href": "volume-02-chapter-22.html",
+			"title": "Volume 2 - Chapter 22 - Wherein Is Related The Grand Adventure Of The Cave Of Montesinos In The Heart Of La Mancha, Which The Valiant Don Quixote Brought To A Happy Termination"
+		},
+		{
+			"href": "volume-02-chapter-23.html",
+			"title": "Volume 2 - Chapter 23 - Of The Wonderful Things The Incomparable Don Quixote Said He Saw In The Profound Cave Of Montesinos, The Impossibility And Magnitude Of Which Cause This Adventure To Be Deemed Apocryphal"
+		},
+		{
+			"href": "volume-02-chapter-24.html",
+			"title": "Volume 2 - Chapter 24 - Wherein Are Related A Thousand Trifling Matters, As Trivial As They Are Necessary To The Right Understanding Of This Great History"
+		},
+		{
+			"href": "volume-02-chapter-25.html",
+			"title": "Volume 2 - Chapter 25 - Wherein Is Set Down The Braying Adventure, And The Droll One Of The Puppet-Showman, Together With The Memorable Divinations Of The Divining Ape"
+		},
+		{
+			"href": "volume-02-chapter-26.html",
+			"title": "Volume 2 - Chapter 26 - Wherein Is Continued The Droll Adventure Of The Puppet-Showman, Together With Other Things In Truth Right Good"
+		},
+		{
+			"href": "volume-02-chapter-27.html",
+			"title": "Volume 2 - Chapter 27 - Wherein It Is Shown Who Master Pedro And His Ape Were, Together With The Mishap Don Quixote Had In The Braying Adventure, Which He Did Not Conclude As He Would Have Liked Or As He Had Expected"
+		},
+		{
+			"href": "volume-02-chapter-28.html",
+			"title": "Volume 2 - Chapter 28 - Of Matters That Benengeli Says He Who Reads Them Will Know, If He Reads Them With Attention"
+		},
+		{
+			"href": "volume-02-chapter-29.html",
+			"title": "Volume 2 - Chapter 29 - Of The Famous Adventure Of The Enchanted Bark"
+		},
+		{
+			"href": "volume-02-chapter-30.html",
+			"title": "Volume 2 - Chapter 30 - Of Don Quixote’s Adventure With A Fair Huntress"
+		},
+		{
+			"href": "volume-02-chapter-31.html",
+			"title": "Volume 2 - Chapter 31 - Which Treats Of Many And Great Matters"
+		},
+		{
+			"href": "volume-02-chapter-32.html",
+			"title": "Volume 2 - Chapter 32 - Of The Reply Don Quixote Gave His Censurer, With Other Incidents, Grave And Droll"
+		},
+		{
+			"href": "volume-02-chapter-33.html",
+			"title": "Volume 2 - Chapter 33 - Of The Delectable Discourse Which The Duchess And Her Damsels Held With Sancho Panza, Well Worth Reading And Noting"
+		},
+		{
+			"href": "volume-02-chapter-34.html",
+			"title": "Volume 2 - Chapter 34 - Which Relates How They Learned The Way In Which They Were To Disenchant The Peerless Dulcinea Del Toboso, Which Is One Of The Rarest Adventures In This Book"
+		},
+		{
+			"href": "volume-02-chapter-35.html",
+			"title": "Volume 2 - Chapter 35 - Wherein Is Continued The Instruction Given To Don Quixote Touching The Disenchantment Of Dulcinea, Together With Other Marvellous Incidents"
+		},
+		{
+			"href": "volume-02-chapter-36.html",
+			"title": "Volume 2 - Chapter 36 - Wherein Is Related The Strange And Undreamt-Of Adventure Of The Distressed Duenna, Alias The Countess Trifaldi, Together With A Letter Which Sancho Panza Wrote To His Wife, Teresa Panza"
+		},
+		{
+			"href": "volume-02-chapter-37.html",
+			"title": "Volume 2 - Chapter 37 - Wherein Is Continued The Notable Adventure Of The Distressed Duenna"
+		},
+		{
+			"href": "volume-02-chapter-38.html",
+			"title": "Volume 2 - Chapter 38 - Wherein Is Told The Distressed Duenna’s Tale Of Her Misfortunes"
+		},
+		{
+			"href": "volume-02-chapter-39.html",
+			"title": "Volume 2 - Chapter 39 - In Which The Trifaldi Continues Her Marvellous And Memorable Story"
+		},
+		{
+			"href": "volume-02-chapter-40.html",
+			"title": "Volume 2 - Chapter 40 - Of Matters Relating And Belonging To This Adventure And To This Memorable History"
+		},
+		{
+			"href": "volume-02-chapter-41.html",
+			"title": "Volume 2 - Chapter 41 - Of The Arrival Of Clavileño And The End Of This Protracted Adventure"
+		},
+		{
+			"href": "volume-02-chapter-42.html",
+			"title": "Volume 2 - Chapter 42 - Of The Counsels Which Don Quixote Gave Sancho Panza Before He Set Out To Govern The Island, Together With Other Well-Considered Matters"
+		},
+		{
+			"href": "volume-02-chapter-43.html",
+			"title": "Volume 2 - Chapter 43 - Of The Second Set Of Counsels Don Quixote Gave Sancho Panza"
+		},
+		{
+			"href": "volume-02-chapter-44.html",
+			"title": "Volume 2 - Chapter 44 - How Sancho Panza Was Conducted To His Government, And Of The Strange Adventure That Befell Don Quixote In The Castle"
+		},
+		{
+			"href": "volume-02-chapter-45.html",
+			"title": "Volume 2 - Chapter 45 - Of How The Great Sancho Panza Took Possession Of His Island, And Of How He Made A Beginning In Governing"
+		},
+		{
+			"href": "volume-02-chapter-46.html",
+			"title": "Volume 2 - Chapter 46 - Of The Terrible Bell And Cat Fright That Don Quixote Got In The Course Of The Enamoured Altisidora’s Wooing"
+		},
+		{
+			"href": "volume-02-chapter-47.html",
+			"title": "Volume 2 - Chapter 47 - Wherein Is Continued The Account Of How Sancho Panza Conducted Himself In His Government"
+		},
+		{
+			"href": "volume-02-chapter-48.html",
+			"title": "Volume 2 - Chapter 48 - Of What Befell Don Quixote With Doña Rodriguez, The Duchess’s Duenna, Together With Other Occurrences Worthy Of Record And Eternal Remembrance"
+		},
+		{
+			"href": "volume-02-chapter-49.html",
+			"title": "Volume 2 - Chapter 49 - Of What Happened Sancho In Making The Round Of His Island"
+		},
+		{
+			"href": "volume-02-chapter-50.html",
+			"title": "Volume 2 - Chapter 50 - Wherein Is Set Forth Who The Enchanters And Executioners Were Who Flogged The Duenna And Pinched Don Quixote, And Also What Befell The Page Who Carried The Letter To Teresa Panza, Sancho Panza’s Wife"
+		},
+		{
+			"href": "volume-02-chapter-51.html",
+			"title": "Volume 2 - Chapter 51 - Of The Progress Of Sancho’s Government, And Other Such Entertaining Matters"
+		},
+		{
+			"href": "volume-02-chapter-52.html",
+			"title": "Volume 2 - Chapter 52 - Wherein Is Related The Adventure Of The Second Distressed Or Afflicted Duenna, Otherwise Called Doña Rodriguez"
+		},
+		{
+			"href": "volume-02-chapter-53.html",
+			"title": "Volume 2 - Chapter 53 - Of The Troublous End And Termination Sancho Panza’s Government Came To"
+		},
+		{
+			"href": "volume-02-chapter-54.html",
+			"title": "Volume 2 - Chapter 54 - Which Deals With Matters Relating To This History And No Other"
+		},
+		{
+			"href": "volume-02-chapter-55.html",
+			"title": "Volume 2 - Chapter 55 - Of What Befell Sancho On The Road, And Other Things That Cannot Be Surpassed"
+		},
+		{
+			"href": "volume-02-chapter-56.html",
+			"title": "Volume 2 - Chapter 56 - Of The Prodigious And Unparalleled Battle That Took Place Between Don Quixote Of La Mancha And The Lacquey Tosilos In Defence Of The Daughter Of Doña Rodriguez"
+		},
+		{
+			"href": "volume-02-chapter-57.html",
+			"title": "Volume 2 - Chapter 57 - Which Treats Of How Don Quixote Took Leave Of The Duke, And Of What Followed With The Witty And Impudent Altisidora, One Of The Duchess’s Damsels"
+		},
+		{
+			"href": "volume-02-chapter-58.html",
+			"title": "Volume 2 - Chapter 58 - Which Tells How Adventures Came Crowding On Don Quixote In Such Numbers That They Gave One Another No Breathing-Time"
+		},
+		{
+			"href": "volume-02-chapter-59.html",
+			"title": "Volume 2 - Chapter 59 - Wherein Is Related The Strange Thing, Which May Be Regarded As An Adventure, That Happened Don Quixote"
+		},
+		{
+			"href": "volume-02-chapter-60.html",
+			"title": "Volume 2 - Chapter 60 - Of What Happened Don Quixote On His Way To Barcelona"
+		},
+		{
+			"href": "volume-02-chapter-61.html",
+			"title": "Volume 2 - Chapter 61 - Of What Happened Don Quixote On Entering Barcelona, Together With Other Matters That Partake Of The True Rather Than Of The Ingenious"
+		},
+		{
+			"href": "volume-02-chapter-62.html",
+			"title": "Volume 2 - Chapter 62 - Which Deals With The Adventure Of The Enchanted Head, Together With Other Trivial Matters Which Cannot Be Left Untold"
+		},
+		{
+			"href": "volume-02-chapter-63.html",
+			"title": "Volume 2 - Chapter 63 - Of The Mishap That Befell Sancho Panza Through The Visit To The Galleys, And The Strange Adventure Of The Fair Morisco"
+		},
+		{
+			"href": "volume-02-chapter-64.html",
+			"title": "Volume 2 - Chapter 64 - Treating Of The Adventure Which Gave Don Quixote More Unhappiness Than All That Had Hitherto Befallen Him"
+		},
+		{
+			"href": "volume-02-chapter-65.html",
+			"title": "Volume 2 - Chapter 65 - Wherein Is Made Known Who The Knight Of The White Moon Was; Likewise Don Gregorio’s Release, And Other Events"
+		},
+		{
+			"href": "volume-02-chapter-66.html",
+			"title": "Volume 2 - Chapter 66 - Which Treats Of What He Who Reads Will See, Or What He Who Has It Read To Him Will Hear"
+		},
+		{
+			"href": "volume-02-chapter-67.html",
+			"title": "Volume 2 - Chapter 67 - Of The Resolution Don Quixote Formed To Turn Shepherd And Take To A Life In The Fields While The Year For Which He Had Given His Word Was Running Its Course; With Other Events Truly Delectable And Happy"
+		},
+		{
+			"href": "volume-02-chapter-68.html",
+			"title": "Volume 2 - Chapter 68 - Of The Bristly Adventure That Befell Don Quixote"
+		},
+		{
+			"href": "volume-02-chapter-69.html",
+			"title": "Volume 2 - Chapter 69 - Of The Strangest And Most Extraordinary Adventure That Befell Don Quixote In The Whole Course Of This Great History"
+		},
+		{
+			"href": "volume-02-chapter-70.html",
+			"title": "Volume 2 - Chapter 70 - Which Follows Sixty-Nine And Deals With Matters Indispensable For The Clear Comprehension Of This History"
+		},
+		{
+			"href": "volume-02-chapter-71.html",
+			"title": "Volume 2 - Chapter 71 - Of What Passed Between Don Quixote And His Squire Sancho On The Way To Their Village"
+		},
+		{
+			"href": "volume-02-chapter-72.html",
+			"title": "Volume 2 - Chapter 72 - Of How Don Quixote And Sancho Reached Their Village"
+		},
+		{
+			"href": "volume-02-chapter-73.html",
+			"title": "Volume 2 - Chapter 73 - Of The Omens Don Quixote Had As He Entered His Own Village, And Other Incidents That Embellish And Give A Colour To This Great History"
+		},
+		{
+			"href": "volume-02-chapter-74.html",
+			"title": "Volume 2 - Chapter 74 - Of How Don Quixote Fell Sick, And Of The Will He Made, And How He Died"
+		}
+	]
+}

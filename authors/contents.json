@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2020-07-27T12:10:41Z",
+	"lastupdated": "2020-07-27T12:56:38Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -327,6 +327,10 @@
 		{
 			"href": "woolf-virginia",
 			"name": "Virginia WOOLF"
+		},
+		{
+			"href": "cervantes-miguel-de",
+			"name": "Miguel de CERVANTES"
 		}
 	]
 }

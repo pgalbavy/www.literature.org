@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/conrad-joseph/heart-of-darkness",
-		"title": "Heart of Darkness by Joseph CONRAD",
-		"lastupdated": "2020-07-01T19:16:58Z"
-	},
-	{
 		"href": "/authors/conrad-joseph/almayers-folly",
 		"title": "Almayer's Folly by Joseph CONRAD",
 		"lastupdated": "2020-07-01T19:47:07Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/woolf-virginia/the-voyage-out",
 		"title": "The Voyage Out by Virginia WOOLF",
 		"lastupdated": "2020-07-27T12:13:21Z"
+	},
+	{
+		"href": "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby",
+		"title": "The History of Don Quixote (translated by John ORMSBY) by Miguel de CERVANTES",
+		"lastupdated": "2020-07-27T12:56:38Z"
 	}
 ]
