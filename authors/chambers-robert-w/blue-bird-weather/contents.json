@@ -1,0 +1,29 @@
+{
+	"title": "Blue-Bird Weather",
+	"author": "Robert W. CHAMBERS",
+	"source": "http://www.gutenberg.org/cache/epub/24389/pg24389.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"http://www.gutenberg.org/cache/epub/24389/pg24389.txt"
+	],
+	"lastupdated": "2020-07-27T13:28:43Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4"
+		}
+	]
+}

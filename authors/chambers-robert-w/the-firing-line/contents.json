@@ -1,0 +1,131 @@
+{
+	"title": "The Firing Line",
+	"author": "Robert W. CHAMBERS",
+	"source": "http://www.gutenberg.org/cache/epub/15654/pg15654.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/15654/pg15654.txt"
+	],
+	"lastupdated": "2020-07-27T15:51:10Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Skirmish"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Landing"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - An Advance"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Reconnaissance"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - A Flank Movement"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Armistice"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Change Of Base"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Manoeuvering"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Invasion"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Terra Incognita"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Pathfinders"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Allied Forces"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Silent Partners"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Strategy"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Under Fire"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - An Ultimatum"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Echoes"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Peril"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Line Of Battle"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A New Enemy"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Reinforcements"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Roll Call"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Capitulation"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The School Of The Recruit"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - A Conference"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Sealed Instructions"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Malcourt Listens"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Hamil Is Silent"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Calypso's Gift"
+		}
+	]
+}

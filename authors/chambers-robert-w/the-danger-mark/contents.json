@@ -1,0 +1,111 @@
+{
+	"title": "The Danger Mark",
+	"author": "Robert W. CHAMBERS",
+	"source": "http://www.gutenberg.org/cache/epub/18185/pg18185.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/18185/pg18185.txt"
+	],
+	"lastupdated": "2020-07-27T15:37:56Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Seagraves"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - In Trust"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Threshold"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Year Of Discretion"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Roya-Neh"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Adrift"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Together"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - An Afterglow"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Confession"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Dusk"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Fête Galante"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Love Of The Gods"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Ambitions And Letters"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Prophets"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Dysart"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Through The Woods"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Danger Mark"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Bon Chien"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Questions And Answers"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - In Search Of Herself"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Golden Hours"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Cloudy Mountain"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Sine Die"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Prologue Ends"
+		}
+	]
+}

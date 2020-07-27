@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2020-07-27T12:56:38Z",
+	"lastupdated": "2020-07-27T13:15:46Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -331,6 +331,10 @@
 		{
 			"href": "cervantes-miguel-de",
 			"name": "Miguel de CERVANTES"
+		},
+		{
+			"href": "chambers-robert-w",
+			"name": "Robert W. CHAMBERS"
 		}
 	]
 }

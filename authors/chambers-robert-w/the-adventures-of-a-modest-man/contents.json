@@ -1,0 +1,117 @@
+{
+	"title": "The Adventures of a Modest Man",
+	"author": "Robert W. CHAMBERS",
+	"source": "http://www.gutenberg.org/cache/epub/43702/pg43702.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"//p",
+		"-m",
+		"160",
+		"http://www.gutenberg.org/cache/epub/43702/pg43702.txt"
+	],
+	"lastupdated": "2020-07-27T13:14:42Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Concerning Two Gentlemen From Long Island, Destiny, And A Pot Of Black Paint"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Chapter Depicting A Rather Garrulous Reunion"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Trouble For Two"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Wherein A Modest Man Is Bullied And A Literary Man Practices Style"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Dreamland"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Soul And Body"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Biter, The Bitten, And The Un-Bitten"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Matter Of Pronunciation"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Fate"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Chance"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Destiny"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - In Which A Modest Man Maunders"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - A Chance Acquaintance"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A State Of Mind"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Flotsam And Jetsam"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Simplest Solution Of An Ancient Problem"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Showing How It Is Possible For Any Man To Make Of Himself A Chump"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Master Knot Of Human Fate"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Time And The Place"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Down The Seine"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - In A Belgian Garden"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - A Youthful Patriot"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - On The Wall"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - A Journey To The Moon"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Army Of Paris"
+		}
+	]
+}

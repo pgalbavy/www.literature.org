@@ -1,0 +1,161 @@
+{
+	"title": "The Dark Star",
+	"author": "Robert W. CHAMBERS",
+	"source": "http://www.gutenberg.org/cache/epub/28440/pg28440.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-pre",
+		"Preface",
+		"-c",
+		"//p",
+		"http://www.gutenberg.org/cache/epub/28440/pg28440.txt"
+	],
+	"lastupdated": "2020-07-27T15:39:18Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Wonder-Box"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Brookhollow"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - In Embryo"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Trodden Way"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Ex Machina"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The End Of Solitude"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Obsession"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Change Impends"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Nonresistance"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Driving Head-On"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Breakers"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Life Line"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Letters From A Little Girl"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Journey Begins"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Locked House"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Scheherazade"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A White Skirt"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - By Radio"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Captain Of The Volhynia"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Drop Of Irish"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Method And Foresight"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Two Thirteen"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - On His Way"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Road To Paris"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Cup And Lip"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Rue Soleil d'or"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - From Four To Five"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Together"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - En Famille"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - Jardin Russe"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - The Café Des Bulgars"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - The Cercle Extranationale"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - A Rat Hunt"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - Sunrise"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - The First Day"
+		}
+	]
+}

@@ -1,0 +1,119 @@
+{
+	"title": "Barbarians",
+	"author": "Robert W. CHAMBERS",
+	"source": "https://www.gutenberg.org/files/25623/25623-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-a",
+		"Robert W. CHAMBERS",
+		"-t",
+		"Barbarians",
+		"-c",
+		"/^CHAPTER /kp",
+		"https://www.gutenberg.org/files/25623/25623-0.txt"
+	],
+	"lastupdated": "2020-07-27T13:23:58Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Fed Up"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Marooned"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Cuckoo!"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Reconnaissance"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Parnassus"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - In Finistère"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Airman"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - En Observation"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - L’ombre"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Ghouls"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Seed Of Death"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Fifty-Fifty"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Muleteers"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - La Ploo Belle"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Carillonette"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Djack"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Friendship"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Aviator"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Honour"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - \"La Brabançonne\""
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Gardener"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Suspect"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Madam Death"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Bubbles"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Kamerad"
+		}
+	]
+}
