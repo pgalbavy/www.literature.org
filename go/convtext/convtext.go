@@ -64,7 +64,7 @@ func init() {
 	dashre = regexp.MustCompile(`[ _]+`)
 	puncre = regexp.MustCompile(`[[:punct:][:cntrl:]]+`)
 
-	firstre = regexp.MustCompile(`(?mi)\A(?:the )?project gutenberg(?: e\w+ of|'s| e\w+,) ([\pL\.,!\-’'"\(\) ]+),\s+by\s+([\pL\.\-'\(\) ]+)\,?\r?$`)
+	firstre = regexp.MustCompile(`(?mi)\A(?:the )?project gutenberg(?: e\w+ of|'s| e\w+,) ([\pL\.,!\-’'"\(\) ]+),?\s+by\s+([\pL\.\-'\(\) ]+)\,?\r?$`)
 
 	levels = make([]Level, 2, 5)
 }
@@ -189,7 +189,6 @@ func main() {
 			if level.sepre == nil {
 				continue
 			}
-			fmt.Printf("adding firstmatch %q to level %d\n", firstmatch, l)
 			level.firstmatchre = regexp.MustCompile(`(?m)` + firstmatch)
 			break
 		}
@@ -241,7 +240,6 @@ func splitlevel(leveltext string, levels *[]Level, l int, contents *literature.C
 		if level.firstmatchre != nil {
 			parts := level.firstmatchre.Split(leveltext, 2)
 			// can save chunk specially here
-			fmt.Printf("firstmatch[0] => %q\n", parts[0])
 			leveltext = parts[1]
 			level.firstmatchre = nil
 		}
