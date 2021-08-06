@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  nginx:
+    container_name: ${SITE:-staging}
+    image: jonasal/nginx-certbot:latest-alpine
+    restart: unless-stopped
+    environment:
+      - CERTBOT_EMAIL=peter@literature.org
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - ~/letsencrypt:/etc/letsencrypt
+      - ./nginx-${SITE:-staging}.conf:/etc/nginx/user_conf.d/nginx.conf
+      - /var/www/www.literature.org:/usr/share/nginx/www.literature.org
