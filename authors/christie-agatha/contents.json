@@ -6,7 +6,7 @@
 		"goodreads": "https://www.goodreads.com/author/show/123715",
 		"gutenberg": "http://www.gutenberg.org/ebooks/author/451"
 	},
-	"lastupdated": "2021-08-07T14:53:07Z",
+	"lastupdated": "2021-08-07T14:57:55Z",
 	"books": [
 		{
 			"href": "the-mysterious-affair-at-styles",
@@ -23,6 +23,10 @@
 		{
 			"href": "poirot-investigates",
 			"title": "Poirot Investigates"
+		},
+		{
+			"href": "the-secret-adversary",
+			"title": "The Secret Adversary"
 		}
 	]
 }

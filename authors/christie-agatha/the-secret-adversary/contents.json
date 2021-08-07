@@ -1,0 +1,133 @@
+{
+	"title": "The Secret Adversary",
+	"author": "Agatha CHRISTIE",
+	"source": "https://www.gutenberg.org/files/1155/1155-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-f",
+		"AND AFTER",
+		"-pre",
+		"Prologue",
+		"https://www.gutenberg.org/files/1155/1155-0.txt"
+	],
+	"lastupdated": "2021-08-07T14:57:23Z",
+	"chapters": [
+		{
+			"href": "prologue.html",
+			"title": "Prologue"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Young Adventurers, Ltd"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Mr. Whittington’s Offer"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Set Back"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Who Is Jane Finn?"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Mr. Julius P. Hersheimmer"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Plan Of Campaign"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The House In Soho"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Adventures Of Tommy"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Tuppence Enters Domestic Service"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Enter Sir James Peel Edgerton"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Julius Tells A Story"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Friend In Need"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Vigil"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Consultation"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Tuppence Receives A Proposal"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Further Adventures Of Tommy"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Annette"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Telegram"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Jane Finn"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Too Late"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Tommy Makes A Discovery"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - In Downing Street"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Race Against Time"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Julius Takes A Hand"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Jane’s Story"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Mr. Brown"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - A Supper Party At The Savoy"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - And After"
+		}
+	]
+}
