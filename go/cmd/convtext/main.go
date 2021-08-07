@@ -116,7 +116,7 @@ func main() {
 	files := flag.Args()
 
 	if len(files) != 1 {
-		log.Fatal("Exaclty one source required")
+		log.Fatal("Exactly one source required")
 	}
 	file = files[0]
 
