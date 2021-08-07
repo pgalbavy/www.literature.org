@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2020-07-27T13:15:46Z",
+	"lastupdated": "2021-08-07T14:12:34Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -335,6 +335,10 @@
 		{
 			"href": "chambers-robert-w",
 			"name": "Robert W. CHAMBERS"
+		},
+		{
+			"href": "machiavelli-nicolo",
+			"name": "Nicolo MACHIAVELLI"
 		}
 	]
 }

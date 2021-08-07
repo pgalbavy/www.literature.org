@@ -1,0 +1,123 @@
+{
+	"title": "The Prince",
+	"author": "Nicolo MACHIAVELLI",
+	"source": "https://www.gutenberg.org/files/1232/1232-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-pre",
+		"Preface",
+		"https://www.gutenberg.org/files/1232/1232-0.txt"
+	],
+	"lastupdated": "2021-08-07T14:06:36Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - How Many Kinds Of Principalities There Are, And By What Means They Are Acquired"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Concerning Hereditary Principalities"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Concerning Mixed Principalities"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Why The Kingdom Of Darius, Conquered By Alexander, Did Not Rebel Against The Successors Of Alexander At His Death"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Concerning The Way To Govern Cities Or Principalities Which Lived Under Their Own Laws Before They Were Annexed"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Concerning New Principalities Which Are Acquired By One’s Own Arms And Ability"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Concerning New Principalities Which Are Acquired Either By The Arms Of Others Or By Good Fortune"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Concerning Those Who Have Obtained A Principality By Wickedness"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Concerning A Civil Principality"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Concerning The Way In Which The Strength Of All Principalities Ought To Be Measured"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Concerning Ecclesiastical Principalities"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - How Many Kinds Of Soldiery There Are, And Concerning Mercenaries"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Concerning Auxiliaries, Mixed Soldiery, And One’s Own"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - That Which Concerns A Prince On The Subject Of The Art Of War"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Concerning Things For Which Men, And Especially Princes, Are Praised Or Blamed"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Concerning Liberality And Meanness"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Concerning Cruelty And Clemency, And Whether It Is Better To Be Loved Than Feared"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - [1] Concerning The Way In Which Princes Should Keep Faith"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - That One Should Avoid Being Despised And Hated"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Are Fortresses, And Many Other Things To Which Princes Often Resort, Advantageous Or Hurtful?"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - How A Prince Should Conduct Himself So As To Gain Renown"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Concerning The Secretaries Of Princes"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - How Flatterers Should Be Avoided"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Why The Princes Of Italy Have Lost Their States"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - What Fortune Can Effect In Human Affairs And How To Withstand Her"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - An Exhortation To Liberate Italy From The Barbarians"
+		}
+	]
+}
