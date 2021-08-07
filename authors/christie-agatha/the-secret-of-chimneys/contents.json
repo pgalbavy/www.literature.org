@@ -1,0 +1,149 @@
+{
+	"title": "The Secret of Chimneys",
+	"author": "Agatha CHRISTIE",
+	"source": "https://www.gutenberg.org/files/65238/65238-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-f",
+		"SUNDRY DETAILS",
+		"-c",
+		"/^\\d+/p",
+		"https://www.gutenberg.org/files/65238/65238-0.txt"
+	],
+	"lastupdated": "2021-08-07T15:01:29Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Anthony Cade Signs On"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - A Lady In Distress"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Anxiety In High Places"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Introducing A Very Charming Lady"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - First Night In London"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Gentle Art Of Blackmail"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Mr. Mcgrath Refuses An Invitation"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - A Dead Man"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Anthony Disposes Of A Body"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - 45—the Time Mentioned On The Scrap Of Paper. Anthony Was On The Terrace Now, Looking Up At The House. Everything Seemed Dark And Quiet"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Chimneys"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Superintendent Battle Arrives"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Anthony Tells His Story"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - 45, And That I Actually Heard The Shot Fired. I Can At Any Rate Fix The Time Of The Crime For You.\""
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The American Visitor"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Mainly Political And Financial"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The French Stranger"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Tea In The Schoolroom"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - A Midnight Adventure"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Second Midnight Adventure"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Secret History"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Battle And Anthony Confer"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Mr. Isaacstein’s Suit-Case"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Red Signal"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Encounter In The Rose Garden"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - The House At Dover"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Tuesday Night At Chimneys"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The 13th Of October"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - The 13th Of October (Contd.)"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - King Victor"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Further Explanations"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - Anthony Signs On For A New Job"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - Sundry Details"
+		}
+	]
+}

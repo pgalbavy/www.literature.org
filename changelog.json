@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/brown-ruth-alberta/heart-of-gold",
-		"title": "Heart of Gold by Ruth Alberta BROWN",
-		"lastupdated": "2020-07-19T16:00:35Z"
-	},
-	{
 		"href": "/authors/brown-ruth-alberta/the-lilac-lady",
 		"title": "The Lilac Lady by Ruth Alberta BROWN",
 		"lastupdated": "2020-07-19T16:04:19Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/christie-agatha/the-secret-adversary",
 		"title": "The Secret Adversary by Agatha CHRISTIE",
 		"lastupdated": "2021-08-07T14:57:55Z"
+	},
+	{
+		"href": "/authors/christie-agatha/the-secret-of-chimneys",
+		"title": "The Secret of Chimneys by Agatha CHRISTIE",
+		"lastupdated": "2021-08-07T15:02:18Z"
 	}
 ]
