@@ -31,29 +31,29 @@ func init() {
 	wordwrap = regexp.MustCompile(`(.{60,}?)\s(\S)`)
 
 	prehtmlrules = []swapchars{
-		swapchars{pattern: regexp.MustCompile(`(?m)&`), replace: `&amp;`},
-		swapchars{pattern: regexp.MustCompile(`(?m)<`), replace: `&lt;`},
-		swapchars{pattern: regexp.MustCompile(`(?m)>`), replace: `&gt;`},
-		swapchars{pattern: regexp.MustCompile(`(?m)[“”]`), replace: `"`},
+		{pattern: regexp.MustCompile(`(?m)&`), replace: `&amp;`},
+		{pattern: regexp.MustCompile(`(?m)<`), replace: `&lt;`},
+		{pattern: regexp.MustCompile(`(?m)>`), replace: `&gt;`},
+		{pattern: regexp.MustCompile(`(?m)[“”]`), replace: `"`},
 	}
 
 	charrules = []swapchars{
 		// four or more dashes with a horizontal rule
-		swapchars{pattern: regexp.MustCompile(`(?m)^\s*-{4,}\s*$`), replace: "<hr>"},
+		{pattern: regexp.MustCompile(`(?m)^\s*-{4,}\s*$`), replace: "<hr>"},
 		// all remaining pairs of dashes become an HTML mdash
-		swapchars{pattern: regexp.MustCompile(`(?m)---+`), replace: "&#11834;"},
-		swapchars{pattern: regexp.MustCompile(`(?m)--`), replace: "&mdash;"},
+		{pattern: regexp.MustCompile(`(?m)---+`), replace: "&#11834;"},
+		{pattern: regexp.MustCompile(`(?m)--`), replace: "&mdash;"},
 	}
 
 	linerules = []swapchars{
 		// a double dash followed by a capital is the name of an author or reference. move them to a new line
-		swapchars{pattern: regexp.MustCompile(`(?m)^([[:blank:]]*)?(.*)--([[:upper:]])`), replace: "$1$2\n$1&mdash;$3"},
+		{pattern: regexp.MustCompile(`(?m)^([[:blank:]]*)?(.*)--([[:upper:]])`), replace: "$1$2\n$1&mdash;$3"},
 		// a sequence of 3 or more capitals (or dots) are emphasised
-		swapchars{pattern: regexp.MustCompile(`(?m)([[:upper:]][[:upper:]\.-]{2,}[^[:lower:]]*)\b`), replace: "<em>$1</em>"},
+		{pattern: regexp.MustCompile(`(?m)([[:upper:]][[:upper:]\.-]{2,}[^[:lower:]]*)\b`), replace: "<em>$1</em>"},
 		// underscores at a word boundary enclose emphasised text, hashes mean string
-		swapchars{pattern: regexp.MustCompile(`(?ms)\b_(.*?)_\b`), replace: "<em>$1</em>"},
-		swapchars{pattern: regexp.MustCompile(`(?ms)\b/(.*?)/\b`), replace: "<em>$1</em>"},
-		swapchars{pattern: regexp.MustCompile(`(?ms)\#(.*?)#\b`), replace: "<strong>$1</strong>"},
+		{pattern: regexp.MustCompile(`(?ms)\b_(.*?)_\b`), replace: "<em>$1</em>"},
+		{pattern: regexp.MustCompile(`(?ms)\b/(.*?)/\b`), replace: "<em>$1</em>"},
+		{pattern: regexp.MustCompile(`(?ms)\#(.*?)#\b`), replace: "<strong>$1</strong>"},
 	}
 }
 
@@ -117,7 +117,7 @@ func ConvertString(text string) string {
 
 			removeSpaces, err := regexp.Compile(`(?m)^` + spaces) // just strip them
 			if err != nil {
-				log.Fatal("regexp compile failed: %q", spaces)
+				log.Fatalf("regexp compile failed: %q", spaces)
 			}
 			para = removeSpaces.ReplaceAllString(para, "")
 
