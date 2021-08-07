@@ -1,0 +1,81 @@
+{
+	"title": "The Analysis of Mind",
+	"author": "Bertrand RUSSELL",
+	"source": "https://www.gutenberg.org/cache/epub/2529/pg2529.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-pre",
+		"Preface",
+		"-c",
+		"/^LECTURE [IVX]+/",
+		"https://www.gutenberg.org/cache/epub/2529/pg2529.txt"
+	],
+	"lastupdated": "2021-08-07T15:12:38Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Recent Criticisms Of \"Consciousness\""
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Instinct And Habit"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Desire And Feeling"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Influence Of Past History On Present Occurrences In Living Organisms"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Psychological And Physical Causal Laws"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Introspection"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Definition Of Perception"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Sensations And Images"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Memory"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Words And Meaning"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - General Ideas And Thought"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Belief"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Truth And Falsehood"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Emotions And Will"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Characteristics Of Mental Phenomena"
+		}
+	]
+}

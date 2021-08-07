@@ -2,11 +2,15 @@
 	"title": "Bertrand RUSSELL",
 	"source": "",
 	"links": {},
-	"lastupdated": "2021-08-07T15:09:15Z",
+	"lastupdated": "2021-08-07T15:13:35Z",
 	"books": [
 		{
 			"href": "the-problems-of-philosophy",
 			"title": "The Problems of Philosophy"
+		},
+		{
+			"href": "the-analysis-of-mind",
+			"title": "The Analysis of Mind"
 		}
 	]
 }

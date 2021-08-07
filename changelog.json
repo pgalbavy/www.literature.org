@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/brown-ruth-alberta/tabithas-vacation",
-		"title": "Tabitha's Vacation by Ruth Alberta BROWN",
-		"lastupdated": "2020-07-19T16:06:22Z"
-	},
-	{
 		"href": "/authors/swift-jonathan/gullivers-travels",
 		"title": "Gulliver's Travels by Jonathan SWIFT",
 		"lastupdated": "2020-07-19T19:18:51Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/russell-bertrand/the-problems-of-philosophy",
 		"title": "The Problems of Philosophy by Bertrand RUSSELL",
 		"lastupdated": "2021-08-07T15:09:15Z"
+	},
+	{
+		"href": "/authors/russell-bertrand/the-analysis-of-mind",
+		"title": "The Analysis of Mind by Bertrand RUSSELL",
+		"lastupdated": "2021-08-07T15:13:35Z"
 	}
 ]
