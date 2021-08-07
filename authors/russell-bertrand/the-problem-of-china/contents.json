@@ -1,0 +1,81 @@
+{
+	"title": "The Problem of China",
+	"author": "Bertrand RUSSELL",
+	"source": "https://www.gutenberg.org/cache/epub/13940/pg13940.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-pre",
+		"Foreword",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/cache/epub/13940/pg13940.txt"
+	],
+	"lastupdated": "2021-08-07T15:18:02Z",
+	"chapters": [
+		{
+			"href": "foreword.html",
+			"title": "Foreword"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Questions"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - China Before The Nineteenth Century"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - China And The Western Powers"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Modern China"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Japan Before The Restoration"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Modern Japan"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Japan And China Before 1914"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Japan And China During The War"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Washington Conference"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Present Forces And Tendencies In The Far East"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Chinese And Western Civilization Contrasted"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Chinese Character"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Higher Education In China"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Industrialism In China"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Outlook For China"
+		}
+	]
+}
