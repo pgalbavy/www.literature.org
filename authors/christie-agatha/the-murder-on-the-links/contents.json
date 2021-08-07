@@ -1,0 +1,133 @@
+{
+	"title": "The Murder on the Links",
+	"author": "Agatha CHRISTIE",
+	"source": "https://www.gutenberg.org/files/58866/58866-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-f",
+		"Journey",
+		"-c",
+		"/^\\d+ /",
+		"-a",
+		"Agatha CHRISTIE",
+		"-t",
+		"The Murder on the Links",
+		"https://www.gutenberg.org/files/58866/58866-0.txt"
+	],
+	"lastupdated": "2021-08-07T14:44:58Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Fellow Traveller"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - An Appeal For Help"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - At The Villa Geneviève"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Letter Signed \"Bella\""
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Mrs. Renauld’s Story"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Scene Of The Crime"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Mysterious Madame Daubreuil"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - An Unexpected Meeting"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - M. Giraud Finds Some Clues"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Gabriel Stonor"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Jack Renauld"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Poirot Elucidates Certain Points"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Girl With The Anxious Eyes"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Second Body"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - A Photograph"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Beroldy Case"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - We Make Further Investigations"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Giraud Acts"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - I Use My Grey Cells"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - An Amazing Statement"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Hercule Poirot On The Case!"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - I Find Love"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Difficulties Ahead"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - \"Save Him!\""
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - An Unexpected Dénouement"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - I Receive A Letter"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Jack Renauld’s Story"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Journey’s End"
+		}
+	]
+}

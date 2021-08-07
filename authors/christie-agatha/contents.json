@@ -6,7 +6,7 @@
 		"goodreads": "https://www.goodreads.com/author/show/123715",
 		"gutenberg": "http://www.gutenberg.org/ebooks/author/451"
 	},
-	"lastupdated": "2020-07-20T19:27:12Z",
+	"lastupdated": "2021-08-07T14:45:06Z",
 	"books": [
 		{
 			"href": "the-mysterious-affair-at-styles",
@@ -15,6 +15,10 @@
 		{
 			"href": "the-man-in-the-brown-suit",
 			"title": "The Man in the Brown Suit"
+		},
+		{
+			"href": "the-murder-on-the-links",
+			"title": "The Murder on the Links"
 		}
 	]
 }
