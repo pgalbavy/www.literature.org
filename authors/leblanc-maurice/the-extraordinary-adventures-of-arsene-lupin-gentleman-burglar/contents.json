@@ -1,0 +1,51 @@
+{
+	"title": "The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",
+	"author": "Maurice LEBLANC",
+	"source": "https://www.gutenberg.org/files/6133/6133-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-c",
+		"/^[IVX]+\\. /",
+		"https://www.gutenberg.org/files/6133/6133-0.txt"
+	],
+	"lastupdated": "2021-08-07T14:32:34Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Arrest Of Arsène Lupin"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Arsène Lupin In Prison"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Escape Of Arsène Lupin"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Mysterious Traveller"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Queen’s Necklace"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Seven Of Hearts"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Madame Imbert’s Safe"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Black Pearl"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Sherlock Holmes Arrives Too Late"
+		}
+	]
+}

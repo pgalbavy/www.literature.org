@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/conrad-joseph/typhoon",
-		"title": "Typhoon by Joseph CONRAD",
-		"lastupdated": "2020-07-02T17:10:03Z"
-	},
-	{
 		"href": "/authors/nesbit-edith/the-enchanted-castle",
 		"title": "The Enchanted Castle by Edith NESBIT",
 		"lastupdated": "2020-07-03T07:58:58Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/machiavelli-nicolo/the-prince",
 		"title": "The Prince by Nicolo MACHIAVELLI",
 		"lastupdated": "2021-08-07T14:12:34Z"
+	},
+	{
+		"href": "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar",
+		"title": "The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar by Maurice LEBLANC",
+		"lastupdated": "2021-08-07T14:33:26Z"
 	}
 ]
