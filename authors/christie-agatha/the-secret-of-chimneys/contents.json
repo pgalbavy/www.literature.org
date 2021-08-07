@@ -8,10 +8,10 @@
 		"-f",
 		"SUNDRY DETAILS",
 		"-c",
-		"/^\\d+/p",
+		"/^\\d+\\s*$/p",
 		"https://www.gutenberg.org/files/65238/65238-0.txt"
 	],
-	"lastupdated": "2021-08-07T15:01:29Z",
+	"lastupdated": "2021-08-07T15:04:54Z",
 	"chapters": [
 		{
 			"href": "chapter-01.html",
@@ -51,99 +51,91 @@
 		},
 		{
 			"href": "chapter-10.html",
-			"title": "Chapter 10 - 45—the Time Mentioned On The Scrap Of Paper. Anthony Was On The Terrace Now, Looking Up At The House. Everything Seemed Dark And Quiet"
+			"title": "Chapter 10 - Chimneys"
 		},
 		{
 			"href": "chapter-11.html",
-			"title": "Chapter 11 - Chimneys"
+			"title": "Chapter 11 - Superintendent Battle Arrives"
 		},
 		{
 			"href": "chapter-12.html",
-			"title": "Chapter 12 - Superintendent Battle Arrives"
+			"title": "Chapter 12 - Anthony Tells His Story"
 		},
 		{
 			"href": "chapter-13.html",
-			"title": "Chapter 13 - Anthony Tells His Story"
+			"title": "Chapter 13 - The American Visitor"
 		},
 		{
 			"href": "chapter-14.html",
-			"title": "Chapter 14 - 45, And That I Actually Heard The Shot Fired. I Can At Any Rate Fix The Time Of The Crime For You.\""
+			"title": "Chapter 14 - Mainly Political And Financial"
 		},
 		{
 			"href": "chapter-15.html",
-			"title": "Chapter 15 - The American Visitor"
+			"title": "Chapter 15 - The French Stranger"
 		},
 		{
 			"href": "chapter-16.html",
-			"title": "Chapter 16 - Mainly Political And Financial"
+			"title": "Chapter 16 - Tea In The Schoolroom"
 		},
 		{
 			"href": "chapter-17.html",
-			"title": "Chapter 17 - The French Stranger"
+			"title": "Chapter 17 - A Midnight Adventure"
 		},
 		{
 			"href": "chapter-18.html",
-			"title": "Chapter 18 - Tea In The Schoolroom"
+			"title": "Chapter 18 - Second Midnight Adventure"
 		},
 		{
 			"href": "chapter-19.html",
-			"title": "Chapter 19 - A Midnight Adventure"
+			"title": "Chapter 19 - Secret History"
 		},
 		{
 			"href": "chapter-20.html",
-			"title": "Chapter 20 - Second Midnight Adventure"
+			"title": "Chapter 20 - Battle And Anthony Confer"
 		},
 		{
 			"href": "chapter-21.html",
-			"title": "Chapter 21 - Secret History"
+			"title": "Chapter 21 - Mr. Isaacstein’s Suit-Case"
 		},
 		{
 			"href": "chapter-22.html",
-			"title": "Chapter 22 - Battle And Anthony Confer"
+			"title": "Chapter 22 - The Red Signal"
 		},
 		{
 			"href": "chapter-23.html",
-			"title": "Chapter 23 - Mr. Isaacstein’s Suit-Case"
+			"title": "Chapter 23 - Encounter In The Rose Garden"
 		},
 		{
 			"href": "chapter-24.html",
-			"title": "Chapter 24 - The Red Signal"
+			"title": "Chapter 24 - The House At Dover"
 		},
 		{
 			"href": "chapter-25.html",
-			"title": "Chapter 25 - Encounter In The Rose Garden"
+			"title": "Chapter 25 - Tuesday Night At Chimneys"
 		},
 		{
 			"href": "chapter-26.html",
-			"title": "Chapter 26 - The House At Dover"
+			"title": "Chapter 26 - The 13th Of October"
 		},
 		{
 			"href": "chapter-27.html",
-			"title": "Chapter 27 - Tuesday Night At Chimneys"
+			"title": "Chapter 27 - The 13th Of October (Contd.)"
 		},
 		{
 			"href": "chapter-28.html",
-			"title": "Chapter 28 - The 13th Of October"
+			"title": "Chapter 28 - King Victor"
 		},
 		{
 			"href": "chapter-29.html",
-			"title": "Chapter 29 - The 13th Of October (Contd.)"
+			"title": "Chapter 29 - Further Explanations"
 		},
 		{
 			"href": "chapter-30.html",
-			"title": "Chapter 30 - King Victor"
+			"title": "Chapter 30 - Anthony Signs On For A New Job"
 		},
 		{
 			"href": "chapter-31.html",
-			"title": "Chapter 31 - Further Explanations"
-		},
-		{
-			"href": "chapter-32.html",
-			"title": "Chapter 32 - Anthony Signs On For A New Job"
-		},
-		{
-			"href": "chapter-33.html",
-			"title": "Chapter 33 - Sundry Details"
+			"title": "Chapter 31 - Sundry Details"
 		}
 	]
 }
