@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/byron-lord/don-juan",
-		"title": "Don Juan by Lord BYRON",
-		"lastupdated": "2020-07-19T15:40:38Z"
-	},
-	{
 		"href": "/authors/brown-ruth-alberta/at-the-little-brown-house",
 		"title": "At the Little Brown House by Ruth Alberta BROWN",
 		"lastupdated": "2020-07-19T15:53:47Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/christie-agatha/the-murder-on-the-links",
 		"title": "The Murder on the Links by Agatha CHRISTIE",
 		"lastupdated": "2021-08-07T14:45:06Z"
+	},
+	{
+		"href": "/authors/christie-agatha/poirot-investigates",
+		"title": "Poirot Investigates by Agatha CHRISTIE",
+		"lastupdated": "2021-08-07T14:53:07Z"
 	}
 ]

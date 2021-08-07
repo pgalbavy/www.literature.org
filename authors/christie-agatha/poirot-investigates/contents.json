@@ -1,0 +1,65 @@
+{
+	"title": "Poirot Investigates",
+	"author": "Agatha CHRISTIE",
+	"source": "https://www.gutenberg.org/files/61262/61262-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-f",
+		"The Case of the Missing Will",
+		"-c",
+		"/^\\s+[IVX]+\\s*$/p",
+		"-a",
+		"Agatha CHRISTIE",
+		"-t",
+		"Poirot Investigates",
+		"https://www.gutenberg.org/files/61262/61262-0.txt"
+	],
+	"lastupdated": "2021-08-07T14:52:00Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Adventure Of \"The Western Star\""
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Tragedy At Marsdon Manor"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Adventure Of The Cheap Flat"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Mystery Of Hunter’s Lodge"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Million Dollar Bond Robbery"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Adventure Of The Egyptian Tomb"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Jewel Robbery At The _grand Metropolitan"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Kidnapped Prime Minister"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Disappearance Of Mr. Davenheim"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Adventure Of The Italian Nobleman"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Case Of The Missing Will"
+		}
+	]
+}
