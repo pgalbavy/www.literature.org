@@ -1,0 +1,79 @@
+{
+	"title": "The Problems of Philosophy",
+	"author": "Bertrand RUSSELL",
+	"source": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+	"links": {},
+	"cmdline": [
+		"convtext.exe",
+		"-pre",
+		"Preface",
+		"https://www.gutenberg.org/cache/epub/5827/pg5827.txt"
+	],
+	"lastupdated": "2021-08-07T15:08:07Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Appearance And Reality"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Existence Of Matter"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Nature Of Matter"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Idealism"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Knowledge By Acquaintance And Knowledge By Description"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - On Induction"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - On Our Knowledge Of General Principles"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - How A Priori Knowledge Is Possible"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The World Of Universals"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - On Our Knowledge Of Universals"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - On Intuitive Knowledge"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Truth And Falsehood"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Knowledge, Error, And Probable Opinion"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Limits Of Philosophical Knowledge"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Value Of Philosophy"
+		}
+	]
+}

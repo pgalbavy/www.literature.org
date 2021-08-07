@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/brown-ruth-alberta/tabitha-at-ivy-hall",
-		"title": "Tabitha at Ivy Hall by Ruth Alberta BROWN",
-		"lastupdated": "2020-07-19T16:05:11Z"
-	},
-	{
 		"href": "/authors/brown-ruth-alberta/tabithas-vacation",
 		"title": "Tabitha's Vacation by Ruth Alberta BROWN",
 		"lastupdated": "2020-07-19T16:06:22Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/christie-agatha/the-secret-of-chimneys",
 		"title": "The Secret of Chimneys by Agatha CHRISTIE",
 		"lastupdated": "2021-08-07T15:05:34Z"
+	},
+	{
+		"href": "/authors/russell-bertrand/the-problems-of-philosophy",
+		"title": "The Problems of Philosophy by Bertrand RUSSELL",
+		"lastupdated": "2021-08-07T15:09:15Z"
 	}
 ]
