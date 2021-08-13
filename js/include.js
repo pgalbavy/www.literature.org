@@ -13,12 +13,15 @@ async function loadsitecode() {
 	script = scripts[scripts.length - 1];
 	var parent = script.parentNode;
 
-	// console.log("parent=", parent)
 	await Include(parent);
 	await Contents(parent);
 	await Navigate(parent);
 
-	if (location.href.endsWith('/epub.html')) {
+	// late loading of heavy epub code only if asked for
+
+	// send any ?epub a book ?
+	var params = new URLSearchParams(location.search);
+	if (location.pathname.endsWith('/epub.html') || (location.pathname.endsWith('/index.html') && params.has("epub"))) {
 		include('/js/jszip.min.js');
 		include('/js/ejs.min.js');
 		include('/js/jepub.min.js');
@@ -55,7 +58,8 @@ async function Contents(element) {
 		if (file) {
 			json = await fetchHtmlAsText(file);
 			contents = JSON.parse(json);
-			article.removeAttribute(ATTR);
+			// do not remove tag as EPub() also needs it now
+			// article.removeAttribute(ATTR);
 
 			var html = "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hoverable\">";
 
@@ -377,24 +381,25 @@ async function Navigate(element) {
 
 // very much WIP - build an epub for the current directory
 async function EPub(element) {
-
 	const jepub = new jEpub()
 	const parser = new DOMParser();
 
 	var contents;
 	/* Loop through a collection of all ARTICLE elements: */
 	for (var article of element.getElementsByTagName("article")) {
-		var file = article.getAttribute("epub");
+		var file = article.getAttribute("contents");
 		if (file) {
 			contents = JSON.parse(await fetchHtmlAsText(file));
 		}
 	}
 
 	if (contents == null) {
+		console.log("no contents loaded")
 		// no json parsed - error
 	}
 
-	pageurl = location.href.replace(/\/epub.html$/, '');
+	// remove last component of path, so we point bck to the main contents page of the book
+	pageurl = location.href.replace(/\/[^\/]*$/, '');
 
 	jepub.init({
 		i18n: 'en', // Internationalization
