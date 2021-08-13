@@ -17,6 +17,18 @@ async function loadsitecode() {
 	await Include(parent);
 	await Contents(parent);
 	await Navigate(parent);
+
+	if (location.href.endsWith('/epub.html')) {
+		include('/js/jszip.min.js');
+		include('/js/ejs.min.js');
+		include('/js/jepub.min.js');
+		// wait for the entrypoint to be loaded
+		var interval = setInterval(function () {
+			if (typeof jEpub == 'undefined') return;
+			clearInterval(interval);
+			EPub(parent)
+		}, 10);
+	}
 	// once we are done we can reveal the page
 	parent.style.display = "block";
 }
@@ -144,7 +156,6 @@ async function Contents(element) {
 	}
 }
 
-
 async function Navigate(element) {
 	const ATTR = "navigate";
 	for (var nav of element.getElementsByTagName("nav")) {
@@ -161,7 +172,7 @@ async function Navigate(element) {
 			do {
 				final = parts.pop();
 			}
-			while (final != null && (final == "" || final == "index.html"));
+			while (final != null && (final == "" || final == "index.html" || final == "epub.html"));
 
 			var title = "literature.org";
 			var html = "";
@@ -180,7 +191,7 @@ async function Navigate(element) {
 				title = titleCase(contents.author) + " at " + title;
 			}
 
-			if (final && final != "index.html" && final != "authors") {
+			if (final && final != "index.html" && final != "epub.html" && final != "authors") {
 				html += " <a href=\"index.html\" class=\"w3-bar-item w3-button litleft\"><i class=\"material-icons md-lit\">menu_book</i> " + contents.title + "</a>";
 				if (title == "literature.org") {
 					title = titleCase(contents.title) + " at " + title;
@@ -211,7 +222,7 @@ async function Navigate(element) {
 				list = contents.chapters
 			}
 
-			if (list && final && final != "index.html") {
+			if (list && final && final != "index.html" && final != "epub.html") {
 				var page = list.findIndex(o => o.href === final);
 
 				if (final == "authors") {
@@ -364,6 +375,65 @@ async function Navigate(element) {
 	}
 }
 
+// very much WIP - build an epub for the current directory
+async function EPub(element) {
+
+	const jepub = new jEpub()
+	const parser = new DOMParser();
+
+	var contents;
+	/* Loop through a collection of all ARTICLE elements: */
+	for (var article of element.getElementsByTagName("article")) {
+		var file = article.getAttribute("epub");
+		if (file) {
+			contents = JSON.parse(await fetchHtmlAsText(file));
+		}
+	}
+
+	if (contents == null) {
+		// no json parsed - error
+	}
+
+	pageurl = location.href.replace(/\/epub.html$/, '');
+
+	jepub.init({
+		i18n: 'en', // Internationalization
+		title: contents.title,
+		author: contents.author,
+		publisher: 'literature.org',
+		description: 'Dynamically generated EPUB book from <a href="' + pageurl + '">this page</a>',
+		// tags: ['epub', 'literature.org'] // optional
+	})
+
+	for (var c of contents.chapters) {
+		// fetch HTML
+		t = await fetchHtmlAsText(c.href)
+		h = parser.parseFromString(t, "text/html");
+		Include(h);
+		var t2 = h.body.outerHTML
+		jepub.add(c.title, t2);
+	}
+
+	const work = async () => {
+		const blob = await jepub.generate('blob');
+
+		var url = URL.createObjectURL(blob);
+		document.body.append('Your download should start automatically. If not please click here: ');
+		var link = document.createElement('a');
+		document.body.appendChild(link);
+		link.innerHTML = 'Download';
+		link.href = url;
+
+		var path = location.pathname;
+		var parts = path.split('/');
+		link.download = parts[2] + '-' + parts[3] + '.epub';
+		link.click();
+		//		URL.revokeObjectURL(url);
+	}
+
+	work()
+}
+
 
 // original from http://www.javascriptkit.com/javatutors/touchevents2.shtml
 //
@@ -468,4 +538,13 @@ function is_touch_enabled() {
 async function fetchHtmlAsText(url) {
 	const response = await fetch(url);
 	return await response.text();
+}
+
+function include(file) {
+	var script = document.createElement('script');
+	script.src = file;
+	script.type = 'text/javascript';
+	script.defer = false;
+
+	document.head.appendChild(script);
 }
