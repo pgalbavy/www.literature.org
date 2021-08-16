@@ -19,7 +19,6 @@ async function loadsitecode() {
 	await Navigate(parent);
 
 	// late loading of heavy epub code only if asked for
-
 	// send any ?epub a book ?
 	let params = new URLSearchParams(location.search);
 	let path = location.pathname;
@@ -35,6 +34,8 @@ async function loadsitecode() {
 			EPub(parent)
 		}, 10);
 	}
+
+
 	// once we are done we can reveal the page
 	parent.style.display = "block";
 }
@@ -45,121 +46,123 @@ async function Include(element) {
 	const ATTR = "include-html";
 	for (let div of element.getElementsByTagName("div")) {
 		let file = div.getAttribute(ATTR);
-		if (file) {
-			div.innerHTML = await fetchHtmlAsText(file);
-			div.removeAttribute(ATTR);
-			Include(div);
+		if (!file) {
+			return
 		}
+		div.innerHTML = await fetchHtmlAsText(file);
+		div.removeAttribute(ATTR);
+		Include(div);
 	}
 }
+
 
 async function Contents(element) {
 	const ATTR = "contents";
 	/* Loop through a collection of all ARTICLE elements: */
 	for (let article of element.getElementsByTagName("article")) {
 		let file = article.getAttribute(ATTR);
-		if (file) {
-			let json = await fetchHtmlAsText(file);
-			let contents = JSON.parse(json);
-			// do not remove tag as EPub() also needs it now
-			// article.removeAttribute(ATTR);
+		if (!file) {
+			return
+		}
+		let json = await fetchHtmlAsText(file);
+		let contents = JSON.parse(json);
+		// do not remove tag as EPub() also needs it now
+		// article.removeAttribute(ATTR);
 
-			let html = "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hoverable\">";
+		let html = "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hoverable\">";
 
-			if (typeof contents.authors === 'undefined') {
-				contents.authors = [];
-			}
-			for (let a of contents.authors.sort(hrefSort)) {
-				html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + a.href + "\" class=\"w3-bar-item litleft w3-button\">";
-				html += "<i class=\"material-icons md-lit w3-margin-right\">person</i> ";
-				html += nameCapsHTML(a.name);
-				html += "</a></li>";
-			}
-
-			if (typeof contents.books === 'undefined') {
-				contents.books = [];
-			} else if (typeof contents.title !== 'undefined') {
-				html += "<li class=\"w3-col w3-hover-none\"><span class=\"w3-bar-item\">";
-				html += "<i class=\"material-icons md-lit w3-margin-right\">person</i> ";
-				html += nameCapsHTML(contents.title);
-				if (typeof contents.aliases !== 'undefined') {
-					// list aliases here (maybe basic bio too, but then move this outside the test)
-					html += " - also known as: ";
-					for (let alias of contents.aliases) {
-						html += nameCapsHTML(alias) + ", ";
-					}
-					html = html.substring(0, html.length - 2)
-					html += "</span></li>";
-				}
-			}
-			for (let b of contents.books.sort(bookSort)) {
-				html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + b.href + "\" class=\"w3-bar-item litleft w3-button\">";
-				html += "<i class=\"material-icons md-lit w3-margin-right\">menu_book</i> ";
-				html += nameCapsHTML(b.title);
-				if (typeof b.year !== 'undefined') {
-					html += " (" + b.year + ")";
-				}
-				html += "</a></li>";
-			}
-			if (typeof contents.chapters === 'undefined') {
-				contents.chapters = [];
-			}
-			for (let c of contents.chapters) {
-				html += "<li><a href=\"" + c.href + "\" class=\"w3-bar-item w3-button litleft\">";
-
-				if (c.href == "authors") {
-					html += "<i class=\"material-icons md-lit w3-margin-right\">people</i> ";
-				} else if (contents.title == "Authors") {
-					html += "<i class=\"material-icons md-lit w3-margin-right\">person</i> ";
-				} else if (c.href && c.href.endsWith(".html")) {
-					html += "<i class=\"material-icons md-lit w3-margin-right\">library_books</i> ";
-				} else {
-					html += "<i class=\"material-icons md-lit w3-margin-right\">menu_book</i> ";
-				}
-
-				html += nameCapsHTML(c.title) + "</a></li>";
-			}
-			html += "</ul>";
-
-			// add other content here
-			if (typeof contents.links !== 'undefined' && Object.keys(contents.links) != 0) {
-				html += "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hoverable\">";
-				html += "<li class=\"w3-hover-none\"><h2>External Links</h2></li>";
-				if (contents.links.wikipedia) {
-					html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + contents.links.wikipedia + "\" class=\"w3-bar-item litleft w3-button\" target=\"_blank\">";
-					html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
-					html += "<img src=\"/images/Wikipedia-logo-v2.svg\" style=\"width:32px\">";
-					html += "&nbsp;Wikipedia";
-					html += "</a>";
-				}
-				if (contents.links.goodreads) {
-					html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + contents.links.goodreads + "\" class=\"w3-bar-item litleft w3-button\" target=\"_blank\">";
-					html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
-					html += "<img src=\"/images/1454549125-1454549125_goodreads_misc.png\" style=\"width:32px\">";
-					html += "&nbsp;Goodreads"
-					html += "</a>";
-				}
-				if (contents.links.gutenberg) {
-					html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + contents.links.gutenberg + "\" class=\"w3-bar-item litleft w3-button\" target=\"_blank\">";
-					html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
-					html += "<img src=\"/images/Project_Gutenberg_logo.svg\" style=\"width:32px\">";
-					html += "&nbsp;Project&nbsp;Gutenberg"
-					html += "</a>";
-				}
-				if (contents.links.other) {
-					for (let l of contents.links.other) {
-						html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + l.href + "\" class=\"w3-bar-item w3-button\" litleft target=\"_blank\">";
-						html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
-						html += l.title + "</a>"
-						html += "</a>";
-					}
-				}
-				html += "</ul>";
-			}
-
-			article.innerHTML = html;
+		if (typeof contents.authors === 'undefined') {
+			contents.authors = [];
+		}
+		for (let a of contents.authors.sort(hrefSort)) {
+			html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + a.href + "\" class=\"w3-bar-item litleft w3-button\">";
+			html += "<i class=\"material-icons md-lit w3-margin-right\">person</i> ";
+			html += nameCapsHTML(a.name);
+			html += "</a></li>";
 		}
 
+		if (typeof contents.books === 'undefined') {
+			contents.books = [];
+		} else if (typeof contents.title !== 'undefined') {
+			html += "<li class=\"w3-col w3-hover-none\"><span class=\"w3-bar-item\">";
+			html += "<i class=\"material-icons md-lit w3-margin-right\">person</i> ";
+			html += nameCapsHTML(contents.title);
+			if (typeof contents.aliases !== 'undefined') {
+				// list aliases here (maybe basic bio too, but then move this outside the test)
+				html += " - also known as: ";
+				for (let alias of contents.aliases) {
+					html += nameCapsHTML(alias) + ", ";
+				}
+				html = html.substring(0, html.length - 2)
+				html += "</span></li>";
+			}
+		}
+		for (let b of contents.books.sort(bookSort)) {
+			html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + b.href + "\" class=\"w3-bar-item litleft w3-button\">";
+			html += "<i class=\"material-icons md-lit w3-margin-right\">menu_book</i> ";
+			html += nameCapsHTML(b.title);
+			if (typeof b.year !== 'undefined') {
+				html += " (" + b.year + ")";
+			}
+			html += "</a></li>";
+		}
+		if (typeof contents.chapters === 'undefined') {
+			contents.chapters = [];
+		}
+		for (let c of contents.chapters) {
+			html += "<li><a href=\"" + c.href + "\" class=\"w3-bar-item w3-button litleft\">";
+
+			if (c.href == "authors") {
+				html += "<i class=\"material-icons md-lit w3-margin-right\">people</i> ";
+			} else if (contents.title == "Authors") {
+				html += "<i class=\"material-icons md-lit w3-margin-right\">person</i> ";
+			} else if (c.href && c.href.endsWith(".html")) {
+				html += "<i class=\"material-icons md-lit w3-margin-right\">library_books</i> ";
+			} else {
+				html += "<i class=\"material-icons md-lit w3-margin-right\">menu_book</i> ";
+			}
+
+			html += nameCapsHTML(c.title) + "</a></li>";
+		}
+		html += "</ul>";
+
+		// add other content here
+		if (typeof contents.links !== 'undefined' && Object.keys(contents.links) != 0) {
+			html += "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hoverable\">";
+			html += "<li class=\"w3-hover-none\"><h2>External Links</h2></li>";
+			if (contents.links.wikipedia) {
+				html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + contents.links.wikipedia + "\" class=\"w3-bar-item litleft w3-button\" target=\"_blank\">";
+				html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
+				html += "<img src=\"/images/Wikipedia-logo-v2.svg\" style=\"width:32px\">";
+				html += "&nbsp;Wikipedia";
+				html += "</a>";
+			}
+			if (contents.links.goodreads) {
+				html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + contents.links.goodreads + "\" class=\"w3-bar-item litleft w3-button\" target=\"_blank\">";
+				html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
+				html += "<img src=\"/images/1454549125-1454549125_goodreads_misc.png\" style=\"width:32px\">";
+				html += "&nbsp;Goodreads"
+				html += "</a>";
+			}
+			if (contents.links.gutenberg) {
+				html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + contents.links.gutenberg + "\" class=\"w3-bar-item litleft w3-button\" target=\"_blank\">";
+				html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
+				html += "<img src=\"/images/Project_Gutenberg_logo.svg\" style=\"width:32px\">";
+				html += "&nbsp;Project&nbsp;Gutenberg"
+				html += "</a>";
+			}
+			if (contents.links.other) {
+				for (let l of contents.links.other) {
+					html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + l.href + "\" class=\"w3-bar-item w3-button\" litleft target=\"_blank\">";
+					html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
+					html += l.title + "</a>"
+					html += "</a>";
+				}
+			}
+			html += "</ul>";
+		}
+
+		article.innerHTML = html;
 	}
 }
 
@@ -167,218 +170,221 @@ async function Navigate(element) {
 	const ATTR = "navigate";
 	for (let nav of element.getElementsByTagName("nav")) {
 		let file = nav.getAttribute(ATTR);
-		if (file) {
-			let json = await fetchHtmlAsText(file);
-			let contents = JSON.parse(json);
-			nav.removeAttribute(ATTR);
-			let path = location.pathname;
-			let parts = path.split('/');
-			let final;
-			let texthead = "";
-
-			do {
-				final = parts.pop();
-			}
-			while (final != null && (final == "" || final == "index.html" || final == "epub.html"));
-
-			let title = "literature.org";
-			let html = "";
-
-			// this breaks if there is more than one article
-			let articles = document.getElementsByTagName("article")
-			let article = articles[0];
-
-			// sidebar
-			html += "<nav class=\"w3-sidebar w3-bar-block w3-large\" style=\"width:66%; max-width: 400px; display:none\" id=\"sidebar\">";
-			html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons md-lit\">close</i> Close</button>";
-			html += "<a href=\"/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">home</i> literature.org</a>";
-			html += "<a href=\"/authors/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">people</i> Authors</a>";
-			if (contents.author) {
-				html += " <a href=\"../\" class=\"w3-bar-item w3-button litleft\"><i class=\"material-icons md-lit\">person</i> " + contents.author + "</a>";
-				title = titleCase(contents.author) + " at " + title;
-			}
-
-			if (final && final != "index.html" && final != "epub.html" && final != "authors") {
-				html += " <a href=\"index.html\" class=\"w3-bar-item w3-button litleft\"><i class=\"material-icons md-lit\">menu_book</i> " + contents.title + "</a>";
-				if (title == "literature.org") {
-					title = titleCase(contents.title) + " at " + title;
-				} else {
-					title = titleCase(contents.title) + " by " + title;
-				}
-				if (typeof contents.chapters !== 'undefined' && final.endsWith(".html")) {
-					let chapter = contents.chapters.findIndex(o => o.href === final);
-					// dropdown here
-					html += "<button class=\"w3-bar-item w3-button litleft\" onclick=\"w3_close()\"><i class=\"material-icons md-lit\">library_books</i></a>";
-					html += " " + contents.chapters[chapter].title + "</button>";
-				}
-			}
-
-			html += "</nav>";
-
-			// top bar
-			html += "<nav class=\"w3-bar\" style=\"font-size:24px; white-space: nowrap;\">";
-			html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_open()\"><i class=\"material-icons md-lit\">menu</i></button>";
-
-			// pick one and exactly one list of links, in this order
-			let list;
-			if (typeof contents.authors !== 'undefined' && contents.authors.length > 0) {
-				list = contents.authors
-			} else if (typeof contents.books !== 'undefined' && contents.books.length > 0) {
-				list = contents.books
-			} else {
-				list = contents.chapters
-			}
-
-			if (list && final && final != "index.html" && final != "epub.html") {
-				let page = list.findIndex(o => o.href === final);
-
-				if (final == "authors") {
-					html += "<a href=\"/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">home</i></a>";
-				} else {
-					if (typeof contents.author === 'undefined' || contents.author == "") {
-						html += "<a href=\"/authors/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">people</i></a>";
-					} else {
-						// author
-						html += "<a href=\"..\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">person</i></a>";
-					}
-
-					// contents page
-					if (!(contents.title != "Authors" && (typeof contents.author === 'undefined' || contents.author == ""))) {
-						if (final.endsWith(".html")) {
-							html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">menu_book</i></a>";
-						} else {
-							html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left w3-disabled\"><i class=\"material-icons md-lit\">menu_book</i></a>";
-						}
-					}
-				}
-
-				let prev, next;
-
-				if (page > 0) {
-					// there is a valid previous page
-					prev = list[page - 1].href;
-					html += "<a href=\"" + prev + "\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">arrow_back</i></a>";
-				} else {
-					html += "<div class=\"w3-bar-item w3-button w3-disabled w3-hover-none\"><i class=\"material-icons md-lit\">arrow_back</i></div>";
-				}
-
-				if (is_touch_enabled() === true) {
-					html += "<div class=\"w3-bar-item w3-button w3-disabled lit-narrow\"><i class=\"material-icons md-lit\">touch_app</i></div>"
-				}
-
-				if (page < list.length - 1 && contents.author != "") {
-					// there is a valid next page
-					next = list[page + 1].href
-					html += "<a href=\"" + next + "\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">arrow_forward</i></a>";
-				} else {
-					html += "<div class=\"w3-bar-item w3-button w3-disabled\"><i class=\"material-icons md-lit\">arrow_forward</i></div>";
-				}
-
-				// update link rel="next"/"prev" values
-				let links = document.head.getElementsByTagName("link");
-				let gotnext = false,
-					gotprev = false;
-				for (let l = 0; l < links.length; l++) {
-					if (links[l].rel == "next") {
-						gotnext = true;
-					} else if (links[l].rel == "prev") {
-						gotprev = true;
-					}
-				}
-
-				if (!gotnext && next) {
-					let link = document.createElement('link');
-					link.rel = 'next';
-					link.href = next;
-					document.head.appendChild(link);
-				}
-
-				if (!gotprev && prev) {
-					let link = document.createElement('link');
-					link.rel = 'prev';
-					link.href = prev;
-					document.head.appendChild(link);
-				}
-
-				// touch swipe navigation
-				let swipedir;
-				swipedetect(article, function (swipedir) {
-					if (swipedir == 'left' && next) {
-						window.location.href = next;
-					} else if (swipedir == 'right' && prev) {
-						window.location.href = prev;
-					} else {
-						// close sidebar if open if we touch but not swipe anywhere on the text
-						w3_close();
-					}
-				})
-
-				// dropdown of pages here (soon)
-				html += "<div class=\"w3-bar-item lit w3-hide-small\">";
-
-				if (list[page]) {
-					texthead = "<h3 class=\"w3-hide-medium w3-hide-large w3-left-align\" id= \"heading\">" + list[page].title + "</h3>";
-					html += list[page].title;
-
-					title = list[page].title + " - " + title;
-				} else {
-					if (!(contents.title != "Authors" && (typeof contents.author === 'undefined' || contents.author == ""))) {
-						texthead = "<ul class=\"w3-row w3-bar-block w3-ul w3-hide-medium w3-hide-large\">";
-						texthead += "<li><span class=\"w3-bar-item w3-button litleft w3-hover-none\">";
-						// for some reason the size is required in this one instance
-						texthead += "<i class=\"material-icons md-lit w3-margin-right\" style=\"width: 24px\">menu_books</i> ";
-						texthead += nameCapsHTML(contents.title);
-						texthead += "</span></li></ul>";
-					}
-					html += nameCapsHTML(contents.title);
-				}
-				html += "</div>";
-
-				if (list[page]) {
-					html += "<div class=\"w3-bar-item lit w3-hide-medium w3-hide-large\">";
-					// html += "<i class=\"material-icons md-lit w3-margin-right\">library_books</i>";
-					html += (page + 1) + "/" + list.length;
-					html += "</div>";
-				}
-
-			} else if (final != null) {
-				// author
-				html += "<a href=\"..\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">person</i></a>";
-
-				html += "<a href=\"index.html\" class=\"w3-bar-item w3-button\">" + contents.title + "</a>";
-
-				title = contents.title + " - " + title;
-			}
-			html += "</nav>";
-			nav.innerHTML = html;
-
-			// grab first paragraph and massage it into a meta description,
-			// using the title as a suffix and truncating to a length of 160-ish
-			let paras = article.getElementsByTagName("p");
-			let firstpara = title;
-			if (paras[0]) {
-				firstpara = paras[0].textContent;
-				let tlen = 150 - title.length;
-				let trimpara = RegExp('^(.{0,' + tlen + '}\\w*).*');
-				firstpara = "'" + firstpara.trim().replace(/\s+/g, ' ').replace(trimpara, '$1');
-				firstpara += "...' - " + title;
-			}
-
-			let existing = document.head.querySelector('meta[name="description"');
-			if (existing) {
-				existing.content = firstpara
-			} else {
-				let meta = document.createElement('meta');
-				meta.name = 'description';
-				meta.content = firstpara;
-				document.head.appendChild(meta);
-			}
-
-			// also add a header before the main text for the chapter that is only revealed on screens where the topbar
-			// title is hidden (above)
-			article.insertAdjacentHTML("afterbegin", texthead);
-			document.title = title;
+		if (!file) {
+			return
 		}
+
+		let json = await fetchHtmlAsText(file);
+		let contents = JSON.parse(json);
+		nav.removeAttribute(ATTR);
+
+		let path = location.pathname;
+		let parts = path.split('/');
+		let final;
+		let texthead = "";
+
+		do {
+			final = parts.pop();
+		}
+		while (final != null && (final == "" || final == "index.html"));
+
+		let title = "literature.org";
+		let html = "";
+
+		// this breaks if there is more than one article
+		let articles = document.getElementsByTagName("article")
+		let article = articles[0];
+
+		// sidebar
+		html += "<nav class=\"w3-sidebar w3-bar-block w3-large\" style=\"width:66%; max-width: 400px; display:none\" id=\"sidebar\">";
+		html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons md-lit\">close</i> Close</button>";
+		html += "<a href=\"/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">home</i> literature.org</a>";
+		html += "<a href=\"/authors/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">people</i> Authors</a>";
+		if (contents.author) {
+			html += " <a href=\"../\" class=\"w3-bar-item w3-button litleft\"><i class=\"material-icons md-lit\">person</i> " + contents.author + "</a>";
+			title = titleCase(contents.author) + " at " + title;
+		}
+
+		if (final && final != "index.html" && final != "authors") {
+			html += " <a href=\"index.html\" class=\"w3-bar-item w3-button litleft\"><i class=\"material-icons md-lit\">menu_book</i> " + contents.title + "</a>";
+			if (title == "literature.org") {
+				title = titleCase(contents.title) + " at " + title;
+			} else {
+				title = titleCase(contents.title) + " by " + title;
+			}
+			if (typeof contents.chapters !== 'undefined' && final.endsWith(".html")) {
+				let chapter = contents.chapters.findIndex(o => o.href === final);
+				// dropdown here
+				html += "<button class=\"w3-bar-item w3-button litleft\" onclick=\"w3_close()\"><i class=\"material-icons md-lit\">library_books</i></a>";
+				html += " " + contents.chapters[chapter].title + "</button>";
+			}
+		}
+
+		html += "</nav>";
+
+		// top bar
+		html += "<nav class=\"w3-bar\" style=\"font-size:24px; white-space: nowrap;\">";
+		html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_open()\"><i class=\"material-icons md-lit\">menu</i></button>";
+
+		// pick one and exactly one list of links, in this order
+		let list;
+		if (typeof contents.authors !== 'undefined' && contents.authors.length > 0) {
+			list = contents.authors
+		} else if (typeof contents.books !== 'undefined' && contents.books.length > 0) {
+			list = contents.books
+		} else {
+			list = contents.chapters
+		}
+
+		if (list && final && final != "index.html") {
+			let page = list.findIndex(o => o.href === final);
+
+			if (final == "authors") {
+				html += "<a href=\"/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">home</i></a>";
+			} else {
+				if (typeof contents.author === 'undefined' || contents.author == "") {
+					html += "<a href=\"/authors/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">people</i></a>";
+				} else {
+					// author
+					html += "<a href=\"..\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">person</i></a>";
+				}
+
+				// contents page
+				if (!(contents.title != "Authors" && (typeof contents.author === 'undefined' || contents.author == ""))) {
+					if (final.endsWith(".html")) {
+						html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">menu_book</i></a>";
+					} else {
+						html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left w3-disabled\"><i class=\"material-icons md-lit\">menu_book</i></a>";
+					}
+				}
+			}
+
+			let prev, next;
+
+			if (page > 0) {
+				// there is a valid previous page
+				prev = list[page - 1].href;
+				html += "<a href=\"" + prev + "\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">arrow_back</i></a>";
+			} else {
+				html += "<div class=\"w3-bar-item w3-button w3-disabled w3-hover-none\"><i class=\"material-icons md-lit\">arrow_back</i></div>";
+			}
+
+			if (is_touch_enabled() === true) {
+				html += "<div class=\"w3-bar-item w3-button w3-disabled lit-narrow\"><i class=\"material-icons md-lit\">touch_app</i></div>"
+			}
+
+			if (page < list.length - 1 && contents.author != "") {
+				// there is a valid next page
+				next = list[page + 1].href
+				html += "<a href=\"" + next + "\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">arrow_forward</i></a>";
+			} else {
+				html += "<div class=\"w3-bar-item w3-button w3-disabled\"><i class=\"material-icons md-lit\">arrow_forward</i></div>";
+			}
+
+			// update link rel="next"/"prev" values
+			let links = document.head.getElementsByTagName("link");
+			let gotnext = false,
+				gotprev = false;
+			for (let l = 0; l < links.length; l++) {
+				if (links[l].rel == "next") {
+					gotnext = true;
+				} else if (links[l].rel == "prev") {
+					gotprev = true;
+				}
+			}
+
+			if (!gotnext && next) {
+				let link = document.createElement('link');
+				link.rel = 'next';
+				link.href = next;
+				document.head.appendChild(link);
+			}
+
+			if (!gotprev && prev) {
+				let link = document.createElement('link');
+				link.rel = 'prev';
+				link.href = prev;
+				document.head.appendChild(link);
+			}
+
+			// touch swipe navigation
+			let swipedir;
+			swipedetect(article, function (swipedir) {
+				if (swipedir == 'left' && next) {
+					window.location.href = next;
+				} else if (swipedir == 'right' && prev) {
+					window.location.href = prev;
+				} else {
+					// close sidebar if open if we touch but not swipe anywhere on the text
+					w3_close();
+				}
+			})
+
+			// dropdown of pages here (soon)
+			html += "<div class=\"w3-bar-item lit w3-hide-small\">";
+
+			if (list[page]) {
+				texthead = "<h3 class=\"w3-hide-medium w3-hide-large w3-left-align\" id= \"heading\">" + list[page].title + "</h3>";
+				html += list[page].title;
+
+				title = list[page].title + " - " + title;
+			} else {
+				if (!(contents.title != "Authors" && (typeof contents.author === 'undefined' || contents.author == ""))) {
+					texthead = "<ul class=\"w3-row w3-bar-block w3-ul w3-hide-medium w3-hide-large\">";
+					texthead += "<li><span class=\"w3-bar-item w3-button litleft w3-hover-none\">";
+					// for some reason the size is required in this one instance
+					texthead += "<i class=\"material-icons md-lit w3-margin-right\" style=\"width: 24px\">menu_books</i> ";
+					texthead += nameCapsHTML(contents.title);
+					texthead += "</span></li></ul>";
+				}
+				html += nameCapsHTML(contents.title);
+			}
+			html += "</div>";
+
+			if (list[page]) {
+				html += "<div class=\"w3-bar-item lit w3-hide-medium w3-hide-large\">";
+				// html += "<i class=\"material-icons md-lit w3-margin-right\">library_books</i>";
+				html += (page + 1) + "/" + list.length;
+				html += "</div>";
+			}
+
+		} else if (final != null) {
+			// author
+			html += "<a href=\"..\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">person</i></a>";
+
+			html += "<a href=\"index.html\" class=\"w3-bar-item w3-button\">" + contents.title + "</a>";
+
+			title = contents.title + " - " + title;
+		}
+		html += "</nav>";
+		nav.innerHTML = html;
+
+		// grab first paragraph and massage it into a meta description,
+		// using the title as a suffix and truncating to a length of 160-ish
+		let paras = article.getElementsByTagName("p");
+		let firstpara = title;
+		if (paras[0]) {
+			firstpara = paras[0].textContent;
+			let tlen = 150 - title.length;
+			let trimpara = RegExp('^(.{0,' + tlen + '}\\w*).*');
+			firstpara = "'" + firstpara.trim().replace(/\s+/g, ' ').replace(trimpara, '$1');
+			firstpara += "...' - " + title;
+		}
+
+		let existing = document.head.querySelector('meta[name="description"');
+		if (existing) {
+			existing.content = firstpara
+		} else {
+			let meta = document.createElement('meta');
+			meta.name = 'description';
+			meta.content = firstpara;
+			document.head.appendChild(meta);
+		}
+
+		// also add a header before the main text for the chapter that is only revealed on screens where the topbar
+		// title is hidden (above)
+		article.insertAdjacentHTML("afterbegin", texthead);
+		document.title = title;
 	}
 }
 
@@ -391,9 +397,10 @@ async function EPub(element) {
 	/* Loop through a collection of all ARTICLE elements: */
 	for (let article of element.getElementsByTagName("article")) {
 		let file = article.getAttribute("contents");
-		if (file) {
-			contents = JSON.parse(await fetchHtmlAsText(file));
+		if (!file) {
+			return
 		}
+		contents = JSON.parse(await fetchHtmlAsText(file));
 	}
 
 	if (contents == null) {
