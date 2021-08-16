@@ -49,7 +49,7 @@ async function Include(element) {
 		if (!file) {
 			return
 		}
-		div.innerHTML = await fetchHtmlAsText(file);
+		div.innerHTML = await fetchAsText(file);
 		div.removeAttribute(ATTR);
 		Include(div);
 	}
@@ -64,7 +64,7 @@ async function Contents(element) {
 		if (!file) {
 			return
 		}
-		let json = await fetchHtmlAsText(file);
+		let json = await fetchAsText(file);
 		let contents = JSON.parse(json);
 		// do not remove tag as EPub() also needs it now
 		// article.removeAttribute(ATTR);
@@ -174,7 +174,7 @@ async function Navigate(element) {
 			return
 		}
 
-		let json = await fetchHtmlAsText(file);
+		let json = await fetchAsText(file);
 		let contents = JSON.parse(json);
 		nav.removeAttribute(ATTR);
 
@@ -392,6 +392,7 @@ async function Navigate(element) {
 async function EPub(element) {
 	const jepub = new jEpub()
 	const parser = new DOMParser();
+	const jszip = new JSZip();
 
 	let contents;
 	/* Loop through a collection of all ARTICLE elements: */
@@ -400,7 +401,7 @@ async function EPub(element) {
 		if (!file) {
 			return
 		}
-		contents = JSON.parse(await fetchHtmlAsText(file));
+		contents = JSON.parse(await fetchAsText(file));
 	}
 
 	if (contents == null) {
@@ -422,7 +423,7 @@ async function EPub(element) {
 
 	for (let c of contents.chapters) {
 		// fetch HTML
-		let t = await fetchHtmlAsText(c.href)
+		let t = await fetchAsText(c.href)
 		let h = parser.parseFromString(t, "text/html");
 		await Include(h);
 		let t2 = h.head.outerHTML + h.body.outerHTML;
@@ -432,9 +433,36 @@ async function EPub(element) {
 	}
 
 	const work = async () => {
-		const blob = await jepub.generate('blob');
+		let blob = await jepub.generate('blob');
+		// re-open zip, add css and fonts
+		await jszip.loadAsync(blob);
+
+		let css1 = await fetchAsText("/css/literature.css")
+		jszip.file("OEBPS/css/literature.css", css1);
+		let css2 = await fetchAsText("/css/w3.css")
+		jszip.file("OEBPS/css/w3.css", css2);
+		let css3 = await fetchAsText("/css/icon.css")
+		jszip.file("OEBPS/css/icon.css", css3);
+
+		let font1 = await fetchAsBlob("/fonts/karla-v13-latin-regular.woff");
+		let font2 = await fetchAsBlob("/fonts/karla-v13-latin-regular.woff2");
+		let font3 = await fetchAsBlob("/fonts/open-sans-v17-latin-regular.woff");
+		let font4 = await fetchAsBlob("/fonts/open-sans-v17-latin-regular.woff2");
+		jszip.file("OEBPS/fonts/karla-v13-latin-regular.woff", font1);
+		jszip.file("OEBPS/fonts/karla-v13-latin-regular.woff2", font2);
+		jszip.file("OEBPS/fonts/open-sans-v17-latin-regular.woff", font3);
+		jszip.file("OEBPS/fonts/open-sans-v17-latin-regular.woff2", font4);
+
+		//let js1 = await fetchAsText("/js/include.js");
+		jszip.file("OEBPS/js/include.js", "function loadsitecode() {};");
+
+		//let cont1 = await fetchAsText("contents.json");
+		//jszip.file("OEBPS/contents.json", cont1);
+
+		blob = await jszip.generateAsync({type: "blob"});
 
 		let url = URL.createObjectURL(blob);
+
 		document.body.append('Your download should start automatically. If not please click here: ');
 		let link = document.createElement('a');
 		document.body.appendChild(link);
@@ -445,7 +473,7 @@ async function EPub(element) {
 		let parts = path.split('/');
 		link.download = parts[2] + '-' + parts[3] + '.epub';
 		link.click();
-		//		URL.revokeObjectURL(url);
+		// URL.revokeObjectURL(url);
 	}
 
 	work()
@@ -552,9 +580,14 @@ function is_touch_enabled() {
 		(navigator.msMaxTouchPoints > 0);
 }
 
-async function fetchHtmlAsText(url) {
+async function fetchAsText(url) {
 	const response = await fetch(url);
 	return await response.text();
+}
+
+async function fetchAsBlob(url) {
+	const response = await fetch(url);
+	return await response.blob();
 }
 
 function include(file) {
