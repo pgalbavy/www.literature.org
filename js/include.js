@@ -22,7 +22,9 @@ async function loadsitecode() {
 
 	// send any ?epub a book ?
 	let params = new URLSearchParams(location.search);
-	if (location.pathname.endsWith('/epub.html') || (location.pathname.endsWith('/index.html') && params.has("epub"))) {
+	let path = location.pathname;
+	// path has to be an index page, check path for no '.' unless it's index.html
+	if (params.has("epub") && (!path.includes('.') || path.endsWith('/index.html'))) {
 		include('/js/jszip.min.js');
 		include('/js/ejs.min.js');
 		include('/js/jepub.min.js');
@@ -400,7 +402,7 @@ async function EPub(element) {
 	}
 
 	// remove last component of path, so we point bck to the main contents page of the book
-	pageurl = location.href.replace(/\/[^\/]*$/, '');
+	let pageurl = location.href.replace(/\/[^\/]*$/, '');
 
 	jepub.init({
 		i18n: 'en', // Internationalization
@@ -413,8 +415,8 @@ async function EPub(element) {
 
 	for (let c of contents.chapters) {
 		// fetch HTML
-		t = await fetchHtmlAsText(c.href)
-		h = parser.parseFromString(t, "text/html");
+		let t = await fetchHtmlAsText(c.href)
+		let h = parser.parseFromString(t, "text/html");
 		await Include(h);
 		let t2 = h.head.outerHTML + h.body.outerHTML;
 		t2 = t2.replaceAll('/css/', 'css/');
