@@ -414,8 +414,10 @@ async function EPub(element) {
 		// fetch HTML
 		t = await fetchHtmlAsText(c.href)
 		h = parser.parseFromString(t, "text/html");
-		Include(h);
-		var t2 = h.body.outerHTML
+		await Include(h);
+		var t2 = h.head.outerHTML + h.body.outerHTML;
+		t2 = t2.replaceAll('/css/', 'css/');
+		t2 = t2.replaceAll('/js/', 'js/');
 		jepub.add(c.title, t2);
 	}
 
