@@ -2,6 +2,7 @@
  * The original repo can be found at:
  * https://github.com/pgalbavy/www.literature.org
  */
+"use strict";
 
 async function loadsitecode() {
 	if (window.location.protocol != 'https:') {
@@ -9,9 +10,9 @@ async function loadsitecode() {
 	}
 
 	// restrict changes to the element we are called from
-	var scripts = document.getElementsByTagName('script');
-	script = scripts[scripts.length - 1];
-	var parent = script.parentNode;
+	let scripts = document.getElementsByTagName('script');
+	let script = scripts[scripts.length - 1];
+	let parent = script.parentNode;
 
 	await Include(parent);
 	await Contents(parent);
@@ -20,13 +21,13 @@ async function loadsitecode() {
 	// late loading of heavy epub code only if asked for
 
 	// send any ?epub a book ?
-	var params = new URLSearchParams(location.search);
+	let params = new URLSearchParams(location.search);
 	if (location.pathname.endsWith('/epub.html') || (location.pathname.endsWith('/index.html') && params.has("epub"))) {
 		include('/js/jszip.min.js');
 		include('/js/ejs.min.js');
 		include('/js/jepub.min.js');
 		// wait for the entrypoint to be loaded
-		var interval = setInterval(function () {
+		let interval = setInterval(function () {
 			if (typeof jEpub == 'undefined') return;
 			clearInterval(interval);
 			EPub(parent)
@@ -40,8 +41,8 @@ async function loadsitecode() {
 // and replace contents with file
 async function Include(element) {
 	const ATTR = "include-html";
-	for (var div of element.getElementsByTagName("div")) {
-		var file = div.getAttribute(ATTR);
+	for (let div of element.getElementsByTagName("div")) {
+		let file = div.getAttribute(ATTR);
 		if (file) {
 			div.innerHTML = await fetchHtmlAsText(file);
 			div.removeAttribute(ATTR);
@@ -53,20 +54,20 @@ async function Include(element) {
 async function Contents(element) {
 	const ATTR = "contents";
 	/* Loop through a collection of all ARTICLE elements: */
-	for (var article of element.getElementsByTagName("article")) {
-		var file = article.getAttribute(ATTR);
+	for (let article of element.getElementsByTagName("article")) {
+		let file = article.getAttribute(ATTR);
 		if (file) {
-			json = await fetchHtmlAsText(file);
-			contents = JSON.parse(json);
+			let json = await fetchHtmlAsText(file);
+			let contents = JSON.parse(json);
 			// do not remove tag as EPub() also needs it now
 			// article.removeAttribute(ATTR);
 
-			var html = "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hoverable\">";
+			let html = "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hoverable\">";
 
 			if (typeof contents.authors === 'undefined') {
 				contents.authors = [];
 			}
-			for (var a of contents.authors.sort(hrefSort)) {
+			for (let a of contents.authors.sort(hrefSort)) {
 				html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + a.href + "\" class=\"w3-bar-item litleft w3-button\">";
 				html += "<i class=\"material-icons md-lit w3-margin-right\">person</i> ";
 				html += nameCapsHTML(a.name);
@@ -82,14 +83,14 @@ async function Contents(element) {
 				if (typeof contents.aliases !== 'undefined') {
 					// list aliases here (maybe basic bio too, but then move this outside the test)
 					html += " - also known as: ";
-					for (var alias of contents.aliases) {
+					for (let alias of contents.aliases) {
 						html += nameCapsHTML(alias) + ", ";
 					}
 					html = html.substring(0, html.length - 2)
 					html += "</span></li>";
 				}
 			}
-			for (var b of contents.books.sort(bookSort)) {
+			for (let b of contents.books.sort(bookSort)) {
 				html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + b.href + "\" class=\"w3-bar-item litleft w3-button\">";
 				html += "<i class=\"material-icons md-lit w3-margin-right\">menu_book</i> ";
 				html += nameCapsHTML(b.title);
@@ -101,7 +102,7 @@ async function Contents(element) {
 			if (typeof contents.chapters === 'undefined') {
 				contents.chapters = [];
 			}
-			for (var c of contents.chapters) {
+			for (let c of contents.chapters) {
 				html += "<li><a href=\"" + c.href + "\" class=\"w3-bar-item w3-button litleft\">";
 
 				if (c.href == "authors") {
@@ -144,7 +145,7 @@ async function Contents(element) {
 					html += "</a>";
 				}
 				if (contents.links.other) {
-					for (var l of contents.links.other) {
+					for (let l of contents.links.other) {
 						html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + l.href + "\" class=\"w3-bar-item w3-button\" litleft target=\"_blank\">";
 						html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
 						html += l.title + "</a>"
@@ -162,28 +163,28 @@ async function Contents(element) {
 
 async function Navigate(element) {
 	const ATTR = "navigate";
-	for (var nav of element.getElementsByTagName("nav")) {
-		var file = nav.getAttribute(ATTR);
+	for (let nav of element.getElementsByTagName("nav")) {
+		let file = nav.getAttribute(ATTR);
 		if (file) {
-			json = await fetchHtmlAsText(file);
-			contents = JSON.parse(json);
+			let json = await fetchHtmlAsText(file);
+			let contents = JSON.parse(json);
 			nav.removeAttribute(ATTR);
-			var path = location.pathname;
-			var parts = path.split('/');
-			var final;
-			var texthead = "";
+			let path = location.pathname;
+			let parts = path.split('/');
+			let final;
+			let texthead = "";
 
 			do {
 				final = parts.pop();
 			}
 			while (final != null && (final == "" || final == "index.html" || final == "epub.html"));
 
-			var title = "literature.org";
-			var html = "";
+			let title = "literature.org";
+			let html = "";
 
 			// this breaks if there is more than one article
-			var articles = document.getElementsByTagName("article")
-			var article = articles[0];
+			let articles = document.getElementsByTagName("article")
+			let article = articles[0];
 
 			// sidebar
 			html += "<nav class=\"w3-sidebar w3-bar-block w3-large\" style=\"width:66%; max-width: 400px; display:none\" id=\"sidebar\">";
@@ -203,7 +204,7 @@ async function Navigate(element) {
 					title = titleCase(contents.title) + " by " + title;
 				}
 				if (typeof contents.chapters !== 'undefined' && final.endsWith(".html")) {
-					var chapter = contents.chapters.findIndex(o => o.href === final);
+					let chapter = contents.chapters.findIndex(o => o.href === final);
 					// dropdown here
 					html += "<button class=\"w3-bar-item w3-button litleft\" onclick=\"w3_close()\"><i class=\"material-icons md-lit\">library_books</i></a>";
 					html += " " + contents.chapters[chapter].title + "</button>";
@@ -217,7 +218,7 @@ async function Navigate(element) {
 			html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_open()\"><i class=\"material-icons md-lit\">menu</i></button>";
 
 			// pick one and exactly one list of links, in this order
-			var list;
+			let list;
 			if (typeof contents.authors !== 'undefined' && contents.authors.length > 0) {
 				list = contents.authors
 			} else if (typeof contents.books !== 'undefined' && contents.books.length > 0) {
@@ -227,7 +228,7 @@ async function Navigate(element) {
 			}
 
 			if (list && final && final != "index.html" && final != "epub.html") {
-				var page = list.findIndex(o => o.href === final);
+				let page = list.findIndex(o => o.href === final);
 
 				if (final == "authors") {
 					html += "<a href=\"/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">home</i></a>";
@@ -249,7 +250,7 @@ async function Navigate(element) {
 					}
 				}
 
-				var prev, next;
+				let prev, next;
 
 				if (page > 0) {
 					// there is a valid previous page
@@ -272,10 +273,10 @@ async function Navigate(element) {
 				}
 
 				// update link rel="next"/"prev" values
-				var links = document.head.getElementsByTagName("link");
-				var gotnext = false,
+				let links = document.head.getElementsByTagName("link");
+				let gotnext = false,
 					gotprev = false;
-				for (var l = 0; l < links.length; l++) {
+				for (let l = 0; l < links.length; l++) {
 					if (links[l].rel == "next") {
 						gotnext = true;
 					} else if (links[l].rel == "prev") {
@@ -284,21 +285,21 @@ async function Navigate(element) {
 				}
 
 				if (!gotnext && next) {
-					var link = document.createElement('link');
+					let link = document.createElement('link');
 					link.rel = 'next';
 					link.href = next;
 					document.head.appendChild(link);
 				}
 
 				if (!gotprev && prev) {
-					var link = document.createElement('link');
+					let link = document.createElement('link');
 					link.rel = 'prev';
 					link.href = prev;
 					document.head.appendChild(link);
 				}
 
 				// touch swipe navigation
-				var swipedir;
+				let swipedir;
 				swipedetect(article, function (swipedir) {
 					if (swipedir == 'left' && next) {
 						window.location.href = next;
@@ -351,21 +352,21 @@ async function Navigate(element) {
 
 			// grab first paragraph and massage it into a meta description,
 			// using the title as a suffix and truncating to a length of 160-ish
-			var paras = article.getElementsByTagName("p");
-			var firstpara = title;
+			let paras = article.getElementsByTagName("p");
+			let firstpara = title;
 			if (paras[0]) {
 				firstpara = paras[0].textContent;
-				var tlen = 150 - title.length;
-				var trimpara = RegExp('^(.{0,' + tlen + '}\\w*).*');
+				let tlen = 150 - title.length;
+				let trimpara = RegExp('^(.{0,' + tlen + '}\\w*).*');
 				firstpara = "'" + firstpara.trim().replace(/\s+/g, ' ').replace(trimpara, '$1');
 				firstpara += "...' - " + title;
 			}
 
-			var existing = document.head.querySelector('meta[name="description"');
+			let existing = document.head.querySelector('meta[name="description"');
 			if (existing) {
 				existing.content = firstpara
 			} else {
-				var meta = document.createElement('meta');
+				let meta = document.createElement('meta');
 				meta.name = 'description';
 				meta.content = firstpara;
 				document.head.appendChild(meta);
@@ -384,10 +385,10 @@ async function EPub(element) {
 	const jepub = new jEpub()
 	const parser = new DOMParser();
 
-	var contents;
+	let contents;
 	/* Loop through a collection of all ARTICLE elements: */
-	for (var article of element.getElementsByTagName("article")) {
-		var file = article.getAttribute("contents");
+	for (let article of element.getElementsByTagName("article")) {
+		let file = article.getAttribute("contents");
 		if (file) {
 			contents = JSON.parse(await fetchHtmlAsText(file));
 		}
@@ -410,12 +411,12 @@ async function EPub(element) {
 		// tags: ['epub', 'literature.org'] // optional
 	})
 
-	for (var c of contents.chapters) {
+	for (let c of contents.chapters) {
 		// fetch HTML
 		t = await fetchHtmlAsText(c.href)
 		h = parser.parseFromString(t, "text/html");
 		await Include(h);
-		var t2 = h.head.outerHTML + h.body.outerHTML;
+		let t2 = h.head.outerHTML + h.body.outerHTML;
 		t2 = t2.replaceAll('/css/', 'css/');
 		t2 = t2.replaceAll('/js/', 'js/');
 		jepub.add(c.title, t2);
@@ -424,15 +425,15 @@ async function EPub(element) {
 	const work = async () => {
 		const blob = await jepub.generate('blob');
 
-		var url = URL.createObjectURL(blob);
+		let url = URL.createObjectURL(blob);
 		document.body.append('Your download should start automatically. If not please click here: ');
-		var link = document.createElement('a');
+		let link = document.createElement('a');
 		document.body.appendChild(link);
 		link.innerHTML = 'Download';
 		link.href = url;
 
-		var path = location.pathname;
-		var parts = path.split('/');
+		let path = location.pathname;
+		let parts = path.split('/');
 		link.download = parts[2] + '-' + parts[3] + '.epub';
 		link.click();
 		//		URL.revokeObjectURL(url);
@@ -446,7 +447,7 @@ async function EPub(element) {
 //
 // simplified as we are all text and don't want to block link touches
 function swipedetect(element, callback) {
-	var startX,
+	let startX,
 		startY,
 		threshold = 150, //required min distance traveled to be considered swipe
 		restraint = 100, // maximum distance allowed at the same time in perpendicular direction
@@ -454,7 +455,7 @@ function swipedetect(element, callback) {
 		startTime;
 
 	element.addEventListener('touchstart', function (e) {
-		var touchobj = e.changedTouches[0];
+		let touchobj = e.changedTouches[0];
 		startX = touchobj.pageX;
 		startY = touchobj.pageY;
 		startTime = new Date().getTime();
@@ -463,11 +464,11 @@ function swipedetect(element, callback) {
 	})
 
 	element.addEventListener('touchend', function (e) {
-		var touchobj = e.changedTouches[0];
-		var distX = touchobj.pageX - startX;
-		var distY = touchobj.pageY - startY;
-		var elapsedTime = new Date().getTime() - startTime;
-		var swipedir = 'none';
+		let touchobj = e.changedTouches[0];
+		let distX = touchobj.pageX - startX;
+		let distY = touchobj.pageY - startY;
+		let elapsedTime = new Date().getTime() - startTime;
+		let swipedir = 'none';
 		if (elapsedTime <= allowedTime) {
 			if (Math.abs(distX) >= threshold && Math.abs(distY) <= restraint) {
 				swipedir = (distX < 0) ? 'left' : 'right'
@@ -486,14 +487,14 @@ function w3_close() {
 }
 
 // sort by year or by title with short prefixes removed
-var smallre = /^(the|an|a)\s/i;
+let smallre = /^(the|an|a)\s/i;
 
 function bookSort(a, b) {
-	var result = b.year == a.year ? 0 : b.year > a.year ? -1 : 1
+	let result = b.year == a.year ? 0 : b.year > a.year ? -1 : 1
 
 	if (result == 0) {
-		c = b.title.replace(smallre, "")
-		d = a.title.replace(smallre, "")
+		let c = b.title.replace(smallre, "")
+		let d = a.title.replace(smallre, "")
 		return c == d ? 0 : c > d ? -1 : 1
 	}
 
@@ -512,7 +513,7 @@ function titleCase(str) {
 		}
 		word = word.replace(word[0], word[0].toUpperCase());
 		// check for Mc, Mac etc. - makes this a lookup table if it gets much longer
-		var n = -1;
+		let n = -1;
 		if (word.startsWith("Mc")) {
 			n = 2;
 		}
@@ -548,7 +549,7 @@ async function fetchHtmlAsText(url) {
 }
 
 function include(file) {
-	var script = document.createElement('script');
+	let script = document.createElement('script');
 	script.src = file;
 	script.type = 'text/javascript';
 	script.defer = false;
