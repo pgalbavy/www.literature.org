@@ -24,17 +24,13 @@ async function loadsitecode() {
 	let path = location.pathname;
 	// path has to be an index page, check path for no '.' unless it's index.html
 	if (params.has("epub") && (!path.includes('.') || path.endsWith('/index.html'))) {
-		include('/js/jszip.min.js');
-		include('/js/ejs.min.js');
-		include('/js/jepub.min.js');
-		// wait for the entrypoint to be loaded
-		let interval = setInterval(function () {
-			if (typeof jEpub == 'undefined') return;
-			clearInterval(interval);
-			EPub(parent)
-		}, 10);
+		loadScript('/js/jszip.min.js')
+		.then(script => loadScript('/js/ejs.min.js'))
+		.then(script => loadScript('/js/jepub.min.js'))
+		.then(script => {
+			EPub(parent);
+		})
 	}
-
 
 	// once we are done we can reveal the page
 	parent.style.display = "block";
@@ -590,11 +586,13 @@ async function fetchAsBlob(url) {
 	return await response.blob();
 }
 
-function include(file) {
-	let script = document.createElement('script');
-	script.src = file;
-	script.type = 'text/javascript';
-	script.defer = false;
+function loadScript(file) {
+	return new Promise(function(resolve, result) {
+		let script = document.createElement('script');
+		script.src = file;
 
-	document.head.appendChild(script);
+		script.onload = () => resolve(script);
+		script.onerror = () => reject(new Error(`could not load ${src}`));
+		document.head.append(script);
+	});
 }
