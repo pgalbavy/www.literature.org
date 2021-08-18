@@ -25,11 +25,11 @@ async function loadsitecode() {
 	// path has to be an index page, check path for no '.' unless it's index.html
 	if (params.has("epub") && (!path.includes('.') || path.endsWith('/index.html'))) {
 		loadScript('/js/jszip.min.js')
-		.then(script => loadScript('/js/ejs.min.js'))
-		.then(script => loadScript('/js/jepub.min.js'))
-		.then(script => {
-			EPub(parent);
-		})
+			.then(script => loadScript('/js/ejs.min.js'))
+			.then(script => loadScript('/js/jepub.min.js'))
+			.then(script => {
+				EPub(parent);
+			})
 	}
 
 	// once we are done we can reveal the page
@@ -41,25 +41,25 @@ async function loadsitecode() {
 async function Include(element) {
 	const ATTR = "include-html";
 	for (let div of element.getElementsByTagName("div")) {
-		let file = div.getAttribute(ATTR);
-		if (!file) {
-			return
+		if (!div.hasAttribute(ATTR)) {
+			continue;
 		}
+		let file = div.getAttribute(ATTR);
 		div.innerHTML = await fetchAsText(file);
 		div.removeAttribute(ATTR);
+		// recurse into just loaded HTML
 		Include(div);
 	}
 }
-
 
 async function Contents(element) {
 	const ATTR = "contents";
 	/* Loop through a collection of all ARTICLE elements: */
 	for (let article of element.getElementsByTagName("article")) {
-		let file = article.getAttribute(ATTR);
-		if (!file) {
-			return
+		if (!article.hasAttribute(ATTR)) {
+			continue;
 		}
+		let file = article.getAttribute(ATTR);
 		let json = await fetchAsText(file);
 		let contents = JSON.parse(json);
 		// do not remove tag as EPub() also needs it now
@@ -165,11 +165,10 @@ async function Contents(element) {
 async function Navigate(element) {
 	const ATTR = "navigate";
 	for (let nav of element.getElementsByTagName("nav")) {
-		let file = nav.getAttribute(ATTR);
-		if (!file) {
-			return
+		if (!nav.hasAttribute(ATTR)) {
+			continue;
 		}
-
+		let file = nav.getAttribute(ATTR);
 		let json = await fetchAsText(file);
 		let contents = JSON.parse(json);
 		nav.removeAttribute(ATTR);
@@ -390,89 +389,90 @@ async function EPub(element) {
 	const parser = new DOMParser();
 	const jszip = new JSZip();
 
-	let contents;
 	/* Loop through a collection of all ARTICLE elements: */
 	for (let article of element.getElementsByTagName("article")) {
-		let file = article.getAttribute("contents");
-		if (!file) {
-			return
+		if (!article.hasAttribute("contents")) {
+			continue;
 		}
-		contents = JSON.parse(await fetchAsText(file));
+		let file = article.getAttribute("contents");
+		let contents = JSON.parse(await fetchAsText(file));
+
+
+		if (contents == null) {
+			console.log("no contents loaded")
+			// no json parsed - error
+		}
+
+		// remove last component of path, so we point bck to the main contents page of the book
+		let pageurl = location.href.replace(/\/[^\/]*$/, '');
+
+		jepub.init({
+			i18n: 'en', // Internationalization
+			title: contents.title,
+			author: contents.author,
+			publisher: 'literature.org',
+			description: 'Dynamically generated EPUB book from <a href="' + pageurl + '">this page</a>',
+			// tags: ['epub', 'literature.org'] // optional
+		})
+
+		for (let c of contents.chapters) {
+			// fetch HTML
+			let text = await fetchAsText(c.href)
+			let html = parser.parseFromString(text, "text/html");
+			await Include(html);
+			// let t2 = html.head.outerHTML + html.body.outerHTML;
+			text = html.body.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/');
+			jepub.add(c.title, text);
+		}
+
+		const work = async () => {
+			let blob = await jepub.generate('blob');
+			// re-open zip, add css and fonts
+			await jszip.loadAsync(blob);
+
+			let css1 = await fetchAsText("/css/literature.css")
+			jszip.file("OEBPS/css/literature.css", css1);
+			let css2 = await fetchAsText("/css/w3.css")
+			jszip.file("OEBPS/css/w3.css", css2);
+			let css3 = await fetchAsText("/css/icon.css")
+			jszip.file("OEBPS/css/icon.css", css3);
+
+			let font1 = await fetchAsBlob("/fonts/karla-v13-latin-regular.woff");
+			let font2 = await fetchAsBlob("/fonts/karla-v13-latin-regular.woff2");
+			let font3 = await fetchAsBlob("/fonts/open-sans-v17-latin-regular.woff");
+			let font4 = await fetchAsBlob("/fonts/open-sans-v17-latin-regular.woff2");
+			jszip.file("OEBPS/fonts/karla-v13-latin-regular.woff", font1);
+			jszip.file("OEBPS/fonts/karla-v13-latin-regular.woff2", font2);
+			jszip.file("OEBPS/fonts/open-sans-v17-latin-regular.woff", font3);
+			jszip.file("OEBPS/fonts/open-sans-v17-latin-regular.woff2", font4);
+
+			//let js1 = await fetchAsText("/js/include.js");
+			jszip.file("OEBPS/js/include.js", "function loadsitecode() {};");
+
+			//let cont1 = await fetchAsText("contents.json");
+			//jszip.file("OEBPS/contents.json", cont1);
+
+			blob = await jszip.generateAsync({
+				type: "blob"
+			});
+
+			let url = URL.createObjectURL(blob);
+
+			document.body.append('Your download should start automatically. If not please click here: ');
+			let link = document.createElement('a');
+			document.body.appendChild(link);
+			link.innerHTML = 'Download';
+			link.href = url;
+
+			let path = location.pathname;
+			let parts = path.split('/');
+			link.download = parts[2] + '-' + parts[3] + '.epub';
+			link.click();
+			// URL.revokeObjectURL(url);
+		}
+
+		work()
 	}
-
-	if (contents == null) {
-		console.log("no contents loaded")
-		// no json parsed - error
-	}
-
-	// remove last component of path, so we point bck to the main contents page of the book
-	let pageurl = location.href.replace(/\/[^\/]*$/, '');
-
-	jepub.init({
-		i18n: 'en', // Internationalization
-		title: contents.title,
-		author: contents.author,
-		publisher: 'literature.org',
-		description: 'Dynamically generated EPUB book from <a href="' + pageurl + '">this page</a>',
-		// tags: ['epub', 'literature.org'] // optional
-	})
-
-	for (let c of contents.chapters) {
-		// fetch HTML
-		let t = await fetchAsText(c.href)
-		let h = parser.parseFromString(t, "text/html");
-		await Include(h);
-		let t2 = h.head.outerHTML + h.body.outerHTML;
-		t2 = t2.replaceAll('/css/', 'css/');
-		t2 = t2.replaceAll('/js/', 'js/');
-		jepub.add(c.title, t2);
-	}
-
-	const work = async () => {
-		let blob = await jepub.generate('blob');
-		// re-open zip, add css and fonts
-		await jszip.loadAsync(blob);
-
-		let css1 = await fetchAsText("/css/literature.css")
-		jszip.file("OEBPS/css/literature.css", css1);
-		let css2 = await fetchAsText("/css/w3.css")
-		jszip.file("OEBPS/css/w3.css", css2);
-		let css3 = await fetchAsText("/css/icon.css")
-		jszip.file("OEBPS/css/icon.css", css3);
-
-		let font1 = await fetchAsBlob("/fonts/karla-v13-latin-regular.woff");
-		let font2 = await fetchAsBlob("/fonts/karla-v13-latin-regular.woff2");
-		let font3 = await fetchAsBlob("/fonts/open-sans-v17-latin-regular.woff");
-		let font4 = await fetchAsBlob("/fonts/open-sans-v17-latin-regular.woff2");
-		jszip.file("OEBPS/fonts/karla-v13-latin-regular.woff", font1);
-		jszip.file("OEBPS/fonts/karla-v13-latin-regular.woff2", font2);
-		jszip.file("OEBPS/fonts/open-sans-v17-latin-regular.woff", font3);
-		jszip.file("OEBPS/fonts/open-sans-v17-latin-regular.woff2", font4);
-
-		//let js1 = await fetchAsText("/js/include.js");
-		jszip.file("OEBPS/js/include.js", "function loadsitecode() {};");
-
-		//let cont1 = await fetchAsText("contents.json");
-		//jszip.file("OEBPS/contents.json", cont1);
-
-		blob = await jszip.generateAsync({type: "blob"});
-
-		let url = URL.createObjectURL(blob);
-
-		document.body.append('Your download should start automatically. If not please click here: ');
-		let link = document.createElement('a');
-		document.body.appendChild(link);
-		link.innerHTML = 'Download';
-		link.href = url;
-
-		let path = location.pathname;
-		let parts = path.split('/');
-		link.download = parts[2] + '-' + parts[3] + '.epub';
-		link.click();
-		// URL.revokeObjectURL(url);
-	}
-
-	work()
 }
 
 
@@ -587,7 +587,7 @@ async function fetchAsBlob(url) {
 }
 
 function loadScript(file) {
-	return new Promise(function(resolve, result) {
+	return new Promise(function (resolve, result) {
 		let script = document.createElement('script');
 		script.src = file;
 
