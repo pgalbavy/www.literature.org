@@ -383,7 +383,7 @@ async function Navigate(element) {
 
 // very much WIP - build an epub for the current directory
 async function EPub(element) {
-	const jepub = new jEpub()
+	const jepub = new jEpub();
 	const jszip = new JSZip();
 
 	/* Loop through a collection of all ARTICLE elements: */
@@ -393,7 +393,6 @@ async function EPub(element) {
 		}
 		let file = article.getAttribute("contents");
 		let contents = await fetchAsJSON(file);
-
 
 		if (contents == null) {
 			console.log("no contents loaded")
