@@ -60,8 +60,7 @@ async function Contents(element) {
 			continue;
 		}
 		let file = article.getAttribute(ATTR);
-		let json = await fetchAsText(file);
-		let contents = JSON.parse(json);
+		let contents = await fetchAsJSON(file);
 		// do not remove tag as EPub() also needs it now
 		// article.removeAttribute(ATTR);
 
@@ -169,8 +168,7 @@ async function Navigate(element) {
 			continue;
 		}
 		let file = nav.getAttribute(ATTR);
-		let json = await fetchAsText(file);
-		let contents = JSON.parse(json);
+		let contents = await fetchAsJSON(file);
 		nav.removeAttribute(ATTR);
 
 		let path = location.pathname;
@@ -386,7 +384,6 @@ async function Navigate(element) {
 // very much WIP - build an epub for the current directory
 async function EPub(element) {
 	const jepub = new jEpub()
-	const parser = new DOMParser();
 	const jszip = new JSZip();
 
 	/* Loop through a collection of all ARTICLE elements: */
@@ -395,7 +392,7 @@ async function EPub(element) {
 			continue;
 		}
 		let file = article.getAttribute("contents");
-		let contents = JSON.parse(await fetchAsText(file));
+		let contents = await fetchAsJSON(file);
 
 
 		if (contents == null) {
@@ -417,11 +414,10 @@ async function EPub(element) {
 
 		for (let c of contents.chapters) {
 			// fetch HTML
-			let text = await fetchAsText(c.href)
-			let html = parser.parseFromString(text, "text/html");
+			let html = await fetchAsHTML(c.href)
 			await Include(html);
 			// let t2 = html.head.outerHTML + html.body.outerHTML;
-			text = html.body.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/');
+			let text = html.body.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/');
 			jepub.add(c.title, text);
 		}
 
@@ -577,20 +573,37 @@ function is_touch_enabled() {
 }
 
 async function fetchAsText(url) {
-	const response = await fetch(url);
-	return await response.text();
+	return fetch(url)
+    .then(response => response.text());
+}
+
+async function fetchAsHTML(url) {
+	return fetch(url)
+    .then(response => response.text())
+	.then(data => (new DOMParser()).parseFromString(data, "text/html"));
+}
+
+async function fetchAsXML(url) {
+	return fetch(url)
+    .then(response => response.text())
+	.then(data => (new DOMParser()).parseFromString(data, "text/xml"));
+}
+
+async function fetchAsJSON(url) {
+	return fetch(url)
+    .then(response => response.json());
 }
 
 async function fetchAsBlob(url) {
-	const response = await fetch(url);
-	return await response.blob();
+	return fetch(url)
+    .then(response => response.blob());
 }
 
 function loadScript(file) {
 	return new Promise(function (resolve, result) {
 		let script = document.createElement('script');
 		script.src = file;
-
+ 
 		script.onload = () => resolve(script);
 		script.onerror = () => reject(new Error(`could not load ${src}`));
 		document.head.append(script);
