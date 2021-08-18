@@ -22,8 +22,11 @@ async function loadsitecode() {
 	// send any ?epub a book ?
 	let params = new URLSearchParams(location.search);
 	let path = location.pathname;
-	// path has to be an index page, check path for no '.' unless it's index.html
-	if (params.has("epub") && (!path.includes('.') || path.endsWith('/index.html'))) {
+	let parts = path.split('/');
+	let last = parts[parts.length - 1];
+
+	// path has to be an index page, check last element of path either for no '.' or that it's index.html
+	if (params.has("epub") && parts.length > 4 && (!last.includes('.') || last == 'index.html')) {
 		loadScript('/js/jszip.min.js')
 			.then(script => loadScript('/js/ejs.min.js'))
 			.then(script => loadScript('/js/jepub.min.js'))
