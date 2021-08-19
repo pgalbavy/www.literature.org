@@ -32,7 +32,7 @@ async function loadsitecode() {
 			.then(script => loadScript('/js/jepub.min.js'))
 			.then(script => loadScript('/js/epub.js'))
 			.then(script => {
-				EPub(parent);
+				CreateEPub(parent);
 			})
 	}
 
@@ -66,7 +66,7 @@ async function Contents(element) {
 		}
 		let file = article.getAttribute(ATTR);
 		let contents = await fetchAsJSON(file);
-		// do not remove tag as EPub() also needs it now
+		// do not remove tag as CreateEPub() also needs it now
 		// article.removeAttribute(ATTR);
 
 		let html = "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hoverable\">";
@@ -387,7 +387,7 @@ async function Navigate(element) {
 }
 
 // very much WIP - build an epub for the current directory
-async function EPub(element) {
+async function CreateEPub(element) {
 	const jepub = new jEpub();
 
 	/* Loop through a collection of all ARTICLE elements: */
@@ -406,7 +406,8 @@ async function EPub(element) {
 		// remove last component of path, so we point bck to the main contents page of the book
 		let pageurl = location.href.replace(/\/[^\/]*$/, '');
 
-		let epub = await epubInit();
+		let epub = new EPub();
+
 		epubOPF(contents.title, contents.author, location.url);
 
 		jepub.init({
@@ -422,6 +423,7 @@ async function EPub(element) {
 			let html = await fetchAsHTML(c.href).then(html => Include(html));
 			let text = html.body.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/');
 			jepub.add(c.title, text);
+			epub.AddChapter(c, text);
 		}
 
 		let url = URL.createObjectURL(await jepub.generate('blob').then(blob => epubAddFiles(blob)));

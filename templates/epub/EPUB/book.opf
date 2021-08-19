@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid" xml:lang="en-US" prefix="cc: http://creativecommons.org/ns#">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:identifier id="uid">urn:uuid:UUID</dc:identifier>
+        <dc:title>TITLE</dc:title>
+        <dc:language>en-US</dc:language>
+        <dc:creator id="creatorN">AUTHOR</dc:creator>
+        <meta refines="#creatorN" property="file-as">AUTHOR FOR SORT</meta>
+        <dc:date>DATE GENERATED</dc:date>
+        <dc:publisher>literature.org</dc:publisher>
+        <dc:source>URL</dc:source>
+    </metadata> 
+    <manifest>
+        <item id="toc" property="nav" href="toc.xhtml" media-type="application/xhtml+xml"/>
+        <item id="blah" href="chapter-x.html" media-type="application/xhtml+xml"/>
+
+    </manifest>
+    <spine>
+        <itemref idref="t1" />        
+    </spine>    
+</package>
