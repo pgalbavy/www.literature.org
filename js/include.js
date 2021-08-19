@@ -30,6 +30,7 @@ async function loadsitecode() {
 		loadScript('/js/jszip.min.js')
 			.then(script => loadScript('/js/ejs.min.js'))
 			.then(script => loadScript('/js/jepub.min.js'))
+			.then(script => loadScript('/js/epub.js'))
 			.then(script => {
 				EPub(parent);
 			})
@@ -53,6 +54,7 @@ async function Include(element) {
 		// recurse into just loaded HTML
 		Include(div);
 	}
+	return element;
 }
 
 async function Contents(element) {
@@ -387,7 +389,6 @@ async function Navigate(element) {
 // very much WIP - build an epub for the current directory
 async function EPub(element) {
 	const jepub = new jEpub();
-	const jszip = new JSZip();
 
 	/* Loop through a collection of all ARTICLE elements: */
 	for (let article of element.getElementsByTagName("article")) {
@@ -405,6 +406,9 @@ async function EPub(element) {
 		// remove last component of path, so we point bck to the main contents page of the book
 		let pageurl = location.href.replace(/\/[^\/]*$/, '');
 
+		let epub = await epubInit();
+		epubOPF(contents.title, contents.author, location.url);
+
 		jepub.init({
 			i18n: 'en', // Internationalization
 			title: contents.title,
@@ -415,61 +419,24 @@ async function EPub(element) {
 		})
 
 		for (let c of contents.chapters) {
-			// fetch HTML
-			let html = await fetchAsHTML(c.href)
-			await Include(html);
-			// let t2 = html.head.outerHTML + html.body.outerHTML;
+			let html = await fetchAsHTML(c.href).then(html => Include(html));
 			let text = html.body.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/');
 			jepub.add(c.title, text);
 		}
 
-		const work = async () => {
-			let blob = await jepub.generate('blob');
-			// re-open zip, add css and fonts
-			await jszip.loadAsync(blob);
+		let url = URL.createObjectURL(await jepub.generate('blob').then(blob => epubAddFiles(blob)));
+		// let url = URL.createObjectURL(await epub.generateAsync({type: "blob"}));
+		document.body.append('Your download should start automatically. If not please click here: ');
+		let link = document.createElement('a');
+		document.body.appendChild(link);
+		link.innerHTML = 'Download';
+		link.href = url;
 
-			let css1 = await fetchAsText("/css/literature.css")
-			jszip.file("OEBPS/css/literature.css", css1);
-			let css2 = await fetchAsText("/css/w3.css")
-			jszip.file("OEBPS/css/w3.css", css2);
-			let css3 = await fetchAsText("/css/icon.css")
-			jszip.file("OEBPS/css/icon.css", css3);
-
-			let font1 = await fetchAsBlob("/fonts/karla-v13-latin-regular.woff");
-			let font2 = await fetchAsBlob("/fonts/karla-v13-latin-regular.woff2");
-			let font3 = await fetchAsBlob("/fonts/open-sans-v17-latin-regular.woff");
-			let font4 = await fetchAsBlob("/fonts/open-sans-v17-latin-regular.woff2");
-			jszip.file("OEBPS/fonts/karla-v13-latin-regular.woff", font1);
-			jszip.file("OEBPS/fonts/karla-v13-latin-regular.woff2", font2);
-			jszip.file("OEBPS/fonts/open-sans-v17-latin-regular.woff", font3);
-			jszip.file("OEBPS/fonts/open-sans-v17-latin-regular.woff2", font4);
-
-			//let js1 = await fetchAsText("/js/include.js");
-			jszip.file("OEBPS/js/include.js", "function loadsitecode() {};");
-
-			//let cont1 = await fetchAsText("contents.json");
-			//jszip.file("OEBPS/contents.json", cont1);
-
-			blob = await jszip.generateAsync({
-				type: "blob"
-			});
-
-			let url = URL.createObjectURL(blob);
-
-			document.body.append('Your download should start automatically. If not please click here: ');
-			let link = document.createElement('a');
-			document.body.appendChild(link);
-			link.innerHTML = 'Download';
-			link.href = url;
-
-			let path = location.pathname;
-			let parts = path.split('/');
-			link.download = parts[2] + '-' + parts[3] + '.epub';
-			link.click();
-			// URL.revokeObjectURL(url);
-		}
-
-		work()
+		let path = location.pathname;
+		let parts = path.split('/');
+		// name the download file author-title.epub
+		link.download = parts[2] + '-' + parts[3] + '.epub';
+		link.click();
 	}
 }
 
@@ -576,36 +543,36 @@ function is_touch_enabled() {
 
 async function fetchAsText(url) {
 	return fetch(url)
-    .then(response => response.text());
+		.then(response => response.text());
 }
 
 async function fetchAsHTML(url) {
 	return fetch(url)
-    .then(response => response.text())
-	.then(data => (new DOMParser()).parseFromString(data, "text/html"));
+		.then(response => response.text())
+		.then(data => (new DOMParser()).parseFromString(data, "text/html"));
 }
 
 async function fetchAsXML(url) {
 	return fetch(url)
-    .then(response => response.text())
-	.then(data => (new DOMParser()).parseFromString(data, "text/xml"));
+		.then(response => response.text())
+		.then(data => (new DOMParser()).parseFromString(data, "application/xml"));
 }
 
 async function fetchAsJSON(url) {
 	return fetch(url)
-    .then(response => response.json());
+		.then(response => response.json());
 }
 
 async function fetchAsBlob(url) {
 	return fetch(url)
-    .then(response => response.blob());
+		.then(response => response.blob());
 }
 
 function loadScript(file) {
 	return new Promise(function (resolve, result) {
 		let script = document.createElement('script');
 		script.src = file;
- 
+
 		script.onload = () => resolve(script);
 		script.onerror = () => reject(new Error(`could not load ${src}`));
 		document.head.append(script);
