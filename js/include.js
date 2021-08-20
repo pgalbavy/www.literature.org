@@ -406,7 +406,7 @@ async function CreateEPub(element) {
 		// remove last component of path, so we point bck to the main contents page of the book
 		let pageurl = location.href.replace(/\/[^\/]*$/, '');
 
-		let epub = new EPub();
+		let epub = new EPub(contents);
 
 		epubOPF(contents.title, contents.author, location.url);
 
@@ -423,8 +423,10 @@ async function CreateEPub(element) {
 			let html = await fetchAsHTML(c.href).then(html => Include(html));
 			let text = html.body.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/');
 			jepub.add(c.title, text);
-			epub.AddChapter(c, text);
+			// epub.AddChapter(c, text);
 		}
+
+		epub.CreateOPF();
 
 		let url = URL.createObjectURL(await jepub.generate('blob').then(blob => epubAddFiles(blob)));
 		// let url = URL.createObjectURL(await epub.generateAsync({type: "blob"}));
