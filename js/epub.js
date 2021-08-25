@@ -43,13 +43,17 @@ class EPub {
 		// mimetype must be the first file in the ZIP
 		this.zip.file("mimetype", "application/epub+zip");
 		for (let file of this.tmplFiles) {
-			fetchAsText(file.source).then(text => this.zip.file(file.path, text));
+			let text = fetchAsText(file.source);
+			this.zip.file(file.path, text);
 		}
 		for (let chapter of this.contents.chapters) {
-			let text = fetchAsHTML(chapter.href).then(html => Include(html))
-				.then(html => html.body.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/'));
-			this.zip.file(`EPUB/${chapter.href}`, text);
-			// this.chapters.push(chapter);
+			let html = fetchAsHTML(chapter.href)
+			    .then(html => Include(html))
+				.then(html => { html.body.style.display = 'block'; return html })
+				//.then(html => console.log(html))
+				.then(html => html.documentElement.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/'));
+				//.then(htmltext => console.log(htmltext));
+			this.zip.file(`EPUB/${chapter.href}`, html);
 		}
 	}
 
@@ -67,7 +71,9 @@ class EPub {
 	}
 
 	async CreatePackage(path) {
-		let opf = document.implementation.createDocument('http://www.idpf.org/2007/opf', 'package', null);
+		// namespace is added after xslt to prettify output
+		// let opf = document.implementation.createDocument('http://www.idpf.org/2007/opf', 'package', null);
+		let opf = document.implementation.createDocument(null, 'package', null);
 		let doc = opf.documentElement;
 		doc.setAttribute('version', '3.0');
 		doc.setAttribute('unique-identifiers', 'pub-id');
@@ -93,6 +99,7 @@ class EPub {
 		this.addElement(opf, manifest, 'item', null, [
 			[ 'id', 'toc' ],
 			[ 'properties', 'nav' ],
+			[ 'href', 'EPUB/toc.xhtml' ],
 			[ 'media-type', 'application/xhtml+xml']
 		]);
 
@@ -116,7 +123,7 @@ class EPub {
 		doc.appendChild(spine);
 		console.log(doc);
 
-		let text = prettifyXml(doc);
+		let text = prettifyXml(doc, 'http://www.idpf.org/2007/opf');
 		// let text = new XMLSerializer().serializeToString(doc);
 		console.log(text);
 		this.zip.file(path, '<?xml version="1.0" encoding="UTF-8"?>\n' + text);
@@ -150,7 +157,7 @@ class EPub {
 		}
 
 		console.log(prettifyXHTML(toc));
-		this.zip.file(path, '<?xml version="1.0" encoding="UTF-8"?>\n' + prettifyXml(toc));
+		this.zip.file(path, '<?xml version="1.0" encoding="UTF-8"?>\n' + prettifyXHTML(toc));
 	}
 
 	CreateEPub() {
@@ -160,6 +167,33 @@ class EPub {
 			compression: 'DEFLATE'
 		});
 	}
+}
+
+async function fetchAsText(url) {
+	return fetch(url)
+		.then(response => response.text());
+}
+
+async function fetchAsHTML(url) {
+	return fetch(url)
+		.then(response => response.text())
+		.then(data => (new DOMParser()).parseFromString(data, "text/html"));
+}
+
+async function fetchAsXML(url) {
+	return fetch(url)
+		.then(response => response.text())
+		.then(data => (new DOMParser()).parseFromString(data, "application/xml"));
+}
+
+async function fetchAsJSON(url) {
+	return fetch(url)
+		.then(response => response.json());
+}
+
+async function fetchAsBlob(url) {
+	return fetch(url)
+		.then(response => response.blob());
 }
 
 async function uuidFromHash(message) {
@@ -177,56 +211,41 @@ async function digestMessage(message) {
 }
 
 // from https://stackoverflow.com/a/47317538
-function prettifyXml(doc) {
+function prettifyXml(doc, ns) {
 	var xsltDoc = new DOMParser().parseFromString([
 		// describes how we want to modify the XML - indent everything
-		'<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform">',
-		'  <xsl:strip-space elements="*"/>',
-		'  <xsl:template match="para[content-style][not(text())]">', // change to just text() to strip space in text nodes
-		'    <xsl:value-of select="normalize-space(.)"/>',
-		'  </xsl:template>',
-		'<xsl:template match="/*">',
-		'<package xmlns="http://www.idpf.org/2007/opf">',
-		'  <xsl:apply-templates select="*"/>',
-		'</package>',
-	    '</xsl:template>',
-		'  <xsl:template match="*">',
-		'    <xsl:element name="{local-name()}" namespace="http://www.idpf.org/2007/opf">',
-		// '    <xsl:copy><xsl:apply-templates select="node()|@*"/></xsl:copy>',
-		'       <xsl:apply-templates select="node()|@*"/>',
-		'    </xsl:element>',
-		'  </xsl:template>',
-		'  <xsl:output indent="yes"/>',
-		'</xsl:stylesheet>',
+		`<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+		<xsl:output omit-xml-declaration="no" indent="yes" method="xml"/>
+		<xsl:template match="/">
+		<xsl:copy-of select="@*|node()"/>
+		</xsl:template>
+		<xsl:template match="@*">
+		<xsl:attribute name="{name()}" namespace="{namespace-uri()}">
+			some new value here
+		</xsl:attribute>
+		</xsl:template>
+	   </xsl:stylesheet>`,
 	].join('\n'), 'application/xml');
 
 	var xsltProcessor = new XSLTProcessor();
 	xsltProcessor.importStylesheet(xsltDoc);
 	var resultDoc = xsltProcessor.transformToDocument(doc);
+	resultDoc.documentElement.setAttribute('xmlns', ns);
 	var resultXml = new XMLSerializer().serializeToString(resultDoc);
 	return resultXml;
 };
 
 function prettifyXHTML(doc) {
 	var xsltDoc = new DOMParser().parseFromString([
-		// describes how we want to modify the XML - indent everything
-		'<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform">',
-		'  <xsl:strip-space elements="*"/>',
-		'  <xsl:template match="para[content-style][not(text())]">', // change to just text() to strip space in text nodes
-		'    <xsl:value-of select="normalize-space(.)"/>',
-		'  </xsl:template>',
-		'  <xsl:template match="/*">',
-		'    <html xmlns="http://www.w3.org/1999/xhtml">',
-		'      <xsl:apply-templates select="*"/>',
-		'    </html>',
-	    '  </xsl:template>',
-		'  <xsl:template match="*">',
-		'    <xsl:element name="{local-name()}" namespace="http://www.w3.org/1999/xhtml">',
-		'       <xsl:apply-templates select="node()|@*"/>',
-		'    </xsl:element>',
-		'  </xsl:template>',
-		'  <xsl:output omit-xml-declaration="yes" indent="yes"/>',
-		'</xsl:stylesheet>',
+`<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output omit-xml-declaration="yes" indent="yes" method="html"/>
+
+   <xsl:template match="node()|@*">
+	 <xsl:copy>
+	   <xsl:apply-templates select="node()|@*"/>
+	 </xsl:copy>
+   </xsl:template>
+</xsl:stylesheet>`,
 	].join('\n'), 'application/xml');
 
 	var xsltProcessor = new XSLTProcessor();

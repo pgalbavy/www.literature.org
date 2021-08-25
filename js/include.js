@@ -388,7 +388,7 @@ async function Navigate(element) {
 
 // very much WIP - build an epub for the current directory
 async function CreateEPub(element) {
-	const jepub = new jEpub();
+	// const jepub = new jEpub();
 
 	/* Loop through a collection of all ARTICLE elements: */
 	for (let article of element.getElementsByTagName("article")) {
@@ -408,7 +408,7 @@ async function CreateEPub(element) {
 
 		let epub = new EPub(contents);
 
-		jepub.init({
+/* 		jepub.init({
 			i18n: 'en', // Internationalization
 			title: contents.title,
 			author: contents.author,
@@ -422,7 +422,7 @@ async function CreateEPub(element) {
 			let text = html.body.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/');
 			jepub.add(c.title, text);
 			// epub.AddChapter(c, text);
-		}
+		} */
 
 		await epub.CreatePackage("EPUB/book.opf");
 
