@@ -1,7 +1,6 @@
 // functions to create a epub from template files
 "use strict";
 
-
 class EPub {
 	tmplFiles = [{
 			source: "/templates/epub/META-INF/container.xml",
@@ -40,95 +39,203 @@ class EPub {
 	constructor(contents) {
 		this.zip = new JSZip();
 		this.contents = contents;
-		// this.chapters = chapters;
 
+		// mimetype must be the first file in the ZIP
 		this.zip.file("mimetype", "application/epub+zip");
 		for (let file of this.tmplFiles) {
 			fetchAsText(file.source).then(text => this.zip.file(file.path, text));
 		}
 		for (let chapter of this.contents.chapters) {
 			let text = fetchAsHTML(chapter.href).then(html => Include(html))
-					   .then(html => html.body.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/'));
-			this.zip.file(chapter.href, text);
+				.then(html => html.body.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/'));
+			this.zip.file(`EPUB/${chapter.href}`, text);
 			// this.chapters.push(chapter);
 		}
 	}
 
-	AddChapter(chapter, text) {
-		this.zip.file(chapter.href, text);
-		// add c.title to index
-		this.chapters.push(chapter);
+	addElement(doc, node, name, value, attr) {
+		let elem = doc.createElement(name)
+		if (attr !== undefined) {
+			for (let a of attr) {
+				elem.setAttribute(a[0], a[1]);
+			}
+		}
+		elem.innerHTML = value;
+		node.appendChild(elem);
+
+		return elem;
 	}
 
-	CreateOPF() {
+	async CreatePackage(path) {
 		let opf = document.implementation.createDocument('http://www.idpf.org/2007/opf', 'package', null);
 		let doc = opf.documentElement;
 		doc.setAttribute('version', '3.0');
-		doc.setAttribute('unique-identifiers', 'uid');
+		doc.setAttribute('unique-identifiers', 'pub-id');
 		doc.setAttribute('xml:lang', 'en-US');
 		doc.setAttribute('prefix', 'blah');
 
 		let metadata = opf.createElement('metadata');
 		metadata.setAttribute('xmlns:dc', 'http://purl.org/dc/elements/1.1/');
 
-		let title = opf.createElement('dc:title')
-		title.innerHTML = this.contents.title;
-		metadata.appendChild(title);
+		let uuid = await uuidFromHash(location);
 
-		let author = opf.createElement('dc:creator');
-		author.innerHTML = this.contents.author;
-		metadata.appendChild(author);
-
-		let source = opf.createElement('dc:source')
-		source.innerHTML = this.contents.source;
-		metadata.appendChild(source);
+		this.addElement(opf, metadata, 'dc:identifier', `urn:uuid:${uuid}`, [ [ 'id', 'pub-id' ]]);
+		if (this.contents.lastmodified !== undefined) {
+			this.addElement(opf, metadata, 'meta', this.contents.lastmodified, [ [ 'property', 'dcterms:modified' ]])
+		}
+		this.addElement(opf, metadata, 'dc:title', this.contents.title);
+		this.addElement(opf, metadata, 'dc:creator', this.contents.author);
+		this.addElement(opf, metadata, 'dc:source', this.contents.source);
 
 		let manifest = opf.createElement('manifest');
-		// add toc etc.
+		// add css, fonts, toc etc.
+		this.CreateTOC('EPUB/toc.xhtml');
+		this.addElement(opf, manifest, 'item', null, [
+			[ 'id', 'toc' ],
+			[ 'properties', 'nav' ],
+			[ 'media-type', 'application/xhtml+xml']
+		]);
+
 		let spine = opf.createElement('spine');
 
 		for (let chapter of this.contents.chapters) {
-			let item = opf.createElement('item');
-			item.setAttribute('id', chapter.href);
-			item.setAttribute('href', chapter.href);
-			item.setAttribute('media-type', 'application/xhtml+xml');
-			manifest.appendChild(item);
+			this.addElement(opf, manifest, 'item', null, [ 
+				[ 'id', chapter.href ],
+				[ 'href', chapter.href ],
+				[ 'media-type', 'application/xhtml+xml' ]				 
+			])
 
-			let itemref = opf.createElement('itemref');
-			itemref.setAttribute('itemref', chapter.href);
-			itemref.setAttribute('linear', 'yes');
-			spine.appendChild(itemref);
-
+			this.addElement(opf, spine, 'itemref', null, [
+				[ 'idref', chapter.href ],
+				[ 'linear', 'yes' ]
+			])
 		}
 
-		opf.documentElement.appendChild(metadata);
-		opf.documentElement.appendChild(manifest);
-		opf.documentElement.appendChild(spine);
-		console.log(opf.documentElement);
+		doc.appendChild(metadata);
+		doc.appendChild(manifest);
+		doc.appendChild(spine);
+		console.log(doc);
+
+		let text = prettifyXml(doc);
+		// let text = new XMLSerializer().serializeToString(doc);
+		console.log(text);
+		this.zip.file(path, '<?xml version="1.0" encoding="UTF-8"?>\n' + text);
+	}
+
+	CreateTOC(path) {
+		let toc = document.implementation.createHTMLDocument(this.contents.title);
+		//let body = this.addElement(toc, toc, 'body', null);
+		let body = toc.createElement('body');
+		toc.documentElement.appendChild(body);
+
+		let section = this.addElement(toc, body, 'section', null, [
+			[ 'epub:type', 'frontmatter toc']
+		]);
+		let header = this.addElement(toc, section, 'header', null);
+		this.addElement(toc, header, 'h1', 'Contents');
+		let nav = this.addElement(toc, section, 'nav', null, [
+			[ 'xmlns:epub', "http://www.idpf.org/2007/ops" ],
+			[ 'epub:type', 'toc' ],
+			[ 'id', 'toc' ]
+		])
+		let ol = this.addElement(toc, nav, 'ol', null);
+		for (let chapter of this.contents.chapters) {
+			let li = this.addElement(toc, ol, 'li', null, [
+				[ 'class', 'toc' ],
+				[ 'id', chapter.href ]
+			]);
+			this.addElement(toc, li, 'a', chapter.title, [
+				[ 'href', chapter.href ]
+			])
+		}
+
+		console.log(prettifyXHTML(toc));
+		this.zip.file(path, '<?xml version="1.0" encoding="UTF-8"?>\n' + prettifyXml(toc));
+	}
+
+	CreateEPub() {
+		return this.zip.generateAsync({
+			type: 'blob',
+			mimeType: 'application/epub+zip',
+			compression: 'DEFLATE'
+		});
 	}
 }
 
-async function epubOPF(title, author, url) {
-	let opf = await fetchAsXML("/templates/epub/EPUB/book.opf");
-
-	if (opf.parseError && opf.parseError.errorCode != 0) {
-		errorMsg = "XML Parsing Error: " + opf.parseError.reason +
-			" at line " + opf.parseError.line +
-			" at position " + opf.parseError.linepos;
-		console.log(errorMsg)
-	}
-
-	console.log(opf.documentElement.innerHTML);
-	let nodes = opf.evaluate("/package/metadata", opf.documentElement, null, XPathResult.ANY_TYPE, null);
-	// console.log(nodes.snapshotLength);
-	let node;
-	while (node = nodes.iterateNext()) {
-		console.log(node)
-		//node = nodes.iterateNext();
-	}
-
-	return opf;
+async function uuidFromHash(message) {
+	let h = await digestMessage(message);
+	return h.substr(0, 8) + '-' + h.substr(7, 4) + '-4' + h.substr(11, 3) + '-8' + h.substr(14, 3) + '-' + h.substr(17, 12);
 }
+
+async function digestMessage(message) {
+   	const msgUint8 = new TextEncoder().encode(message);                           // encode as (utf-8) Uint8Array
+	const hashBuffer = await crypto.subtle.digest('SHA-256', msgUint8);           // hash the message
+	const hashArray = Array.from(new Uint8Array(hashBuffer));                     // convert buffer to byte array
+	const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join(''); // convert bytes to hex string
+	console.log(hashHex);
+	return hashHex;
+}
+
+// from https://stackoverflow.com/a/47317538
+function prettifyXml(doc) {
+	var xsltDoc = new DOMParser().parseFromString([
+		// describes how we want to modify the XML - indent everything
+		'<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform">',
+		'  <xsl:strip-space elements="*"/>',
+		'  <xsl:template match="para[content-style][not(text())]">', // change to just text() to strip space in text nodes
+		'    <xsl:value-of select="normalize-space(.)"/>',
+		'  </xsl:template>',
+		'<xsl:template match="/*">',
+		'<package xmlns="http://www.idpf.org/2007/opf">',
+		'  <xsl:apply-templates select="*"/>',
+		'</package>',
+	    '</xsl:template>',
+		'  <xsl:template match="*">',
+		'    <xsl:element name="{local-name()}" namespace="http://www.idpf.org/2007/opf">',
+		// '    <xsl:copy><xsl:apply-templates select="node()|@*"/></xsl:copy>',
+		'       <xsl:apply-templates select="node()|@*"/>',
+		'    </xsl:element>',
+		'  </xsl:template>',
+		'  <xsl:output indent="yes"/>',
+		'</xsl:stylesheet>',
+	].join('\n'), 'application/xml');
+
+	var xsltProcessor = new XSLTProcessor();
+	xsltProcessor.importStylesheet(xsltDoc);
+	var resultDoc = xsltProcessor.transformToDocument(doc);
+	var resultXml = new XMLSerializer().serializeToString(resultDoc);
+	return resultXml;
+};
+
+function prettifyXHTML(doc) {
+	var xsltDoc = new DOMParser().parseFromString([
+		// describes how we want to modify the XML - indent everything
+		'<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform">',
+		'  <xsl:strip-space elements="*"/>',
+		'  <xsl:template match="para[content-style][not(text())]">', // change to just text() to strip space in text nodes
+		'    <xsl:value-of select="normalize-space(.)"/>',
+		'  </xsl:template>',
+		'  <xsl:template match="/*">',
+		'    <html xmlns="http://www.w3.org/1999/xhtml">',
+		'      <xsl:apply-templates select="*"/>',
+		'    </html>',
+	    '  </xsl:template>',
+		'  <xsl:template match="*">',
+		'    <xsl:element name="{local-name()}" namespace="http://www.w3.org/1999/xhtml">',
+		'       <xsl:apply-templates select="node()|@*"/>',
+		'    </xsl:element>',
+		'  </xsl:template>',
+		'  <xsl:output omit-xml-declaration="yes" indent="yes"/>',
+		'</xsl:stylesheet>',
+	].join('\n'), 'application/xml');
+
+	var xsltProcessor = new XSLTProcessor();
+	xsltProcessor.importStylesheet(xsltDoc);
+	var resultDoc = xsltProcessor.transformToDocument(doc);
+	var resultXml = new XMLSerializer().serializeToString(resultDoc);
+	return resultXml;
+};
+
 
 
 async function epubAddFiles(blob) {
