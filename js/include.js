@@ -408,8 +408,6 @@ async function CreateEPub(element) {
 
 		let epub = new EPub(contents);
 
-		epubOPF(contents.title, contents.author, location.url);
-
 		jepub.init({
 			i18n: 'en', // Internationalization
 			title: contents.title,
@@ -426,10 +424,10 @@ async function CreateEPub(element) {
 			// epub.AddChapter(c, text);
 		}
 
-		epub.CreateOPF();
+		await epub.CreatePackage("EPUB/book.opf");
 
-		let url = URL.createObjectURL(await jepub.generate('blob').then(blob => epubAddFiles(blob)));
-		// let url = URL.createObjectURL(await epub.generateAsync({type: "blob"}));
+		//let url = URL.createObjectURL(await jepub.generate('blob').then(blob => epubAddFiles(blob)));
+		let url = URL.createObjectURL(await epub.CreateEPub());
 		document.body.append('Your download should start automatically. If not please click here: ');
 		let link = document.createElement('a');
 		document.body.appendChild(link);
