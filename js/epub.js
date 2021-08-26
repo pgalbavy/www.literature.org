@@ -49,10 +49,10 @@ class EPub {
 		for (let chapter of this.contents.chapters) {
 			let html = fetchAsHTML(chapter.href)
 			    .then(html => Include(html))
+				// override default visibility, as reveal JS doesn't run
 				.then(html => { html.body.style.display = 'block'; return html })
-				//.then(html => console.log(html))
+				// strip absolute path for CSS, however paths inside CSS to fonts are already relative
 				.then(html => html.documentElement.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/'));
-				//.then(htmltext => console.log(htmltext));
 			this.zip.file(`EPUB/${chapter.href}`, html);
 		}
 	}
@@ -99,7 +99,7 @@ class EPub {
 		this.addElement(opf, manifest, 'item', null, [
 			[ 'id', 'toc' ],
 			[ 'properties', 'nav' ],
-			[ 'href', 'EPUB/toc.xhtml' ],
+			[ 'href', 'toc.xhtml' ],
 			[ 'media-type', 'application/xhtml+xml']
 		]);
 
