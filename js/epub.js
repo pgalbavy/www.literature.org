@@ -62,7 +62,7 @@ class EPub {
 				.then(html => {
 					let article = html.body.getElementsByTagName('article')[0];
 					// console.log(article);
-					this.prependElement(html, article, 'h1', chapter.title);
+					prependElement(document, article, 'h1', chapter.title);
 					return html;
 				})
 				// strip absolute path for CSS, however paths inside CSS to fonts are already relative
@@ -73,7 +73,7 @@ class EPub {
 		}
 	}
 
-	// append element with name and inner HTML value and option atrributes
+/* 	// append element with name and inner HTML value and option atrributes
 	appendElement(doc, node, name, value, attr) {
 		let elem = doc.createElement(name)
 		if (attr !== undefined) {
@@ -107,6 +107,8 @@ class EPub {
 		return elem;
 	}
 
+ */
+
 	async CreatePackage(path) {
 		// namespace is added after xslt to prettify output
 		// let opf = document.implementation.createDocument('http://www.idpf.org/2007/opf', 'package', null);
@@ -122,20 +124,20 @@ class EPub {
 
 		let uuid = await uuidFromHash(location);
 
-		this.appendElement(opf, metadata, 'dc:identifier', `urn:uuid:${uuid}`, [['id', 'pub-id']]);
+		appendElement(opf, metadata, 'dc:identifier', `urn:uuid:${uuid}`, [['id', 'pub-id']]);
 		if (this.contents.lastmodified !== undefined) {
-			this.appendElement(opf, metadata, 'meta', this.contents.lastmodified, [['property', 'dcterms:modified']])
+			appendElement(metadata, 'meta', this.contents.lastmodified, [['property', 'dcterms:modified']])
 		}
-		this.appendElement(opf, metadata, 'dc:title', this.contents.title);
-		this.appendElement(opf, metadata, 'dc:creator', this.contents.author);
-		this.appendElement(opf, metadata, 'dc:source', this.contents.source);
+		appendElement(opf, metadata, 'dc:title', this.contents.title);
+		appendElement(opf, metadata, 'dc:creator', this.contents.author);
+		appendElement(opf, metadata, 'dc:source', this.contents.source);
 
 		let manifest = opf.createElement('manifest');
 		for (let file of this.tmplFiles) {
 			if (file.path.startsWith('META-INF/')) {
 				continue;
 			}
-			this.appendElement(opf, manifest, 'item', null, [
+			appendElement(opf, manifest, 'item', null, [
 				[ 'id', file.path.split('/').reverse()[0] ],
 				[ 'href', file.path.replace('EPUB/', '') ],
 				[ 'media-type', file.mimetype ]
@@ -143,7 +145,7 @@ class EPub {
 		}
 		// add css, fonts, toc etc.
 		this.CreateTOC('EPUB/toc.html');
-		this.appendElement(opf, manifest, 'item', null, [
+		appendElement(opf, manifest, 'item', null, [
 			['id', 'toc'],
 			['properties', 'nav'],
 			['href', 'toc.html'],
@@ -153,13 +155,13 @@ class EPub {
 		let spine = opf.createElement('spine');
 
 		for (let chapter of this.contents.chapters) {
-			this.appendElement(opf, manifest, 'item', null, [
+			appendElement(opf, manifest, 'item', null, [
 				['id', chapter.href],
 				['href', chapter.href],
 				['media-type', 'application/xhtml+xml']
 			])
 
-			this.appendElement(opf, spine, 'itemref', null, [
+			appendElement(opf, spine, 'itemref', null, [
 				['idref', chapter.href],
 				['linear', 'yes']
 			])
@@ -181,23 +183,23 @@ class EPub {
 		let body = toc.createElement('body');
 		toc.documentElement.appendChild(body);
 
-		let section = this.appendElement(toc, body, 'section', null, [
+		let section = appendElement(toc, body, 'section', null, [
 			['epub:type', 'frontmatter toc']
 		]);
-		let header = this.appendElement(toc, section, 'header', null);
-		this.appendElement(toc, header, 'h1', 'Contents');
-		let nav = this.appendElement(toc, section, 'nav', null, [
+		let header = appendElement(toc, section, 'header', null);
+		appendElement(toc, header, 'h1', 'Contents');
+		let nav = appendElement(toc, section, 'nav', null, [
 			['xmlns:epub', "http://www.idpf.org/2007/ops"],
 			['epub:type', 'toc'],
 			['id', 'toc']
 		])
-		let ol = this.appendElement(toc, nav, 'ol', null);
+		let ol = appendElement(toc, nav, 'ol', null);
 		for (let chapter of this.contents.chapters) {
-			let li = this.appendElement(toc, ol, 'li', null, [
+			let li = appendElement(toc, ol, 'li', null, [
 				['class', 'toc'],
 				['id', chapter.href]
 			]);
-			this.appendElement(toc, li, 'a', chapter.title, [
+			appendElement(toc, li, 'a', chapter.title, [
 				['href', chapter.href],
 				['class', 'w3-bar-item w3-button litleft']
 			])
@@ -213,33 +215,6 @@ class EPub {
 			compression: 'DEFLATE'
 		});
 	}
-}
-
-async function fetchAsText(url) {
-	return fetch(url)
-		.then(response => response.text());
-}
-
-async function fetchAsHTML(url) {
-	return fetch(url)
-		.then(response => response.text())
-		.then(data => (new DOMParser()).parseFromString(data, "text/html"));
-}
-
-async function fetchAsXML(url) {
-	return fetch(url)
-		.then(response => response.text())
-		.then(data => (new DOMParser()).parseFromString(data, "application/xml"));
-}
-
-async function fetchAsJSON(url) {
-	return fetch(url)
-		.then(response => response.json());
-}
-
-async function fetchAsBlob(url) {
-	return fetch(url)
-		.then(response => response.blob());
 }
 
 async function uuidFromHash(message) {
@@ -299,40 +274,3 @@ function prettifyXHTML(doc) {
 	var resultXml = new XMLSerializer().serializeToString(resultDoc);
 	return resultXml;
 };
-
-
-
-async function epubAddFiles(blob) {
-	const jszip = new JSZip();
-
-	// re-open zip, add css and fonts
-	await jszip.loadAsync(blob);
-
-	let css1 = await fetchAsText("/css/literature.css")
-	jszip.file("OEBPS/css/literature.css", css1);
-	let css2 = await fetchAsText("/css/w3.css")
-	jszip.file("OEBPS/css/w3.css", css2);
-	let css3 = await fetchAsText("/css/icon.css")
-	jszip.file("OEBPS/css/icon.css", css3);
-
-	let font1 = await fetchAsBlob("/fonts/karla-v13-latin-regular.woff");
-	let font2 = await fetchAsBlob("/fonts/karla-v13-latin-regular.woff2");
-	let font3 = await fetchAsBlob("/fonts/open-sans-v17-latin-regular.woff");
-	let font4 = await fetchAsBlob("/fonts/open-sans-v17-latin-regular.woff2");
-	jszip.file("OEBPS/fonts/karla-v13-latin-regular.woff", font1);
-	jszip.file("OEBPS/fonts/karla-v13-latin-regular.woff2", font2);
-	jszip.file("OEBPS/fonts/open-sans-v17-latin-regular.woff", font3);
-	jszip.file("OEBPS/fonts/open-sans-v17-latin-regular.woff2", font4);
-
-	//let js1 = await fetchAsText("/js/include.js");
-	jszip.file("OEBPS/js/include.js", "function loadsitecode() {};");
-
-	//let cont1 = await fetchAsText("contents.json");
-	//jszip.file("OEBPS/contents.json", cont1);
-
-	blob = await jszip.generateAsync({
-		type: "blob"
-	});
-
-	return blob;
-}

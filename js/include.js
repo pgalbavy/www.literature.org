@@ -57,6 +57,7 @@ async function Include(element) {
 
 async function Contents(element) {
 	const ATTR = "contents";
+
 	/* Loop through a collection of all ARTICLE elements: */
 	for (let article of element.getElementsByTagName("article")) {
 		if (!article.hasAttribute(ATTR)) {
@@ -67,63 +68,90 @@ async function Contents(element) {
 		// do not remove tag as CreateEPub() also needs it now
 		// article.removeAttribute(ATTR);
 
-		let html = "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hoverable\">";
+		let ul = appendElement(document, article, 'ul', null, [
+			[ 'class', 'w3-row w3-bar-block w3-ul w3-border w3-hoverable' ]
+		]);
 
 		if (typeof contents.authors === 'undefined') {
 			contents.authors = [];
 		}
 		for (let a of contents.authors.sort(hrefSort)) {
-			html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + a.href + "\" class=\"w3-bar-item litleft w3-button\">";
-			html += "<i class=\"material-icons md-lit w3-margin-right\">person</i> ";
-			html += nameCapsHTML(a.name);
-			html += "</a></li>";
+			let li = appendElement(document, ul, 'li', null, [
+				[ 'class', 'w3-col s12 m6 l4' ]
+			]);
+			let ahref = appendElement(document, li, 'a', nameCapsHTML(a.name), [
+				[ 'href', a.href ],
+				[ 'class', 'w3-bar-item litleft w3-button' ]
+			]);
+			let i = prependElement(document, ahref, 'i', 'person', [
+				[ 'class', 'material-icons md-lit w3-margin-right' ]
+			]);
 		}
 
 		if (typeof contents.books === 'undefined') {
 			contents.books = [];
 		} else if (typeof contents.title !== 'undefined') {
-			html += "<li class=\"w3-col w3-hover-none\"><span class=\"w3-bar-item\">";
-			html += "<i class=\"material-icons md-lit w3-margin-right\">person</i> ";
-			html += nameCapsHTML(contents.title);
+			let aliases = "";
 			if (typeof contents.aliases !== 'undefined') {
 				// list aliases here (maybe basic bio too, but then move this outside the test)
-				html += " - also known as: ";
+				aliases = " - also known as: ";
 				for (let alias of contents.aliases) {
-					html += nameCapsHTML(alias) + ", ";
+					aliases += nameCapsHTML(alias) + ", ";
 				}
-				html = html.substring(0, html.length - 2)
-				html += "</span></li>";
+				aliases = aliases.substring(0, aliases.length - 2)
 			}
+			let li = appendElement(document, ul, 'li', null, [
+				[ 'class', 'w3-col w3-hover-none' ]
+			]);
+			let span = appendElement(document, li, 'span', nameCapsHTML(contents.title) + aliases, [
+				[ 'class', 'w3-bar-item' ]
+			]);
+			let i = appendElement(document, span, 'i', 'person', [
+				[ 'class', 'material-icons md-lit w3-margin-right' ]
+			]);
 		}
+
 		for (let b of contents.books.sort(bookSort)) {
-			html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + b.href + "\" class=\"w3-bar-item litleft w3-button\">";
-			html += "<i class=\"material-icons md-lit w3-margin-right\">menu_book</i> ";
-			html += nameCapsHTML(b.title);
-			if (typeof b.year !== 'undefined') {
-				html += " (" + b.year + ")";
-			}
-			html += "</a></li>";
+			let li = appendElement(document, ul, 'li', null, [
+				[ 'class', 'w3-col s12 m6 l4' ]
+			]);
+
+			let ahref = appendElement(document, li, 'a', nameCapsHTML(b.title) + (b.year !== undefined ? ' (' + b.year + ')' : ''), [
+				[ 'href', b.href ],
+				[ 'class', 'w3-bar-item litleft w3-button' ]
+			]);
+			let i = prependElement(document, ahref, 'i', 'menu_book', [
+				[ 'class', 'material-icons md-lit w3-margin-right' ]
+			]);
 		}
+
 		if (typeof contents.chapters === 'undefined') {
 			contents.chapters = [];
 		}
 		for (let c of contents.chapters) {
-			html += "<li><a href=\"" + c.href + "\" class=\"w3-bar-item w3-button litleft\">";
+			let li = appendElement(document, ul, 'li', null);
+			let ahref = appendElement(document, li, 'a', nameCapsHTML(c.title), [
+				[ 'href', c.href ],
+				[ 'class', 'w3-bar-item w3-button litleft' ]
+			]);
 
+			let icon;
 			if (c.href == "authors") {
-				html += "<i class=\"material-icons md-lit w3-margin-right\">people</i> ";
+				icon = 'people';
 			} else if (contents.title == "Authors") {
-				html += "<i class=\"material-icons md-lit w3-margin-right\">person</i> ";
+				icon = 'person';
 			} else if (c.href && c.href.endsWith(".html")) {
-				html += "<i class=\"material-icons md-lit w3-margin-right\">library_books</i> ";
+				icon = 'library_books';
 			} else {
-				html += "<i class=\"material-icons md-lit w3-margin-right\">menu_book</i> ";
+				icon = 'menu_book';
 			}
-
-			html += nameCapsHTML(c.title) + "</a></li>";
+			prependElement(document, ahref, 'i', icon, [
+				[ 'class', 'material-icons md-lit w3-margin-right' ]
+			]);
 		}
-		html += "</ul>";
 
+
+		let html = "";
 		// add other content here
 		if (typeof contents.links !== 'undefined' && Object.keys(contents.links) != 0) {
 			html += "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hoverable\">";
@@ -161,6 +189,8 @@ async function Contents(element) {
 		}
 
 		article.innerHTML = html;
+		article.insertAdjacentElement('afterbegin', ul);
+
 	}
 }
 
@@ -561,3 +591,39 @@ function loadScript(file) {
 		document.head.append(script);
 	});
 }
+
+// append element with name and inner HTML value and option atrributes
+function appendElement(doc, node, elemName, value, attr) {
+	let elem = doc.createElement(elemName)
+	if (attr !== undefined) {
+		for (let a of attr) {
+			elem.setAttribute(a[0], a[1]);
+		}
+	}
+	if (value != "") {
+		elem.innerHTML = value;
+	}
+	node.appendChild(elem);
+
+	return elem;
+}
+
+// prepent a chile element with name and inner HTML value and option atrributes
+function prependElement(doc, node, elemName, value, attr) {
+	let elem = doc.createElement(elemName)
+	if (attr !== undefined) {
+		for (let a of attr) {
+			elem.setAttribute(a[0], a[1]);
+		}
+	}
+	if (value != "") {
+		elem.innerHTML = value;
+	}
+
+	//let first = node.firstElementChild;
+	node.insertAdjacentElement('afterbegin', elem);
+
+	return elem;
+}
+
+
