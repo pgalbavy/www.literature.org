@@ -4,35 +4,43 @@
 class EPub {
 	tmplFiles = [{
 		source: "/templates/epub/META-INF/container.xml",
-		path: "META-INF/container.xml"
+		path: "META-INF/container.xml",
+		mimetype: 'text/xml'
 	},
 	{
 		source: "/css/literature.css",
-		path: "EPUB/css/literature.css"
+		path: "EPUB/css/literature.css",
+		mimetype: 'text/css'
 	},
 	{
 		source: "/css/w3.css",
-		path: "EPUB/css/w3.css"
+		path: "EPUB/css/w3.css",
+		mimetype: 'text/css'
 	},
 	{
 		source: "/css/icon.css",
-		path: "EPUB/css/icon.css"
+		path: "EPUB/css/icon.css",
+		mimetype: 'text/css'
 	},
 	{
 		source: "/fonts/karla-v13-latin-regular.woff",
-		path: "EPUB/fonts/karla-v13-latin-regular.woff"
+		path: "EPUB/fonts/karla-v13-latin-regular.woff",
+		mimetype: 'application/font-woff'
 	},
 	{
 		source: "/fonts/karla-v13-latin-regular.woff2",
-		path: "EPUB/fonts/karla-v13-latin-regular.woff2"
+		path: "EPUB/fonts/karla-v13-latin-regular.woff2",
+		mimetype: 'application/octet-stream'
 	},
 	{
 		source: "/fonts/open-sans-v17-latin-regular.woff",
-		path: "EPUB/fonts/open-sans-v17-latin-regular.woff"
+		path: "EPUB/fonts/open-sans-v17-latin-regular.woff",
+		mimetype: 'application/font-woff'
 	},
 	{
 		source: "/fonts/open-sans-v17-latin-regular.woff2",
-		path: "EPUB/fonts/open-sans-v17-latin-regular.woff2"
+		path: "EPUB/fonts/open-sans-v17-latin-regular.woff2",
+		mimetype: 'application/octet-stream'
 	},
 	];
 
@@ -58,7 +66,9 @@ class EPub {
 					return html;
 				})
 				// strip absolute path for CSS, however paths inside CSS to fonts are already relative
-				.then(html => html.documentElement.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/'));
+				.then(html => html.documentElement.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/'))
+				// create an XHTML file, which is what EPUB3 requires
+				.then(text => { let doc = new DOMParser().parseFromString(text, 'text/html'); return new XMLSerializer().serializeToString(doc); })
 			this.zip.file(`EPUB/${chapter.href}`, html);
 		}
 	}
@@ -103,7 +113,7 @@ class EPub {
 		let opf = document.implementation.createDocument(null, 'package', null);
 		let doc = opf.documentElement;
 		doc.setAttribute('version', '3.0');
-		doc.setAttribute('unique-identifiers', 'pub-id');
+		doc.setAttribute('unique-identifier', 'pub-id');
 		doc.setAttribute('xml:lang', 'en-US');
 		doc.setAttribute('prefix', 'blah');
 
@@ -121,12 +131,22 @@ class EPub {
 		this.appendElement(opf, metadata, 'dc:source', this.contents.source);
 
 		let manifest = opf.createElement('manifest');
+		for (let file of this.tmplFiles) {
+			if (file.path.startsWith('META-INF/')) {
+				continue;
+			}
+			this.appendElement(opf, manifest, 'item', null, [
+				[ 'id', file.path.split('/').reverse()[0] ],
+				[ 'href', file.path.replace('EPUB/', '') ],
+				[ 'media-type', file.mimetype ]
+			])
+		}
 		// add css, fonts, toc etc.
-		this.CreateTOC('EPUB/toc.xhtml');
+		this.CreateTOC('EPUB/toc.html');
 		this.appendElement(opf, manifest, 'item', null, [
 			['id', 'toc'],
 			['properties', 'nav'],
-			['href', 'toc.xhtml'],
+			['href', 'toc.html'],
 			['media-type', 'application/xhtml+xml']
 		]);
 
@@ -157,6 +177,7 @@ class EPub {
 	CreateTOC(path) {
 		let toc = document.implementation.createHTMLDocument(this.contents.title);
 		//let body = this.addElement(toc, toc, 'body', null);
+		toc.documentElement.setAttribute('xmlns:epub', "http://www.idpf.org/2007/ops");
 		let body = toc.createElement('body');
 		toc.documentElement.appendChild(body);
 
