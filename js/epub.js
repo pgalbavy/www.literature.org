@@ -3,37 +3,37 @@
 
 class EPub {
 	tmplFiles = [{
-			source: "/templates/epub/META-INF/container.xml",
-			path: "META-INF/container.xml"
-		},
-		{
-			source: "/css/literature.css",
-			path: "EPUB/css/literature.css"
-		},
-		{
-			source: "/css/w3.css",
-			path: "EPUB/css/w3.css"
-		},
-		{
-			source: "/css/icon.css",
-			path: "EPUB/css/icon.css"
-		},
-		{
-			source: "/fonts/karla-v13-latin-regular.woff",
-			path: "EPUB/fonts/karla-v13-latin-regular.woff"
-		},
-		{
-			source: "/fonts/karla-v13-latin-regular.woff2",
-			path: "EPUB/fonts/karla-v13-latin-regular.woff2"
-		},
-		{
-			source: "/fonts/open-sans-v17-latin-regular.woff",
-			path: "EPUB/fonts/open-sans-v17-latin-regular.woff"
-		},
-		{
-			source: "/fonts/open-sans-v17-latin-regular.woff2",
-			path: "EPUB/fonts/open-sans-v17-latin-regular.woff2"
-		},
+		source: "/templates/epub/META-INF/container.xml",
+		path: "META-INF/container.xml"
+	},
+	{
+		source: "/css/literature.css",
+		path: "EPUB/css/literature.css"
+	},
+	{
+		source: "/css/w3.css",
+		path: "EPUB/css/w3.css"
+	},
+	{
+		source: "/css/icon.css",
+		path: "EPUB/css/icon.css"
+	},
+	{
+		source: "/fonts/karla-v13-latin-regular.woff",
+		path: "EPUB/fonts/karla-v13-latin-regular.woff"
+	},
+	{
+		source: "/fonts/karla-v13-latin-regular.woff2",
+		path: "EPUB/fonts/karla-v13-latin-regular.woff2"
+	},
+	{
+		source: "/fonts/open-sans-v17-latin-regular.woff",
+		path: "EPUB/fonts/open-sans-v17-latin-regular.woff"
+	},
+	{
+		source: "/fonts/open-sans-v17-latin-regular.woff2",
+		path: "EPUB/fonts/open-sans-v17-latin-regular.woff2"
+	},
 	];
 
 	constructor(contents) {
@@ -48,24 +48,51 @@ class EPub {
 		}
 		for (let chapter of this.contents.chapters) {
 			let html = fetchAsHTML(chapter.href)
-			    .then(html => Include(html))
+				.then(html => Include(html))
 				// override default visibility, as reveal JS doesn't run
 				.then(html => { html.body.style.display = 'block'; return html })
+				.then(html => {
+					let article = html.body.getElementsByTagName('article')[0];
+					// console.log(article);
+					this.prependElement(html, article, 'h1', chapter.title);
+					return html;
+				})
 				// strip absolute path for CSS, however paths inside CSS to fonts are already relative
 				.then(html => html.documentElement.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/'));
 			this.zip.file(`EPUB/${chapter.href}`, html);
 		}
 	}
 
-	addElement(doc, node, name, value, attr) {
+	// append element with name and inner HTML value and option atrributes
+	appendElement(doc, node, name, value, attr) {
 		let elem = doc.createElement(name)
 		if (attr !== undefined) {
 			for (let a of attr) {
 				elem.setAttribute(a[0], a[1]);
 			}
 		}
-		elem.innerHTML = value;
+		if (value != "") {
+			elem.innerHTML = value;
+		}
 		node.appendChild(elem);
+
+		return elem;
+	}
+
+	// prepent a chile element with name and inner HTML value and option atrributes
+	prependElement(doc, node, name, value, attr) {
+		let elem = doc.createElement(name)
+		if (attr !== undefined) {
+			for (let a of attr) {
+				elem.setAttribute(a[0], a[1]);
+			}
+		}
+		if (value != "") {
+			elem.innerHTML = value;
+		}
+
+		//let first = node.firstElementChild;
+		node.insertAdjacentElement('afterbegin', elem);
 
 		return elem;
 	}
@@ -85,47 +112,45 @@ class EPub {
 
 		let uuid = await uuidFromHash(location);
 
-		this.addElement(opf, metadata, 'dc:identifier', `urn:uuid:${uuid}`, [ [ 'id', 'pub-id' ]]);
+		this.appendElement(opf, metadata, 'dc:identifier', `urn:uuid:${uuid}`, [['id', 'pub-id']]);
 		if (this.contents.lastmodified !== undefined) {
-			this.addElement(opf, metadata, 'meta', this.contents.lastmodified, [ [ 'property', 'dcterms:modified' ]])
+			this.appendElement(opf, metadata, 'meta', this.contents.lastmodified, [['property', 'dcterms:modified']])
 		}
-		this.addElement(opf, metadata, 'dc:title', this.contents.title);
-		this.addElement(opf, metadata, 'dc:creator', this.contents.author);
-		this.addElement(opf, metadata, 'dc:source', this.contents.source);
+		this.appendElement(opf, metadata, 'dc:title', this.contents.title);
+		this.appendElement(opf, metadata, 'dc:creator', this.contents.author);
+		this.appendElement(opf, metadata, 'dc:source', this.contents.source);
 
 		let manifest = opf.createElement('manifest');
 		// add css, fonts, toc etc.
 		this.CreateTOC('EPUB/toc.xhtml');
-		this.addElement(opf, manifest, 'item', null, [
-			[ 'id', 'toc' ],
-			[ 'properties', 'nav' ],
-			[ 'href', 'toc.xhtml' ],
-			[ 'media-type', 'application/xhtml+xml']
+		this.appendElement(opf, manifest, 'item', null, [
+			['id', 'toc'],
+			['properties', 'nav'],
+			['href', 'toc.xhtml'],
+			['media-type', 'application/xhtml+xml']
 		]);
 
 		let spine = opf.createElement('spine');
 
 		for (let chapter of this.contents.chapters) {
-			this.addElement(opf, manifest, 'item', null, [ 
-				[ 'id', chapter.href ],
-				[ 'href', chapter.href ],
-				[ 'media-type', 'application/xhtml+xml' ]				 
+			this.appendElement(opf, manifest, 'item', null, [
+				['id', chapter.href],
+				['href', chapter.href],
+				['media-type', 'application/xhtml+xml']
 			])
 
-			this.addElement(opf, spine, 'itemref', null, [
-				[ 'idref', chapter.href ],
-				[ 'linear', 'yes' ]
+			this.appendElement(opf, spine, 'itemref', null, [
+				['idref', chapter.href],
+				['linear', 'yes']
 			])
 		}
 
 		doc.appendChild(metadata);
 		doc.appendChild(manifest);
 		doc.appendChild(spine);
-		console.log(doc);
 
 		let text = prettifyXml(doc, 'http://www.idpf.org/2007/opf');
 		// let text = new XMLSerializer().serializeToString(doc);
-		console.log(text);
 		this.zip.file(path, '<?xml version="1.0" encoding="UTF-8"?>\n' + text);
 	}
 
@@ -135,28 +160,28 @@ class EPub {
 		let body = toc.createElement('body');
 		toc.documentElement.appendChild(body);
 
-		let section = this.addElement(toc, body, 'section', null, [
-			[ 'epub:type', 'frontmatter toc']
+		let section = this.appendElement(toc, body, 'section', null, [
+			['epub:type', 'frontmatter toc']
 		]);
-		let header = this.addElement(toc, section, 'header', null);
-		this.addElement(toc, header, 'h1', 'Contents');
-		let nav = this.addElement(toc, section, 'nav', null, [
-			[ 'xmlns:epub', "http://www.idpf.org/2007/ops" ],
-			[ 'epub:type', 'toc' ],
-			[ 'id', 'toc' ]
+		let header = this.appendElement(toc, section, 'header', null);
+		this.appendElement(toc, header, 'h1', 'Contents');
+		let nav = this.appendElement(toc, section, 'nav', null, [
+			['xmlns:epub', "http://www.idpf.org/2007/ops"],
+			['epub:type', 'toc'],
+			['id', 'toc']
 		])
-		let ol = this.addElement(toc, nav, 'ol', null);
+		let ol = this.appendElement(toc, nav, 'ol', null);
 		for (let chapter of this.contents.chapters) {
-			let li = this.addElement(toc, ol, 'li', null, [
-				[ 'class', 'toc' ],
-				[ 'id', chapter.href ]
+			let li = this.appendElement(toc, ol, 'li', null, [
+				['class', 'toc'],
+				['id', chapter.href]
 			]);
-			this.addElement(toc, li, 'a', chapter.title, [
-				[ 'href', chapter.href ]
+			this.appendElement(toc, li, 'a', chapter.title, [
+				['href', chapter.href],
+				['class', 'w3-bar-item w3-button litleft']
 			])
 		}
 
-		console.log(prettifyXHTML(toc));
 		this.zip.file(path, '<?xml version="1.0" encoding="UTF-8"?>\n' + prettifyXHTML(toc));
 	}
 
@@ -202,11 +227,10 @@ async function uuidFromHash(message) {
 }
 
 async function digestMessage(message) {
-   	const msgUint8 = new TextEncoder().encode(message);                           // encode as (utf-8) Uint8Array
+	const msgUint8 = new TextEncoder().encode(message);                           // encode as (utf-8) Uint8Array
 	const hashBuffer = await crypto.subtle.digest('SHA-256', msgUint8);           // hash the message
 	const hashArray = Array.from(new Uint8Array(hashBuffer));                     // convert buffer to byte array
 	const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join(''); // convert bytes to hex string
-	console.log(hashHex);
 	return hashHex;
 }
 
@@ -237,7 +261,7 @@ function prettifyXml(doc, ns) {
 
 function prettifyXHTML(doc) {
 	var xsltDoc = new DOMParser().parseFromString([
-`<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+		`<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:output omit-xml-declaration="yes" indent="yes" method="html"/>
 
    <xsl:template match="node()|@*">

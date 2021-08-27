@@ -28,8 +28,6 @@ async function loadsitecode() {
 	// path has to be an index page, check last element of path either for no '.' or that it's index.html
 	if (params.has("epub") && parts.length > 4 && (!last.includes('.') || last == 'index.html')) {
 		loadScript('/js/jszip.min.js')
-			.then(script => loadScript('/js/ejs.min.js'))
-			.then(script => loadScript('/js/jepub.min.js'))
 			.then(script => loadScript('/js/epub.js'))
 			.then(script => {
 				CreateEPub(parent);
@@ -252,7 +250,8 @@ async function Navigate(element) {
 					if (final.endsWith(".html")) {
 						html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">menu_book</i></a>";
 					} else {
-						html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left w3-disabled\"><i class=\"material-icons md-lit\">menu_book</i></a>";
+						// TODO: when the contents page is open, add an epub download link
+						html += "<a href=\"?epub\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">cloud_download</i></a>";
 					}
 				}
 			}
@@ -388,8 +387,6 @@ async function Navigate(element) {
 
 // very much WIP - build an epub for the current directory
 async function CreateEPub(element) {
-	// const jepub = new jEpub();
-
 	/* Loop through a collection of all ARTICLE elements: */
 	for (let article of element.getElementsByTagName("article")) {
 		if (!article.hasAttribute("contents")) {
@@ -407,22 +404,6 @@ async function CreateEPub(element) {
 		let pageurl = location.href.replace(/\/[^\/]*$/, '');
 
 		let epub = new EPub(contents);
-
-/* 		jepub.init({
-			i18n: 'en', // Internationalization
-			title: contents.title,
-			author: contents.author,
-			publisher: 'literature.org',
-			description: 'Dynamically generated EPUB book from <a href="' + pageurl + '">this page</a>',
-			// tags: ['epub', 'literature.org'] // optional
-		})
-
-		for (let c of contents.chapters) {
-			let html = await fetchAsHTML(c.href).then(html => Include(html));
-			let text = html.body.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/');
-			jepub.add(c.title, text);
-			// epub.AddChapter(c, text);
-		} */
 
 		await epub.CreatePackage("EPUB/book.opf");
 
