@@ -150,47 +150,27 @@ async function Contents(element) {
 			]);
 		}
 
-
-		let html = "";
 		// add other content here
 		if (typeof contents.links !== 'undefined' && Object.keys(contents.links) != 0) {
-			html += "<ul class=\"w3-row w3-bar-block w3-ul w3-border w3-hoverable\">";
-			html += "<li class=\"w3-hover-none\"><h2>External Links</h2></li>";
-			if (contents.links.wikipedia) {
-				html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + contents.links.wikipedia + "\" class=\"w3-bar-item litleft w3-button\" target=\"_blank\">";
-				html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
-				html += "<img src=\"/images/Wikipedia-logo-v2.svg\" style=\"width:32px\">";
-				html += "&nbsp;Wikipedia";
-				html += "</a>";
-			}
-			if (contents.links.goodreads) {
-				html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + contents.links.goodreads + "\" class=\"w3-bar-item litleft w3-button\" target=\"_blank\">";
-				html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
-				html += "<img src=\"/images/1454549125-1454549125_goodreads_misc.png\" style=\"width:32px\">";
-				html += "&nbsp;Goodreads"
-				html += "</a>";
-			}
-			if (contents.links.gutenberg) {
-				html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + contents.links.gutenberg + "\" class=\"w3-bar-item litleft w3-button\" target=\"_blank\">";
-				html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
-				html += "<img src=\"/images/Project_Gutenberg_logo.svg\" style=\"width:32px\">";
-				html += "&nbsp;Project&nbsp;Gutenberg"
-				html += "</a>";
-			}
+			ul = appendElement(document, article, 'ul', null, [
+				[ 'class', 'w3-row w3-bar-block w3-ul w3-border w3-hoverable' ]
+			]);
+			let li = appendElement(document, ul, 'li', null, [
+				[ 'class', 'w3-hover-none' ]
+			]);
+
+			appendElement(document, li, 'h2', 'External Links');
+
+			appendLinkImg(document, ul, contents.links.wikipedia, 'Wikipedia', '/images/Wikipedia-logo-v2.svg');
+			appendLinkImg(document, ul, contents.links.goodreads, 'Goodreads', '/images/1454549125-1454549125_goodreads_misc.png');
+			appendLinkImg(document, ul, contents.links.gutenberg, 'Gutenberg', '/images/Project_Gutenberg_logo.svg');
+
 			if (contents.links.other) {
 				for (let l of contents.links.other) {
-					html += "<li class=\"w3-col s12 m6 l4\"><a href=\"" + l.href + "\" class=\"w3-bar-item w3-button\" litleft target=\"_blank\">";
-					html += "<i class=\"material-icons md-lit w3-margin-right\">launch</i>&nbsp";
-					html += l.title + "</a>"
-					html += "</a>";
+					appendLinkImg(document, ul, l.href, l.title)
 				}
 			}
-			html += "</ul>";
 		}
-
-		article.innerHTML = html;
-		article.insertAdjacentElement('afterbegin', ul);
-
 	}
 }
 
@@ -626,4 +606,26 @@ function prependElement(doc, node, elemName, value, attr) {
 	return elem;
 }
 
+function appendLinkImg(doc, elem, href, title, image) {
+	if (href === undefined) {
+		return;
+	}
+	let li = appendElement(doc, elem, 'li', null, [
+		[ 'class', 'w3-col s12 m6 l4' ]
+	]);
+	let ahref = appendElement(doc, li, 'a', `&nbsp;${title}`, [
+		[ 'href', href ],
+		[ 'class', 'w3-bar-item litleft w3-button' ],
+		[ 'target', '_blank' ]
+	]);
+	if (image !== undefined) {
+		prependElement(doc, ahref, 'img', null, [
+			[ 'src', image ],
+			[ 'style', 'width: 32px' ]
+		]);
+	}
+	let i = prependElement(doc, ahref, 'i', 'launch', [
+		[ 'class', 'material-icons md-lit w3-margin-right' ]
+	]);
+}
 
