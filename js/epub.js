@@ -73,42 +73,6 @@ class EPub {
 		}
 	}
 
-/* 	// append element with name and inner HTML value and option atrributes
-	appendElement(doc, node, name, value, attr) {
-		let elem = doc.createElement(name)
-		if (attr !== undefined) {
-			for (let a of attr) {
-				elem.setAttribute(a[0], a[1]);
-			}
-		}
-		if (value != "") {
-			elem.innerHTML = value;
-		}
-		node.appendChild(elem);
-
-		return elem;
-	}
-
-	// prepent a chile element with name and inner HTML value and option atrributes
-	prependElement(doc, node, name, value, attr) {
-		let elem = doc.createElement(name)
-		if (attr !== undefined) {
-			for (let a of attr) {
-				elem.setAttribute(a[0], a[1]);
-			}
-		}
-		if (value != "") {
-			elem.innerHTML = value;
-		}
-
-		//let first = node.firstElementChild;
-		node.insertAdjacentElement('afterbegin', elem);
-
-		return elem;
-	}
-
- */
-
 	async CreatePackage(path) {
 		// namespace is added after xslt to prettify output
 		// let opf = document.implementation.createDocument('http://www.idpf.org/2007/opf', 'package', null);
