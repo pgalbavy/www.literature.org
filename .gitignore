@@ -1,6 +1,6 @@
-go/publish/publish
-go/convtext/convtext
-go/addlink/addlink
+go/cmd/publish/publish
+go/cmd/convtext/convtext
+go/cmd/addlink/addlink
 go.sum
 *.exe
 tmp
