@@ -268,11 +268,18 @@ async function Navigate(element) {
 			}
 		}
 
-		let html = "";
-
 		// top bar
-		html += "<nav class=\"w3-bar\" style=\"font-size:24px; white-space: nowrap;\">";
-		html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_open()\"><i class=\"material-icons md-lit\">menu</i></button>";
+		nav2 = appendElement(document, nav, 'nav', null, [
+			[ 'class', 'w3-bar' ],
+			[ 'style', 'font-size:24px; white-space: nowrap;' ]
+		]);
+		button = appendElement(document, nav2, 'button', null, [
+			[ 'class', 'w3-bar-item w3-button' ],
+			[ 'onclick', 'w3_open()' ]
+		]);
+		appendElement(document, button, 'i', 'menu', [
+			[ 'class', 'material-icons md-lit' ]
+		]);
 
 		// pick one and exactly one list of links, in this order
 		let list;
@@ -288,22 +295,21 @@ async function Navigate(element) {
 			let page = list.findIndex(o => o.href === final);
 
 			if (final == "authors") {
-				html += "<a href=\"/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">home</i></a>";
+				addNavButton(document, nav2, '/', 'home', 'w3-left');
 			} else {
 				if (typeof contents.author === 'undefined' || contents.author == "") {
-					html += "<a href=\"/authors/\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">people</i></a>";
+					addNavButton(document, nav2, '/authors', 'people', 'w3-left');
 				} else {
 					// author
-					html += "<a href=\"..\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">person</i></a>";
+					addNavButton(document, nav2, '../', 'person', 'w3-left');
 				}
 
 				// contents page
 				if (!(contents.title != "Authors" && (typeof contents.author === 'undefined' || contents.author == ""))) {
 					if (final.endsWith(".html")) {
-						html += "<a href=\"index.html\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">menu_book</i></a>";
+						addNavButton(document, nav2, 'index.html', 'menu_book', 'w3-left');
 					} else {
-						// TODO: when the contents page is open, add an epub download link
-						html += "<a href=\"?epub\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">cloud_download</i></a>";
+						addNavButton(document, nav2, '?epub', 'cloud_download', 'w3-left');
 					}
 				}
 			}
@@ -313,21 +319,21 @@ async function Navigate(element) {
 			if (page > 0) {
 				// there is a valid previous page
 				prev = list[page - 1].href;
-				html += "<a href=\"" + prev + "\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">arrow_back</i></a>";
+				addNavButton(document, nav2, prev, 'arrow_back');
 			} else {
-				html += "<div class=\"w3-bar-item w3-button w3-disabled w3-hover-none\"><i class=\"material-icons md-lit\">arrow_back</i></div>";
+				addNavButtonDisabled(document, nav2, 'arrow_back');
 			}
 
 			if (is_touch_enabled() === true) {
-				html += "<div class=\"w3-bar-item w3-button w3-disabled lit-narrow\"><i class=\"material-icons md-lit\">touch_app</i></div>"
+				addNavButtonDisabled(document, nav2, 'touch_app', 'lit-narrow');
 			}
 
 			if (page < list.length - 1 && contents.author != "") {
 				// there is a valid next page
 				next = list[page + 1].href
-				html += "<a href=\"" + next + "\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">arrow_forward</i></a>";
+				addNavButton(document, nav2, next, 'arrow_forward');
 			} else {
-				html += "<div class=\"w3-bar-item w3-button w3-disabled\"><i class=\"material-icons md-lit\">arrow_forward</i></div>";
+				addNavButtonDisabled(document, nav2, 'arrow_forward');
 			}
 
 			// update link rel="next"/"prev" values
@@ -370,11 +376,12 @@ async function Navigate(element) {
 			})
 
 			// dropdown of pages here (soon)
-			html += "<div class=\"w3-bar-item lit w3-hide-small\">";
-
+			
 			if (list[page]) {
 				texthead = "<h3 class=\"w3-hide-medium w3-hide-large w3-left-align\" id= \"heading\">" + list[page].title + "</h3>";
-				html += list[page].title;
+				appendElement(document, nav2, 'div', list[page].title, [
+					[ 'class', 'w3-bar-item lit w3-hide-small' ]
+				]);
 
 				title = list[page].title + " - " + title;
 			} else {
@@ -386,28 +393,27 @@ async function Navigate(element) {
 					texthead += nameCapsHTML(contents.title);
 					texthead += "</span></li></ul>";
 				}
-				html += nameCapsHTML(contents.title);
+				appendElement(document, nav2, 'div', nameCapsHTML(contents.title), [
+					[ 'class', 'w3-bar-item lit w3-hide-small' ]
+				]);
 			}
-			html += "</div>";
 
 			if (list[page]) {
-				html += "<div class=\"w3-bar-item lit w3-hide-medium w3-hide-large\">";
-				// html += "<i class=\"material-icons md-lit w3-margin-right\">library_books</i>";
-				html += (page + 1) + "/" + list.length;
-				html += "</div>";
+				appendElement(document, nav2, 'div', (page + 1) + "/" + list.length, [
+					[ 'class', 'w3-bar-item lit w3-hide-medium w3-hide-large' ]
+				]);
 			}
 
 		} else if (final != null) {
 			// author
-			html += "<a href=\"..\" class=\"w3-bar-item w3-button w3-left\"><i class=\"material-icons md-lit\">person</i></a>";
+			addNavButton(document, nav2, '../', 'person', 'w3-left');
 
-			html += "<a href=\"index.html\" class=\"w3-bar-item w3-button\">" + contents.title + "</a>";
+			appendElement(document, nav2, 'a', contents.title, [
+				[ 'href', 'index.html' ]
+			]);
 
 			title = contents.title + " - " + title;
 		}
-		html += "</nav>";
-
-		nav.innerHTML = nav.innerHTML + html;
 
 		// grab first paragraph and massage it into a meta description,
 		// using the title as a suffix and truncating to a length of 160-ish
@@ -672,3 +678,21 @@ function appendLinkImg(doc, elem, href, title, image) {
 	]);
 }
 
+function addNavButton(document, elem, link, icon, classextra) {
+	let ahref = appendElement(document, elem, 'a', null, [
+		[ 'href', link ],
+		[ 'class', `w3-bar-item w3-button ${classextra}` ]
+	]);
+	appendElement(document, ahref, 'i', icon, [
+		[ 'class', 'material-icons md-lit' ]
+	]);
+}
+
+function addNavButtonDisabled(document, elem, icon, classextra) {
+	let div = appendElement(document, elem, 'div', null, [
+		[ 'class', `w3-bar-item w3-button w3-disabled ${classextra}` ]
+	]);
+	appendElement(document, div, 'i', icon, [
+		[ 'class', 'material-icons md-lit' ]
+	]);
+}
