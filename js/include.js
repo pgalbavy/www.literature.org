@@ -56,10 +56,11 @@ async function Include(element) {
 }
 
 async function Contents(element) {
-	const ATTR = "contents";
+	const TAG = 'article';
+	const ATTR = 'contents';
 
 	/* Loop through a collection of all ARTICLE elements: */
-	for (let article of element.getElementsByTagName("article")) {
+	for (let article of element.getElementsByTagName(TAG)) {
 		if (!article.hasAttribute(ATTR)) {
 			continue;
 		}
@@ -106,7 +107,7 @@ async function Contents(element) {
 			let span = appendElement(document, li, 'span', nameCapsHTML(contents.title) + aliases, [
 				[ 'class', 'w3-bar-item' ]
 			]);
-			let i = appendElement(document, span, 'i', 'person', [
+			prependElement(document, span, 'i', 'person', [
 				[ 'class', 'material-icons md-lit w3-margin-right' ]
 			]);
 		}
@@ -175,8 +176,10 @@ async function Contents(element) {
 }
 
 async function Navigate(element) {
-	const ATTR = "navigate";
-	for (let nav of element.getElementsByTagName("nav")) {
+	const TAG = 'nav';
+	const ATTR = 'navigate';
+
+	for (let nav of element.getElementsByTagName(TAG)) {
 		if (!nav.hasAttribute(ATTR)) {
 			continue;
 		}
@@ -195,24 +198,58 @@ async function Navigate(element) {
 		while (final != null && (final == "" || final == "index.html"));
 
 		let title = "literature.org";
-		let html = "";
 
 		// this breaks if there is more than one article
 		let articles = document.getElementsByTagName("article")
 		let article = articles[0];
 
+		let nav2 = appendElement(document, nav, 'nav', null, [
+			[ 'class', 'w3-sidebar w3-bar-block w3-large' ],
+			[ 'style', 'width:66%; max-width: 400px; display:none' ],
+			[ 'id', 'sidebar' ]
+		]);
+		let button = appendElement(document, nav2, 'button', ' Close', [
+			[ 'class', 'w3-bar-item w3-button' ],
+			[ 'onclick', 'w3_close()' ]
+		]);
+		prependElement(document, button, 'i', 'close', [
+			[ 'class', 'material-icons md-lit' ]
+		]);
+		let ahref = appendElement(document, nav2, 'a', ' literature.org', [
+			[ 'href', '/' ],
+			[ 'class', 'w3-bar-item w3-button' ]
+		]);
+		prependElement(document, ahref, 'i', 'home', [
+			[ 'class', 'material-icons md-lit' ]
+		]);
+		ahref = appendElement(document, nav2, 'a', ' Authors', [
+			[ 'href', '/authors' ],
+			[ 'class', 'w3-bar-item w3-button' ]
+		]);
+		prependElement(document, ahref, 'i', 'people', [
+			[ 'class', 'material-icons md-lit' ]
+		]);
+
 		// sidebar
-		html += "<nav class=\"w3-sidebar w3-bar-block w3-large\" style=\"width:66%; max-width: 400px; display:none\" id=\"sidebar\">";
-		html += "<button class=\"w3-bar-item w3-button\" onclick=\"w3_close()\"><i class=\"material-icons md-lit\">close</i> Close</button>";
-		html += "<a href=\"/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">home</i> literature.org</a>";
-		html += "<a href=\"/authors/\" class=\"w3-bar-item w3-button\"><i class=\"material-icons md-lit\">people</i> Authors</a>";
 		if (contents.author) {
-			html += " <a href=\"../\" class=\"w3-bar-item w3-button litleft\"><i class=\"material-icons md-lit\">person</i> " + contents.author + "</a>";
+			ahref = appendElement(document, nav2, 'a', ` ${contents.author}`, [
+				[ 'href', '../' ],
+				[ 'class', 'w3-bar-item w3-button litleft' ]
+			]);
+			prependElement(document, ahref, 'i', 'person', [
+				[ 'class', 'material-icons md-lit' ]
+			]);
 			title = titleCase(contents.author) + " at " + title;
 		}
 
 		if (final && final != "index.html" && final != "authors") {
-			html += " <a href=\"index.html\" class=\"w3-bar-item w3-button litleft\"><i class=\"material-icons md-lit\">menu_book</i> " + contents.title + "</a>";
+			ahref = appendElement(document, nav2, 'a', ` ${contents.title}`, [
+				[ 'href', contents.title ],
+				[ 'class', 'w3-bar-item w3-button litleft' ]
+			])
+			prependElement(document, ahref, 'i', 'menu_book', [
+				[ 'class', 'material-icons md-lit' ]
+			]);
 			if (title == "literature.org") {
 				title = titleCase(contents.title) + " at " + title;
 			} else {
@@ -221,12 +258,17 @@ async function Navigate(element) {
 			if (typeof contents.chapters !== 'undefined' && final.endsWith(".html")) {
 				let chapter = contents.chapters.findIndex(o => o.href === final);
 				// dropdown here
-				html += "<button class=\"w3-bar-item w3-button litleft\" onclick=\"w3_close()\"><i class=\"material-icons md-lit\">library_books</i></a>";
-				html += " " + contents.chapters[chapter].title + "</button>";
+				button = appendElement(document, nav2, 'button', contents.chapters[chapter].title, [
+					[ 'class', 'w3-bar-item w3-button litleft' ],
+					[ 'onclick', 'w3_close()' ]
+				]);
+				prependElement(document, button, 'i', 'library_books', [
+					[ 'class', 'material-icons md-lit' ]
+				]);
 			}
 		}
 
-		html += "</nav>";
+		let html = "";
 
 		// top bar
 		html += "<nav class=\"w3-bar\" style=\"font-size:24px; white-space: nowrap;\">";
@@ -364,7 +406,8 @@ async function Navigate(element) {
 			title = contents.title + " - " + title;
 		}
 		html += "</nav>";
-		nav.innerHTML = html;
+
+		nav.innerHTML = nav.innerHTML + html;
 
 		// grab first paragraph and massage it into a meta description,
 		// using the title as a suffix and truncating to a length of 160-ish
@@ -378,7 +421,7 @@ async function Navigate(element) {
 			firstpara += "...' - " + title;
 		}
 
-		let existing = document.head.querySelector('meta[name="description"');
+		let existing = document.head.querySelector('meta[name="description"]');
 		if (existing) {
 			existing.content = firstpara
 		} else {
