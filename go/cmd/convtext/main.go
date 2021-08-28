@@ -93,8 +93,8 @@ func main() {
 	// "k" - ignore rest of line (skip)
 	// "p" - include next paragraph (para)
 
-	flag.StringVar(&levels[0].title, "c", "Chapter", "Text for chapter level splits")
-	flag.StringVar(&levels[1].title, "p", "", "Text for part level seperator - empty means ignore")
+	flag.StringVar(&levels[0].title, "c", "Chapter", "Text for chapter level splits ('[TEXT][/REGEXP/[FLAGS]]')")
+	flag.StringVar(&levels[1].title, "p", "", "Text for part level seperator - empty means ignore ('[TEXT][/REGEXP/[FLAGS]]')")
 
 	var firstmatch, discard string
 	flag.StringVar(&firstmatch, "f", "", "firstmatch regexp before reading text")
@@ -103,6 +103,18 @@ func main() {
 	flag.StringVar(&writedir, "dir", ".", "Destination directory")
 
 	flag.StringVar(&prename, "pre", "", "Rename chapter-00 to this")
+	flag.Usage = func() {
+		fmt.Fprintf(flag.CommandLine.Output(), "Usage of %s:\n", os.Args[0])
+		flag.PrintDefaults()
+		fmt.Fprintf(flag.CommandLine.Output(), `
+Flags for -c and -p are:
+t - include match in title (title)
+n - infer number from match (number) 
+k - ignore rest of line (skip)
+p - include next paragraph (para)
+
+`)
+	}
 	flag.Parse()
 
 	levelOpts(&levels[0], "Chapter")
