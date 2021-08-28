@@ -1,0 +1,135 @@
+{
+	"title": "The Man With the Black Feather",
+	"author": "Gaston LEROUX",
+	"source": "https://www.gutenberg.org/cache/epub/46343/pg46343.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Preface",
+		"-m",
+		"120",
+		"-c",
+		"//kp",
+		"https://www.gutenberg.org/cache/epub/46343/pg46343.txt"
+	],
+	"lastupdated": "2021-08-28T18:54:36Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - M. Theophrastus Longuet Desires To Improve His Mind And Visits Historical Monuments"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Scrap Of Paper"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Theophrastus Longuet Bursts Into Song"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Adolphe Lecamus Is Flabbergasted But Frank"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Theophrastus Shows The Black Feather"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Portrait"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Young Cartouche"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Wax Mask"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Strange Position Of A Little Violet Cat"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Explanation Of The Strange Attitude Of A Little Violet Cat"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Theophrastus Maintains That He Did Not Die On The Place De Grève"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The House Of Strange Words"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Cure That Missed"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Operation Begins"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Operation Ends"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Drawbacks Of Psychic Surgery"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Theophrastus Begins To Take An Interest In Things"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Evening Paper"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Story Of The Calf"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Strange Behaviour Of An Express Train"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Earless Man With His Head Out Of The Window"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - In Which The Catastrophe Which Appears On The Point Of Being Explained, Grows Yet More Inexplicable"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Melodious Bricklayer"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Solution In The Catacombs"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - M. Mifroid Takes The Lead"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - M. Longuet Fishes In The Catacombs"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - M. Mifroid Parts From Theophrastus"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Theophrastus Goes Into Eternal Exile"
+		}
+	]
+}

@@ -1,6 +1,5 @@
 {
 	"title": "Jane AUSTEN",
-	"author": "",
 	"source": "",
 	"links": {
 		"wikipedia": "https://en.wikipedia.org/wiki/Jane_Austen",
@@ -17,7 +16,7 @@
 			}
 		]
 	},
-	"lastupdated": "2020-06-19T13:53:21Z",
+	"lastupdated": "2021-08-28T13:26:52Z",
 	"books": [
 		{
 			"href": "emma",
@@ -38,6 +37,10 @@
 		{
 			"href": "sense-and-sensibility",
 			"title": "Sense and Sensibility"
+		},
+		{
+			"href": "northanger-abbey",
+			"title": "Northanger Abbey"
 		}
 	]
 }

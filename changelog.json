@@ -1,35 +1,5 @@
 [
 	{
-		"href": "/authors/tarkington-booth/the-midlander",
-		"title": "The Midlander by Booth TARKINGTON",
-		"lastupdated": "2020-07-19T21:05:49Z"
-	},
-	{
-		"href": "/authors/tarkington-booth/monsieur-beaucaire",
-		"title": "Monsieur Beaucaire by Booth TARKINGTON",
-		"lastupdated": "2020-07-19T21:07:06Z"
-	},
-	{
-		"href": "/authors/tarkington-booth/penrod-and-sam",
-		"title": "Penrod and Sam by Booth TARKINGTON",
-		"lastupdated": "2020-07-19T21:08:06Z"
-	},
-	{
-		"href": "/authors/tarkington-booth/ramsey-milholland",
-		"title": "Ramsey Milholland by Booth TARKINGTON",
-		"lastupdated": "2020-07-19T21:09:10Z"
-	},
-	{
-		"href": "/authors/tarkington-booth/seventeen",
-		"title": "Seventeen by Booth TARKINGTON",
-		"lastupdated": "2020-07-19T21:10:27Z"
-	},
-	{
-		"href": "/authors/tarkington-booth/the-turmoil",
-		"title": "The Turmoil by Booth TARKINGTON",
-		"lastupdated": "2020-07-19T21:12:20Z"
-	},
-	{
 		"href": "/authors/tarkington-booth/the-two-vanrevels",
 		"title": "The Two Vanrevels by Booth TARKINGTON",
 		"lastupdated": "2020-07-19T21:13:15Z"
@@ -498,5 +468,35 @@
 		"href": "/authors/buchan-john/the-thirty-nine-steps",
 		"title": "The Thirty-Nine Steps by John BUCHAN",
 		"lastupdated": "2021-08-28T13:19:03Z"
+	},
+	{
+		"href": "/authors/austen-jane/northanger-abbey",
+		"title": "Northanger Abbey by Jane AUSTEN",
+		"lastupdated": "2021-08-28T13:26:52Z"
+	},
+	{
+		"href": "/authors/leroux-gaston/the-phantom-of-the-opera",
+		"title": "The Phantom of the Opera by Gaston LEROUX",
+		"lastupdated": "2021-08-28T18:44:32Z"
+	},
+	{
+		"href": "/authors/leroux-gaston/the-double-life",
+		"title": "The Double Life by Gaston LEROUX",
+		"lastupdated": "2021-08-28T18:53:52Z"
+	},
+	{
+		"href": "/authors/leroux-gaston/the-man-with-the-black-feather",
+		"title": "The Man With the Black Feather by Gaston LEROUX",
+		"lastupdated": "2021-08-28T18:56:17Z"
+	},
+	{
+		"href": "/authors/leroux-gaston/the-yellow-room",
+		"title": "The Yellow Room by Gaston LEROUX",
+		"lastupdated": "2021-08-28T18:58:35Z"
+	},
+	{
+		"href": "/authors/leroux-gaston/the-secret-of-the-night",
+		"title": "The Secret of the Night by Gaston LEROUX",
+		"lastupdated": "2021-08-28T19:01:11Z"
 	}
 ]

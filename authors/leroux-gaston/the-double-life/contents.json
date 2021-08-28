@@ -1,0 +1,179 @@
+{
+	"title": "The Double Life",
+	"author": "Gaston LEROUX",
+	"source": "https://www.gutenberg.org/files/53989/53989-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Preface",
+		"-m",
+		"120",
+		"-c",
+		"//kp",
+		"https://www.gutenberg.org/files/53989/53989-0.txt"
+	],
+	"lastupdated": "2021-08-28T18:48:15Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - M. Théophraste Longuet Wishes To Inform Him-Self And Visits Historical Monuments"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - An Explanation From Théophraste"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - A Search And A Discovery"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Some Philosophy And A Song"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Théophraste Remembers Himself"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - M. Lecamus Expresses His Views"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Théophraste And His Black Plume"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - An Appeal For Help"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Portrait"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Cartouche’s Past"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Signor Petito Appears"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Théophraste’s Memory Is Refreshed"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Cat"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Petito Loses His Ears"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Adolphe Consulted"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - On Private Ground"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - They Decide To Kill"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Operation"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Torture Chamber"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - In The Charnel House"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Result Of The Operation"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Visits To A Butcher’s Shop"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - A Newspaper Report"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Murder In The Rue Guenegaud"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Calf’s Revenge"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Théophraste Again Hears Of His Treasures"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - The Express Train’s Disappearance"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Not To Be Explained!"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - M. Milford Recognizes Cartouche"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - M. Mifroid’s Theory"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - Lost In The Catacombs"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - A Dissertation On Fish"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - The Meeting Of The Talfa"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - M. Mifroid Performs On The Stage"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - A New Trade"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - A Robber Is Caught"
+		},
+		{
+			"href": "chapter-37.html",
+			"title": "Chapter 37 - The Escape From The Catacombs"
+		},
+		{
+			"href": "chapter-38.html",
+			"title": "Chapter 38 - An Old Friend"
+		},
+		{
+			"href": "chapter-39.html",
+			"title": "Chapter 39 - The Final Tragedy"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"title": "Gaston LEROUX",
+	"source": "",
+	"links": {},
+	"lastupdated": "2021-08-28T19:01:11Z",
+	"books": [
+		{
+			"href": "the-phantom-of-the-opera",
+			"title": "The Phantom of the Opera"
+		},
+		{
+			"href": "the-double-life",
+			"title": "The Double Life"
+		},
+		{
+			"href": "the-man-with-the-black-feather",
+			"title": "The Man With the Black Feather"
+		},
+		{
+			"href": "the-yellow-room",
+			"title": "The Yellow Room"
+		},
+		{
+			"href": "the-secret-of-the-night",
+			"title": "The Secret of the Night"
+		}
+	]
+}

@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2021-08-28T12:05:38Z",
+	"lastupdated": "2021-08-28T18:44:32Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -347,6 +347,10 @@
 		{
 			"href": "buchan-john",
 			"name": "John BUCHAN"
+		},
+		{
+			"href": "leroux-gaston",
+			"name": "Gaston LEROUX"
 		}
 	]
 }

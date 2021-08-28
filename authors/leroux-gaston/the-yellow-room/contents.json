@@ -1,0 +1,135 @@
+{
+	"title": "The Yellow Room",
+	"author": "Gaston LEROUX",
+	"source": "https://www.gutenberg.org/files/1685/1685-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-a",
+		"Gaston LEROUX",
+		"-t",
+		"The Yellow Room",
+		"-m",
+		"120",
+		"https://www.gutenberg.org/files/1685/1685-0.txt"
+	],
+	"lastupdated": "2021-08-28T18:57:51Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - In Which We Begin Not To Understand"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - In Which Joseph Rouletabille Appears For The First Time"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - \"A Man Has Passed Like A Shadow Through The Blinds\""
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - \"In The Bosom Of Wild Nature\""
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - In Which Joseph Rouletabille Makes A Remark To Monsieur Robert Darzac Which Produces Its Little Effect"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - In The Heart Of The Oak Grove"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - In Which Rouletabille Sets Out On An Expedition Under The Bed"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Examining Magistrate Questions Mademoiselle Stangerson"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Reporter And Detective"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - \"We Shall Have To Eat Red Meat--Now\""
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - In Which Frederic Larsan Explains How The Murderer Was Able To Get Out Of \"The Yellow Room\""
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Frederic Larsan’s Cane"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - \"The Presbytery Has Lost Nothing Of Its Charm, Nor The Garden Its Brightness\""
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - \"I Expect The Assassin This Evening\""
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Trap"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Strange Phenomenon Of The Dissociation Of Matter"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Inexplicable Gallery"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Rouletabille Has Drawn A Circle Between The Two Bumps On His Forehead"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Rouletabille Invites Me To Breakfast At The Donjon Inn"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - An Act Of Mademoiselle Stangerson"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - On The Watch"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Incredible Body"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Double Scent"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Rouletabille Knows The Two Halves Of The Murderer"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Rouletabille Goes On A Journey"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - In Which Joseph Rouletabille Is Awaited With Impatience"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - In Which Joseph Rouletabille Appears In All His Glory"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - In Which It Is Proved That One Does Not Always Think Of Everything"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - The Mystery Of Mademoiselle Stangerson"
+		}
+	]
+}

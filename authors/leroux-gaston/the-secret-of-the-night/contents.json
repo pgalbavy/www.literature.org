@@ -1,0 +1,91 @@
+{
+	"title": "The Secret of the Night",
+	"author": "Gaston LEROUX",
+	"source": "https://www.gutenberg.org/files/1686/1686-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"/^[IVX]+\\. /",
+		"https://www.gutenberg.org/files/1686/1686-0.txt"
+	],
+	"lastupdated": "2021-08-28T18:59:51Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Gayety And Dynamite"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Natacha"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Watch"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - \"The Youth Of Moscow Is Dead\""
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - By Rouletabille’s Order The General Promenades"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Mysterious Hand"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Arsenate Of Soda"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Little Chapel Of The Guards"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Annouchka"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Drama In The Night"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Poison Continues"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Pere Alexis"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Living Bombs"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Marshes"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - \"I Have Been Waiting For You\""
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Before The Revolutionary Tribunal"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - The Last Cravat"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - A Singular Experience"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - The Tsar"
+		}
+	]
+}
