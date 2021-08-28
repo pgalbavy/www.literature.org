@@ -1,50 +1,5 @@
 [
 	{
-		"href": "/authors/tarkington-booth/alice-adams",
-		"title": "Alice Adams by Booth TARKINGTON",
-		"lastupdated": "2020-07-19T19:52:22Z"
-	},
-	{
-		"href": "/authors/tarkington-booth/penrod",
-		"title": "Penrod by Booth TARKINGTON",
-		"lastupdated": "2020-07-19T20:45:25Z"
-	},
-	{
-		"href": "/authors/tarkington-booth/beasleys-christmas-party",
-		"title": "Beasley's Christmas Party by Booth TARKINGTON",
-		"lastupdated": "2020-07-19T20:48:57Z"
-	},
-	{
-		"href": "/authors/tarkington-booth/the-beautiful-lady",
-		"title": "The Beautiful Lady by Booth TARKINGTON",
-		"lastupdated": "2020-07-19T20:50:53Z"
-	},
-	{
-		"href": "/authors/tarkington-booth/the-flirt",
-		"title": "The Flirt by Booth TARKINGTON",
-		"lastupdated": "2020-07-19T20:52:55Z"
-	},
-	{
-		"href": "/authors/tarkington-booth/gentle-julia",
-		"title": "Gentle Julia by Booth TARKINGTON",
-		"lastupdated": "2020-07-19T20:54:45Z"
-	},
-	{
-		"href": "/authors/tarkington-booth/the-guest-of-quesnay",
-		"title": "The Guest of Quesnay by Booth TARKINGTON",
-		"lastupdated": "2020-07-19T20:57:45Z"
-	},
-	{
-		"href": "/authors/tarkington-booth/harlequin-and-columbine",
-		"title": "Harlequin and Columbine by Booth TARKINGTON",
-		"lastupdated": "2020-07-19T20:59:26Z"
-	},
-	{
-		"href": "/authors/tarkington-booth/his-own-people",
-		"title": "His Own People by Booth TARKINGTON",
-		"lastupdated": "2020-07-19T21:01:51Z"
-	},
-	{
 		"href": "/authors/tarkington-booth/the-midlander",
 		"title": "The Midlander by Booth TARKINGTON",
 		"lastupdated": "2020-07-19T21:05:49Z"
@@ -493,5 +448,55 @@
 		"href": "/authors/russell-bertrand/the-problem-of-china",
 		"title": "The Problem of China by Bertrand RUSSELL",
 		"lastupdated": "2021-08-07T15:18:45Z"
+	},
+	{
+		"href": "/authors/buchan-john/greenmantle",
+		"title": "Greenmantle by John BUCHAN",
+		"lastupdated": "2021-08-28T12:05:38Z"
+	},
+	{
+		"href": "/authors/buchan-john/the-half-hearted",
+		"title": "The Half-Hearted by John BUCHAN",
+		"lastupdated": "2021-08-28T12:33:14Z"
+	},
+	{
+		"href": "/authors/buchan-john/huntingtower",
+		"title": "Huntingtower by John BUCHAN",
+		"lastupdated": "2021-08-28T12:38:46Z"
+	},
+	{
+		"href": "/authors/buchan-john/mr-standfast",
+		"title": "Mr. Standfast by John BUCHAN",
+		"lastupdated": "2021-08-28T12:47:04Z"
+	},
+	{
+		"href": "/authors/buchan-john/the-path-of-the-king",
+		"title": "The Path of the King by John BUCHAN",
+		"lastupdated": "2021-08-28T12:54:58Z"
+	},
+	{
+		"href": "/authors/buchan-john/the-power-house",
+		"title": "The Power-House by John BUCHAN",
+		"lastupdated": "2021-08-28T12:57:22Z"
+	},
+	{
+		"href": "/authors/buchan-john/prester-john",
+		"title": "Prester John by John BUCHAN",
+		"lastupdated": "2021-08-28T13:00:50Z"
+	},
+	{
+		"href": "/authors/buchan-john/salute-to-adventurers",
+		"title": "Salute to Adventurers by John BUCHAN",
+		"lastupdated": "2021-08-28T13:02:35Z"
+	},
+	{
+		"href": "/authors/buchan-john/sir-quixote-of-the-moors",
+		"title": "Sir Quixote of the Moors by John BUCHAN",
+		"lastupdated": "2021-08-28T13:16:55Z"
+	},
+	{
+		"href": "/authors/buchan-john/the-thirty-nine-steps",
+		"title": "The Thirty-Nine Steps by John BUCHAN",
+		"lastupdated": "2021-08-28T13:19:03Z"
 	}
 ]

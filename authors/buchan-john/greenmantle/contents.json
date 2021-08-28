@@ -1,0 +1,107 @@
+{
+	"title": "Greenmantle",
+	"author": "John BUCHAN",
+	"source": "https://www.gutenberg.org/files/559/559-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Preface",
+		"https://www.gutenberg.org/files/559/559-0.txt"
+	],
+	"lastupdated": "2021-08-28T12:04:30Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - A Mission Is Proposed"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Gathering Of The Missionaries"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Peter Pienaar"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Adventures Of Two Dutchmen On The Loose"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Further Adventures Of The Same"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Indiscretions Of The Same"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Christmastide"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Essen Barges"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Return Of The Straggler"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Garden-House Of Suliman The Red"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Companions Of The Rosy Hours"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Four Missionaries See Light In Their Mission"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - I Move In Good Society"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Lady Of The Mantilla"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - An Embarrassed Toilet"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Battered Caravanserai"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Trouble By The Waters Of Babylon"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Sparrows On The Housetops"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Greenmantle"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Peter Pienaar Goes To The Wars"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - The Little Hill"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - The Guns Of The North"
+		}
+	]
+}

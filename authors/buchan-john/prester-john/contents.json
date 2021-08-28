@@ -1,0 +1,113 @@
+{
+	"title": "Prester John",
+	"author": "John BUCHAN",
+	"source": "https://www.gutenberg.org/cache/epub/611/pg611.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Preface",
+		"-c",
+		"//pk",
+		"https://www.gutenberg.org/cache/epub/611/pg611.txt"
+	],
+	"lastupdated": "2021-08-28T12:58:43Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Man On The Kirkcaple Shore"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Furth! Fortune!"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Blaauwildebeestefontein"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - My Journey To The Winter-Veld"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Mr Wardlaw Has A Premonition"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Drums Beat At Sunset"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Captain Arcoll Tells A Tale"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - I Fall In Again With The Reverend John Laputa"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Store At Umvelos'"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - I Go Treasure-Hunting"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Cave Of The Rooirand"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Captain Arcoll Sends A Message"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Drift Of The Letaba"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - I Carry The Collar Of Prester John"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Morning In The Berg"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Inanda's Kraal"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - A Deal And Its Consequences"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - How A Man May Sometimes Put His Trust In A Horse"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Arcoll's Shepherding"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - My Last Sight Of The Reverend John Laputa"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - I Climb The Crags A Second Time"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - A Great Peril And A Great Salvation"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - My Uncle's Gift Is Many Times Multiplied"
+		}
+	]
+}

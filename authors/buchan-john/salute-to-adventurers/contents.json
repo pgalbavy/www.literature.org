@@ -1,0 +1,133 @@
+{
+	"title": "Salute to Adventurers",
+	"author": "John BUCHAN",
+	"source": "https://www.gutenberg.org/cache/epub/10046/pg10046.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Preface",
+		"-c",
+		"//pk",
+		"https://www.gutenberg.org/cache/epub/10046/pg10046.txt"
+	],
+	"lastupdated": "2021-08-28T13:01:19Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - The Sweet-Singers"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Of A High-Handed Lady"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Canongate Tolbooth"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Of A Stairhead And A Sea-Captain"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - My First Coming To Virginia"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Tells Of My Education"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - I Become An Unpopular Character"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Red Ringan"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Various Doings In The Savannah"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - I Hear An Old Song"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Gravity Out Of Bed"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - A Word At The Harbour-Side"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - I Stumble Into A Great Folly"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A Wild Wager"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - I Gather The Clans"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - The Ford Of The Rapidan"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - I Retrace My Steps"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Our Adventure Receives A Recruit"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Clearwater Glen"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - The Stockade Among The Pines"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - A Hawk Screams In The Evening"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - How A Fool Must Go His Own Road"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The Horn Of Diarmaid Sounds"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - I Suffer The Heathen's Rage"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Events On The Hill-Side"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Shalah"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - How I Strove All Night With The Devil"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - How Three Souls Found Their Heritage"
+		}
+	]
+}

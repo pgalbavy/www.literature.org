@@ -1,0 +1,61 @@
+{
+	"title": "Sir Quixote of the Moors",
+	"author": "John BUCHAN",
+	"source": "https://www.gutenberg.org/cache/epub/46345/pg46345.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Preface",
+		"-c",
+		"//pk",
+		"https://www.gutenberg.org/cache/epub/46345/pg46345.txt"
+	],
+	"lastupdated": "2021-08-28T13:15:58Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - On The High Moors"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - I Fare Badly Indoors"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - I Fare Badly Abroad"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Of My Coming To Lindean"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - I Pledge My Word"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Idle Days"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - A Daughter Of Herodias"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - How I Set The Signal"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - I Commune With Myself"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Of My Departure"
+		}
+	]
+}

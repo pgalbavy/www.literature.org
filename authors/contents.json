@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2021-08-07T15:09:15Z",
+	"lastupdated": "2021-08-28T12:05:38Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -343,6 +343,10 @@
 		{
 			"href": "russell-bertrand",
 			"name": "Bertrand RUSSELL"
+		},
+		{
+			"href": "buchan-john",
+			"name": "John BUCHAN"
 		}
 	]
 }

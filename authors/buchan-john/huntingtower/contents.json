@@ -1,0 +1,87 @@
+{
+	"title": "Huntingtower",
+	"author": "John BUCHAN",
+	"source": "https://www.gutenberg.org/cache/epub/3782/pg3782.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-m",
+		"120",
+		"-pre",
+		"Prologue",
+		"-c",
+		"//pk",
+		"https://www.gutenberg.org/cache/epub/3782/pg3782.txt"
+	],
+	"lastupdated": "2021-08-28T12:37:19Z",
+	"chapters": [
+		{
+			"href": "prologue.html",
+			"title": "Prologue"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - How A Retired Provision Merchant Felt The Impulse Of Spring"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Of Mr. John Heritage And The Difference In Points Of View"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - How Childe Roland And Another Came To The Dark Tower"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Dougal"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Of The Princess In The Tower"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - How Mr. Mccunn Departed With Relief And Returned With Resolution"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Sundry Doings In The Mirk"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - How A Middle-Aged Crusader Accepted A Challenge"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The First Battle Of The Cruives"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Deals With An Escape And A Journey"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Gravity Out Of Bed"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - How Mr. Mccunn Committed An Assault Upon An Ally"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Coming Of The Danish Brig"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The Second Battle Of The Cruives"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Gorbals Die-Hards Go Into Action"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - In Which A Princess Leaves A Dark Tower And A Provision Merchant Returns To His Family"
+		}
+	]
+}

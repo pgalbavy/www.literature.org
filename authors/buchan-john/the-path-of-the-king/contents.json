@@ -1,0 +1,77 @@
+{
+	"title": "The Path of the King",
+	"author": "John BUCHAN",
+	"source": "https://www.gutenberg.org/files/1966/1966-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Prologue",
+		"-c",
+		"/^CHAPTER [I\\d]+\\./",
+		"https://www.gutenberg.org/files/1966/1966-0.txt"
+	],
+	"lastupdated": "2021-08-28T12:53:34Z",
+	"chapters": [
+		{
+			"href": "prologue.html",
+			"title": "Prologue"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Hightown Under Sunfell"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - The Englishman"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Wife Of Flanders"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Eyes Of Youth"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - The Maid"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Wood Of Life"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Eaucourt By The Waters"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Hidden City"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - The Regicide"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - The Marplot"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Lit Chamber"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - In The Dark Land"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - The Last Stage"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - The End Of The Road"
+		}
+	]
+}

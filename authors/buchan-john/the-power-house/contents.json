@@ -1,0 +1,57 @@
+{
+	"title": "The Power-House",
+	"author": "John BUCHAN",
+	"source": "https://www.gutenberg.org/cache/epub/57631/pg57631.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-pre",
+		"Preface",
+		"-c",
+		"//pk",
+		"https://www.gutenberg.org/cache/epub/57631/pg57631.txt"
+	],
+	"lastupdated": "2021-08-28T12:55:54Z",
+	"chapters": [
+		{
+			"href": "preface.html",
+			"title": "Preface"
+		},
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Beginning Of The Wild-Goose Chase"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - I First Hear Of Mr. Andrew Lumley"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Tells Of A Midsummer Night"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - I Follow The Trail Of The Super-Butler"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - I Take A Partner"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - The Restaurant In Antioch Street"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - I Find Sanctuary"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - The Power-House"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Return Of The Wild Geese"
+		}
+	]
+}

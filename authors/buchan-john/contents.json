@@ -1,0 +1,48 @@
+{
+	"title": "John BUCHAN",
+	"source": "",
+	"links": {},
+	"lastupdated": "2021-08-28T13:19:03Z",
+	"books": [
+		{
+			"href": "greenmantle",
+			"title": "Greenmantle"
+		},
+		{
+			"href": "the-half-hearted",
+			"title": "The Half-Hearted"
+		},
+		{
+			"href": "huntingtower",
+			"title": "Huntingtower"
+		},
+		{
+			"href": "mr-standfast",
+			"title": "Mr. Standfast"
+		},
+		{
+			"href": "the-path-of-the-king",
+			"title": "The Path of the King"
+		},
+		{
+			"href": "the-power-house",
+			"title": "The Power-House"
+		},
+		{
+			"href": "prester-john",
+			"title": "Prester John"
+		},
+		{
+			"href": "salute-to-adventurers",
+			"title": "Salute to Adventurers"
+		},
+		{
+			"href": "sir-quixote-of-the-moors",
+			"title": "Sir Quixote of the Moors"
+		},
+		{
+			"href": "the-thirty-nine-steps",
+			"title": "The Thirty-Nine Steps"
+		}
+	]
+}

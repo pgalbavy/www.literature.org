@@ -1,0 +1,147 @@
+{
+	"title": "The Half-Hearted",
+	"author": "John BUCHAN",
+	"source": "https://www.gutenberg.org/cache/epub/17047/pg17047.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"/CHAPTER/kp",
+		"-p",
+		"Part/^PART/",
+		"-f",
+		"BLESSING OF GAD",
+		"https://www.gutenberg.org/cache/epub/17047/pg17047.txt"
+	],
+	"lastupdated": "2021-08-28T12:33:11Z",
+	"chapters": [
+		{
+			"href": "part-01-chapter-01.html",
+			"title": "Part 1 - Chapter 1 - Evening In Glenavelin"
+		},
+		{
+			"href": "part-01-chapter-02.html",
+			"title": "Part 1 - Chapter 2 - Lady Manorwater's Guests"
+		},
+		{
+			"href": "part-01-chapter-03.html",
+			"title": "Part 1 - Chapter 3 - Upland Waters"
+		},
+		{
+			"href": "part-01-chapter-04.html",
+			"title": "Part 1 - Chapter 4 - Afternoon In A Garden"
+		},
+		{
+			"href": "part-01-chapter-05.html",
+			"title": "Part 1 - Chapter 5 - A Conference Of The Powers"
+		},
+		{
+			"href": "part-01-chapter-06.html",
+			"title": "Part 1 - Chapter 6 - Pastoral"
+		},
+		{
+			"href": "part-01-chapter-07.html",
+			"title": "Part 1 - Chapter 7 - The Makers Of Empire"
+		},
+		{
+			"href": "part-01-chapter-08.html",
+			"title": "Part 1 - Chapter 8 - Mr. Wratislaw's Advent"
+		},
+		{
+			"href": "part-01-chapter-09.html",
+			"title": "Part 1 - Chapter 9 - The Episodes Of A Day"
+		},
+		{
+			"href": "part-01-chapter-10.html",
+			"title": "Part 1 - Chapter 10 - Home Truths"
+		},
+		{
+			"href": "part-01-chapter-11.html",
+			"title": "Part 1 - Chapter 11 - The Pride Before A Fall"
+		},
+		{
+			"href": "part-01-chapter-12.html",
+			"title": "Part 1 - Chapter 12 - Pastoral And Tragedy"
+		},
+		{
+			"href": "part-01-chapter-13.html",
+			"title": "Part 1 - Chapter 13 - The Pleasures Of A Conscience"
+		},
+		{
+			"href": "part-01-chapter-14.html",
+			"title": "Part 1 - Chapter 14 - A Gentleman In Straits"
+		},
+		{
+			"href": "part-01-chapter-15.html",
+			"title": "Part 1 - Chapter 15 - The Nemesis Of A Coward"
+		},
+		{
+			"href": "part-01-chapter-16.html",
+			"title": "Part 1 - Chapter 16 - A Movement Of The Powers"
+		},
+		{
+			"href": "part-01-chapter-17.html",
+			"title": "Part 1 - Chapter 17 - The Brink Of The Rubicon"
+		},
+		{
+			"href": "part-01-chapter-18.html",
+			"title": "Part 1 - Chapter 18 - The Further Brink"
+		},
+		{
+			"href": "part-01-chapter-19.html",
+			"title": "Part 1 - Chapter 19 - The Bridge Of Broken Hearts"
+		},
+		{
+			"href": "part-02-chapter-01.html",
+			"title": "Part 2 - Chapter 1 - The Eastern Road"
+		},
+		{
+			"href": "part-02-chapter-02.html",
+			"title": "Part 2 - Chapter 2 - In The Heart Of The Hills"
+		},
+		{
+			"href": "part-02-chapter-03.html",
+			"title": "Part 2 - Chapter 3 - The Outposts"
+		},
+		{
+			"href": "part-02-chapter-04.html",
+			"title": "Part 2 - Chapter 4 - The Dinner At Galetti's"
+		},
+		{
+			"href": "part-02-chapter-05.html",
+			"title": "Part 2 - Chapter 5 - The Tactics Of A Chief"
+		},
+		{
+			"href": "part-02-chapter-06.html",
+			"title": "Part 2 - Chapter 6 - Mrs. Logan's Ball"
+		},
+		{
+			"href": "part-02-chapter-07.html",
+			"title": "Part 2 - Chapter 7 - Friend To Friend"
+		},
+		{
+			"href": "part-02-chapter-08.html",
+			"title": "Part 2 - Chapter 8 - The Road To Forza"
+		},
+		{
+			"href": "part-02-chapter-09.html",
+			"title": "Part 2 - Chapter 9 - The Hill-Fort"
+		},
+		{
+			"href": "part-02-chapter-10.html",
+			"title": "Part 2 - Chapter 10 - The Way To Nazri"
+		},
+		{
+			"href": "part-02-chapter-11.html",
+			"title": "Part 2 - Chapter 11 - Evening In The Hills"
+		},
+		{
+			"href": "part-02-chapter-12.html",
+			"title": "Part 2 - Chapter 12 - Events South Of The Border"
+		},
+		{
+			"href": "part-02-chapter-13.html",
+			"title": "Part 2 - Chapter 13 - The Blessing Of Gad"
+		}
+	]
+}

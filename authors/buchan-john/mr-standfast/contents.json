@@ -1,0 +1,109 @@
+{
+	"title": "Mr. Standfast",
+	"author": "John BUCHAN",
+	"source": "https://www.gutenberg.org/files/560/560-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-t",
+		"Mr. Standfast",
+		"-a",
+		"John BUCHAN",
+		"-c",
+		"//pk",
+		"-p",
+		"Part/^PART /",
+		"https://www.gutenberg.org/files/560/560-0.txt"
+	],
+	"lastupdated": "2021-08-28T12:46:28Z",
+	"chapters": [
+		{
+			"href": "part-01-chapter-01.html",
+			"title": "Part 1 - Chapter 1 - The Wicket-Gate"
+		},
+		{
+			"href": "part-01-chapter-02.html",
+			"title": "Part 1 - Chapter 2 - \"The Village Named Morality\""
+		},
+		{
+			"href": "part-01-chapter-03.html",
+			"title": "Part 1 - Chapter 3 - The Reflections Of A Cured Dyspeptic"
+		},
+		{
+			"href": "part-01-chapter-04.html",
+			"title": "Part 1 - Chapter 4 - Andrew Amos"
+		},
+		{
+			"href": "part-01-chapter-05.html",
+			"title": "Part 1 - Chapter 5 - Various Doings In The West"
+		},
+		{
+			"href": "part-01-chapter-06.html",
+			"title": "Part 1 - Chapter 6 - The Skirts Of The Coolin"
+		},
+		{
+			"href": "part-01-chapter-07.html",
+			"title": "Part 1 - Chapter 7 - I Hear Of The Wild Birds"
+		},
+		{
+			"href": "part-01-chapter-08.html",
+			"title": "Part 1 - Chapter 8 - The Adventures Of A Bagman"
+		},
+		{
+			"href": "part-01-chapter-09.html",
+			"title": "Part 1 - Chapter 9 - I Take The Wings Of A Dove"
+		},
+		{
+			"href": "part-01-chapter-10.html",
+			"title": "Part 1 - Chapter 10 - The Advantages Of An Air Raid"
+		},
+		{
+			"href": "part-01-chapter-11.html",
+			"title": "Part 1 - Chapter 11 - The Valley Of Humiliation"
+		},
+		{
+			"href": "part-02-chapter-01.html",
+			"title": "Part 2 - Chapter 1 - I Become A Combatant Once More"
+		},
+		{
+			"href": "part-02-chapter-02.html",
+			"title": "Part 2 - Chapter 2 - The Adventure Of The Picardy Château"
+		},
+		{
+			"href": "part-02-chapter-03.html",
+			"title": "Part 2 - Chapter 3 - Mr Blenkiron Discourses On Love And War"
+		},
+		{
+			"href": "part-02-chapter-04.html",
+			"title": "Part 2 - Chapter 4 - St Anton"
+		},
+		{
+			"href": "part-02-chapter-05.html",
+			"title": "Part 2 - Chapter 5 - I Lie On A Hard Bed"
+		},
+		{
+			"href": "part-02-chapter-06.html",
+			"title": "Part 2 - Chapter 6 - The Col Of The Swallows"
+		},
+		{
+			"href": "part-02-chapter-07.html",
+			"title": "Part 2 - Chapter 7 - The Underground Railway"
+		},
+		{
+			"href": "part-02-chapter-08.html",
+			"title": "Part 2 - Chapter 8 - The Cage Of The Wild Birds"
+		},
+		{
+			"href": "part-02-chapter-09.html",
+			"title": "Part 2 - Chapter 9 - The Storm Breaks In The West"
+		},
+		{
+			"href": "part-02-chapter-10.html",
+			"title": "Part 2 - Chapter 10 - How An Exile Returned To His Own People"
+		},
+		{
+			"href": "part-02-chapter-11.html",
+			"title": "Part 2 - Chapter 11 - The Summons Comes For Mr Standfast"
+		}
+	]
+}
