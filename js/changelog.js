@@ -23,26 +23,34 @@ async function Changelog() {
 		}
 		let file = section.getAttribute(ATTR);
 		let changelogs = await fetchAsJSON(file);
-		let html = "";
-		html += "<header class=\"w3-container w3-teal\"><h3>Recently Added Books<span class=\"w3-hide-small\">";
-		html += " (Latest First)</span></h3></header>";
-		html += "<ul class=\"w3-bar-block w3-ul w3-hoverable\">";
+		let header = appendElement(document, section, 'header', null, [
+			[ 'class', 'w3-container w3-teal' ]
+		]);
+		let h3 = appendElement(document, header, 'h3', 'Recently Added Books');
+		appendElement(document, h3, 'span', ' (Latest First)', [
+			[ 'class', 'w3-hide-small' ]
+		]);
+		let ul = appendElement(document, section, 'ul', null, [
+			[ 'class', 'w3-bar-block w3-ul w3-hoverable' ]
+		]);
 
 		for (let c of changelogs.sort(lastUpdatedSort).slice(0, 5)) {
 			let d = new Date(c.lastupdated);
 
-			html += "<li class=\"w3-bar-item w3-border w3-padding-small\">";
-			html += "<a href=\"" + c.href + "\" class=\"w3-bar-item litleft w3-button w3-large w3-padding-small\">";
-			html += "<i class=\"material-icons md-lit w3-margin-right\">menu_book</i> ";
-
-			html += nameCapsHTML(c.title);
-			html += "<span class=\"w3-hide-small w3-hide-medium\"> (added " + d.toLocaleDateString() + ")</span>";
-			html += "</a></li>";
+			let li = appendElement(document, ul, 'li', null, [
+				[ 'class', 'w3-bar-item w3-border w3-padding-small' ]
+			]);
+			let ahref = appendElement(document, li, 'a', " " + nameCapsHTML(c.title), [
+				[ 'href', c.href ],
+				[ 'class', 'w3-bar-item litleft w3-button w3-large w3-padding-small' ]
+			]);
+			appendElement(document, ahref, 'span', " (added " + d.toLocaleDateString('en-GB') + ")", [
+				[ 'class', 'w3-hide-small w3-hide-medium' ]
+			]);
+			prependElement(document, ahref, 'i', 'menu_book', [
+				[ 'class', 'material-icons md-lit w3-margin-right' ]
+			]);
 		}
-
-		html += "</ul>";
-
-		section.innerHTML = html;
 
 		// Remove the attribute, and call this function once again
 		// Not necessary but maintains same pattern as other functions
