@@ -1,10 +1,5 @@
 [
 	{
-		"href": "/authors/tarkington-booth/the-two-vanrevels",
-		"title": "The Two Vanrevels by Booth TARKINGTON",
-		"lastupdated": "2020-07-19T21:13:15Z"
-	},
-	{
 		"href": "/authors/ellis-edward-sylvester/across-texas",
 		"title": "Across Texas by Edward Sylvester ELLIS",
 		"lastupdated": "2020-07-21T08:26:27Z"
@@ -498,5 +493,10 @@
 		"href": "/authors/leroux-gaston/the-secret-of-the-night",
 		"title": "The Secret of the Night by Gaston LEROUX",
 		"lastupdated": "2021-08-28T19:01:11Z"
+	},
+	{
+		"href": "/authors/stevenson-robert-louis/catriona",
+		"title": "Catriona by Robert Louis STEVENSON",
+		"lastupdated": "2021-08-29T11:58:00Z"
 	}
 ]

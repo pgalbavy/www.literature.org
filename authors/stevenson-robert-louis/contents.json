@@ -1,13 +1,12 @@
 {
 	"title": "Robert Louis STEVENSON",
-	"author": "",
 	"source": "",
 	"links": {
 		"wikipedia": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson",
 		"goodreads": "https://www.goodreads.com/author/show/854076",
 		"gutenberg": "https://dev.gutenberg.org/ebooks/author/35"
 	},
-	"lastupdated": "2020-06-22T12:47:08Z",
+	"lastupdated": "2021-08-29T11:58:00Z",
 	"books": [
 		{
 			"href": "treasure-island",
@@ -32,6 +31,10 @@
 		{
 			"href": "prince-otto",
 			"title": "Prince Otto"
+		},
+		{
+			"href": "catriona",
+			"title": "Catriona"
 		}
 	]
 }
