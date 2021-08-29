@@ -190,7 +190,6 @@ async function Navigate(element) {
 		let path = location.pathname;
 		let parts = path.split('/');
 		let final;
-		let texthead = "";
 
 		do {
 			final = parts.pop();
@@ -378,20 +377,28 @@ async function Navigate(element) {
 			// dropdown of pages here (soon)
 			
 			if (list[page]) {
-				texthead = "<h3 class=\"w3-hide-medium w3-hide-large w3-left-align\" id= \"heading\">" + list[page].title + "</h3>";
+				prependElement(document, article, 'h3', list[page].title, [
+					[ 'class', 'w3-hide-medium w3-hide-large w3-left-align' ],
+					[ 'id', 'heading']
+				]);
 				appendElement(document, nav2, 'div', list[page].title, [
 					[ 'class', 'w3-bar-item lit w3-hide-small' ]
 				]);
 
 				title = list[page].title + " - " + title;
 			} else {
-				if (!(contents.title != "Authors" && (typeof contents.author === 'undefined' || contents.author == ""))) {
-					texthead = "<ul class=\"w3-row w3-bar-block w3-ul w3-hide-medium w3-hide-large\">";
-					texthead += "<li><span class=\"w3-bar-item w3-button litleft w3-hover-none\">";
-					// for some reason the size is required in this one instance
-					texthead += "<i class=\"material-icons md-lit w3-margin-right\" style=\"width: 24px\">menu_books</i> ";
-					texthead += nameCapsHTML(contents.title);
-					texthead += "</span></li></ul>";
+				if (contents.title == "Authors" || contents.author !== undefined) {
+					let ul = prependElement(document, article, 'ul', null, [
+						[ 'class', 'w3-row w3-bar-block w3-ul w3-hide-medium w3-hide-large' ]
+					]);
+					let li = appendElement(document, ul, 'li', null);
+					let span = appendElement(document, li, 'span', nameCapsHTML(contents.title), [
+						[ 'class', 'w3-bar-item w3-button litleft w3-hover-none' ]
+					]);
+					prependElement(document, span, 'i', 'menu_books', [
+						[ 'class', 'material-icons md-lit w3-margin-right' ],
+						[ 'style', 'width: 24px']
+					]);
 				}
 				appendElement(document, nav2, 'div', nameCapsHTML(contents.title), [
 					[ 'class', 'w3-bar-item lit w3-hide-small' ]
@@ -437,9 +444,6 @@ async function Navigate(element) {
 			document.head.appendChild(meta);
 		}
 
-		// also add a header before the main text for the chapter that is only revealed on screens where the topbar
-		// title is hidden (above)
-		article.insertAdjacentHTML("afterbegin", texthead);
 		document.title = title;
 	}
 }
