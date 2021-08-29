@@ -652,8 +652,6 @@ function prependElement(doc, node, elemName, value, attr) {
 	if (value != "") {
 		elem.innerHTML = value;
 	}
-
-	//let first = node.firstElementChild;
 	node.insertAdjacentElement('afterbegin', elem);
 
 	return elem;
