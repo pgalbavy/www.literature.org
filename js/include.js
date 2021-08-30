@@ -34,7 +34,7 @@ async function loadsitecode() {
 	}
 
 	// once we are done we can reveal the page
-	// parent.style.display = "block";
+	parent.style.display = "block";
 	if (parent.className == "hide") {
 		parent.className = "reveal";
 	}
