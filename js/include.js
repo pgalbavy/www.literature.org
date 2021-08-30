@@ -18,8 +18,7 @@ async function loadsitecode() {
 	await Contents(parent);
 	await Navigate(parent);
 
-	// late loading of heavy epub code only if asked for
-	// send any ?epub a book ?
+	// late loading of extra epub code only if asked for
 	let params = new URLSearchParams(location.search);
 	let path = location.pathname;
 	let parts = path.split('/');
@@ -35,7 +34,10 @@ async function loadsitecode() {
 	}
 
 	// once we are done we can reveal the page
-	parent.style.display = "block";
+	// parent.style.display = "block";
+	if (parent.className == "hide") {
+		parent.className = "reveal";
+	}
 }
 
 // check all DIV elements for an attribute of type include-html

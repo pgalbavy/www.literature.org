@@ -49,6 +49,14 @@ html, body {
 	font-family: 'Open Sans', Karla, sans-serif;
 }
 
+body.hide {
+	display: none;
+}
+
+body.reveal {
+	display: block;
+}
+
 div.lit-narrow, a.lit-narrow {
 	padding-left: 4px !important;
 	padding-right: 4px !important;
