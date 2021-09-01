@@ -79,7 +79,7 @@ async function Single(element) {
 			['class', 'w3-container litleft'],
 			['style', 'page-break-before: always']
 		]);
-		let div = appendElement(document, element, 'div', chap, [
+		let div = appendElement(document, element, 'article', chap, [
 			['class', 'w3-container w3-justify']
 		]);
 		ahref.setAttribute("href", "#" + c.title)
