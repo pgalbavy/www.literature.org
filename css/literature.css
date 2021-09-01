@@ -54,7 +54,7 @@ body.hide {
 }
 
 body.reveal {
-	display: block;
+	display: initial;
 }
 
 div.lit-narrow, a.lit-narrow {
