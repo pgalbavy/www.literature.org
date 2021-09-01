@@ -83,3 +83,9 @@ div.lit-narrow, a.lit-narrow {
 section, .quote {
 	font-style: italic;
 }
+
+@media print {
+	header {
+		visibility: hidden;
+	}
+}

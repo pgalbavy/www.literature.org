@@ -18,19 +18,25 @@ async function loadsitecode() {
 	await Contents(parent);
 	await Navigate(parent);
 
-	// late loading of extra epub code only if asked for
 	let params = new URLSearchParams(location.search);
 	let path = location.pathname;
 	let parts = path.split('/');
 	let last = parts[parts.length - 1];
 
 	// path has to be an index page, check last element of path either for no '.' or that it's index.html
-	if (params.has("epub") && parts.length > 4 && (!last.includes('.') || last == 'index.html')) {
-		loadScript('/js/jszip.min.js')
-			.then(script => loadScript('/js/epub.js'))
-			.then(script => {
-				CreateEPub(parent);
-			})
+	if (parts.length > 4 && (!last.includes('.') || last == 'index.html')) {
+		if (params.has("single")) {
+			// render book as a single page, for printing or saving offline
+			await Single(parent);
+		} else if (params.has("epub")) {
+			// late loading of extra epub code only if asked for
+			// generate an ePub in broswer
+			loadScript('/js/jszip.min.js')
+				.then(script => loadScript('/js/epub.js'))
+				.then(script => {
+					CreateEPub(parent);
+				})
+		}
 	}
 
 	// once we are done we can reveal the page
@@ -38,6 +44,47 @@ async function loadsitecode() {
 	if (parent.className == "hide") {
 		parent.className = "reveal";
 	}
+}
+
+// load the contents.json and pull in the article innerHTMLs with anchors from the contents etc.
+
+async function Single(element) {
+	const TAG = 'article';
+	const ATTR = 'contents';
+
+	/* Loop through a collection of all ARTICLE elements: */
+	let article = element.getElementsByTagName(TAG)[0];
+	let header = element.getElementsByTagName("header")[0];
+
+	if (!article.hasAttribute(ATTR)) {
+		return;
+	}
+	let file = article.getAttribute(ATTR);
+	let contents = await fetchAsJSON(file);
+
+	if (contents.chapters === undefined) {
+		return;
+	}
+
+	// header.style = "display: none";
+	for (let c of contents.chapters) {
+		// fetch first article in each chapter
+		let html = await fetchAsHTML(c.href);
+		let chap = html.documentElement.getElementsByTagName(TAG)[0].innerHTML;
+		let ahref = document.getElementById(c.href);
+
+		// append text with headings and anchors, update contents link to anchor and no another page
+		let h2 = appendElement(document, element, 'h2', c.title, [
+			['id', c.title],
+			['class', 'w3-container litleft'],
+			['style', 'page-break-before: always']
+		]);
+		let div = appendElement(document, element, 'div', chap, [
+			['class', 'w3-container w3-justify']
+		]);
+		ahref.setAttribute("href", "#" + c.title)
+	}
+
 }
 
 // check all DIV elements for an attribute of type include-html
@@ -72,7 +119,8 @@ async function Contents(element) {
 		// article.removeAttribute(ATTR);
 
 		let ul = appendElement(document, article, 'ul', null, [
-			[ 'class', 'w3-row w3-bar-block w3-ul w3-border w3-hoverable' ]
+			['id', 'contents'],
+			['class', 'w3-row w3-bar-block w3-ul w3-border w3-hoverable']
 		]);
 
 		if (typeof contents.authors === 'undefined') {
@@ -80,14 +128,14 @@ async function Contents(element) {
 		}
 		for (let a of contents.authors.sort(hrefSort)) {
 			let li = appendElement(document, ul, 'li', null, [
-				[ 'class', 'w3-col s12 m6 l4' ]
+				['class', 'w3-col s12 m6 l4']
 			]);
 			let ahref = appendElement(document, li, 'a', nameCapsHTML(a.name), [
-				[ 'href', a.href ],
-				[ 'class', 'w3-bar-item litleft w3-button' ]
+				['href', a.href],
+				['class', 'w3-bar-item litleft w3-button']
 			]);
 			let i = prependElement(document, ahref, 'i', 'person', [
-				[ 'class', 'material-icons md-lit w3-margin-right' ]
+				['class', 'material-icons md-lit w3-margin-right']
 			]);
 		}
 
@@ -104,27 +152,27 @@ async function Contents(element) {
 				aliases = aliases.substring(0, aliases.length - 2)
 			}
 			let li = appendElement(document, ul, 'li', null, [
-				[ 'class', 'w3-col w3-hover-none' ]
+				['class', 'w3-col w3-hover-none']
 			]);
 			let span = appendElement(document, li, 'span', nameCapsHTML(contents.title) + aliases, [
-				[ 'class', 'w3-bar-item' ]
+				['class', 'w3-bar-item']
 			]);
 			prependElement(document, span, 'i', 'person', [
-				[ 'class', 'material-icons md-lit w3-margin-right' ]
+				['class', 'material-icons md-lit w3-margin-right']
 			]);
 		}
 
 		for (let b of contents.books.sort(bookSort)) {
 			let li = appendElement(document, ul, 'li', null, [
-				[ 'class', 'w3-col s12 m6 l4' ]
+				['class', 'w3-col s12 m6 l4']
 			]);
 
 			let ahref = appendElement(document, li, 'a', nameCapsHTML(b.title) + (b.year !== undefined ? ' (' + b.year + ')' : ''), [
-				[ 'href', b.href ],
-				[ 'class', 'w3-bar-item litleft w3-button' ]
+				['href', b.href],
+				['class', 'w3-bar-item litleft w3-button']
 			]);
 			let i = prependElement(document, ahref, 'i', 'menu_book', [
-				[ 'class', 'material-icons md-lit w3-margin-right' ]
+				['class', 'material-icons md-lit w3-margin-right']
 			]);
 		}
 
@@ -134,8 +182,9 @@ async function Contents(element) {
 		for (let c of contents.chapters) {
 			let li = appendElement(document, ul, 'li', null);
 			let ahref = appendElement(document, li, 'a', nameCapsHTML(c.title), [
-				[ 'href', c.href ],
-				[ 'class', 'w3-bar-item w3-button litleft' ]
+				['href', c.href],
+				['id', c.href],
+				['class', 'w3-bar-item w3-button litleft']
 			]);
 
 			let icon;
@@ -149,17 +198,17 @@ async function Contents(element) {
 				icon = 'menu_book';
 			}
 			prependElement(document, ahref, 'i', icon, [
-				[ 'class', 'material-icons md-lit w3-margin-right' ]
+				['class', 'material-icons md-lit w3-margin-right']
 			]);
 		}
 
 		// add other content here
 		if (typeof contents.links !== 'undefined' && Object.keys(contents.links) != 0) {
 			ul = appendElement(document, article, 'ul', null, [
-				[ 'class', 'w3-row w3-bar-block w3-ul w3-border w3-hoverable' ]
+				['class', 'w3-row w3-bar-block w3-ul w3-border w3-hoverable']
 			]);
 			let li = appendElement(document, ul, 'li', null, [
-				[ 'class', 'w3-hover-none' ]
+				['class', 'w3-hover-none']
 			]);
 
 			appendElement(document, li, 'h2', 'External Links');
@@ -205,51 +254,51 @@ async function Navigate(element) {
 		let article = articles[0];
 
 		let nav2 = appendElement(document, nav, 'nav', null, [
-			[ 'class', 'w3-sidebar w3-bar-block w3-large' ],
-			[ 'style', 'width:66%; max-width: 400px; display:none' ],
-			[ 'id', 'sidebar' ]
+			['class', 'w3-sidebar w3-bar-block w3-large'],
+			['style', 'width:66%; max-width: 400px; display:none'],
+			['id', 'sidebar']
 		]);
 		let button = appendElement(document, nav2, 'button', ' Close', [
-			[ 'class', 'w3-bar-item w3-button' ],
-			[ 'onclick', 'w3_close()' ]
+			['class', 'w3-bar-item w3-button'],
+			['onclick', 'w3_close()']
 		]);
 		prependElement(document, button, 'i', 'close', [
-			[ 'class', 'material-icons md-lit' ]
+			['class', 'material-icons md-lit']
 		]);
 		let ahref = appendElement(document, nav2, 'a', ' literature.org', [
-			[ 'href', '/' ],
-			[ 'class', 'w3-bar-item w3-button' ]
+			['href', '/'],
+			['class', 'w3-bar-item w3-button']
 		]);
 		prependElement(document, ahref, 'i', 'home', [
-			[ 'class', 'material-icons md-lit' ]
+			['class', 'material-icons md-lit']
 		]);
 		ahref = appendElement(document, nav2, 'a', ' Authors', [
-			[ 'href', '/authors' ],
-			[ 'class', 'w3-bar-item w3-button' ]
+			['href', '/authors'],
+			['class', 'w3-bar-item w3-button']
 		]);
 		prependElement(document, ahref, 'i', 'people', [
-			[ 'class', 'material-icons md-lit' ]
+			['class', 'material-icons md-lit']
 		]);
 
 		// sidebar
 		if (contents.author) {
 			ahref = appendElement(document, nav2, 'a', ` ${contents.author}`, [
-				[ 'href', '../' ],
-				[ 'class', 'w3-bar-item w3-button litleft' ]
+				['href', '../'],
+				['class', 'w3-bar-item w3-button litleft']
 			]);
 			prependElement(document, ahref, 'i', 'person', [
-				[ 'class', 'material-icons md-lit' ]
+				['class', 'material-icons md-lit']
 			]);
 			title = titleCase(contents.author) + " at " + title;
 		}
 
 		if (final && final != "index.html" && final != "authors") {
 			ahref = appendElement(document, nav2, 'a', ` ${contents.title}`, [
-				[ 'href', contents.title ],
-				[ 'class', 'w3-bar-item w3-button litleft' ]
+				['href', contents.title],
+				['class', 'w3-bar-item w3-button litleft']
 			])
 			prependElement(document, ahref, 'i', 'menu_book', [
-				[ 'class', 'material-icons md-lit' ]
+				['class', 'material-icons md-lit']
 			]);
 			if (title == "literature.org") {
 				title = titleCase(contents.title) + " at " + title;
@@ -260,26 +309,26 @@ async function Navigate(element) {
 				let chapter = contents.chapters.findIndex(o => o.href === final);
 				// dropdown here
 				button = appendElement(document, nav2, 'button', contents.chapters[chapter].title, [
-					[ 'class', 'w3-bar-item w3-button litleft' ],
-					[ 'onclick', 'w3_close()' ]
+					['class', 'w3-bar-item w3-button litleft'],
+					['onclick', 'w3_close()']
 				]);
 				prependElement(document, button, 'i', 'library_books', [
-					[ 'class', 'material-icons md-lit' ]
+					['class', 'material-icons md-lit']
 				]);
 			}
 		}
 
 		// top bar
 		nav2 = appendElement(document, nav, 'nav', null, [
-			[ 'class', 'w3-bar' ],
-			[ 'style', 'font-size:24px; white-space: nowrap;' ]
+			['class', 'w3-bar'],
+			['style', 'font-size:24px; white-space: nowrap;']
 		]);
 		button = appendElement(document, nav2, 'button', null, [
-			[ 'class', 'w3-bar-item w3-button' ],
-			[ 'onclick', 'w3_open()' ]
+			['class', 'w3-bar-item w3-button'],
+			['onclick', 'w3_open()']
 		]);
 		appendElement(document, button, 'i', 'menu', [
-			[ 'class', 'material-icons md-lit' ]
+			['class', 'material-icons md-lit']
 		]);
 
 		// pick one and exactly one list of links, in this order
@@ -377,39 +426,39 @@ async function Navigate(element) {
 			})
 
 			// dropdown of pages here (soon)
-			
+
 			if (list[page]) {
 				prependElement(document, article, 'h3', list[page].title, [
-					[ 'class', 'w3-hide-medium w3-hide-large w3-left-align' ],
-					[ 'id', 'heading']
+					['class', 'w3-hide-medium w3-hide-large w3-left-align'],
+					['id', 'heading']
 				]);
 				appendElement(document, nav2, 'div', list[page].title, [
-					[ 'class', 'w3-bar-item lit w3-hide-small' ]
+					['class', 'w3-bar-item lit w3-hide-small']
 				]);
 
 				title = list[page].title + " - " + title;
 			} else {
 				if (contents.title == "Authors" || contents.author !== undefined) {
 					let ul = prependElement(document, article, 'ul', null, [
-						[ 'class', 'w3-row w3-bar-block w3-ul w3-hide-medium w3-hide-large' ]
+						['class', 'w3-row w3-bar-block w3-ul w3-hide-medium w3-hide-large']
 					]);
 					let li = appendElement(document, ul, 'li', null);
 					let span = appendElement(document, li, 'span', nameCapsHTML(contents.title), [
-						[ 'class', 'w3-bar-item w3-button litleft w3-hover-none' ]
+						['class', 'w3-bar-item w3-button litleft w3-hover-none']
 					]);
 					prependElement(document, span, 'i', 'menu_books', [
-						[ 'class', 'material-icons md-lit w3-margin-right' ],
-						[ 'style', 'width: 24px']
+						['class', 'material-icons md-lit w3-margin-right'],
+						['style', 'width: 24px']
 					]);
 				}
 				appendElement(document, nav2, 'div', nameCapsHTML(contents.title), [
-					[ 'class', 'w3-bar-item lit w3-hide-small' ]
+					['class', 'w3-bar-item lit w3-hide-small']
 				]);
 			}
 
 			if (list[page]) {
 				appendElement(document, nav2, 'div', (page + 1) + "/" + list.length, [
-					[ 'class', 'w3-bar-item lit w3-hide-medium w3-hide-large' ]
+					['class', 'w3-bar-item lit w3-hide-medium w3-hide-large']
 				]);
 			}
 
@@ -418,7 +467,7 @@ async function Navigate(element) {
 			addNavButton(document, nav2, '../', 'person', 'w3-left');
 
 			appendElement(document, nav2, 'a', contents.title, [
-				[ 'href', 'index.html' ]
+				['href', 'index.html']
 			]);
 
 			title = contents.title + " - " + title;
@@ -664,39 +713,39 @@ function appendLinkImg(doc, elem, href, title, image) {
 		return;
 	}
 	let li = appendElement(doc, elem, 'li', null, [
-		[ 'class', 'w3-col s12 m6 l4' ]
+		['class', 'w3-col s12 m6 l4']
 	]);
 	let ahref = appendElement(doc, li, 'a', `&nbsp;${title}`, [
-		[ 'href', href ],
-		[ 'class', 'w3-bar-item litleft w3-button' ],
-		[ 'target', '_blank' ]
+		['href', href],
+		['class', 'w3-bar-item litleft w3-button'],
+		['target', '_blank']
 	]);
 	if (image !== undefined) {
 		prependElement(doc, ahref, 'img', null, [
-			[ 'src', image ],
-			[ 'style', 'width: 32px' ]
+			['src', image],
+			['style', 'width: 32px']
 		]);
 	}
 	let i = prependElement(doc, ahref, 'i', 'launch', [
-		[ 'class', 'material-icons md-lit w3-margin-right' ]
+		['class', 'material-icons md-lit w3-margin-right']
 	]);
 }
 
 function addNavButton(document, elem, link, icon, classextra) {
 	let ahref = appendElement(document, elem, 'a', null, [
-		[ 'href', link ],
-		[ 'class', `w3-bar-item w3-button ${classextra}` ]
+		['href', link],
+		['class', `w3-bar-item w3-button ${classextra}`]
 	]);
 	appendElement(document, ahref, 'i', icon, [
-		[ 'class', 'material-icons md-lit' ]
+		['class', 'material-icons md-lit']
 	]);
 }
 
 function addNavButtonDisabled(document, elem, icon, classextra) {
 	let div = appendElement(document, elem, 'div', null, [
-		[ 'class', `w3-bar-item w3-button w3-disabled ${classextra}` ]
+		['class', `w3-bar-item w3-button w3-disabled ${classextra}`]
 	]);
 	appendElement(document, div, 'i', icon, [
-		[ 'class', 'material-icons md-lit' ]
+		['class', 'material-icons md-lit']
 	]);
 }
