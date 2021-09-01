@@ -1,15 +1,5 @@
 [
 	{
-		"href": "/authors/ellis-edward-sylvester/across-texas",
-		"title": "Across Texas by Edward Sylvester ELLIS",
-		"lastupdated": "2020-07-21T08:26:27Z"
-	},
-	{
-		"href": "/authors/ellis-edward-sylvester/adrift-in-the-wilds",
-		"title": "Adrift in the Wilds by Edward Sylvester ELLIS",
-		"lastupdated": "2020-07-21T08:28:44Z"
-	},
-	{
 		"href": "/authors/ellis-edward-sylvester/adrift-on-the-pacific",
 		"title": "Adrift on the Pacific by Edward Sylvester ELLIS",
 		"lastupdated": "2020-07-21T08:30:15Z"
@@ -498,5 +488,15 @@
 		"href": "/authors/stevenson-robert-louis/catriona",
 		"title": "Catriona by Robert Louis STEVENSON",
 		"lastupdated": "2021-08-29T11:58:00Z"
+	},
+	{
+		"href": "/authors/huxley-aldous/crome-yellow",
+		"title": "Crome Yellow by Aldous HUXLEY",
+		"lastupdated": "2021-09-01T08:45:50Z"
+	},
+	{
+		"href": "/authors/huxley-aldous/antic-hay",
+		"title": "Antic Hay by Aldous HUXLEY",
+		"lastupdated": "2021-09-01T08:48:22Z"
 	}
 ]

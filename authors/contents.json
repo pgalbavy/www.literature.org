@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2021-08-28T18:44:32Z",
+	"lastupdated": "2021-09-01T08:45:50Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -351,6 +351,10 @@
 		{
 			"href": "leroux-gaston",
 			"name": "Gaston LEROUX"
+		},
+		{
+			"href": "huxley-aldous",
+			"name": "Aldous HUXLEY"
 		}
 	]
 }
