@@ -5,6 +5,7 @@
 "use strict";
 
 let single = false;
+let epub = false;
 
 async function loadsitecode() {
 	if (window.location.protocol != 'https:') {
@@ -23,6 +24,8 @@ async function loadsitecode() {
 
 	if (params.has("single")) {
 		single = true;
+	} else if (params.has('epub')) {
+		epub = true;
 	}
 
 	await Include(parent);
@@ -35,7 +38,7 @@ async function loadsitecode() {
 			// render book as a single page, for printing or saving offline
 			single = true;
 			await Single(parent);
-		} else if (params.has("epub")) {
+		} else if (epub) {
 			// late loading of extra epub code only if asked for
 			// generate an ePub in broswer
 			loadScript('/js/jszip.min.js')
@@ -92,7 +95,7 @@ async function Single(element) {
 		]);
 		// the easiest way to avoid the header is to insert a blank bar before each h2
 		prependElement(document, div, 'div', '&nbsp;', [
-			[ 'class', 'w3-bar'],
+			['class', 'w3-bar'],
 			['style', 'height: 4em']
 		])
 		ahref.setAttribute("href", "#" + c.title)
@@ -266,26 +269,26 @@ async function Navigate(element) {
 		let articles = document.getElementsByTagName("article")
 		let article = articles[0];
 
-		let nav2 = appendElement(document, nav, 'nav', null, [
+		let sidebar = appendElement(document, nav, 'nav', null, [
 			['class', 'w3-sidebar w3-bar-block w3-large'],
 			['style', 'width:66%; max-width: 400px; display:none'],
 			['id', 'sidebar']
 		]);
-		let button = appendElement(document, nav2, 'button', ' Close', [
+		let button = appendElement(document, sidebar, 'button', ' Close', [
 			['class', 'w3-bar-item w3-button'],
 			['onclick', 'w3_close()']
 		]);
 		prependElement(document, button, 'i', 'close', [
 			['class', 'material-icons md-lit']
 		]);
-		let ahref = appendElement(document, nav2, 'a', ' literature.org', [
+		let ahref = appendElement(document, sidebar, 'a', ' literature.org', [
 			['href', '/'],
 			['class', 'w3-bar-item w3-button']
 		]);
 		prependElement(document, ahref, 'i', 'home', [
 			['class', 'material-icons md-lit']
 		]);
-		ahref = appendElement(document, nav2, 'a', ' Authors', [
+		ahref = appendElement(document, sidebar, 'a', ' Authors', [
 			['href', '/authors'],
 			['class', 'w3-bar-item w3-button']
 		]);
@@ -295,7 +298,7 @@ async function Navigate(element) {
 
 		// sidebar
 		if (contents.author) {
-			ahref = appendElement(document, nav2, 'a', ` ${contents.author}`, [
+			ahref = appendElement(document, sidebar, 'a', ` ${contents.author}`, [
 				['href', '../'],
 				['class', 'w3-bar-item w3-button litleft']
 			]);
@@ -306,37 +309,55 @@ async function Navigate(element) {
 		}
 
 		if (final && final != "index.html" && final != "authors") {
-			ahref = appendElement(document, nav2, 'a', ` ${contents.title}`, [
-				['href', contents.title],
+			ahref = appendElement(document, sidebar, 'a', ` ${contents.title}`, [
+				['href', 'index.html'],
 				['class', 'w3-bar-item w3-button litleft']
-			])
+			]);
 			prependElement(document, ahref, 'i', 'menu_book', [
 				['class', 'material-icons md-lit']
 			]);
-			if (title == "literature.org") {
-				title = titleCase(contents.title) + " at " + title;
-			} else {
-				title = titleCase(contents.title) + " by " + title;
-			}
-			if (typeof contents.chapters !== 'undefined' && final.endsWith(".html")) {
+
+			if (contents.chapters !== undefined && final.endsWith(".html")) {
 				let chapter = contents.chapters.findIndex(o => o.href === final);
 				// dropdown here
-				button = appendElement(document, nav2, 'button', contents.chapters[chapter].title, [
+				button = appendElement(document, sidebar, 'button', ` ${contents.chapters[chapter].title}`, [
 					['class', 'w3-bar-item w3-button litleft'],
 					['onclick', 'w3_close()']
 				]);
 				prependElement(document, button, 'i', 'library_books', [
 					['class', 'material-icons md-lit']
 				]);
+			} else if (contents.chapters !== undefined) {
+				ahref = appendElement(document, sidebar, 'a', ` Single Page View`, [
+					['href', `?single`],
+					['class', 'w3-bar-item w3-button litleft']
+				]);
+				prependElement(document, ahref, 'i', 'description', [
+					['class', 'material-icons md-lit']
+				]);
+				ahref = appendElement(document, sidebar, 'a', ` Download ePub`, [
+					['href', `?epub`],
+					['class', 'w3-bar-item w3-button litleft']
+				]);
+				prependElement(document, ahref, 'i', 'cloud_download', [
+					['class', 'material-icons md-lit']
+				]);
+			}
+
+			if (title == "literature.org") {
+				title = titleCase(contents.title) + " at " + title;
+			} else {
+				title = titleCase(contents.title) + " by " + title;
 			}
 		}
 
+
 		// top bar
-		nav2 = appendElement(document, nav, 'nav', null, [
+		let navbar = appendElement(document, nav, 'nav', null, [
 			['class', 'w3-bar'],
 			['style', 'font-size:24px; white-space: nowrap;']
 		]);
-		button = appendElement(document, nav2, 'button', null, [
+		button = appendElement(document, navbar, 'button', null, [
 			['class', 'w3-bar-item w3-button'],
 			['onclick', 'w3_open()']
 		]);
@@ -358,21 +379,26 @@ async function Navigate(element) {
 			let page = list.findIndex(o => o.href === final);
 
 			if (final == "authors") {
-				addNavButton(document, nav2, '/', 'home', 'w3-left');
+				addNavButton(document, navbar, '/', 'home', 'w3-left');
 			} else {
 				if (typeof contents.author === 'undefined' || contents.author == "") {
-					addNavButton(document, nav2, '/authors', 'people', 'w3-left');
+					addNavButton(document, navbar, '/authors', 'people', 'w3-left');
 				} else {
 					// author
-					addNavButton(document, nav2, '../', 'person', 'w3-left');
+					addNavButton(document, navbar, '../', 'person', 'w3-left');
 				}
 
 				// contents page
 				if (!(contents.title != "Authors" && (typeof contents.author === 'undefined' || contents.author == ""))) {
 					if (final.endsWith(".html")) {
-						addNavButton(document, nav2, 'index.html', 'menu_book', 'w3-left');
+						addNavButton(document, navbar, 'index.html', 'menu_book', 'w3-left');
 					} else {
-						addNavButton(document, nav2, '?epub', 'cloud_download', 'w3-left');
+						if (single) {
+							addNavButton(document, navbar, 'index.html', 'menu_book', 'w3-left');
+						} else {
+							addNavButton(document, navbar, '?single', 'description', 'w3-left');
+						}
+						addNavButton(document, navbar, '?epub', 'cloud_download', 'w3-left');
 					}
 				}
 			}
@@ -380,27 +406,27 @@ async function Navigate(element) {
 			let prev, next;
 
 			if (single) {
-				addNavButton(document, nav2, '#top', 'arrow_upward');
+				addNavButton(document, navbar, '#top', 'arrow_upward');
 			} else if (page > 0) {
 				// there is a valid previous page
 				prev = list[page - 1].href;
-				addNavButton(document, nav2, prev, 'arrow_back');
+				addNavButton(document, navbar, prev, 'arrow_back');
 			} else {
-				addNavButtonDisabled(document, nav2, 'arrow_back');
+				addNavButtonDisabled(document, navbar, 'arrow_back');
 			}
 
 			if (is_touch_enabled() === true) {
-				addNavButtonDisabled(document, nav2, 'touch_app', 'lit-narrow');
+				addNavButtonDisabled(document, navbar, 'touch_app', 'lit-narrow');
 			}
 
 			if (single) {
-				addNavButton(document, nav2, '#top', 'arrow_downward');
+				addNavButton(document, navbar, '#top', 'arrow_downward');
 			} else if (page < list.length - 1 && contents.author != "") {
 				// there is a valid next page
 				next = list[page + 1].href
-				addNavButton(document, nav2, next, 'arrow_forward');
+				addNavButton(document, navbar, next, 'arrow_forward');
 			} else {
-				addNavButtonDisabled(document, nav2, 'arrow_forward');
+				addNavButtonDisabled(document, navbar, 'arrow_forward');
 			}
 
 			// update link rel="next"/"prev" values
@@ -449,7 +475,7 @@ async function Navigate(element) {
 					['class', 'w3-hide-medium w3-hide-large w3-left-align'],
 					['id', 'heading']
 				]);
-				appendElement(document, nav2, 'div', list[page].title, [
+				appendElement(document, navbar, 'div', list[page].title, [
 					['class', 'w3-bar-item lit w3-hide-small']
 				]);
 
@@ -468,22 +494,22 @@ async function Navigate(element) {
 						['style', 'width: 24px']
 					]);
 				}
-				appendElement(document, nav2, 'div', nameCapsHTML(contents.title), [
+				appendElement(document, navbar, 'div', nameCapsHTML(contents.title), [
 					['class', 'w3-bar-item lit w3-hide-small']
 				]);
 			}
 
 			if (list[page]) {
-				appendElement(document, nav2, 'div', (page + 1) + "/" + list.length, [
+				appendElement(document, navbar, 'div', (page + 1) + "/" + list.length, [
 					['class', 'w3-bar-item lit w3-hide-medium w3-hide-large']
 				]);
 			}
 
 		} else if (final != null) {
 			// author
-			addNavButton(document, nav2, '../', 'person', 'w3-left');
+			addNavButton(document, navbar, '../', 'person', 'w3-left');
 
-			appendElement(document, nav2, 'a', contents.title, [
+			appendElement(document, navbar, 'a', contents.title, [
 				['href', 'index.html']
 			]);
 
@@ -787,10 +813,10 @@ function nextChapter(tag) {
 	let elems = document.getElementsByTagName(tag);
 	let i = firstVisible(elems);
 
-	if (i === undefined || i == elems.length-1) {
-		elems[elems.length-1].scrollIntoView({block: 'center'});
+	if (i === undefined || i == elems.length - 1) {
+		elems[elems.length - 1].scrollIntoView({ block: 'center' });
 	} else {
-		elems[i + 1].scrollIntoView({block: 'start'});
+		elems[i + 1].scrollIntoView({ block: 'start' });
 		elems[i + 1].scrollTo(100, 100);
 	}
 }
@@ -802,7 +828,7 @@ function prevChapter(tag) {
 	if (i === undefined || i == 0) {
 		elems[0].scrollIntoView(false);
 	} else {
-		elems[i - 1].scrollIntoView({block: 'start'});
+		elems[i - 1].scrollIntoView({ block: 'start' });
 	}
 }
 
