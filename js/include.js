@@ -4,6 +4,8 @@
  */
 "use strict";
 
+let single = false;
+
 async function loadsitecode() {
 	if (window.location.protocol != 'https:') {
 		location.href = location.href.replace("http://", "https://");
@@ -14,19 +16,24 @@ async function loadsitecode() {
 	let script = scripts[scripts.length - 1];
 	let parent = script.parentNode;
 
-	await Include(parent);
-	await Contents(parent);
-	await Navigate(parent);
-
 	let params = new URLSearchParams(location.search);
 	let path = location.pathname;
 	let parts = path.split('/');
 	let last = parts[parts.length - 1];
 
+	if (params.has("single")) {
+		single = true;
+	}
+
+	await Include(parent);
+	await Contents(parent);
+	await Navigate(parent);
+
 	// path has to be an index page, check last element of path either for no '.' or that it's index.html
 	if (parts.length > 4 && (!last.includes('.') || last == 'index.html')) {
-		if (params.has("single")) {
+		if (single) {
 			// render book as a single page, for printing or saving offline
+			single = true;
 			await Single(parent);
 		} else if (params.has("epub")) {
 			// late loading of extra epub code only if asked for
@@ -45,6 +52,7 @@ async function loadsitecode() {
 		parent.className = "reveal";
 	}
 }
+
 
 // load the contents.json and pull in the article innerHTMLs with anchors from the contents etc.
 
@@ -74,14 +82,19 @@ async function Single(element) {
 		let ahref = document.getElementById(c.href);
 
 		// append text with headings and anchors, update contents link to anchor and no another page
-		let h2 = appendElement(document, element, 'h2', c.title, [
+		let div = appendElement(document, element, 'article', chap, [
 			['id', c.title],
+			['class', 'w3-container w3-justify']
+		]);
+		prependElement(document, div, 'h2', c.title, [
 			['class', 'w3-container litleft'],
 			['style', 'page-break-before: always']
 		]);
-		let div = appendElement(document, element, 'article', chap, [
-			['class', 'w3-container w3-justify']
-		]);
+		// the easiest way to avoid the header is to insert a blank bar before each h2
+		prependElement(document, div, 'div', '&nbsp;', [
+			[ 'class', 'w3-bar'],
+			['style', 'height: 4em']
+		])
 		ahref.setAttribute("href", "#" + c.title)
 	}
 
@@ -366,7 +379,9 @@ async function Navigate(element) {
 
 			let prev, next;
 
-			if (page > 0) {
+			if (single) {
+				addNavButton(document, nav2, '#top', 'arrow_upward');
+			} else if (page > 0) {
 				// there is a valid previous page
 				prev = list[page - 1].href;
 				addNavButton(document, nav2, prev, 'arrow_back');
@@ -378,7 +393,9 @@ async function Navigate(element) {
 				addNavButtonDisabled(document, nav2, 'touch_app', 'lit-narrow');
 			}
 
-			if (page < list.length - 1 && contents.author != "") {
+			if (single) {
+				addNavButton(document, nav2, '#top', 'arrow_downward');
+			} else if (page < list.length - 1 && contents.author != "") {
 				// there is a valid next page
 				next = list[page + 1].href
 				addNavButton(document, nav2, next, 'arrow_forward');
@@ -733,7 +750,9 @@ function appendLinkImg(doc, elem, href, title, image) {
 
 function addNavButton(document, elem, link, icon, classextra) {
 	let ahref = appendElement(document, elem, 'a', null, [
+		['id', icon],
 		['href', link],
+		['onclick', `return navClick('${icon}');`],
 		['class', `w3-bar-item w3-button ${classextra}`]
 	]);
 	appendElement(document, ahref, 'i', icon, [
@@ -749,3 +768,54 @@ function addNavButtonDisabled(document, elem, icon, classextra) {
 		['class', 'material-icons md-lit']
 	]);
 }
+
+function navClick(icon) {
+	switch (icon) {
+		case 'arrow_downward':
+			nextChapter('article');
+			break;
+		case 'arrow_upward':
+			prevChapter('article');
+			break;
+		default:
+			return true;
+	}
+	return false;
+}
+
+function nextChapter(tag) {
+	let elems = document.getElementsByTagName(tag);
+	let i = firstVisible(elems);
+
+	if (i === undefined || i == elems.length-1) {
+		elems[elems.length-1].scrollIntoView({block: 'center'});
+	} else {
+		elems[i + 1].scrollIntoView({block: 'start'});
+		elems[i + 1].scrollTo(100, 100);
+	}
+}
+
+function prevChapter(tag) {
+	let elems = document.getElementsByTagName(tag);
+	let i = firstVisible(elems);
+
+	if (i === undefined || i == 0) {
+		elems[0].scrollIntoView(false);
+	} else {
+		elems[i - 1].scrollIntoView({block: 'start'});
+	}
+}
+
+// this is ONLY valid once display style is set to visible (obvious, but...)
+function firstVisible(elems) {
+	if (elems === undefined) {
+		return 0;
+	}
+	for (let i = 0; i < elems.length; i++) {
+		let rect = elems[i].getBoundingClientRect();
+		if (rect.top >= 0) {
+			return i;
+		}
+	}
+}
+
