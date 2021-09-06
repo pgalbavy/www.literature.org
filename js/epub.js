@@ -73,7 +73,7 @@ class EPub {
 		}
 	}
 
-	async CreatePackage(path) {
+	async CreatePackage(pageurl, path) {
 		// namespace is added after xslt to prettify output
 		// let opf = document.implementation.createDocument('http://www.idpf.org/2007/opf', 'package', null);
 		let opf = document.implementation.createDocument(null, 'package', null);
@@ -81,7 +81,6 @@ class EPub {
 		doc.setAttribute('version', '3.0');
 		doc.setAttribute('unique-identifier', 'pub-id');
 		doc.setAttribute('xml:lang', 'en-US');
-		doc.setAttribute('prefix', 'blah');
 
 		let metadata = opf.createElement('metadata');
 		metadata.setAttribute('xmlns:dc', 'http://purl.org/dc/elements/1.1/');
@@ -94,7 +93,11 @@ class EPub {
 		}
 		appendElement(opf, metadata, 'dc:title', this.contents.title);
 		appendElement(opf, metadata, 'dc:creator', this.contents.author);
+		appendElement(opf, metadata, 'dc:source', pageurl);
 		appendElement(opf, metadata, 'dc:source', this.contents.source);
+		appendElement(opf, metadata, 'dc:language', 'en');
+		appendElement(opf, metadata, 'dc:publisher', 'https://www.literature.org');
+		appendElement(opf, metadata, 'dc:date', new Date().toISOString());
 
 		let manifest = opf.createElement('manifest');
 		for (let file of this.tmplFiles) {
@@ -102,9 +105,9 @@ class EPub {
 				continue;
 			}
 			appendElement(opf, manifest, 'item', null, [
-				[ 'id', file.path.split('/').reverse()[0] ],
-				[ 'href', file.path.replace('EPUB/', '') ],
-				[ 'media-type', file.mimetype ]
+				['id', file.path.split('/').reverse()[0]],
+				['href', file.path.replace('EPUB/', '')],
+				['media-type', file.mimetype]
 			])
 		}
 		// add css, fonts, toc etc.
@@ -136,13 +139,11 @@ class EPub {
 		doc.appendChild(spine);
 
 		let text = prettifyXml(doc, 'http://www.idpf.org/2007/opf');
-		// let text = new XMLSerializer().serializeToString(doc);
 		this.zip.file(path, '<?xml version="1.0" encoding="UTF-8"?>\n' + text);
 	}
 
 	CreateTOC(path) {
 		let toc = document.implementation.createHTMLDocument(this.contents.title);
-		//let body = this.addElement(toc, toc, 'body', null);
 		toc.documentElement.setAttribute('xmlns:epub', "http://www.idpf.org/2007/ops");
 		let body = toc.createElement('body');
 		toc.documentElement.appendChild(body);
@@ -172,7 +173,7 @@ class EPub {
 		this.zip.file(path, '<?xml version="1.0" encoding="UTF-8"?>\n' + prettifyXHTML(toc));
 	}
 
-	CreateEPub() {
+	DownloadEPub() {
 		return this.zip.generateAsync({
 			type: 'blob',
 			mimeType: 'application/epub+zip',
@@ -199,16 +200,16 @@ function prettifyXml(doc, ns) {
 	var xsltDoc = new DOMParser().parseFromString([
 		// describes how we want to modify the XML - indent everything
 		`<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-		<xsl:output omit-xml-declaration="no" indent="yes" method="xml"/>
-		<xsl:template match="/">
-		<xsl:copy-of select="@*|node()"/>
-		</xsl:template>
-		<xsl:template match="@*">
-		<xsl:attribute name="{name()}" namespace="{namespace-uri()}">
-			some new value here
-		</xsl:attribute>
-		</xsl:template>
-	   </xsl:stylesheet>`,
+			<xsl:output omit-xml-declaration="no" indent="yes" method="xml"/>
+			<xsl:template match="/">
+				<xsl:copy-of select="@*|node()"/>
+			</xsl:template>
+			<xsl:template match="@*">
+				<xsl:attribute name="{name()}" namespace="{namespace-uri()}">
+					some new value here
+				</xsl:attribute>
+			</xsl:template>
+		</xsl:stylesheet>`,
 	].join('\n'), 'application/xml');
 
 	var xsltProcessor = new XSLTProcessor();
@@ -222,14 +223,13 @@ function prettifyXml(doc, ns) {
 function prettifyXHTML(doc) {
 	var xsltDoc = new DOMParser().parseFromString([
 		`<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output omit-xml-declaration="yes" indent="yes" method="html"/>
-
-   <xsl:template match="node()|@*">
-	 <xsl:copy>
-	   <xsl:apply-templates select="node()|@*"/>
-	 </xsl:copy>
-   </xsl:template>
-</xsl:stylesheet>`,
+			<xsl:output omit-xml-declaration="yes" indent="yes" method="html"/>
+			<xsl:template match="node()|@*">
+				<xsl:copy>
+					<xsl:apply-templates select="node()|@*"/>
+				</xsl:copy>
+			</xsl:template>
+		</xsl:stylesheet>`,
 	].join('\n'), 'application/xml');
 
 	var xsltProcessor = new XSLTProcessor();
