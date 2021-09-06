@@ -56,9 +56,7 @@ async function loadsitecode() {
 	}
 }
 
-
 // load the contents.json and pull in the article innerHTMLs with anchors from the contents etc.
-
 async function Single(element) {
 	const TAG = 'article';
 	const ATTR = 'contents';
@@ -70,8 +68,7 @@ async function Single(element) {
 	if (!article.hasAttribute(ATTR)) {
 		return;
 	}
-	let file = article.getAttribute(ATTR);
-	let contents = await fetchAsJSON(file);
+	let contents = await fetchAsJSON(article.getAttribute(ATTR));
 
 	if (contents.chapters === undefined) {
 		return;
@@ -100,7 +97,6 @@ async function Single(element) {
 		])
 		ahref.setAttribute("href", "#" + c.title)
 	}
-
 }
 
 // check all DIV elements for an attribute of type include-html
@@ -126,15 +122,11 @@ async function Contents(element) {
 
 	/* Loop through a collection of all ARTICLE elements: */
 	let article = element.getElementsByTagName(TAG)[0];
-	if (article === undefined) {
-		return;
-	}
-	if (!article.hasAttribute(ATTR)) {
+	if (article === undefined || !article.hasAttribute(ATTR)) {
 		return;
 	}
 
-	let file = article.getAttribute(ATTR);
-	let contents = await fetchAsJSON(file);
+	let contents = await fetchAsJSON(article.getAttribute(ATTR));
 	// do not remove tag as CreateEPub() also needs it now
 	// article.removeAttribute(ATTR);
 
@@ -143,7 +135,7 @@ async function Contents(element) {
 		['class', 'w3-row w3-bar-block w3-ul w3-border w3-hoverable']
 	]);
 
-	if (typeof contents.authors === 'undefined') {
+	if (contents.authors === undefined) {
 		contents.authors = [];
 	}
 	for (let a of contents.authors.sort(hrefSort)) {
@@ -159,11 +151,11 @@ async function Contents(element) {
 		]);
 	}
 
-	if (typeof contents.books === 'undefined') {
+	if (contents.books === undefined) {
 		contents.books = [];
-	} else if (typeof contents.title !== 'undefined') {
+	} else if (contents.title !== undefined) {
 		let aliases = "";
-		if (typeof contents.aliases !== 'undefined') {
+		if (contents.aliases !== undefined) {
 			// list aliases here (maybe basic bio too, but then move this outside the test)
 			aliases = " - also known as: ";
 			for (let alias of contents.aliases) {
@@ -196,7 +188,7 @@ async function Contents(element) {
 		]);
 	}
 
-	if (typeof contents.chapters === 'undefined') {
+	if (contents.chapters === undefined) {
 		contents.chapters = [];
 	}
 	for (let c of contents.chapters) {
@@ -223,7 +215,7 @@ async function Contents(element) {
 	}
 
 	// add other content here
-	if (typeof contents.links !== 'undefined' && Object.keys(contents.links) != 0) {
+	if (contents.links !== undefined && Object.keys(contents.links) != 0) {
 		ul = appendElement(document, article, 'ul', null, [
 			['class', 'w3-row w3-bar-block w3-ul w3-border w3-hoverable']
 		]);
@@ -250,14 +242,11 @@ async function Navigate(element) {
 	const ATTR = 'navigate';
 
 	let nav = element.getElementsByTagName(TAG)[0];
-	if (nav === undefined) {
+	if (nav === undefined || !nav.hasAttribute(ATTR)) {
 		return;
 	}
-	if (!nav.hasAttribute(ATTR)) {
-		return;
-	}
-	let file = nav.getAttribute(ATTR);
-	let contents = await fetchAsJSON(file);
+
+	let contents = await fetchAsJSON(nav.getAttribute(ATTR));
 	nav.removeAttribute(ATTR);
 
 	let path = location.pathname;
@@ -373,9 +362,9 @@ async function Navigate(element) {
 
 	// pick one and exactly one list of links, in this order
 	let list;
-	if (typeof contents.authors !== 'undefined' && contents.authors.length > 0) {
+	if (contents.authors !== undefined && contents.authors.length > 0) {
 		list = contents.authors
-	} else if (typeof contents.books !== 'undefined' && contents.books.length > 0) {
+	} else if (contents.books !== undefined && contents.books.length > 0) {
 		list = contents.books
 	} else {
 		list = contents.chapters
@@ -395,7 +384,7 @@ async function Navigate(element) {
 			}
 
 			// contents page
-			if (!(contents.title != "Authors" && (typeof contents.author === 'undefined' || contents.author == ""))) {
+			if (!(contents.title != "Authors" && (contents.author === undefined || contents.author == ""))) {
 				if (final.endsWith(".html")) {
 					addNavButton(document, navbar, 'index.html', 'menu_book', 'w3-left');
 				} else {
@@ -567,10 +556,9 @@ async function CreateEPub(element) {
 
 	let epub = new EPub(contents);
 
-	await epub.CreatePackage("EPUB/book.opf");
+	await epub.CreatePackage(pageurl, "EPUB/book.opf");
 
-	//let url = URL.createObjectURL(await jepub.generate('blob').then(blob => epubAddFiles(blob)));
-	let url = URL.createObjectURL(await epub.CreateEPub());
+	let url = URL.createObjectURL(await epub.DownloadEPub());
 	document.body.append('Your download should start automatically. If not please click here: ');
 	let link = document.createElement('a');
 	document.body.appendChild(link);
@@ -583,7 +571,6 @@ async function CreateEPub(element) {
 	link.download = parts[2] + '-' + parts[3] + '.epub';
 	link.click();
 }
-
 
 // original from http://www.javascriptkit.com/javatutors/touchevents2.shtml
 //
@@ -792,6 +779,7 @@ function addNavButton(document, elem, link, icon, classextra) {
 
 function addNavButtonDisabled(document, elem, icon, classextra) {
 	let div = appendElement(document, elem, 'div', null, [
+		['id', icon],
 		['class', `w3-bar-item w3-button w3-disabled ${classextra}`]
 	]);
 	appendElement(document, div, 'i', icon, [
