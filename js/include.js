@@ -374,26 +374,26 @@ async function Navigate(element) {
 		let page = list.findIndex(o => o.href === final);
 
 		if (final == "authors") {
-			addNavButton(document, navbar, '/', 'home', 'w3-left');
+			addNavButton(document, navbar, '/', 'home', 'Home', 'w3-left');
 		} else {
 			if (typeof contents.author === 'undefined' || contents.author == "") {
-				addNavButton(document, navbar, '/authors', 'people', 'w3-left');
+				addNavButton(document, navbar, '/authors', 'people', 'Authors', 'w3-left');
 			} else {
 				// author
-				addNavButton(document, navbar, '../', 'person', 'w3-left');
+				addNavButton(document, navbar, '../', 'person', 'Author', 'w3-left');
 			}
 
 			// contents page
 			if (!(contents.title != "Authors" && (contents.author === undefined || contents.author == ""))) {
 				if (final.endsWith(".html")) {
-					addNavButton(document, navbar, 'index.html', 'menu_book', 'w3-left');
+					addNavButton(document, navbar, 'index.html', 'menu_book', 'Contents', 'w3-left');
 				} else {
 					if (single) {
-						addNavButton(document, navbar, 'index.html', 'menu_book', 'w3-left');
+						addNavButton(document, navbar, 'index.html', 'menu_book', 'Contents', 'w3-left');
 					} else {
-						addNavButton(document, navbar, '?single', 'description', 'w3-left');
+						addNavButton(document, navbar, '?single', 'description', 'Single Page', 'w3-left');
 					}
-					addNavButton(document, navbar, '?epub', 'cloud_download', 'w3-left');
+					addNavButton(document, navbar, '?epub', 'cloud_download', 'Download ePub', 'w3-left');
 				}
 			}
 		}
@@ -401,13 +401,13 @@ async function Navigate(element) {
 		let prev, next;
 
 		if (single) {
-			addNavButton(document, navbar, '#top', 'arrow_upward');
+			addNavButton(document, navbar, '#top', 'arrow_upward', 'Previous');
 		} else if (page > 0) {
 			// there is a valid previous page
 			prev = list[page - 1].href;
-			addNavButton(document, navbar, prev, 'arrow_back');
+			addNavButton(document, navbar, prev, 'arrow_back', 'Previous');
 		} else {
-			addNavButtonDisabled(document, navbar, 'arrow_back');
+			addNavButtonDisabled(document, navbar, 'arrow_back', 'Previous');
 		}
 
 		if (is_touch_enabled() === true) {
@@ -415,13 +415,13 @@ async function Navigate(element) {
 		}
 
 		if (single) {
-			addNavButton(document, navbar, '#top', 'arrow_downward');
+			addNavButton(document, navbar, '#top', 'arrow_downward', 'Next');
 		} else if (page < list.length - 1 && contents.author != "") {
 			// there is a valid next page
 			next = list[page + 1].href
-			addNavButton(document, navbar, next, 'arrow_forward');
+			addNavButton(document, navbar, next, 'arrow_forward', 'Next');
 		} else {
-			addNavButtonDisabled(document, navbar, 'arrow_forward');
+			addNavButtonDisabled(document, navbar, 'arrow_forward', 'Next');
 		}
 
 		// update link rel="next"/"prev" values
@@ -502,7 +502,7 @@ async function Navigate(element) {
 
 	} else if (final != null) {
 		// author
-		addNavButton(document, navbar, '../', 'person', 'w3-left');
+		addNavButton(document, navbar, '../', 'person', 'Author', 'w3-left');
 
 		appendElement(document, navbar, 'a', contents.title, [
 			['href', 'index.html']
@@ -765,10 +765,11 @@ function appendLinkImg(doc, elem, href, title, image) {
 	]);
 }
 
-function addNavButton(document, elem, link, icon, classextra) {
+function addNavButton(document, elem, link, icon, alttext, classextra) {
 	let ahref = appendElement(document, elem, 'a', null, [
 		['id', icon],
 		['href', link],
+		['title', alttext],
 		['onclick', `return navClick('${icon}');`],
 		['class', `w3-bar-item w3-button ${classextra}`]
 	]);
