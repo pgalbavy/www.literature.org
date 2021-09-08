@@ -241,39 +241,39 @@ p - include next paragraph (para)
 func splitlevel(leveltext string, levels *[]Level, l int, contents *literature.Contents) {
 	if l == 0 {
 		splittofiles(leveltext, levels, contents)
-	} else {
-		level := &(*levels)[l]
-		if level.sepre == nil {
-			// if level is unset, then make it "1" and not "0"
-			level.index = 1
-			splitlevel(leveltext, levels, l-1, contents)
-			return
-		}
-		if level.firstmatchre != nil {
-			parts := level.firstmatchre.Split(leveltext, 2)
-			// can save chunk specially here
-			leveltext = parts[1]
-			level.firstmatchre = nil
-		}
-		level.parts = level.sepre.Split(leveltext, -1)
+		return
+	}
 
-		var parttext string
-		for level.index, parttext = range level.parts {
-			// 0 = rest of part line, 1 = next para, 2 = rest of text
-			t := blankline.Split(parttext, 3)
-			if t != nil {
+	level := &(*levels)[l]
+	if level.sepre == nil {
+		// if level is unset, then make it "1" and not "0"
+		level.index = 1
+		splitlevel(leveltext, levels, l-1, contents)
+		return
+	}
 
-				if !level.dontinfer && len(t[0]) > 0 {
-					t[0], level.index = infernumber(t[0], level.index)
-				}
+	if level.firstmatchre != nil {
+		parts := level.firstmatchre.Split(leveltext, 2)
+		// can save chunk specially here
+		leveltext = parts[1]
+		level.firstmatchre = nil
+	}
+	level.parts = level.sepre.Split(leveltext, -1)
 
-				if level.titlepara && t != nil && len(t[1]) < maxtitle {
-					parttext = t[2]
-				}
+	var parttext string
+	for level.index, parttext = range level.parts {
+		// 0 = rest of part line, 1 = next para, 2 = rest of text
+		if t := blankline.Split(parttext, 3); t != nil {
+			if !level.dontinfer && len(t[0]) > 0 {
+				t[0], level.index = infernumber(t[0], level.index)
 			}
-			// recurse
-			splitlevel(parttext, levels, l-1, contents)
+
+			if level.titlepara && t != nil && len(t[1]) < maxtitle {
+				parttext = t[2]
+			}
 		}
+		// recurse
+		splitlevel(parttext, levels, l-1, contents)
 	}
 }
 
