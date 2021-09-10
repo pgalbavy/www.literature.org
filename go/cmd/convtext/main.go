@@ -25,7 +25,7 @@ const header = "header.html"
 const footer = "footer.html"
 const index = "index.html"
 
-var blankline, end, dashre, puncre, firstre *regexp.Regexp
+var end *regexp.Regexp
 var maxtitle int
 var writedir string
 var prename string
@@ -35,18 +35,18 @@ var prename string
 // level[1] => parts
 // etc.
 type Level struct {
-	title         string
-	inctitlematch bool
-	dontinfer     bool
-	skiptitleline bool
-	titlepara     bool
-	sepre         *regexp.Regexp
-	firstmatchre  *regexp.Regexp
-	parts         []string
-	index         int
-	chunks        []Chunk
-	header        string
-	footer        string
+	title             string
+	incTitleMatchFlag bool
+	noInferFlag       bool
+	skipTitleFlag     bool
+	titleNextParaFlag bool
+	seperatorRE       *regexp.Regexp
+	firstMatchRE      *regexp.Regexp
+	parts             []string
+	index             int
+	chunks            []Chunk
+	header            string
+	footer            string
 }
 
 type Chunk struct {
@@ -55,19 +55,13 @@ type Chunk struct {
 	filename string
 }
 
-var levels []Level
+var levels = make([]Level, 2, 5)
 
-func init() {
-	// look for paragraph seperator (two EOL sequences)
-	blankline = regexp.MustCompile(`(\r?\n){2,}`)
-
-	dashre = regexp.MustCompile(`[ _]+`)
-	puncre = regexp.MustCompile(`[[:punct:][:cntrl:]]+`)
-
-	firstre = regexp.MustCompile(`(?mi)\A(?:the )?project gutenberg(?: e\w+ of|'s| e\w+,) ([\pL\.,!\-’'"\(\) ]+),\s+by\s+([\pL\.\-'\(\) ]+)\,?\r?$`)
-
-	levels = make([]Level, 2, 5)
-}
+var blanklineRE = regexp.MustCompile(`(\r?\n){2,}`)
+var dashRE = regexp.MustCompile(`[ _]+`)
+var punctRE = regexp.MustCompile(`[[:punct:][:cntrl:]]+`)
+var firstRE = regexp.MustCompile(`(?mi)\A(?:the )?project gutenberg(?: e\w+ of|'s| e\w+,) ([\pL\.,!\-’'"\(\) ]+),\s+by\s+([\pL\.\-'\(\) ]+)\,?\r?$`)
+var optRE = regexp.MustCompile(`([^/]*)+(/.*/(\w+)*)?`)
 
 func main() {
 	var contents literature.Contents
@@ -179,7 +173,7 @@ p - include next paragraph (para)
 	}
 
 	// first check first line for Gutenberg title and author
-	n := firstre.FindStringSubmatch(text)
+	n := firstRE.FindStringSubmatch(text)
 	if len(n) == 3 {
 		if contents.Title == "" {
 			contents.Title = n[1]
@@ -198,10 +192,10 @@ p - include next paragraph (para)
 		for l := len(levels) - 1; l >= 0; l-- {
 			level := &(levels)[l]
 			// skip levels without a prefix
-			if level.sepre == nil {
+			if level.seperatorRE == nil {
 				continue
 			}
-			level.firstmatchre = regexp.MustCompile(`(?m)` + firstmatch)
+			level.firstMatchRE = regexp.MustCompile(`(?m)` + firstmatch)
 			break
 		}
 	}
@@ -223,7 +217,7 @@ p - include next paragraph (para)
 	// for each level above 0, split and store the slice of parts in the level and then recurse
 	// down for each part to the next lower level
 
-	splitlevel(text, &levels, len(levels)-1, &contents)
+	splitLevel(text, &levels, len(levels)-1, &contents)
 
 	contents.LastUpdated = time.Now().UTC().Format(time.RFC3339)
 	literature.WriteJSON(filepath.Join(writedir, "contents.json"), contents)
@@ -238,84 +232,83 @@ p - include next paragraph (para)
 
 // pass the file name formats down as we go?
 
-func splitlevel(leveltext string, levels *[]Level, l int, contents *literature.Contents) {
+func splitLevel(text string, levels *[]Level, l int, contents *literature.Contents) {
 	if l == 0 {
-		splittofiles(leveltext, levels, contents)
+		// lowest levels, just save into files
+		saveToFiles(text, levels, contents)
 		return
 	}
 
 	level := &(*levels)[l]
-	if level.sepre == nil {
+	if level.seperatorRE == nil {
 		// if level is unset, then make it "1" and not "0"
 		level.index = 1
-		splitlevel(leveltext, levels, l-1, contents)
+		splitLevel(text, levels, l-1, contents)
 		return
 	}
 
-	if level.firstmatchre != nil {
-		parts := level.firstmatchre.Split(leveltext, 2)
+	if level.firstMatchRE != nil {
+		parts := level.firstMatchRE.Split(text, 2)
 		// can save chunk specially here
-		leveltext = parts[1]
-		level.firstmatchre = nil
+		text = parts[1]
+		level.firstMatchRE = nil
 	}
-	level.parts = level.sepre.Split(leveltext, -1)
+	level.parts = level.seperatorRE.Split(text, -1)
 
 	var parttext string
 	for level.index, parttext = range level.parts {
 		// 0 = rest of part line, 1 = next para, 2 = rest of text
-		if t := blankline.Split(parttext, 3); t != nil {
-			if !level.dontinfer && len(t[0]) > 0 {
+		if t := blanklineRE.Split(parttext, 3); t != nil {
+			if !level.noInferFlag && len(t[0]) > 0 {
 				t[0], level.index = infernumber(t[0], level.index)
 			}
 
-			if level.titlepara && t != nil && len(t[1]) < maxtitle {
+			if level.titleNextParaFlag && t != nil && len(t[1]) < maxtitle {
 				parttext = t[2]
 			}
 		}
 		// recurse
-		splitlevel(parttext, levels, l-1, contents)
+		splitLevel(parttext, levels, l-1, contents)
 	}
 }
 
 // split the lowest level text into named files, using upper level to build the filename
-func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
+func saveToFiles(text string, levels *[]Level, contents *literature.Contents) {
+	var wg sync.WaitGroup
+
 	level := &(*levels)[0]
 
 	fileprefix, titleformat := partnames(levels)
 
-	if level.firstmatchre != nil {
-		parts := level.firstmatchre.Split(text, 2)
+	if level.firstMatchRE != nil {
+		parts := level.firstMatchRE.Split(text, 2)
 		// can save chunk specially here
 		text = parts[1]
-		level.firstmatchre = nil
+		level.firstMatchRE = nil
 	}
 
-	parts := level.sepre.Split(text, -1)
-	titles := level.sepre.FindAllString(text, -1)
+	parts := level.seperatorRE.Split(text, -1)
+	titles := level.seperatorRE.FindAllString(text, -1)
 	level.chunks = []Chunk{}
 
-	chapternumber := 0
-
-	//if (*levels)[1].index != 1 {
-	//	chapternumber = 1
-	//}
+	chapterNum := 0
 
 	for partnum, parttext := range parts {
 		chunk := Chunk{}
 
 		// try to rescue the title roman number
 		if partnum > 0 {
-			if level.inctitlematch {
+			if level.incTitleMatchFlag {
 				chunk.title = titles[partnum-1]
 			}
-			parttext = level.sepre.ReplaceAllString(titles[partnum-1], "${roman}") + "\n" + parttext
+			parttext = level.seperatorRE.ReplaceAllString(titles[partnum-1], "${roman}") + "\n" + parttext
 		}
 
 		// level.skiptitleline and level.titlepara
 
 		// split on first blankline line(s) and process first part(s), pass on the rest
 		// paras[] = "LINE-AFTER-CHAPSEP[BLANK]PARA[BLANK]PARA2"
-		paras := blankline.Split(parttext, 3)
+		paras := blanklineRE.Split(parttext, 3)
 
 		n := len(paras)
 
@@ -328,19 +321,19 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 
 		// infer = assume chapter title is NUMBER [PUNC] [SPACE TITLE]
 
-		if !level.dontinfer {
-			paras[0], chapternumber = infernumber(paras[0], chapternumber)
+		if !level.noInferFlag {
+			paras[0], chapterNum = infernumber(paras[0], chapterNum)
 		}
 
-		if !level.skiptitleline {
+		if !level.skipTitleFlag {
 			chunk.title += paras[0]
 		}
 		parttext = strings.Join(paras[1:], "\n\n")
 
 		// append next para to any existing title, but limit to maxtitle chars
-		if level.titlepara {
+		if level.titleNextParaFlag {
 			if len(paras[1]) < maxtitle {
-				chunk.title += strings.TrimSpace(blankline.ReplaceAllString(paras[1], " "))
+				chunk.title += strings.TrimSpace(blanklineRE.ReplaceAllString(paras[1], " "))
 
 				// we've used paras[1] so move on
 				if n == 3 {
@@ -353,40 +346,40 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 			chunk.html = level.header + text2html.ConvertString(parttext) + level.footer
 		} else {
 			// skip empty parts (like part 0)
-			chapternumber++
+			chapterNum++
 			continue
 		}
 
 		// strip annoying prefixes
-		spacere := regexp.MustCompile(`\s+`)
-		chunk.title = spacere.ReplaceAllString(chunk.title, " ")
+		spaceRE := regexp.MustCompile(`\s+`)
+		chunk.title = spaceRE.ReplaceAllString(chunk.title, " ")
 		chunk.title = strings.Trim(chunk.title, " .-_—")
 		chunk.title = text2html.PreHTMLReplaceChars(chunk.title)
 
 		// convert
-		chunk.filename = fmt.Sprintf(fileprefix, chapternumber) + ".html"
+		chunk.filename = fmt.Sprintf(fileprefix, chapterNum) + ".html"
 
-		if (chapternumber == 0 || (chapternumber == 1 && (*levels)[1].index == 0)) && prename != "" {
-			// looking to rename part 1, chapter-00
+		if prename != "" && (chapterNum == 0 || (chapterNum == 1 && (*levels)[1].index == 0)) {
+			// looking to rename part 1, chapter-00 ro "preface" etc.
 			var chapter literature.Chapter
-			chunk.filename = dashre.ReplaceAllString(puncre.ReplaceAllString(strings.ToLower(prename), ""), "-") + ".html"
+			chunk.filename = dashRE.ReplaceAllString(punctRE.ReplaceAllString(strings.ToLower(prename), ""), "-") + ".html"
 			chapter.HREF = chunk.filename
 			chapter.Title = prename
 			contents.Chapters = append(contents.Chapters, chapter)
-			prename = "" // only one of these ever
+			prename = "" // only one of these, ever
 		} else {
-			// other stuff
+			// normal parts
 			var chapter literature.Chapter
 			chapter.HREF = chunk.filename
-			chapter.Title = fmt.Sprintf(titleformat, chapternumber)
-			chunk.title = strings.Trim(chunk.title, " .-_—")
+			chapter.Title = fmt.Sprintf(titleformat, chapterNum)
+			// chunk.title = strings.Trim(chunk.title, " .-_—")
 			if len(chunk.title) > 0 {
 				chapter.Title += " - " + strings.Title(strings.ToLower(chunk.title))
 				// revert 'S and 'T etc.
 				re := regexp.MustCompile(`[[:alpha:]]'[[:upper:]]`)
 				chapter.Title = re.ReplaceAllStringFunc(chapter.Title, strings.ToLower)
 			}
-			if chapternumber > 0 {
+			if chapterNum > 0 {
 				contents.Chapters = append(contents.Chapters, chapter)
 			}
 		}
@@ -394,15 +387,11 @@ func splittofiles(text string, levels *[]Level, contents *literature.Contents) {
 		level.chunks = append(level.chunks, chunk)
 
 		// no skip, inc default chap num but this can be updated if infer is on
-		chapternumber++
+		chapterNum++
 	}
-	writeChunks(level.chunks)
-}
 
-func writeChunks(chunks []Chunk) {
-	var wg sync.WaitGroup
-
-	for _, chunk := range chunks {
+	// write out the chunks, us go routines as there are no dependencies between chunks
+	for _, chunk := range level.chunks {
 		wg.Add(1)
 		go func(wg *sync.WaitGroup, chunk Chunk) {
 			defer wg.Done()
@@ -478,8 +467,6 @@ func infernumber(text string, number int) (string, int) {
 	return text, number
 }
 
-var optre = regexp.MustCompile(`([^/]*)+(/.*/(\w+)*)?`)
-
 func levelOpts(level *Level, defaultText string) {
 	// no option set? return without processing
 	if level.title == "" {
@@ -488,9 +475,9 @@ func levelOpts(level *Level, defaultText string) {
 
 	// process -c/-p options - '[TEXT][/REGEXP/[FLAGS]]'
 
-	opts := optre.FindStringSubmatch(level.title)
+	opts := optRE.FindStringSubmatch(level.title)
 	if opts[0] == "" {
-		log.Fatal("level args must be in the format '[TEXT][/REGEXP/[itnkp]]'")
+		log.Fatal("level args must be in the format '[TEXT][/REGEXP/[FLAGS]]'")
 	}
 
 	// opts[1] => title
@@ -516,26 +503,26 @@ func levelOpts(level *Level, defaultText string) {
 	// check flags
 	if opts[3] != "" {
 		if strings.Contains(opts[3], "t") {
-			level.inctitlematch = true
+			level.incTitleMatchFlag = true
 		}
 
 		if strings.Contains(opts[3], "n") {
-			level.dontinfer = true
+			level.noInferFlag = true
 		}
 
 		// skipping the rest of line implies no infer of chapter number
 		if strings.Contains(opts[3], "k") {
-			level.skiptitleline = true
-			level.dontinfer = true
+			level.skipTitleFlag = true
+			level.noInferFlag = true
 		}
 
 		if strings.Contains(opts[3], "p") {
-			level.titlepara = true
+			level.titleNextParaFlag = true
 		}
 
 	}
 
-	level.sepre = regexp.MustCompile(seperator)
+	level.seperatorRE = regexp.MustCompile(seperator)
 }
 
 // always called for level[0], so based on index values build prefix
@@ -547,14 +534,14 @@ func partnames(levels *[]Level) (partprefix string, partformat string) {
 	for l := len(*levels) - 1; l >= 0; l-- {
 		level := (*levels)[l]
 		// skip levels without a prefix
-		if level.sepre == nil {
+		if level.seperatorRE == nil {
 			continue
 		}
 
 		if level.title != "" {
 			title := fmt.Sprintf("%s %%d", level.title)
 			// replace spaces and underscores
-			filetitle := dashre.ReplaceAllString(puncre.ReplaceAllString(strings.ToLower(level.title), ""), "-")
+			filetitle := dashRE.ReplaceAllString(punctRE.ReplaceAllString(strings.ToLower(level.title), ""), "-")
 			digits := 2
 			if len(level.parts) > 100 {
 				digits = 3
