@@ -98,8 +98,10 @@ async function Single(element) {
 // check all DIV elements for an attribute of type include-html
 // and replace contents with file
 async function Include(element) {
+	const TAG = "div";
 	const ATTR = "include-html";
-	for (let div of element.getElementsByTagName("div")) {
+
+	for (let div of element.getElementsByTagName(TAG)) {
 		if (!div.hasAttribute(ATTR)) {
 			continue;
 		}
@@ -112,19 +114,13 @@ async function Include(element) {
 	return element;
 }
 
-async function Contents(element) {
-	const TAG = 'article';
-	const ATTR = 'contents';
 
-	/* Loop through a collection of all ARTICLE elements: */
-	let article = element.getElementsByTagName(TAG)[0];
-	if (article === undefined || !article.hasAttribute(ATTR)) {
+async function Contents(element) {
+	let article = findFirst(element, 'article', 'contents');
+	if (article === undefined) {
 		return;
 	}
-
-	let contents = await fetchAsJSON(article.getAttribute(ATTR));
-	// do not remove tag as CreateEPub() also needs it now
-	// article.removeAttribute(ATTR);
+	let contents = await fetchAsJSON(article.getAttribute('contents'));
 
 	let ul = appendElement(document, article, 'ul', null, [
 		['id', 'contents'],
@@ -234,16 +230,12 @@ async function Contents(element) {
 }
 
 async function Navigate(element) {
-	const TAG = 'nav';
-	const ATTR = 'navigate';
-
-	let nav = element.getElementsByTagName(TAG)[0];
-	if (nav === undefined || !nav.hasAttribute(ATTR)) {
+	let nav = findFirst(element, 'nav', 'navigate');
+	if (nav === undefined) {
 		return;
 	}
-
-	let contents = await fetchAsJSON(nav.getAttribute(ATTR));
-	nav.removeAttribute(ATTR);
+	let contents = await fetchAsJSON(nav.getAttribute('navigate'));
+	nav.removeAttribute('navigate');
 
 	let path = location.pathname;
 	let parts = path.split('/');
@@ -534,9 +526,8 @@ async function Navigate(element) {
 
 // very much WIP - build an epub for the current directory
 async function CreateEPub(element) {
-	/* Loop through a collection of all ARTICLE elements: */
-	let article = element.getElementsByTagName("article")[0];
-	if (article === undefined || !article.hasAttribute("contents")) {
+	let article = findFirst(element, 'article', 'contents');
+	if (article === undefined) {
 		return;
 	}
 	let file = article.getAttribute("contents");
@@ -566,6 +557,20 @@ async function CreateEPub(element) {
 	// name the download file author-title.epub
 	link.download = parts[2] + '-' + parts[3] + '.epub';
 	link.click();
+}
+
+function findFirst(element, tag, attr) {
+	let elem
+	for (elem of element.getElementsByTagName(tag)) {
+		if (!elem.hasAttribute(attr)) {
+			continue;
+		}
+	}
+	if (elem === undefined || !elem.hasAttribute(attr)) {
+		return undefined;
+	}
+
+	return elem;
 }
 
 // original from http://www.javascriptkit.com/javatutors/touchevents2.shtml
