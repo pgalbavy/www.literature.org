@@ -282,11 +282,10 @@ async function Navigate(element) {
 	}
 
 	let parts = location.pathname.split('/');
-
 	parts.reverse();
 	let final = parts.find(function (value, index, array) { return value != "index.html" && value != ""});
 
-	if (final && final != "index.html" && final != "authors") {
+	if (final && final != "authors") {
 		ahref = appendElement(document, sidebar, 'a', ` ${contents.title}`, [
 			['href', 'index.html'],
 			['class', 'w3-bar-item w3-button litleft']
@@ -329,7 +328,6 @@ async function Navigate(element) {
 		}
 	}
 
-
 	// top bar
 	let navbar = appendElement(document, nav, 'nav', null, [
 		['class', 'w3-bar'],
@@ -353,7 +351,7 @@ async function Navigate(element) {
 		list = contents.chapters
 	}
 
-	if (list && final && final != "index.html") {
+	if (list && final) {
 		let page = list.findIndex(o => o.href === final);
 
 		if (final == "authors") {
