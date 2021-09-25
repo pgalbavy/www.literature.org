@@ -8,10 +8,6 @@ let single = false;
 let epub = false;
 
 async function loadsitecode() {
-	if (window.location.protocol != 'https:') {
-		location.href = location.href.replace("http://", "https://");
-	}
-
 	// restrict changes to the element we are called from
 	let scripts = document.getElementsByTagName('script');
 	let script = scripts[scripts.length - 1];
