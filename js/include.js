@@ -114,7 +114,6 @@ async function Include(element) {
 	return element;
 }
 
-
 async function Contents(element) {
 	let article = findFirst(element, 'article', 'contents');
 	if (article === undefined) {
@@ -237,15 +236,6 @@ async function Navigate(element) {
 	let contents = await fetchAsJSON(nav.getAttribute('navigate'));
 	nav.removeAttribute('navigate');
 
-	let path = location.pathname;
-	let parts = path.split('/');
-	let final;
-
-	do {
-		final = parts.pop();
-	}
-	while (final != null && (final == "" || final == "index.html"));
-
 	let title = "literature.org";
 
 	// this breaks if there is more than one article
@@ -290,6 +280,11 @@ async function Navigate(element) {
 		]);
 		title = titleCase(contents.author) + " at " + title;
 	}
+
+	let parts = location.pathname.split('/');
+
+	parts.reverse();
+	let final = parts.find(function (value, index, array) { return value != "index.html" && value != ""});
 
 	if (final && final != "index.html" && final != "authors") {
 		ahref = appendElement(document, sidebar, 'a', ` ${contents.title}`, [
