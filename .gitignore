@@ -4,3 +4,4 @@ go/cmd/addlink/addlink
 go.sum
 *.exe
 tmp
+*.gz

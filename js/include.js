@@ -24,9 +24,9 @@ async function loadsitecode() {
 		epub = true;
 	}
 
-	await Include(parent);
-	await Contents(parent);
-	await Navigate(parent);
+	await Include(parent)
+			.then(parent => Contents(parent))
+			.then(parent => Navigate(parent));
 
 	// path has to be an index page, check last element of path either for no '.' or that it's index.html
 	if (parts.length > 4 && (!last.includes('.') || last == 'index.html')) {
@@ -46,7 +46,6 @@ async function loadsitecode() {
 	}
 
 	// once we are done we can reveal the page
-	// parent.style.display = "block";
 	if (parent.className == "hide") {
 		parent.className = "reveal";
 	}
@@ -54,27 +53,21 @@ async function loadsitecode() {
 
 // load the contents.json and pull in the article innerHTMLs with anchors from the contents etc.
 async function Single(element) {
-	const TAG = 'article';
-	const ATTR = 'contents';
-
-	/* Loop through a collection of all ARTICLE elements: */
-	let article = element.getElementsByTagName(TAG)[0];
+	let article = findFirst(element, 'article', 'contents');
+	if (article === undefined) {
+		return element;
+	}
+	let contents = await fetchAsJSON(article.getAttribute('contents'));
 	let header = element.getElementsByTagName("header")[0];
 
-	if (!article.hasAttribute(ATTR)) {
-		return;
-	}
-	let contents = await fetchAsJSON(article.getAttribute(ATTR));
-
 	if (contents.chapters === undefined) {
-		return;
+		return element;
 	}
 
-	// header.style = "display: none";
 	for (let c of contents.chapters) {
-		// fetch first article in each chapter
+		// fetch first <article> in each chapter
 		let html = await fetchAsHTML(c.href);
-		let chap = html.documentElement.getElementsByTagName(TAG)[0].innerHTML;
+		let chap = html.documentElement.getElementsByTagName('article')[0].innerHTML;
 		let ahref = document.getElementById(c.href);
 
 		// append text with headings and anchors, update contents link to anchor and no another page
@@ -93,6 +86,7 @@ async function Single(element) {
 		])
 		ahref.setAttribute("href", "#" + c.title)
 	}
+	return element;
 }
 
 // check all DIV elements for an attribute of type include-html
@@ -117,7 +111,7 @@ async function Include(element) {
 async function Contents(element) {
 	let article = findFirst(element, 'article', 'contents');
 	if (article === undefined) {
-		return;
+		return element;
 	}
 	let contents = await fetchAsJSON(article.getAttribute('contents'));
 
@@ -226,6 +220,7 @@ async function Contents(element) {
 			}
 		}
 	}
+	return element;
 }
 
 async function Navigate(element) {
@@ -283,7 +278,7 @@ async function Navigate(element) {
 
 	let parts = location.pathname.split('/');
 	parts.reverse();
-	let final = parts.find(function (value, index, array) { return value != "index.html" && value != ""});
+	let final = parts.find(function (value, index, array) { return value != "index.html" && value != "" });
 
 	if (final && final != "authors") {
 		ahref = appendElement(document, sidebar, 'a', ` ${contents.title}`, [
@@ -294,31 +289,33 @@ async function Navigate(element) {
 			['class', 'material-icons md-lit']
 		]);
 
-		if (contents.chapters !== undefined && final.endsWith(".html")) {
-			let chapter = contents.chapters.findIndex(o => o.href === final);
-			// dropdown here
-			button = appendElement(document, sidebar, 'button', ` ${contents.chapters[chapter].title}`, [
-				['class', 'w3-bar-item w3-button litleft'],
-				['onclick', 'w3_close()']
-			]);
-			prependElement(document, button, 'i', 'library_books', [
-				['class', 'material-icons md-lit']
-			]);
-		} else if (contents.chapters !== undefined) {
-			ahref = appendElement(document, sidebar, 'a', ` Single Page View`, [
-				['href', `?single`],
-				['class', 'w3-bar-item w3-button litleft']
-			]);
-			prependElement(document, ahref, 'i', 'description', [
-				['class', 'material-icons md-lit']
-			]);
-			ahref = appendElement(document, sidebar, 'a', ` Download ePub`, [
-				['href', `?epub`],
-				['class', 'w3-bar-item w3-button litleft']
-			]);
-			prependElement(document, ahref, 'i', 'cloud_download', [
-				['class', 'material-icons md-lit']
-			]);
+		if (contents.chapters !== undefined) {
+			if (final.endsWith(".html")) {
+				let chapter = contents.chapters.findIndex(o => o.href === final);
+				// dropdown here
+				button = appendElement(document, sidebar, 'button', ` ${contents.chapters[chapter].title}`, [
+					['class', 'w3-bar-item w3-button litleft'],
+					['onclick', 'w3_close()']
+				]);
+				prependElement(document, button, 'i', 'library_books', [
+					['class', 'material-icons md-lit']
+				]);
+			} else {
+				ahref = appendElement(document, sidebar, 'a', ` Single Page View`, [
+					['href', `?single`],
+					['class', 'w3-bar-item w3-button litleft']
+				]);
+				prependElement(document, ahref, 'i', 'description', [
+					['class', 'material-icons md-lit']
+				]);
+				ahref = appendElement(document, sidebar, 'a', ` Download ePub`, [
+					['href', `?epub`],
+					['class', 'w3-bar-item w3-button litleft']
+				]);
+				prependElement(document, ahref, 'i', 'cloud_download', [
+					['class', 'material-icons md-lit']
+				]);
+			}
 		}
 
 		if (title == "literature.org") {
@@ -666,6 +663,7 @@ function is_touch_enabled() {
 		(navigator.msMaxTouchPoints > 0);
 }
 
+// convenience functions to fetch specific types from URLs
 async function fetchAsText(url) {
 	return fetch(url)
 		.then(response => response.text());
@@ -759,11 +757,11 @@ function appendLinkImg(doc, elem, href, title, image) {
 	]);
 }
 
-function addNavButton(document, elem, link, icon, alttext, classextra) {
+function addNavButton(document, elem, link, icon, title, classextra) {
 	let ahref = appendElement(document, elem, 'a', null, [
 		['id', icon],
 		['href', link],
-		['title', alttext],
+		['title', title],
 		['onclick', `return navClick('${icon}');`],
 		['class', `w3-bar-item w3-button ${classextra}`]
 	]);
