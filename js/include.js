@@ -7,11 +7,29 @@
 let single = false;
 let epub = false;
 
+loadcss("/css/w3.css");
+loadcss("/css/icon.css");
+loadcss("/css/literature.css");
+
+function loadcss(path) {
+	let link = document.createElement("link");
+
+	link.setAttribute("rel", "stylesheet");
+	link.setAttribute("href", path);
+	//link.setAttribute("async", true);
+
+	document.getElementsByTagName('head')[0].appendChild(link);
+}
+
 async function loadsitecode() {
 	// restrict changes to the element we are called from
 	let scripts = document.getElementsByTagName('script');
 	let script = scripts[scripts.length - 1];
 	let parent = script.parentNode;
+
+	await Include(parent)
+			.then(parent => Contents(parent))
+			.then(parent => Navigate(parent));
 
 	let params = new URLSearchParams(location.search);
 	let path = location.pathname;
@@ -23,10 +41,6 @@ async function loadsitecode() {
 	} else if (params.has('epub')) {
 		epub = true;
 	}
-
-	await Include(parent)
-			.then(parent => Contents(parent))
-			.then(parent => Navigate(parent));
 
 	// path has to be an index page, check last element of path either for no '.' or that it's index.html
 	if (parts.length > 4 && (!last.includes('.') || last == 'index.html')) {
