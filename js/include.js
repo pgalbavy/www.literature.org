@@ -16,9 +16,9 @@ function loadcss(path) {
 
 	link.setAttribute("rel", "stylesheet");
 	link.setAttribute("href", path);
-	//link.setAttribute("async", true);
+	link.setAttribute("async", "");
 
-	document.getElementsByTagName('head')[0].appendChild(link);
+	document.head.appendChild(link);
 }
 
 async function loadsitecode() {
