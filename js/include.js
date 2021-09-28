@@ -28,10 +28,6 @@ function loadcss(path) {
 async function loadsitecode() {
 	let body = document.body;
 
-	await Include(body)
-			.then(body => Contents(body))
-			.then(body => Navigate(body));
-
 	let params = new URLSearchParams(location.search);
 	let path = location.pathname;
 	let parts = path.split('/');
@@ -42,6 +38,10 @@ async function loadsitecode() {
 	} else if (params.has('epub')) {
 		epub = true;
 	}
+
+	await Include(body)
+		.then(body => Contents(body))
+		.then(body => Navigate(body));
 
 	// path has to be an index page, check last element of path either for no '.' or that it's index.html
 	if (parts.length > 4 && (!last.includes('.') || last == 'index.html')) {
@@ -55,7 +55,7 @@ async function loadsitecode() {
 			loadScript('/js/jszip.min.js')
 				.then(body => loadScript('/js/epub.js'))
 				.then(body => {
-					CreateEPub(body);
+					CreateEPub(document.body);
 				})
 		}
 	}
