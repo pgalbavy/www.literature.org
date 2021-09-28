@@ -22,14 +22,11 @@ function loadcss(path) {
 }
 
 async function loadsitecode() {
-	// restrict changes to the element we are called from
-	let scripts = document.getElementsByTagName('script');
-	let script = scripts[scripts.length - 1];
-	let parent = script.parentNode;
+	let body = document.body;
 
-	await Include(parent)
-			.then(parent => Contents(parent))
-			.then(parent => Navigate(parent));
+	await Include(body)
+			.then(body => Contents(body))
+			.then(body => Navigate(body));
 
 	let params = new URLSearchParams(location.search);
 	let path = location.pathname;
@@ -47,21 +44,21 @@ async function loadsitecode() {
 		if (single) {
 			// render book as a single page, for printing or saving offline
 			single = true;
-			await Single(parent);
+			await Single(body);
 		} else if (epub) {
 			// late loading of extra epub code only if asked for
 			// generate an ePub in broswer
 			loadScript('/js/jszip.min.js')
-				.then(script => loadScript('/js/epub.js'))
-				.then(script => {
-					CreateEPub(parent);
+				.then(body => loadScript('/js/epub.js'))
+				.then(body => {
+					CreateEPub(body);
 				})
 		}
 	}
 
 	// once we are done we can reveal the page
-	if (parent.className == "hide") {
-		parent.className = "reveal";
+	if (body.className == "hide") {
+		body.className = "reveal";
 	}
 }
 
