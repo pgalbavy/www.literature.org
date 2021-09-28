@@ -811,7 +811,19 @@ function navClick(icon) {
 
 function nextChapter(tag) {
 	let elems = document.getElementsByTagName(tag);
-	let i = firstVisible(elems);
+	if (elems === undefined) {
+		return;
+	}
+
+	let i;
+	let h = window.innerHeight;
+
+	for (i = 0; i < elems.length; i++) {
+		let rect = elems[i].getBoundingClientRect();
+		if (rect.height - rect.bottom < h || rect.top > 0) {
+			break;
+		}
+	}
 
 	if (i === undefined || i == elems.length - 1) {
 		elems[elems.length - 1].scrollIntoView({ block: 'center' });
@@ -823,7 +835,17 @@ function nextChapter(tag) {
 
 function prevChapter(tag) {
 	let elems = document.getElementsByTagName(tag);
-	let i = firstVisible(elems);
+	if (elems === undefined) {
+		return;
+	}
+
+	let i;
+	for (i = 0; i < elems.length; i++) {
+		let rect = elems[i].getBoundingClientRect();
+		if (rect.top >= 0) {
+			break;
+		}
+	}
 
 	if (i === undefined || i == 0) {
 		elems[0].scrollIntoView(false);
@@ -831,17 +853,3 @@ function prevChapter(tag) {
 		elems[i - 1].scrollIntoView({ block: 'start' });
 	}
 }
-
-// this is ONLY valid once display style is set to visible (obvious, but...)
-function firstVisible(elems) {
-	if (elems === undefined) {
-		return 0;
-	}
-	for (let i = 0; i < elems.length; i++) {
-		let rect = elems[i].getBoundingClientRect();
-		if (rect.top >= 0) {
-			return i;
-		}
-	}
-}
-
