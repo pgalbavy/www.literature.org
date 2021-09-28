@@ -5,3 +5,7 @@ go.sum
 *.exe
 tmp
 *.gz
+wasm.html
+go/test/hello.go
+go/test/hello.wasm
+js/wasm_exec.js
