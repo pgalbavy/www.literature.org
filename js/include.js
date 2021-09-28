@@ -7,6 +7,10 @@
 let single = false;
 let epub = false;
 
+document.addEventListener('DOMContentLoaded', (event) => {
+	loadsitecode();
+});
+
 loadcss("/css/w3.css");
 loadcss("/css/icon.css");
 loadcss("/css/literature.css");
