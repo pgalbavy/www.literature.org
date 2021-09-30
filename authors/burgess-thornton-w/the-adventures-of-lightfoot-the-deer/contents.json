@@ -1,0 +1,177 @@
+{
+	"title": "The Adventures of Lightfoot the Deer",
+	"author": "Thornton W. BURGESS",
+	"source": "https://www.gutenberg.org/cache/epub/19079/pg19079.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-a",
+		"Thornton W. BURGESS",
+		"-c",
+		"//p",
+		"https://www.gutenberg.org/cache/epub/19079/pg19079.txt"
+	],
+	"lastupdated": "2021-09-30T10:26:37Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Peter Rabbit Meets Lightfoot"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Lightfoot's New Antlers"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Lightfoot Tells How His Antlers Grew"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - The Spirit Of Fear"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Sammy Jay Brings Lightfoot Word"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - A Game Of Hide And Seek"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - The Merry Little Breezes Help Lightfoot"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Wit Against Wit"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Lightfoot Becomes Uncertain"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Lightfoot's Clever Trick"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Hunted Watches The Hunter"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Lightfoot Visits Paddy The Beaver"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Lightfoot And Paddy Become Partners"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - How Paddy Warned Lightfoot"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - The Three Watchers"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Visitors To Paddy's Pond"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Sammy Jay Arrives"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - The Hunter Loses His Temper"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Sammy Jay Is Modest"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Lightfoot Hears A Dreadful Sound"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - How Lightfoot Got Rid Of The Hounds"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Lightfoot's Long Swim"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Lightfoot Finds A Friend"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - The Hunter Is Disappointed"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - The Hunter Lies In Wait"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Lightfoot Does The Wise Thing"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Sammy Jay Worries"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - The Hunting Season Ends"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - Mr. And Mrs. Quack Are Startled"
+		},
+		{
+			"href": "chapter-30.html",
+			"title": "Chapter 30 - The Mystery Is Solved"
+		},
+		{
+			"href": "chapter-31.html",
+			"title": "Chapter 31 - A Surprising Discovery"
+		},
+		{
+			"href": "chapter-32.html",
+			"title": "Chapter 32 - Lightfoot Sees The Stranger"
+		},
+		{
+			"href": "chapter-33.html",
+			"title": "Chapter 33 - A Different Game Of Hide And Seek"
+		},
+		{
+			"href": "chapter-34.html",
+			"title": "Chapter 34 - A Startling New Footprint"
+		},
+		{
+			"href": "chapter-35.html",
+			"title": "Chapter 35 - Lightfoot Is Reckless"
+		},
+		{
+			"href": "chapter-36.html",
+			"title": "Chapter 36 - Sammy Jay Takes A Hand"
+		},
+		{
+			"href": "chapter-37.html",
+			"title": "Chapter 37 - The Great Fight"
+		},
+		{
+			"href": "chapter-38.html",
+			"title": "Chapter 38 - An Unseen Watcher"
+		},
+		{
+			"href": "chapter-39.html",
+			"title": "Chapter 39 - Lightfoot Discovers Love"
+		},
+		{
+			"href": "chapter-40.html",
+			"title": "Chapter 40 - Happy Days In The Green Forest"
+		}
+	]
+}

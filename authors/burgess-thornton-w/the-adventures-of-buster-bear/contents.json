@@ -1,0 +1,111 @@
+{
+	"title": "The Adventures of Buster Bear",
+	"author": "Thornton W. BURGESS",
+	"source": "https://www.gutenberg.org/cache/epub/22816/pg22816.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"/^[IVX]+\\s/p",
+		"https://www.gutenberg.org/cache/epub/22816/pg22816.txt"
+	],
+	"lastupdated": "2021-09-30T10:15:15Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Buster Bear Goes Fishing"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Little Joe Otter Gets Even With Buster Bear"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Buster Bear Is Greatly Puzzled"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Little Joe Otter Supplies Buster Bear With A Breakfast"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Grandfather Frog's Common-Sense"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Suppose That If Buster Bear Should Happen Along And Catch Him, He Would Be Stealing From Me, According To Little Joe.\""
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Little Joe Otter Takes Grandfather Frog's Advice"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Farmer Brown's Boy Has No Luck At All"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Farmer Brown's Boy Feels His Hair Rise"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Little Joe Otter Has Great News To Tell"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Buster Bear Becomes A Hero"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Blacky The Crow Tells His Plan"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Farmer Brown's Boy And Buster Bear Grow Curious"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Farmer Brown's Boy And Buster Bear Meet"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - A Surprising Thing Happens"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Buster Bear Is A Fallen Hero"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Chatterer The Red Squirrel Jumps For His Life"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Buster Bear Goes Berrying"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Somebody Else Goes Berrying"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Buster Bear Has A Fine Time"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Buster Bear Carries Off The Pail Of Farmer Brown's Boy"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Sammy Jay Makes Things Worse For Buster Bear"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Buster Bear Has A Fit Of Temper"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - Farmer Brown's Boy Lunches On Berries"
+		}
+	]
+}

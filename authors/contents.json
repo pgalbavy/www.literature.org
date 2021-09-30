@@ -2,7 +2,7 @@
 	"title": "Authors",
 	"source": "",
 	"links": {},
-	"lastupdated": "2021-09-01T08:45:50Z",
+	"lastupdated": "2021-09-30T10:05:35Z",
 	"authors": [
 		{
 			"href": "aesop",
@@ -355,6 +355,10 @@
 		{
 			"href": "huxley-aldous",
 			"name": "Aldous HUXLEY"
+		},
+		{
+			"href": "burgess-thornton-w",
+			"name": "Thornton W. BURGESS"
 		}
 	]
 }

@@ -1,0 +1,107 @@
+{
+	"title": "The Adventures of Chatterer the Red Squirrel",
+	"author": "Thornton W. BURGESS",
+	"source": "https://www.gutenberg.org/cache/epub/37952/pg37952.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"/^[IVX]+\\s/p",
+		"https://www.gutenberg.org/cache/epub/37952/pg37952.txt"
+	],
+	"lastupdated": "2021-09-30T10:16:55Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Chatterer The Red Squirrel Runs For His Life"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Chatterer's Last Chance"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Chatterer Tells Sammy Jay About Shadow The Weasel"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Chatterer Leaves The Green Forest"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Chatterer Finds A Home"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Peter Rabbit Listens To The Wrong Voice"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - How Chatterer Had Fooled Peter Rabbit"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Chatterer Grows Careless"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Chatterer Grows Too Curious"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Old Mr. Trouble Gets Chatterer At Last"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - What Happened Next To Chatterer"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Chatterer Is Sure That This Is His Last Day"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Chatterer Is Put In Prison"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Chatterer Decides To Live"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Farmer Brown's Boy Tries To Make Friends"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Chatterer Has A Pleasant Surprise"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Sammy Jay's Sharp Eyes"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Chatterer Is Made Fun Of"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Peter Rabbit Tries To Help"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Chatterer Has Another Great Surprise"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Chatterer Hears The Small Voice"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Tommy Tit Makes Good His Boast"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Chatterer Grows Very, Very Bold"
+		}
+	]
+}

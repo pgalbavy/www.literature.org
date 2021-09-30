@@ -1,0 +1,129 @@
+{
+	"title": "Old Granny Fox",
+	"author": "Thornton W. BURGESS",
+	"source": "https://www.gutenberg.org/files/4980/4980-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"https://www.gutenberg.org/files/4980/4980-0.txt"
+	],
+	"lastupdated": "2021-09-30T10:04:05Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Reddy Fox Brings Granny News"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Granny And Reddy Fox Go Hunting"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Reddy Is Sure Granny Has Lost Her Senses"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Quacker The Duck Grows Curious"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Reddy Fox Is Afraid To Go Home"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Old Granny Fox Is Caught Napping"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Granny Fox Has A Bad Dream"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - What Farmer Brown's Boy Did"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Reddy Fox Hears About Granny Fox"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Reddy Fox Is Impudent"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - After The Storm"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Granny And Reddy Fox Hunt In Vain"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Granny Fox Admits Growing Old"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Three Vain And Foolish Wishes"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Reddy Fights A Battle"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Reddy Is Made Truly Happy"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Granny Fox Promises Reddy Bowser's Dinner"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Why Bowser The Hound Didn't Eat His Dinner"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Old Man Coyote Does A Little Thinking"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - A Twice Stolen Dinner"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Granny And Reddy Talk Things Over"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Granny Fox Plans To Get A Fat Hen"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Farmer Brown's Boy Forgets To Close The Gate"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - A Midnight Visit"
+		},
+		{
+			"href": "chapter-25.html",
+			"title": "Chapter 25 - A Dinner For Two"
+		},
+		{
+			"href": "chapter-26.html",
+			"title": "Chapter 26 - Farmer Brown's Boy Sets A Trap"
+		},
+		{
+			"href": "chapter-27.html",
+			"title": "Chapter 27 - Prickly Porky Takes A Sun Bath"
+		},
+		{
+			"href": "chapter-28.html",
+			"title": "Chapter 28 - Prickly Porky Enjoys Himself"
+		},
+		{
+			"href": "chapter-29.html",
+			"title": "Chapter 29 - The New Home In The Old Pasture"
+		}
+	]
+}

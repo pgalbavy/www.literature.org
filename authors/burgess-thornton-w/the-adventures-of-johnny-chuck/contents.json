@@ -1,0 +1,113 @@
+{
+	"title": "The Adventures of Johnny Chuck",
+	"author": "Thornton W. BURGESS",
+	"source": "https://www.gutenberg.org/files/5844/5844-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-f",
+		"LIST OF ILLUSTRATIONS",
+		"-c",
+		"/^[IVX]+\\.\\s/",
+		"https://www.gutenberg.org/files/5844/5844-0.txt"
+	],
+	"lastupdated": "2021-09-30T10:25:13Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Gentle Sister South Wind Arrives"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Johnny Chuck Receives Callers"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - The Singers Of The Smiling Pool"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Johnny Chuck Finds Out Who The Sweet Singers Are"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - Johnny Chuck Becomes Dissatisfied"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Johnny Chuck Turns Tramp"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Johnny's First Adventure"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Johnny Has Another Adventure"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Another Strange Chuck"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - Why Johnny Chuck Didn't Fight"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - The Greatest Thing In The World"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - Johnny Chuck Proves His Love"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Polly And Johnny Chuck Go House Hunting"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - A New Home At Last"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Sammy Jay Finds The New Home"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Sammy Jay Plans Mischief"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - More Mischief"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Farmer Brown's Boy Makes A Discovery"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Johnny Chuck's Pride"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Sammy Jay Understands"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - Sammy Jay Has A Change Of Heart"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - Johnny Chuck Is Kept Busy"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - The School In The Old Orchard"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Sammy Jay Proves That He Is Not All Bad"
+		}
+	]
+}

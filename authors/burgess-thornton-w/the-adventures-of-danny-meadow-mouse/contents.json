@@ -1,0 +1,111 @@
+{
+	"title": "The Adventures of Danny Meadow Mouse",
+	"author": "Thornton W. BURGESS",
+	"source": "https://www.gutenberg.org/files/25301/25301-0.txt",
+	"links": {},
+	"cmdline": [
+		"convtext",
+		"-c",
+		"/^[IVX]+\\s[^a-z]/p",
+		"https://www.gutenberg.org/files/25301/25301-0.txt"
+	],
+	"lastupdated": "2021-09-30T10:21:23Z",
+	"chapters": [
+		{
+			"href": "chapter-01.html",
+			"title": "Chapter 1 - Danny Meadow Mouse Is Worried"
+		},
+		{
+			"href": "chapter-02.html",
+			"title": "Chapter 2 - Danny Meadow Mouse And His Short Tail"
+		},
+		{
+			"href": "chapter-03.html",
+			"title": "Chapter 3 - Danny Meadow Mouse Plays Hide And Seek"
+		},
+		{
+			"href": "chapter-04.html",
+			"title": "Chapter 4 - Old Granny Fox Tries For Danny Meadow Mouse"
+		},
+		{
+			"href": "chapter-05.html",
+			"title": "Chapter 5 - What Happened On The Green Meadows"
+		},
+		{
+			"href": "chapter-06.html",
+			"title": "Chapter 6 - Danny Meadow Mouse Remembers And Reddy Fox Forgets"
+		},
+		{
+			"href": "chapter-07.html",
+			"title": "Chapter 7 - Old Granny Fox Tries A New Plan"
+		},
+		{
+			"href": "chapter-08.html",
+			"title": "Chapter 8 - Brother North Wind Proves A Friend"
+		},
+		{
+			"href": "chapter-09.html",
+			"title": "Chapter 9 - Danny Meadow Mouse Is Caught At Last"
+		},
+		{
+			"href": "chapter-10.html",
+			"title": "Chapter 10 - A Strange Ride And How It Ended"
+		},
+		{
+			"href": "chapter-11.html",
+			"title": "Chapter 11 - Peter Rabbit Gets A Fright"
+		},
+		{
+			"href": "chapter-12.html",
+			"title": "Chapter 12 - The Old Briar-Patch Has A New Tenant"
+		},
+		{
+			"href": "chapter-13.html",
+			"title": "Chapter 13 - Peter Rabbit Visits The Peach Orchard"
+		},
+		{
+			"href": "chapter-14.html",
+			"title": "Chapter 14 - Farmer Brown Sets A Trap"
+		},
+		{
+			"href": "chapter-15.html",
+			"title": "Chapter 15 - Peter Rabbit Is Caught In A Snare"
+		},
+		{
+			"href": "chapter-16.html",
+			"title": "Chapter 16 - Peter Rabbit’s Hard Journey"
+		},
+		{
+			"href": "chapter-17.html",
+			"title": "Chapter 17 - Danny Meadow Mouse Becomes Worried"
+		},
+		{
+			"href": "chapter-18.html",
+			"title": "Chapter 18 - Danny Meadow Mouse Returns A Kindness"
+		},
+		{
+			"href": "chapter-19.html",
+			"title": "Chapter 19 - Peter Rabbit And Danny Meadow Mouse Live High"
+		},
+		{
+			"href": "chapter-20.html",
+			"title": "Chapter 20 - Timid Danny Meadow Mouse"
+		},
+		{
+			"href": "chapter-21.html",
+			"title": "Chapter 21 - An Exciting Day For Danny Meadow Mouse"
+		},
+		{
+			"href": "chapter-22.html",
+			"title": "Chapter 22 - What Happened Next To Danny Meadow Mouse"
+		},
+		{
+			"href": "chapter-23.html",
+			"title": "Chapter 23 - Reddy Fox Grows Curious"
+		},
+		{
+			"href": "chapter-24.html",
+			"title": "Chapter 24 - Reddy Fox Loses His Temper"
+		}
+	]
+}
