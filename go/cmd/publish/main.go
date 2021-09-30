@@ -1,28 +1,27 @@
 package main
 
 import (
-	"path/filepath"
 	"flag"
 	"fmt"
-	"io/ioutil"
 	"log"
 	"os"
-	"strings"
+	"path/filepath"
 	"regexp"
+	"strings"
 	"time"
 	"unicode"
 
 	"literature.org/go/literature"
 
 	"golang.org/x/text/transform"
-    "golang.org/x/text/unicode/norm"
+	"golang.org/x/text/unicode/norm"
 )
-
 
 const defrootdir = "../"
 
 const templates = "templates"
-const index = "index.html"
+
+// const index = "index.html"
 
 // take a directory and based on the contents.json file link it into
 // the site tree and git commit and rclone sync it based on settings
@@ -30,7 +29,7 @@ const index = "index.html"
 // usage: publish dir [dir] ...
 
 // open dir/content.json and unmarshal
-// check validty (are all files mentioned avaulable, and index.html)
+// check validty (are all files mentioned avaulable)
 // convert author and title into file path components
 // from root of site check for existing directories (or files that clash!)
 // build directory tree, copy files but only into empty dirs (unless forced)
@@ -59,7 +58,7 @@ func main() {
 	titlere := regexp.MustCompile(`[^\w _-]+`)
 	// these are the chars to replace with a single dash
 	dashre := regexp.MustCompile(`[ _]`)
-	
+
 	authore := regexp.MustCompile(`^(.*?)\s([A-Z\s]+)$`)
 
 	var dir string
@@ -145,7 +144,7 @@ func main() {
 	// convert if old format
 	if len(topjson.Chapters) != 0 {
 		for _, c := range topjson.Chapters {
-			topjson.Authors = append(topjson.Authors, literature.Author{ c.HREF, c.Title })
+			topjson.Authors = append(topjson.Authors, literature.Author{c.HREF, c.Title})
 		}
 		topjson.Chapters = []literature.Chapter{}
 	}
@@ -160,7 +159,7 @@ func main() {
 	lastUpdated := time.Now().UTC().Format(time.RFC3339)
 
 	if authorindex == -1 {
-		newauthor := literature.Author{ HREF: author, Name: contents.Author }
+		newauthor := literature.Author{HREF: author, Name: contents.Author}
 		topjson.Authors = append(topjson.Authors, newauthor)
 
 		// write out new top level contents.json
@@ -175,7 +174,7 @@ func main() {
 	// convert "old" Chapters -> Books
 	if len(authorjson.Chapters) != 0 {
 		for _, c := range authorjson.Chapters {
-			authorjson.Books = append(authorjson.Books, literature.Book{ literature.Link{ c.HREF, c.Title }, 0 })
+			authorjson.Books = append(authorjson.Books, literature.Book{literature.Link{c.HREF, c.Title}, 0})
 		}
 		authorjson.Chapters = []literature.Chapter{}
 	}
@@ -189,15 +188,16 @@ func main() {
 
 	// add and sort (until we have publication years, by title)
 	if book == -1 {
-		newchapter := literature.Book{ literature.Link{ title, contents.Title }, 0 }
+		newchapter := literature.Book{literature.Link{title, contents.Title}, 0}
 		authorjson.Books = append(authorjson.Books, newchapter)
 		// write out new author contents.json
 		authorjson.Title = contents.Author
 		authorjson.LastUpdated = lastUpdated
 		literature.WriteJSON(filepath.Join(rootdir, "authors", author, "contents.json"), authorjson)
 
-		i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
-		ioutil.WriteFile(filepath.Join(rootdir, "authors", author, index), i, 0644)
+		// index.html no longer required with nginx - we serve a common file instead
+		// i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
+		// ioutil.WriteFile(filepath.Join(rootdir, "authors", author, index), i, 0644)
 	}
 
 	// update changelog
@@ -207,9 +207,9 @@ func main() {
 		changelog = make([]literature.Changelog, 1)
 	}
 
-	newchangelog := literature.Changelog{ Link: literature.Link{ HREF: "/authors/" + author + "/" + title,
-										  Title: contents.Title + " by " + contents.Author },
-										  LastUpdated: lastUpdated }
+	newchangelog := literature.Changelog{Link: literature.Link{HREF: "/authors/" + author + "/" + title,
+		Title: contents.Title + " by " + contents.Author},
+		LastUpdated: lastUpdated}
 	// only allow 100 items, rolling
 	if len(changelog) > 99 {
 		changelog = changelog[len(changelog)-99:]
@@ -219,5 +219,5 @@ func main() {
 }
 
 func isMn(r rune) bool {
-    return unicode.Is(unicode.Mn, r) // Mn: nonspacing marks
+	return unicode.Is(unicode.Mn, r) // Mn: nonspacing marks
 }

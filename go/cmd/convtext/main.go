@@ -23,7 +23,6 @@ const defrootdir = ".."
 const templates = "templates"
 const header = "header.html"
 const footer = "footer.html"
-const index = "index.html"
 
 var end *regexp.Regexp
 var maxtitle int
@@ -221,10 +220,6 @@ p - include next paragraph (para)
 
 	contents.LastUpdated = time.Now().UTC().Format(time.RFC3339)
 	literature.WriteJSON(filepath.Join(writedir, "contents.json"), contents)
-
-	// copy index template
-	i, _ := ioutil.ReadFile(filepath.Join(rootdir, templates, index))
-	ioutil.WriteFile(filepath.Join(writedir, index), i, 0644)
 }
 
 // given the "text" in a level, split it up further based on settings and return
@@ -372,7 +367,7 @@ func saveToFiles(text string, levels *[]Level, contents *literature.Contents) {
 			var chapter literature.Chapter
 			chapter.HREF = chunk.filename
 			chapter.Title = fmt.Sprintf(titleformat, chapterNum)
-			// chunk.title = strings.Trim(chunk.title, " .-_—")
+			chunk.title = strings.Trim(chunk.title, " .-_—:")
 			if len(chunk.title) > 0 {
 				chapter.Title += " - " + strings.Title(strings.ToLower(chunk.title))
 				// revert 'S and 'T etc.
