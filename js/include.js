@@ -544,11 +544,11 @@ async function CreateEPub(element) {
 	}
 
 	// remove last component of path, so we point bck to the main contents page of the book
-	let pageurl = location.href.replace(/\/[^\/]*$/, '');
+	let pagepath = location.pathname.replace(/\/[^\/]*$/, '');
 
 	let epub = new EPub(contents);
 
-	await epub.CreatePackage(pageurl, "EPUB/book.opf");
+	await epub.CreatePackage(pagepath, "EPUB/book.opf");
 
 	let url = URL.createObjectURL(await epub.DownloadEPub());
 	document.body.append('Your download should start automatically. If not please click here: ');
