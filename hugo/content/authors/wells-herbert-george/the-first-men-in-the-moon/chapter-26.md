@@ -1,0 +1,19 @@
+---
+title: "Chapter 26 - The Last Message Cavor Sent To The Earth"
+weight: 26
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-26.html"
+---
+
+ON this unsatisfactory manner the penultimate message of Cavor dies out. One seems to see him away there in the blue obscurity amidst his apparatus intently signalling us to the last, all unaware of the curtain of confusion that drops between us; all unaware, too, of the final dangers that even then must have been creeping upon him. His disastrous want of vulgar common sense had utterly betrayed him. He had talked of war, he had talked of all the strength and irrational violence of men, of their insatiable aggressions, their tireless futility of conflict. He had filled the whole moon world with this impression of our race, and then I think it is plain that he made the most fatal admission that upon himself alone hung the possibility - at least for a long time - of any further men reaching the moon. The line the cold, inhuman reason of the moon would take seems plain enough to me, and a suspicion of it, and then perhaps some sudden sharp realisation of it, must have come to him. One imagines him about the moon with the remorse of this fatal indiscretion growing in his mind. During a certain time I am inclined to guess the Grand Lunar was deliberating the new situation, and for all that time Cavor may have gone as free as ever he had gone. But obstacles of some sort prevented his getting to his electromagnetic apparatus again after that message I have just given. For some days we received nothing. Perhaps he was having fresh audiences, and trying to evade his previous admissions. Who can hope to guess?
+
+And then suddenly, like a cry in the night, like a cry that is followed by a stillness, came the last message. It is the briefest fragment, the broken beginnings of two sentences.
+
+The first was: "I was mad to let the Grand Lunar know."
+
+There was an interval of perhaps a minute. One imagines some interruption from without. A departure from the instrument - a dreadful hesitation among the looming masses of apparatus in that dim, blue-lit cavern - a sudden rush back to it, full of a resolve that came too late. Then, as if it were hastily transmitted came: "Cavorite made as follows: take-"
+
+There followed one word, a quite unmeaning word as it stands: "uless."
+
+And that is all.
+
+It may be he made a hasty attempt to spell "useless" when his fate was close upon him. Whatever it was that was happening about that apparatus we cannot tell. Whatever it was we shall never, I know, receive another message from the moon. For my own part a vivid dream has come to my help, and I see, almost as plainly as though I had seen it in actual fact, a blue-lit shadowy dishevelled Cavor struggling in the grip of these insect Selenites, struggling ever more desperately and hopelessly as they press upon him, shouting, expostulating, perhaps even at last fighting, and being forced backwards step by step out of all speech or sign of his fellows, for evermore into the Unknown - into the dark, into that silence that has no end. ...

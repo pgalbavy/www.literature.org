@@ -1,0 +1,43 @@
+---
+title: "Book 1 - Chapter 17"
+weight: 17
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-17.html"
+---
+
+It had been Mr. Wheeler's intention to stay at home until spring, but Ralph wrote that he was having trouble with his foreman, so his father went out to the ranch in February. A few days after his departure there was a storm which gave people something to talk about for a year to come.
+
+The snow began to fall about noon on St. Valentine's day, a soft, thick, wet snow that came down in billows and stuck to everything. Later in the afternoon the wind rose, and wherever there was a shed, a tree, a hedge, or even a clump of tall weeds, drifts began to pile up. Mrs. Wheeler, looking anxiously out from the sitting-room windows, could see nothing but driving waves of soft white, which cut the tall house off from the rest of the world.
+
+Claude and Dan, down in the corral, where they were provisioning the cattle against bad weather, found the air so thick that they could scarcely breathe; their ears and mouths and nostrils were full of snow, their faces plastered with it. It melted constantly upon their clothing, and yet they were white from their boots to their caps as they worked,--there was no shaking it off. The air was not cold, only a little below freezing. When they came in for supper, the drifts had piled against the house until they covered the lower sashes of the kitchen windows, and as they opened the door, a frail wall of snow fell in behind them. Mahailey came running with her broom and pail to sweep it up.
+
+"Ain't it a turrible storm, Mr. Claude? I reckon poor Mr. Ernest won't git over tonight, will he? You never mind, honey; I'll wipe up that water. Run along and git dry clothes on you, an' take a bath, or you'll ketch cold. Th' ole tank's full of hot water for you." Exceptional weather of any kind always delighted Mahailey.
+
+Mrs. Wheeler met Claude at the head of the stairs. "There's no danger of the steers getting snowed under along the creek, is there?" she asked anxiously.
+
+"No, I thought of that. We've driven them all into the little corral on the level, and shut the gates. It's over my head down in the creek bottom now. I haven't a dry stitch on me. I guess I'll follow Mahailey's advice and get in the tub, if you can wait supper for me."
+
+"Put your clothes outside the bathroom door, and I'll see to drying them for you."
+
+"Yes, please. I'll need them tomorrow. I don't want to spoil my new corduroys. And, Mother, see if you can make Dan change. He's too wet and steamy to sit at the table with. Tell him if anybody has to go out after supper, I'll go."
+
+Mrs. Wheeler hurried down stairs. Dan, she knew, would rather sit all evening in wet clothes than take the trouble to put on dry ones. He tried to sneak past her to his own quarters behind the wash-room, and looked aggrieved when he heard her message.
+
+"I ain't got no other outside clothes, except my Sunday ones," he objected.
+
+"Well, Claude says he'll go out if anybody has to. I guess you'll have to change for once, Dan, or go to bed without your supper." She laughed quietly at his dejected expression as he slunk away.
+
+"Mrs. Wheeler," Mahailey whispered, "can't I run down to the cellar an' git some of them nice strawberry preserves? Mr. Claude, he loves 'em on his hot biscuit. He don't eat the honey no more; he's got tired of it."
+
+"Very well. I'll make the coffee good and strong; that will please him more than anything."
+
+Claude came down feeling clean and warm and hungry. As he opened the stair door he sniffed the coffee and frying ham, and when Mahailey bent over the oven the warm smell of browning biscuit rushed out with the heat. These combined odours somewhat dispersed Dan's gloom when he came back in squeaky Sunday shoes and a bunglesome cut-away coat. The latter was not required of him, but he wore it for revenge.
+
+During supper Mrs. Wheeler told them once again how, long ago when she was first married, there were no roads or fences west of Frankfort. One winter night she sat on the roof of their first dugout nearly all night, holding up a lantern tied to a pole to guide Mr. Wheeler home through a snowstorm like this.
+
+Mahailey, moving about the stove, watched over the group at the table. She liked to see the men fill themselves with food-though she did not count Dan a man, by any means, and she looked out to see that Mrs. Wheeler did not forget to eat altogether, as she was apt to do when she fell to remembering things that had happened long ago. Mahailey was in a happy frame of mind because her weather predictions had come true; only yesterday she had told Mrs. Wheeler there would be snow, because she had seen snowbirds. She regarded supper as more than usually important when Claude put on his "velvet close," as she called his brown corduroys.
+
+After supper Claude lay on the couch in the sitting room, while his mother read aloud to him from "Bleak House,"--one of the few novels she loved. Poor Jo was drawing toward his end when Claude suddenly sat up. "Mother, I believe I'm too sleepy. I'll have to turn in. Do you suppose it's still snowing?"
+
+He rose and went to look out, but the west windows were so plastered with snow that they were opaque. Even from the one on the south he could see nothing for a moment; then Mahailey must have carried her lamp to the kitchen window beneath, for all at once a broad yellow beam shone out into the choked air, and down it millions of snowflakes hurried like armies, an unceasing progression, moving as close as they could without forming a solid mass. Claude struck the frozen window-frame with his fist, lifted the lower sash, and thrusting out his head tried to look abroad into the engulfed night. There was a solemnity about a storm of such magnitude; it gave one a feeling of infinity. The myriads of white particles that crossed the rays of lamplight seemed to have a quiet purpose, to be hurrying toward a definite end. A faint purity, like a fragrance almost too fine for human senses, exhaled from them as they clustered about his head and shoulders. His mother, looking under his lifted arm, strained her eyes to see out into that swarming movement, and murmured softly in her quavering voice:
+
+"Ever thicker, thicker, thicker, Froze the ice on lake and river; Ever deeper, deeper, deeper, Fell the snow o'er all the landscape."

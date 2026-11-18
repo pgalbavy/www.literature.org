@@ -1,0 +1,189 @@
+---
+title: "Part 2 - Chapter 3 - Side By Side"
+weight: 12
+url: "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-03.html"
+---
+
+The jaded horse was incapable of further service. They had to abandon it, after emptying the saddle-bags and removing the rug, which Dolores wrapped about her like a soldier's cloak.
+
+They set out again. Henceforth the girl directed the pursuit. Simon, reassured by Isabel's letter, allowed Dolores to lead the way and twenty times over had occasion to remark her perspicacity and the accuracy of her judgment or intuition.
+
+Then, less anxious, feeling that she understood, he became more talkative and abandoned himself, as on the previous day, to the burst of enthusiasm which the miracle of this new world awakened in him. The still unsettled coast-line, the irresolute river, the changing hues of the water, the ever-varying forms of the heights and valleys, the contours of the landscape, hardly more definite as yet than those of an infant's face: all of this, for an hour or two, was to him a source of wonder and exaltation.
+
+"Look, look!" he cried. "It is as though the landscape were amazed at showing itself in the light of day! Crushed until now beneath the weight of the waters, buried in darkness, it seems embarrassed by the light. Each detail has to learn how to hold itself, to win a place for itself, to adapt itself to new conditions of existence, to obey other laws, to shape itself in accordance with other purposes, in short, to live its life as a thing of earth. It will grow acquainted with the wind, the rain, the frost; with winter and spring; with the sun, the beautiful, glorious sun, which will fertilize it and draw from it all the appearance, colour, service, pleasure and beauty which it is capable of yielding. A world is being created before our eyes."
+
+Dolores listened with a charmed expression that spoke of the delight which she felt when Simon spoke for her benefit. And he, all unawares, meanwhile became kindlier and more attentive. The companion with whom chance had associated him was assuming more and more the semblance of a woman. Sometimes he reflected upon the love which she had revealed to him and asked himself whether, in professing her readiness to devote herself, she was not seeking above all to remain by his side and to profit by the circumstances which brought them together. But he was so sure of his own strength and so well protected by Isabel that he took little pains to fathom the secrets of this mysterious soul.
+
+Three times they witnessed murderous conflicts among the swarm of vagabonds who were checked by the barrier of the river. Two men and a woman fell, but Simon made no attempt to defend them or to punish the criminals:
+
+"It is the law of the strongest," he said. "No police! No judges! No executioners! No guillotine! So why trouble ourselves? All social and moral acquisitions, all the subtleties of civilization, all these melt away in a moment. What remains? The primordial instincts, which are to abuse your strength, to take what isn't yours and, in a moment of anger or greed, to kill your fellows. What does it matter? We are back in the troglodyte age! Let each man look to himself!"
+
+The sound of singing reached them from somewhere ahead, as though the river had transmitted its loud echo. They listened: it was a French rustic ditty, sung in a drawling voice to a tuneful air. The sound drew nearer. From the curtain of mist a large open boat came into view, laden with men, women and children, with baskets and articles of furniture, and impelled by the powerful effort of six oars. The men were emigrant sailors, in quest of new shores on which to rebuild their homes.
+
+"France?" cried Simon, when they passed.
+
+"Cayeux-sur-Mer," replied one of the singers.
+
+"Then this river is the Somme?"
+
+"It's the Somme."
+
+"But it's flowing north!"
+
+"Yes, but there's a sharp bend a few miles from here."
+
+"You must have passed a party of men carrying off an old man and a girl bound to two horses."
+
+"Haven't seen anything of that sort," declared the man.
+
+He resumed his singing. Women's voices joined in the chorus; and the boat moved on.
+
+"Rolleston must have branched off towards France," Simon concluded.
+
+"He can't have done that," objected Dolores, "since his present objective is the fountain of gold which some one mentioned to him."
+
+"In that case what has become of them?"
+
+The reply to this question was vouchsafed after an hour's difficult walking over a ground composed of millions upon millions of those broken sea-shells which the patient centuries use in kneading and shaping of the tallest cliffs. It all crackled under their feet and sometimes they sank into it above their ankles. Some tracts, hundreds of yards wide, were covered with a layer of dead fish on which they were compelled to trudge and which formed a mass of decomposing flesh with an intolerable stench to it.
+
+But a slope of hard, firm ground led them to a more rugged promontory overhanging the river. Here a dozen men, grey before their time, clothed in rags and repulsively filthy, with evil faces and brutal gestures, were cutting up the carcass of a horse and grilling the pieces over a scanty fire fed with sodden planks. They seemed to be a gang of tramps who had joined forces for looting on a larger scale. They had a sheep-dog with them. One of them stated that he had that morning seen a party of armed men crossing the Somme, making use of a big wreck which lay stranded in the middle of the river and which they had reached by a frail, hastily-constructed bridge.
+
+"Look," he said, "there she is, at the far end of the cliff. They slid the girl down first and then the old, trussed-up chap."
+
+"But," asked Simon, "the horses didn't get across that way, did they?"
+
+"The horses? They were done for. So they let them go. Two of my mates took three of them and have gone back to France with them. . . . If they get there, it'll be a bit of luck for them. The fourth, he's on the spit: we're going to have our dinner off him. . . . After all, one must eat!"
+
+"And those people, where were they going?" asked Simon.
+
+"Going to pick up gold. They were talking of a fountain flowing with gold pieces . . . real gold coins. We're going too, we are. What we're wanting is arms: arms that are some use."
+
+The tramps had risen to their feet; and, obeying an unconcerted and spontaneous movement, they gathered round Simon and Dolores. The man who had been speaking laid his hand upon Simon's rifle:
+
+"This sort of thing, you know. A gun like that must come in handy just now . . . especially to defend a pocket-book which is probably a fat one. . . . It's true," he added, in a threatening tone, "that my mates and I have got our sticks and knives, for when it comes to talking."
+
+"A revolver's better," said Simon, drawing his from his pocket.
+
+The circle of tramps opened out.
+
+"Stay where you are, will you?" he bade them. "The first of you who moves a step, I shoot him down!"
+
+Walking backwards, while keeping the men covered with his revolver, he drew Dolores to the end of the promontory. The tramps had not budged a foot.
+
+"Come," whispered Simon. "We have nothing to fear from them."
+
+The boat, completely capsized, squat and clumsy as the shell of a tortoise, barred the second half of the river. In foundering she had spilt on the sloping shore a deck cargo of timber, now sodden, but still sound enough to enable Rolleston's gang to build a footbridge twelve yards long across the arm of the river.
+
+Dolores and Simon crossed it briskly. It was easy after that to go along the nearly flat bottom of the keel and to slide down the chain of the anchor. But, just as Dolores reached the ground, a violent concussion shook the chain, of which she had not yet let go, and a shot rang out from the other bank.
+
+"Ah!" she said. "I was lucky: the bullet has struck one of the links."
+
+Simon had faced round. Opposite them, the tramps were venturing on the footbridge one by one.
+
+"But who can have fired?" he demanded. "Those beggars haven't a rifle."
+
+Dolores gave him a sudden push, so that he was protected by the bulk of the wreck:
+
+"Who fired?" she repeated. "Forsetta or Mazzani."
+
+"Have you seen them?"
+
+"Yes, at the back of the promontory. You can understand, a very few words would enable them to make a deal with the tramps and persuade them to attack us."
+
+They both ran round to the other side of the stern. From there they could see the whole of the footbridge and were under cover from the snipers. Simon raised his rifle to his shoulder.
+
+"Fire!" cried Dolores, seeing him hesitate.
+
+The shot rang out. The foremost of the vagabonds fell. He roared with pain, holding his leg. The others hurried back, dragging him with them, and the promontory was cleared of men. But, though the tramps could not risk going on the footbridge, it was no less dangerous for Dolores and Simon to leave the protected area formed by the wreck. Directly they became visible, they were exposed to Forsetta's or Mazzani's fire.
+
+"We must wait till dark," Dolores decided.
+
+For hours, rifle in hand, they watched the promontory, on which a head and shoulders or gesticulating arms appeared at frequent intervals and from which on several occasions also the threat of a levelled rifle forced them to hide themselves. Then, as soon as the darkness was dense enough, they set off again, convinced that Rolleston's trail would continue to ascend the Somme.
+
+They travelled quickly, never doubting that the two Indians and the vagabonds would pursue them. Indeed, they heard their voices across the water and saw fleeting glimmers of light on the same bank as themselves.
+
+"They know," said Dolores, "that Rolleston went in this direction and that we, who are looking for him, are bound to keep to it."
+
+After two hours' progress, during which they groped their way, guided from time to time by the vague shimmering of the river, they reached a sort of isolated chaos into which Simon wearily cast the light of his electric torch. It consisted of enormous blocks of hewn stone, sunk in some lighter, marble, as far as he could see, and partly awash.
+
+"I think we might stop here," said Simon, "at all events till daybreak."
+
+"Yes," Dolores said, "at daybreak you go on again."
+
+He was surprised by this reply:
+
+"But you too, I suppose, Dolores?"
+
+"Of course; but wouldn't it be better for us to separate? Soon Rolleston's trail will leave the river and Forsetta is sure to catch you up, unless I draw him off on another trail."
+
+Simon did not quite understand the girl's plan:
+
+"Then what will you do, Dolores?" he asked.
+
+"I shall go my own way and I shall certainly draw them after me, since it's I they want."
+
+"But in that case you'll fall into the hands of Forsetta and Mazzani, who means to avenge his brother's death. . . ."
+
+"I shall give them the slip."
+
+"And all the brutes swarming in these parts: will you give them the slip too?"
+
+"We're not discussing my affairs, but yours: you have to catch Rolleston. I am hampering your efforts. So let us separate."
+
+"Not at all!" protested Simon. "We have no right to separate; and you may be sure that I shan't leave you."
+
+Dolores' offer aroused Simon's curiosity. What was the girl's motive? Why did she propose to sacrifice herself? In the silence and the darkness, he thought of her for a long while and of their extraordinary adventure. Starting in pursuit of the woman whom he loved, here he was bound by events to another woman, who was herself pursued; and of this other woman, whose safety depended on his and whose fate was closely linked with his own, he knew nothing but the grace of her figure and the beauty of her face. He had saved her life and he scarcely knew her name. He was protecting her and defending her; and her whole soul remained concealed from him.
+
+He felt that she was creeping closer to him. Then he heard these words, which she uttered in a low and hesitating voice:
+
+"It's to save me from Forsetta, isn't it, that you refuse my offer?"
+
+"Of course," he said. "He's terribly dangerous."
+
+She replied, in a still lower voice and in the tone of one making a confession:
+
+"You must not let the threat of a Forsetta influence your conduct. . . . What happens to me is of no great account. . . . Without knowing much about my life, you can imagine the sort of girl I was: a little cigarette-seller hanging about the streets of Mexico; later, a dancer in the saloons at Los Angeles. . . ."
+
+"Hush!" said Simon, placing his hand over her mouth. "There must be no confidences between you and me."
+
+She insisted:
+
+"Still you know that Miss Bakefield is running the same danger as myself. By remaining with me, you sacrifice her."
+
+"Hush!" he repeated, angrily. "I am doing my duty in not leaving you; and Miss Bakefield herself would never forgive me if I did otherwise!"
+
+The girl irritated him. He suspected that she regarded herself as having triumphed over Isabel and that she had been trying to confirm her victory by proving to Simon that he ought to have left her.
+
+"No, no," he said to himself, "it's not for her sake that I'm staying with her. I'm staying because it's my duty. A man does not leave a woman under such conditions. But is she capable of understanding that?"
+
+They had to leave their refuge in the middle of the night, for it was stealthily invaded by the river, and to lie down higher up the beach.
+
+No further incident disturbed their sleep. But in the morning, when the darkness was not yet wholly dispersed, they were awakened by quick, hollow barks. A dog came leaping towards them at such a speed that Simon had no time to do more than pull out his revolver.
+
+"Don't fire!" cried Dolores, knife in hand.
+
+It was too late. The brute turned a somersault, made a few convulsive moments and lay motionless. Dolores stooped over it and said, positively:
+
+"I recognize him, he's the tramps' dog. They are on our track. The dog had run ahead of them."
+
+"But our track's impossible to follow. There's hardly any light."
+
+"Forsetta and Mazzani have their torches, just as you have. Besides, the firing would have told them."
+
+"Then let's be off as quickly as possible," Simon proposed.
+
+"They will catch us up . . . at least, unless you abandon your search of Rolleston."
+
+Simon seized his rifle:
+
+"That's true. So the only thing is to wait for them here and kill them one by one."
+
+"That's so," she said. "Unfortunately. . . ."
+
+"Well?"
+
+"Yesterday, after firing at the tramps, you did not reload your rifle."
+
+"No, but my cartridge-belt is on the sand, at the place where I slept."
+
+"So is mine; and both are covered by the rising water. Therefore there are only the six cartridges of your Browning left."

@@ -1,0 +1,307 @@
+---
+title: "Chapter 19"
+weight: 19
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-19.html"
+---
+
+The country was discreetly conservative in its social attitude. The gulf between it and the new owner of Temple Barholm was too wide and deep to be crossed without effort combined with immense mental agility. It was on the whole, much easier not to begin a thing at all than to begin it and find one must hastily search about for not too noticeable methods of ending it. A few unimportant, tentative calls were made, and several ladies who had remained unaware of Miss Alicia during her first benefactor's time drove over to see what she was like and perhaps by chance hear something of interest. One or two of them who saw Tembarom went away puzzled and amazed. He did not drop his h's, which they had of course expected, and he was well dressed, and not bad-looking; but it was frequently impossible to understand what he was talking about, he used such odd phrases. He seemed good natured enough, and his way with little old Miss Temple Barholm was really quite nice, queer as it was. It was queer because he was attentive to her in a manner in which young men were not usually attentive to totally insignificant, elderly dependents.
+
+Tembarom derived an extremely diluted pleasure from the visits. The few persons he saw reminded him in varying degrees of Mr. Palford. They had not before seen anything like his species, and they did not know what to do with him. He also did not know what to do with them. A certain inelasticity frustrated him at the outset. When, in obedience to Miss Alicia's instructions, he had returned the visits, he felt he had not gone far.
+
+Serious application enabled him to find his way through the church service, and he accompanied Miss Alicia to church with great regularity. He began to take down the books from the library shelves and look them over gravely. The days gradually ceased to appear so long, but he had a great deal of time on his hands, and he tried to find ways of filling it. He wondered if Ann would be pleased if he learned things out of books.
+
+When he tentatively approached the subject of literature with Miss Alicia, she glowed at the delightful prospect of his reading aloud to her in the evenings--“reading improving things like history and the poets.”
+
+“Let's take a hack at it some night,” he said pleasantly.
+
+The more a fellow knew, the better it was for him, he supposed; but he wondered, if anything happened and he went back to New York, how much “improving things” and poetry would help a man in doing business.
+
+The first evening they began with Gray's “Elegy,” and Miss Alicia felt that it did not exhilarate him; she was also obliged to admit that he did not read it very well. But she felt sure he would improve. Personally she was touchingly happy. The sweetly domestic picture of the situation, she sitting by the fire with her knitting and he reading aloud, moved and delighted her. The next evening she suggested Tennyson's “Maud.” He was not as much stirred by it as she had hoped. He took a somewhat humorous view of it.
+
+“He had it pretty bad, hadn't he?”' he said of the desperate lover.
+
+“Oh, if only you could once have heard Sims Reeves sing 'Come into the Garden, Maud'!” she sighed. “A kind friend once took me to hear him, and I have never, never forgotten it.”
+
+But Mr. Temple Barholm notably did not belong to the atmosphere of impassioned tenors.
+
+On still another evening they tried Shakspere. Miss Alicia felt that a foundation of Shakspere would be “improving” indeed. They began with “Hamlet.”
+
+He found play-reading difficult and Shaksperian language baffling, but he made his way with determination until he reached a point where he suddenly grew quite red and stopped.
+
+“Say, have you read this?” he inquired after his hesitation.
+
+“The plays of Shakspere are a part of every young lady's education,” she answered; “but I am afraid I am not at all a Shaksperian scholar.”
+
+“A young lady's education?” he repeated. “Gee whizz!” he added softly after a pause.
+
+He glanced over a page or so hastily, and then laid the book down.
+
+“Say,” he suggested, with an evasive air, “let's go over that 'Maud' one again. It's--well, it's easier to read aloud.”
+
+The crude awkwardness of his manner suddenly made Miss Alicia herself flush and drop a stitch in her knitting. How dreadful of her not to have thought of that!
+
+“The Elizabethan age was, I fear, a rather coarse one in some respects. Even history acknowledges that Queen Elizabeth herself used profane language.” She faltered and coughed a little apologetic cough as she picked up her stitch again.
+
+“I bet Ann's never seen inside Shakspere,” said Tembarom. Before reading aloud in the future he gave some previous personal attention to the poem or subject decided upon. It may be at once frankly admitted that when he read aloud it was more for Miss Alicia's delectation than for his own. He saw how much she enjoyed the situation.
+
+His effect of frankness and constant boyish talk was so inseparable from her idea of him that she found it a puzzling thing to realize that she gradually began to feel aware of a certain remote reserve in him, or what might perhaps be better described as a habit of silence upon certain subjects. She felt it marked in the case of Strangeways. She surmised that he saw Strangeways often and spent a good deal of time with him, but he spoke of him rarely, and she never knew exactly what hours were given to him. Sometimes she imagined he found him a greater responsibility than he had expected. Several times when she believed that he had spent part of a morning or afternoon in his room, he was more silent than usual and looked puzzled and thoughtful. She observed, as Mr. Palford had, that the picture-gallery, with its portraits of his ancestors, had an attraction. A certain rainy day he asked her to go with him and look them over. It was inevitable that she should soon wander to the portrait of Miles Hugo and remain standing before it. Tembarom followed, and stood by her side in silence until her sadness broke its bounds with a pathetic sigh.
+
+“Was he very like him?” he asked.
+
+She made an unconscious, startled movement. For the moment she had forgotten his presence, and she had not really expected him to remember.
+
+“I mean Jem,” he answered her surprised look. “How was he like him? Was there--” he hesitated and looked really interested--“was he like him in any particular thing?”
+
+“Yes,” she said, turning to the portrait of Miles Hugo again. “They both had those handsome, drooping eyes, with the lashes coming together at the corners. There is something very fascinating about them, isn't there? I used to notice it so much in dear little Jem. You see how marked they are in Miles Hugo.”
+
+“Yes,” Tembarom answered. “A fellow who looked that way at a girl when he made love to her would get a strangle-holt. She wouldn't forget him soon.”
+
+“It strikes you in that way, too?” said Miss Alicia, shyly. “I used to wonder if it was--not quite nice of me to think of it. But it did seem that if any one did look at one like that--” Maidenly shyness overcame her. “Poor Lady Joan!” she sighed.
+
+“There's a sort of cleft in his chin, though it's a good, square chin,” he suggested. “And that smile of his--Were Jem's--?”
+
+“Yes, they were. The likeness was quite odd sometimes--quite.”
+
+“Those are things that wouldn't be likely to change much when he grew up,” Tembarom said, drawing a little closer to the picture. “Poor Jem! He was up against it hard and plenty. He had it hardest. This chap only died.”
+
+There was no mistaking his sympathy. He asked so many questions that they sat down and talked instead of going through the gallery. He was interested in the detail of all that had occurred after the ghastly moment when Jem had risen from the card-table and stood looking around, like some baited dying animal, at the circle of cruel faces drawing in about him. How soon had he left London? Where had he gone first? How had he been killed? He had been buried with others beneath a fall of earth and stones. Having heard this much, Tembarom saw he could not ask more questions. Miss Alicia became pale, and her hands trembled. She could not bear to discuss details so harrowing.
+
+“Say, I oughtn't to let you talk about that,” he broke out, and he patted her hand and made her get up and finish their walk about the gallery. He held her elbow in his own odd, nice way as he guided her, and the things he said, and the things he pretended to think or not to understand, were so amusing that in a short time he had made her laugh. She knew him well enough by this time to be aware that he was intentionally obliging her to forget what it only did her harm to remember. That was his practical way of looking at it.
+
+“Getting a grouch on or being sorry for what you can't help cuts no ice,” he sometimes said. “When it does, me for getting up at daybreak and keeping at it! But it doesn't, you bet your life on that.”
+
+She could see that he had really wanted to hear about Jem, but he knew it was bad for her to recall things, and he would not allow her to dwell on them, just as she knew he would not allow himself to dwell on little Miss Hutchinson, remotely placed among the joys of his beloved New York.
+
+Two other incidents besides the visit to Miles Hugo afterward marked that day when Miss Alicia looked back on it. The first was his unfolding to her his plans for the house-party, which was characteristic of his habit of thinking things over and deciding them before he talked about them.
+
+“If I'm going to try the thing out, as Ann says I must,” he began when they had gone back to the library after lunch, “I've got to get going. I'm not seeing any of those Pictorial girls, and I guess I've got to see some.”
+
+“You will be invited to dine at places,” said Miss Alicia,--“presently,” she added bravely, in fact, with an air of greater conviction than she felt.
+
+“If it's not the law that they've got to invite me or go to jail,” said Tembarom, “I don't blame 'em for not doing it if they're not stuck on me. And they're not; and it's natural. But I've got to get in my fine work, or my year'll be over before I've 'found out for myself,' as Ann called it. There's where I'm at, Miss Alicia--and I've been thinking of Lady Joan and her mother. You said you thought they'd come and stay here if they were properly asked.”
+
+“I think they would,” answered Miss Alicia with her usual delicacy. “I thought I gathered from Lady Mallowe that, as she was to be in the neighborhood, she would like to see you and Temple Barholm, which she greatly admires.”
+
+“If you'll tell me what to do, I'll get her here to stay awhile,” he said, “and Lady Joan with her. You'd have to show me how to write to ask them; but perhaps you'd write yourself.”
+
+“They will be at Asshawe Holt next week,” said Miss Alicia, “and we could go and call on them together. We might write to them in London before they leave.”
+
+“We'll do it,” answered Tembarom. His manner was that of a practical young man attacking matter-of-fact detail. “From what I hear, Lady Joan would satisfy even Ann. They say she's the best-looker on the slate. If I see her every day I shall have seen the blue-ribbon winner. Then if she's here, perhaps others of her sort'll come, too; and they'll have to see me whether they like it or not--and I shall see them. Good Lord!” he added seriously, “I'd let 'em swarm all over me and bite me all summer if it would fix Ann.”
+
+He stood up, with his hands thrust deep in his pockets, and looked down at the floor.
+
+“I wish she knew T. T. like T. T. knows himself,” he said. It was quite wistful.
+
+It was so wistful and so boyish that Miss Alicia was thrilled as he often thrilled her.
+
+“She ought to be a very happy girl,” she exclaimed.
+
+“She's going to be,” he answered, “sure as you're alive. But whatever she does, is right, and this is as right as everything else. So it just goes.”
+
+They wrote their letters at once, and sent them off by the afternoon post. The letter Miss Alicia composed, and which Tembarom copied, he read and reread, with visions of Jim Bowles and Julius looking over his shoulder. If they picked it up on Broadway, with his name signed to it, and read it, they'd throw a fit over it, laughing. But he supposed she knew what you ought to write.
+
+It had not, indeed, the masculine touch. When Lady Mallowe read it, she laughed several times. She knew quite well that he had not known what to say, and, allowing Miss Alicia to instruct him, had followed her instructions to the letter. But she did not show the letter to Joan, who was difficult enough to manage without being given such material to comment upon.
+
+The letters had just been sent to the post when a visitor was announced--Captain Palliser. Tembarom remembered the name, and recalled also certain points connected with him. He was the one who was a promoter of schemes--“One of the smooth, clever ones that get up companies,” Little Ann had said.
+
+That in a well-bred and not too pronounced way he looked smooth and clever might be admitted. His effect was that of height, finished slenderness of build, and extremely well-cut garments. He was no longer young, and he had smooth, thin hair and a languidly observant gray eye.
+
+“I have been staying at Detchworth Grange,” he explained when he had shaken hands with the new Temple Barholm and Miss Alicia. “It gave me an excellent opportunity to come and pay my respects.”
+
+There was a hint of uncertainty in the observant gray eye. The fact was that he realized in the space of five minutes that he knew his ground even less than he had supposed he did. He had not spent his week at Detchworth Grange without making many quiet investigations, but he had found out nothing whatever. The new man was an ignoramus, but no one had yet seemed to think him exactly a fool. He was not excited by the new grandeurs of his position and he was not ashamed of himself. Captain Palliser wondered if he was perhaps sharp--one of those New Yorkers shrewd even to light-fingeredness in clever scheming. Stories of a newly created method of business dealing involving an air of candor and almost primitive good nature--an American method--had attracted Captain Palliser's attention for some time. A certain Yankee rawness of manner played a part as a factor, a crudity which would throw a man off guard if he did not recognize it. The person who employed the method was of philosophical non-combativeness. The New York phrase was that “He jollied a man along.” Immense schemes had been carried through in that way. Men in London, in England, were not sufficiently light of touch in their jocularity. He wondered if perhaps this young fellow, with his ready laugh and rather loose-jointed, casual way of carrying himself, was of this dangerous new school.
+
+What, however, could he scheme for, being the owner of Temple Barholm's money? It may be mentioned at once that Captain Palliser's past had been such as had fixed him in the belief that every one was scheming for something. People with money wanted more or were privately arranging schemes to prevent other schemers from getting any shade the better of them. Debutantes with shy eyes and slim figures had their little plans to engineer delicately. Sometimes they were larger plans than the uninitiated would have suspected as existing in the brains of creatures in their 'teens, sometimes they were mere fantastic little ideas connected with dashing young men or innocent dances which must be secured or lovely young rivals who must be evaded. Young men had also deft things to do--people to see or not to see, reasons for themselves being seen or avoiding observation. As years increased, reasons for schemes became more numerous and amazingly more varied. Women with daughters, with sons, with husbands, found in each relationship a necessity for active, if quiet, manoeuvering. Women like Lady Mallowe--good heaven! by what schemes did not that woman live and have her being--and her daughter's--from day to day! Without money, without a friend who was an atom more to be relied on than she would have been herself if an acquaintance had needed her aid, her outwardly well-to-do and fashionable existence was a hand-to-hand fight. No wonder she had turned a still rather brilliant eye upon Sir Moses Monaldini, the great Israelite financier. All of these types passed rapidly before his mental vision as he talked to the American Temple Barholm. What could he want, by chance? He must want something, and it would be discreet to find out what it chanced to be.
+
+If it was social success, he would be better off in London, where in these days you could get a good run for your money and could swing yourself up from one rung of the ladder to another if you paid some one to show you how. He himself could show him how. A youngster who had lived the beastly hard life he had lived would be likely to find exhilaration in many things not difficult to purchase. It was an odd thing, by the way, the fancy he had taken to the little early-Victorian spinster. It was not quite natural. It perhaps denoted tendencies--or lack of tendencies--it would also be well to consider. Palliser was a sufficiently finished product himself to be struck greatly by the artistic perfection of Miss Alicia, and to wonder how much the new man understood it.
+
+He did not talk to him about schemes. He talked to him of New York, which he had never seen and hoped sometime shortly to visit. The information he gained was not of the kind he most desired, but it edified him. Tembarom's knowledge of high finance was a street lad's knowledge of it, and he himself knew its limitations and probable unreliability. Such of his facts as rested upon the foundation of experience did not include multimillionaires and their resources.
+
+Captain Palliser passed lightly to Temple Barholm and its neighborhood. He knew places and names, and had been to Detchworth more than once. He had never visited Temple Barholm, and his interest suggested that he would like to walk through the gardens. Tembarom took him out, and they strolled about for some time. Even an alert observer would not have suspected the fact that as they strolled, Tembarom slouching a trifle and with his hands in his pockets, Captain Palliser bearing himself with languid distinction, each man was summing up the other and considering seriously how far and in what manner he could be counted as an asset.
+
+“You haven't been to Detchworth yet?” Palliser inquired.
+
+“No, not yet,” answered Tembarom. The Granthams were of those who had not yet called.
+
+“It's an agreeable house. The Granthams are agreeable people.”
+
+“Are there any young people in the family?” Tembarom asked.
+
+“Young people? Male or female?” Palliser smilingly put it. Suddenly it occurred to him that this might give him a sort of lead.
+
+“Girls,” said Tembarom, crudely--“just plain girls.”
+
+Palliser laughed. Here it was, perhaps.
+
+“They are not exactly 'plain' girls, though they are not beauties. There are four Misses Grantham. Lucy is the prettiest. Amabel is quite tremendous at tennis.”
+
+“Are they ladies?” inquired Tembarom.
+
+Captain Palliser turned and involuntarily stared at him. What was the fellow getting at?
+
+“I'm afraid I don't quite understand,” he said.
+
+The new Temple Barholm looked quite serious. He did not, amazing to relate, look like a fool even when he gave forth his extraordinary question. It was his almost business-like seriousness which saved him.
+
+“I mean, do you call them Lady Lucy and Lady Amabel?” he answered.
+
+If he had been younger, less hardened, or less finished, Captain Palliser would have laughed outright. But he answered without self-revelation.
+
+“Oh, I see. You were asking whether the family is a titled one. No; it is a good old name, quite old, in fact, but no title goes with the estate.”
+
+“Who are the titled people about here?” Tembarom asked, quite unabashed.
+
+“The Earl of Pevensy at Pevensy Park, the Duke of Stone at Stone Hover, Lord Hambrough at Doone. Doone is in the next county, just over the border.”
+
+“Have they all got daughters?”
+
+Captain Palliser found it expedient to clear his throat before speaking.
+
+“Lord Pevensy has daughters, so has the duke. Lord Hambrough has three sons.”
+
+“How many daughters are there--in a bunch?” Mr. Temple Barholm suggested liberally.
+
+There Captain Palliser felt it safe to allow himself to smile, as though taking it with a sense of humor.
+
+“'In a bunch' is an awfully good way of putting it,” he said. “It happens to apply perhaps rather unfortunately well; both families are much poorer than they should be, and daughters must be provided for. Each has four. 'In a bunch' there are eight: Lady Alice, Lady Edith, Lady Ethel, and Lady Celia at Stone Hover; Lady Beatrice, Lady Gwynedd, Lady Honora, and Lady Gwendolen at Pevensy Park. And not a fortune among them, poor girls!”
+
+“It's not the money that matters so much,” said the astounding foreigner, “it's the titles.”
+
+Captain Palliser stopped short in the garden path for a moment. He could scarcely believe his ears. The crude grotesqueness of it so far got the better of him that if he had not coughed he would have betrayed himself.
+
+“I've had a confounded cold lately,” he said. “Excuse me; I must get it over.”
+
+He turned a little aside and coughed energetically.
+
+After watching him a few seconds Tembarom slipped two fingers into his waistcoat pocket and produced a small tube of tablets.
+
+“Take two of these,” he said as soon as the cough stopped. “I always carry it about with me. It's a New York thing called 'G. Destroyer.' G stands for grippe.”
+
+Palliser took it.
+
+“Thanks. With water? No? Just dissolve in the mouth. Thanks awfully.” And he took two, with tears still standing in his eyes.
+
+“Don't taste bad, do they?” Mr. Temple Barholm remarked encouragingly.
+
+“Not at all. I think I shall be all right now. I just needed the relief. I have been trying to restrain it.”
+
+“That's a mistake,” said Tembarom. They strolled on a pace or so, and he began again, as though he did not mean to let the subject drop. “It's the titles,” he said, “and the kind. How many of them are good-lookers?”
+
+Palliser reflected a moment, as though making mental choice.
+
+“Lady Alice and Lady Celia are rather plain,” he said, “and both of them are invalidish. Lady Ethel is tall and has handsome eyes, but Lady Edith is really the beauty of the family. She rides and dances well and has a charming color.”
+
+“And the other ones,” Tembaron suggested as he paused--“Lady Beatrice and Lady Gwynedd and Lady Honora and Lady Gwendolen.”
+
+“You remember their names well,” Palliser remarked with a half-laugh.
+
+“Oh, I shall remember them all right,” Tembarom answered. “I earned twenty-five per in New York by getting names down fine.”
+
+“The Talchesters are really all rather taking. Talchester is Lord Pevensy's family name,” Palliser explained. “They are girls who have pretty little noses and bright complexions and eyes. Lady Gwynedd and Lady Honora both have quite fascinating dimples.”
+
+“Dimples!” exclaimed his companion. “Good business.”
+
+“Do you like dimples particularly?” Palliser inquired with an impartial air.
+
+“I'd always make a bee-line for a dimple,” replied Mr. Temple Barholm. “Clear the way when I start.”
+
+This was New York phrasing, and was plainly humorous; but there was something more than humor in his eye and smile--something hinting distantly at recollection.
+
+“You'll find them at Pevensy Park,” said Palliser.
+
+“What about Lady Joan Fayre?” was the next inquiry.
+
+Palliser's side glance at him was observant indeed. He asked himself how much the man could know. Taking the past into consideration, Lady Joan might turn out to be a subject requiring delicate handling. It was not the easiest thing in the world to talk at all freely to a person with whom one desired to keep on good terms, about a young woman supposed still to cherish a tragic passion for the dead man who ought to stand at the present moment in the person's, figuratively speaking, extremely ill-fitting shoes.
+
+“Lady Joan has been from her first season an undeniable beauty,” he replied.
+
+“She and the old lady are going to stay at a place called Asshawe Holt. I think they're going next week,” Tembarom said.
+
+“The old lady?” repeated Captain Palliser.
+
+“I mean her mother. The one that's the Countess of Mallowe.”
+
+“Have you met Lady Mallowe?” Palliser inquired with a not wholly repressed smile. A vision of Lady Mallowe over-hearing their conversation arose before him.
+
+“No, I haven't. What's she like?”
+
+“She is not the early-or mid-Victorian old lady,” was Palliser's reply. “She wears Gainsborough hats, and looks a quite possible eight and thirty. She is a handsome person herself.”
+
+He was not aware that the term “old lady” was, among Americans of the class of Mrs. Bowse's boarders, a sort of generic term signifying almost anything maternal which had passed thirty.
+
+Tembarom proceeded.
+
+“After they get through at the Asshawe Holt place, I've asked them to come here.”
+
+“Indeed,” said Palliser, with an inward start. The man evidently did not know what other people did. After all, why should he? He had been selling something or other in the streets of New York when the thing happened, and he knew nothing of London.
+
+“The countess called on Miss Alicia when we were in London,” he heard next. “She said we were relations.”
+
+“You are--as we are. The connection is rather distant, but it is near enough to form a sort of link.”
+
+“I've wanted to see Lady Joan,” explained Tembarom. “From what I've heard, I should say she was one of the 'Lady's Pictorial' kind.”
+
+“I am afraid--” Palliser's voice was slightly unsteady for the moment--“I have not studied the type sufficiently to know. The 'Pictorial' is so exclusively a women's periodical.”
+
+His companion laughed.
+
+“Well, I've only looked through it once myself just to find out. Some way I always think of Lady Joan as if she was like one of those Beaut's from Beautsville, with trains as long as parlor-cars and feathers in their heads--dressed to go to see the queen. I guess she's been presented at court,” he added.
+
+“Yes, she has been presented.”
+
+“Do they let 'em go more than once?” he asked with casual curiosity.
+
+“Confound this cough!” exclaimed Captain Palliser, and he broke forth again.
+
+“Take another G,” said Tembarom, producing his tube. “Say, just take the bottle and keep it in your pocket.”
+
+When the brief paroxysm was over and they moved on again, Palliser was looking an odd thing or so in the face. “I always think of Lady Joan” was one of them. “Always” seemed to go rather far. How often and why had he “always thought”? The fellow was incredible. Did his sharp, boyish face and his slouch conceal a colossal, vulgar, young ambition? There was not much concealment about it, Heaven knew. And as he so evidently was not aware of the facts, how would they affect him when he discovered them? And though Lady Mallowe was a woman not in the least distressed or hampered by shades of delicacy and scruple, she surely was astute enough to realize that even this bounder's dullness might be awakened to realize that there was more than a touch of obvious indecency in bringing the girl to the house of the man she had tragically loved, and manoeuvering to work her into it as the wife of the man who, monstrously unfit as he was, had taken his place. Captain Palliser knew well that the pressing of the relationship had meant only one thing. And how, in the name of the Furies! had she dragged Lady Joan into the scheme with her?
+
+It was as unbelievable as was the new Temple Barholm himself. And how unconcerned the fellow looked! Perhaps the man he had supplanted was no more to him than a scarcely remembered name, if he was as much as that. Then Tembarom, pacing slowly by his side, hands in pockets, eyes on the walk, spoke:
+
+“Did you ever see Jem Temple Barholm?” he asked.
+
+It was like a thunderbolt. He said it as though he were merely carrying his previous remarks on to their natural conclusion; but Palliser felt himself so suddenly unadjusted, so to speak, that he palpably hesitated.
+
+“Did you?” his companion repeated.
+
+“I knew him well,” was the answer made as soon as readjustment was possible.
+
+“Remember just how he looked?”
+
+“Perfectly. He was a striking fellow. Women always said he had fascinating eyes.”
+
+“Sort of slant downward on the outside corners--and black eyelashes sorter sweeping together?”
+
+Palliser turned with a movement of surprise.
+
+“How did you know? It was just that odd sort of thing.”
+
+“Miss Alicia told me. And there's a picture in the gallery that's like him.”
+
+Captain Palliser felt as embarrassed as Miss Alicia had felt, but it was for a different reason. She had felt awkward because she had feared she had touched on a delicate subject. Palliser was embarrassed because he was entirely thrown out of all his calculations. He felt for the moment that there was no calculating at all, no security in preparing paths. You never know where they would lead. Here had he been actually alarmed in secret! And the oaf stood before him undisturbedly opening up the subject himself.
+
+“For a fellow like that to lose a girl as he lost Lady Joan was pretty tough,” the oaf said. “By gee! it was tough!”
+
+He knew it all--the whole thing, scandal, tragically broken marriage, everything. And knowing it, he was laying his Yankee plans for getting the girl to Temple Barholm to look her over. It was of a grossness one sometimes heard of in men of his kind, and yet it seemed in its casualness to out-leap any little scheme of the sort he had so far looked on at.
+
+“Lady Joan felt it immensely,” he said.
+
+A footman was to be seen moving toward them, evidently bearing a message. Tea was served in the drawing-room, and he had come to announce the fact.
+
+They went back to the house, and Miss Alicia filled cups for them and presided over the splendid tray with a persuasive suggestion in the matter of hot or cold things which made it easy to lead up to any subject. She was the best of unobtrusive hostesses.
+
+Palliser talked of his visit at Detchworth, which had been shortened because he had gone to “fit in” and remain until a large but uncertain party turned up. It had turned up earlier than had been anticipated, and of course he could only delicately slip away.
+
+“I am sorry it has happened, however,” he said, “not only because one does not wish to leave Detchworth, but because I shall miss Lady Mallowe and Lady Joan, who are to be at Asshawe Holt next week. I particularly wanted to see them.”
+
+Miss Alicia glanced at Tembarom to see what he would do. He spoke before he could catch her glance.
+
+“Say,” he suggested, “why don't you bring your grip over here and stay? I wish you would.”
+
+“A grip means a Gladstone bag,” Miss Alicia murmured in a rapid undertone.
+
+Palliser replied with appreciative courtesy. Things were going extremely well.
+
+“That's awfully kind of you,” he answered. “I should like it tremendously. Nothing better. You are giving me a delightful opportunity. Thank you, thank you. If I may turn up on Thursday I shall be delighted.”
+
+There was satisfaction in this at least in the observant gray eye when he went away.

@@ -1,0 +1,87 @@
+---
+title: "Chapter 21"
+weight: 21
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-21.html"
+---
+
+So it was that the daring native came up the plateau, saluted the first sentinel whom he saw, and brusquely announced that he had immediate business with Captain Navarro. The latter was in one of the large lower apartments engaged with his evening meal. When word was brought to him, he sprang up and hastened outside, where Martella was standing erect, like a true soldier of the Atlamalcan army, and saluted him.
+
+"Do you come from General Yozarro?" was the inquiry.
+
+"Directly from him," was the unblushing response.
+
+"What are his commands?"
+
+"That I bring the American Señorita to him without delay."
+
+"Where is the General? I am expecting him any hour."
+
+"You know I am one of the firemen on the gunboat; it lies against the shore where we stopped last night when the Señoritas were brought here."
+
+This was the critical moment. If Captain Navarro had learned of the desertion of Martella, the life of the latter was not worth a moment's purchase, but in reality he knew nothing of it. The Captain, well aware of the ferocious temper of the Dictator, stood in as abject awe of him as did every other citizen of Atlamalco. But as the two conversed, the wits of the officer gradually returned to him.
+
+"Where is the escort of the Señorita?"
+
+"Standing before you."
+
+"You do not come alone?"
+
+"I do—"
+
+"But how is it the General himself does not come?"
+
+"Perhaps the Captain would like to put that question to General Yozarro."
+
+"I shall be pleased to read your order."
+
+"The only order I bear has just been given to you."
+
+"Impossible! General Yozarro would never do a thing like that."
+
+"Perhaps you would like to say that also to the General. But I will save you the trouble; I will tell him myself that you refuse to do as commanded."
+
+Martella turned to move off, but the Captain caught his arm.
+
+"No, no, no, Martella! You must not do that; you see the dilemma I am in; if I make a mistake, it will cost me my life."
+
+"It is with you whether you shall make a mistake or not; I have done my duty."
+
+He made again as if to go, but the officer would not permit it. The moment had come for Martella to play his trump card. The two were standing within hearing of several soldiers who, in accordance with the loose discipline of the army, made no attempt to hide that they were listening. Lowering his voice, the messenger said:
+
+"Step aside one moment, Captain; I have something for your private ear."
+
+When they were beyond hearing of the group, the soldier spoke in a guarded voice:
+
+"Are you blind, Captain? Do you not see which way the wind blows? General Yozarro does not wish his relative, Señorita Estacardo to come to him, because she would be troublesome; you know of some of the General's conquests among the other sex; he is in love with the beautiful Señorita from the North, but she has friends and he must protect every step. If he sent you a written order, it might return to vex him, when the relatives of the Señorita call upon him to explain, but what does he care for poor devils like us upon whom he will be able to lay the blame of a misunderstanding? He will be able to swear that it was all a blunder of others. I respectfully suggested that a written order would be asked for by you, for you are an excellent officer who insists that everything shall be done in the order of true discipline. You know the temper of the General; he swore at me and declared that if you dared hesitate, he would have you shot. Then he cooled down and told me to explain if you asked questions. I have done so, when in the case of another officer whom he esteemed less, the favor would have been refused."
+
+"You relieve me inexpressibly by your words, though I must look upon it as strange that you come alone. I am curious to know what you will say to *la Americana*, if she refuses to go with you, as she is almost sure to do."
+
+"Do you think the General has forgotten anything? Is he not too much of a veteran in the affairs of the heart? I am to tell the Señorita that her brother is waiting on the gunboat to receive her; she started last night for Zalapata to meet him, and she is impatient over the delay. You must be sure she will hasten to obey the request."
+
+Captain Navarro was not wholly free from misgiving.
+
+"I can understand that the General may have reasons of his own for not coming himself for the Señorita, but I do not understand why her brother does not hasten to her."
+
+"Heard you not that he was ill with fever and needs his sister to nurse him?"
+
+For the first time in the interview the Captain laughed.
+
+"I beg you, Martella, not to hint to the General how stupid I was."
+
+"Be assured I shall not. You know how many things we see which we must not see, and of late I have had many chances to view such things on the gunboat. I shall say to the General that you were as prompt and obedient as you always are to do his bidding, and that he has no better officer in his army than you."
+
+"And you shall not be forgotten, Martella; I will order the horse saddled for the Señorita."
+
+Each minute added to the tension of the situation. Martella did not doubt that General Yozarro was on the way to the Castle, and more than likely was quite near. He was likely to arrive at any moment. He glanced stealthily around, determined, if he saw him or any of his escort, to make a break for it, with the chances a hundred to one against saving his neck.
+
+Every nerve was tugging for haste, yet the first sign of impatience would ruin everything. He wished inexpressibly that the young woman should appear and that they could start at once without waiting for the pony. But that, from the nature of the circumstances, could not be. With superb coolness and courage, he said:
+
+"While the horse is preparing, I will go and ask her to make ready; I hope," he added with a light laugh, "that she will not ask too many questions. Where shall I find her?"
+
+"The room of the Señoritas is in the second story facing the north; a light is burning within."
+
+Without any injunction to the Captain to make haste, Martella saluted, and walked deliberately into the building, where no questions were asked, since he had been seen in converse with the officer and no one doubted that he came direct from General Yozarro.
+
+Suppose, what was quite likely, that suspicion should again enter the brain of the Captain, when he gained time to think over the extraordinary situation? Suppose, what was also likely, that General Yozarro should arrive while the bogus messenger was inside the Castle? He would be caught like a rat in a trap.
+
+And yet knowing all these things, Martella gave not the first evidence of hurry. He went up the stone steps with dignified tread, knocked at the right door, and was admitted to the apartment, where, as we know, he explained to the two young women the remarkable errand on which he had come.

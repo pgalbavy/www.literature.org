@@ -1,0 +1,253 @@
+---
+title: "Chapter 19 - Before The Walls Of Ascalon"
+weight: 20
+url: "/authors/haggard-h-rider/the-brethren/chapter-19.html"
+---
+
+When Hassan was dead, at a sign from Saladin a captain of the Mameluks named Abdullah unfastened the jewel from the emir's turban and handed it to Wulf. It was a glorious star-shaped thing, made of great emeralds set round with diamonds, and the captain Abdullah, who like all Easterns loved such ornaments, looked at it greedily, and muttered:
+
+"Alas! that an unbeliever should wear the enchanted Star, the ancient Luck of the House of Hassan!" a saying that Wulf remembered.
+
+He took the jewel, then turned to Saladin and said, pointing to the dead body of Hassan:
+
+"Have I your peace, Sultan, after such a deed?"
+
+"Did I not give you and your brother to drink?" asked Saladin with meaning. "Whoever dies, you are safe. There is but one sin which I will not pardon you--you know what it is," and he looked at them. "As for Hassan, he was my beloved friend and servant, but you slew him in fair fight, and his soul is now in Paradise. None in my army will raise a blood feud against you on that score."
+
+Then dismissing the matter with a wave of his hand, he turned to receive a great body of Christian prisoners that, panting and stumbling like over-driven sheep, were being thrust on towards the camp with curses, blows and mockery by the victorious Saracens.
+
+Among them the brethren rejoiced to see Egbert, the gentle and holy bishop of Nazareth, whom they had thought dead. Also, wounded in many places, his hacked harness hanging about him like a beggar's rags, there was the black-browed Master of the Templars, who even now could be fierce and insolent.
+
+"So I was right," he mocked in a husky voice, "and here you are, safe with your friends the Saracens, Sir Knights of the visions and the water-skins--"
+
+"From which you were glad enough to drink just now," said Godwin. "Also," he added sadly, "all the vision is not done." And turning, he looked towards a blazoned tent which with the Sultan's great pavilion, and not far behind it, was being pitched by the Arab camp-setters. The Master saw and remembered Godwin's vision of the dead Templars.
+
+"Is it there that you mean to murder me, traitor and wizard?" he asked.
+
+Then rage took hold of Godwin and he answered him:
+
+"Were it not for your plight, here and now I would thrust those words down your throat, as, should we both live, I yet shall hope to do. You call us traitors. Is it the work of traitors to have charged alone through all this host until our horses died beneath us?"--he pointed to where Smoke and Flame lay with glazing eyes--"to have unhorsed Saladin and to have slain this prince in single combat?" and he turned to the body of the emir Hassan, which his servants were carrying away.
+
+"You speak of me as wizard and murderer," he went on, "because some angel brought me a vision which, had you believed it, Templar, would have saved tens of thousands from a bloody death, the Christian kingdom from destruction, and yonder holy thing from mockery," and with a shudder he glanced at the Rood which its captors had set up upon a rock not far away with a dead knight tied to its black arms. "You, Sir Templar, are the murderer who by your madness and ambition have brought ruin on the cause of Christ, as was foretold by the count Raymond."
+
+"That other traitor who also has escaped," snarled the Master.
+
+Then Saracen guards dragged him away, and they were parted.
+
+By now the pavilion was up and Saladin entered it, saying:
+
+"Bring before me the king of the Franks and prince Arnat, he who is called Reginald of Chatillon."
+
+Then a thought struck him, and he called to Godwin and Wulf, saying:
+
+"Sir Knights, you know our tongue; give up your swords to the officer--they shall be returned to you--and come, be my interpreters."
+
+So the brethren followed him into the tent, where presently were brought the wretched king and the grey-haired Reginald de Chatillon, and with them a few other great knights who, even in the midst of their misery, stared at Godwin and Wulf in wonderment. Saladin read the look, and explained lest their presence should be misunderstood:
+
+"King and nobles, be not mistaken. These knights are my prisoners, as you are, and none have shown themselves braver to-day, or done me and mine more damage. Indeed, had it not been for my guards, within the hour I should have fallen beneath the sword of Sir Godwin. But as they know Arabic, I have asked them to render my words into your tongue. Do you accept them as interpreters? If not, others must be found."
+
+When they had translated this, the king said that he accepted them, adding to Godwin:
+
+"Would that I had also accepted you two nights gone as an interpreter of the will of Heaven!"
+
+The Sultan bade his captains be seated, and seeing their terrible thirst, commanded slaves to bring a great bowl of sherbet made of rose-water cooled with snow, and with his own hand gave it to king Guy. He drank in great gulps, then passed the bowl to Reginald de Chatillon, whereon Saladin cried out to Godwin:
+
+"Say to the king it is he and not I who gives this man to drink. There is no bond of salt between me and the prince Arnat."
+
+Godwin translated, sorrowfully enough, and Reginald, who knew the habits of the Saracens, answered:
+
+"No need to explain, Sir Knight, those words are my death-warrant. Well, I never expected less."
+
+Then Saladin spoke again.
+
+"Prince Arnat, you strove to take the holy city of Mecca and to desecrate the tomb of the Prophet, and then I swore to kill you. Again, when in a time of peace a caravan came from Egypt and passed by Esh-Shobek, where you were, forgetting your oath, you fell upon them and slew them. They asked for mercy in the name of Allah, saying that there was truce between Saracen and Frank. But you mocked them, telling them to seek aid from Mahomet, in whom they trusted. Then for the second time I swore to kill you. Yet I give you one more chance. Will you subscribe the Koran and embrace the faith of Islam? Or will you die?"
+
+Now the lips of Reginald turned pale, and for a moment he swayed upon his seat. Then his courage came back to him, and he answered in a strong voice:
+
+"Sultan, I will have none of your mercy at such a price, nor do I bow the knee to your dog of a false prophet, who perish in the faith of Christ, and, being weary of the world, am content to go to Him."
+
+Saladin sprang to his feet, his very beard bristling with wrath, and drawing his sabre, shouted aloud:
+
+"You scorn Mahomet! Behold! I avenge Mahomet upon you! Take him away!" And he struck him with the flat of his scimitar.
+
+Then Mameluks leapt upon the prince. Dragging him to the entrance of the tent, they forced him to his knees and there beheaded him in sight of the soldiers and of the other prisoners.
+
+Thus, bravely enough, died Reginald de Chatillon, whom the Saracens called prince Arnat. In the hush that followed this terrible deed king Guy said to Godwin:
+
+"Ask the Sultan if it is my turn next."
+
+"Nay," answered Saladin; "kings do not kill kings, but that truce-breaker has met with no more than his deserts."
+
+Then came a scene still more dreadful. Saladin went to the door of his tent, and standing over the body of Reginald, bade them parade the captive Templars and Hospitallers before him. They were brought to the number of over two hundred, for it was easy to distinguish them by the red and white crosses on their breasts.
+
+"These also are faith-breakers," he shouted, "and of their unclean tribes will I rid the world. Ho! my emirs and doctors of the law," and he turned to the great crowd of his captains about him, "take each of you one of them and kill him."
+
+Now the emirs hung back, for though fanatics they were brave, and loved not this slaughter of defenceless men, and even the Mameluks murmured aloud.
+
+But Saladin cried again:
+
+"They are worthy of death, and he who disobeys my command shall himself be slain."
+
+"Sultan," said Godwin, "we cannot witness such a crime; we ask that we may die with them."
+
+"Nay," he answered; "you have eaten of my salt, and to kill you would be murder. Get you to the tent of the princess of Baalbec yonder, for there you will see nothing of the death of these Franks, your fellow-worshippers."
+
+So the brethren turned, and led by a Mameluk, fled aghast for the first time in their lives, past the long lines of Templars and Hospitallers, who in the last red light of the dying day knelt upon the sand and prayed, while the emirs came up to kill them.
+
+They entered the tent, none forbidding them, and at the end of it saw two women crouched together on some cushions, who rose, clinging to each other. Then the women saw also and sprang forward with a cry of joy, saying:
+
+"So you live--you live!"
+
+"Ay, Rosamund," answered Godwin, "to see this shame--would God that we did not--whilst others die. They murder the knights of the holy Orders. To your knees and pray for their passing souls."
+
+So they knelt down and prayed till the tumult died away, and they knew that all was done.
+
+"Oh, my cousins," said Rosamund, as she staggered to her feet at length, "what a hell of wickedness and bloodshed is this in which we dwell! Save me from it if you love me--I beseech you save me!"
+
+"We will do our best," they answered; "but let us talk no more of these things which are the decree of God--lest we should go mad. Tell us your story."
+
+But Rosamund had little to tell, except that she had been well treated, and always kept by the person of the Sultan, marching to and fro with his army, for he awaited the fulfilment of his dream concerning her. Then they told her all that had chanced to them; also of the vision of Godwin and its dreadful accomplishment, and of the death of Hassan beneath the sword of Wulf. At that story Rosamund wept and shrank from him a little, for though it was this prince who had stolen her from her home, she loved Hassan. Yet when Wulf said humbly:
+
+"The fault is not mine; it was so fated. Would that I had died instead of this Saracen!"
+
+Rosamund answered: "No, no; I am proud that you should have conquered."
+
+But Wulf shook his head, and said:
+
+"I am not proud. Although weary with that awful battle, I was still the younger and stronger man, though at first he well-nigh mastered me by his skill and quickness. At least we parted friends. Look, he gave me this," and he showed her the great emerald badge which the dying prince had given him.
+
+Masouda, who all this while had sat very quiet, came forward and looked at it.
+
+"Do you know," she asked, "that this jewel is very famous, not only for its value, but because it is said to have belonged to one of the children of the prophet, and to bring good fortune to its owner?"
+
+Wulf smiled.
+
+"It brought little to poor Hassan but now, when my grandsire's sword shore the Damascus steel as though it were wet clay."
+
+"And sent him swift to Paradise, where he would be, at the hands of a gallant foe," answered Masouda. "Nay, all his life this emir was happy and beloved, by his sovereign, his wives, his fellows and his servants, nor do I think that he would have desired another end whose wish was to die in battle with the Franks. At least there is scarce a soldier in the Sultan's army who would not give all he has for yonder trinket, which is known throughout the land as the Star of Hassan. So beware, Sir Wulf, lest you be robbed or murdered, although you have eaten the salt of Salah-ed-din."
+
+"I remember the captain Abdullah looking at it greedily and lamenting that the Luck of the House of Hassan should pass to an unbeliever," said Wulf. "Well, enough of this jewel and its dangers; I think Godwin has words to say."
+
+"Yes," said Godwin. "We are here in your tent through the kindness of Saladin, who did not wish us to witness the death of our comrades, but to-morrow we shall be separated again. Now if you are to escape--"
+
+"I will escape! I must escape, even if I am recaptured and die for it," broke in Rosamund passionately.
+
+"Speak low," said Masouda. "I saw the eunuch Mesrour pass the door of the tent, and he is a spy--they all are spies."
+
+"If you are to escape," repeated Godwin in a whisper, "it must be within the next few weeks while the army is on the march. The risk is great to all of us--even to you, and we have no plan. But, Masouda, you are clever; make one, and tell it to us."
+
+She lifted her head to speak, when suddenly a shadow fell upon them. It was that of the head eunuch, Mesrour, a fat, cunning-faced man, with a cringing air. Low he bowed before them, saying:
+
+"Your pardon, O Princess. A messenger has come from Salah-ed-din demanding the presence of these knights at the banquet that he has made ready for his noble prisoners."
+
+"We obey," said Godwin, and rising they bowed to Rosamund and to Masouda, then turned to go, leaving the star jewel where they had been seated.
+
+Very skilfully Mesrour covered it with a fold of his robe, and under shelter of the fold slipped down his hand and grasped it, not knowing that although she seemed to be turned away, Masouda was watching him out of the corner of her eye. Waiting till the brethren reached the tent door, she called out:
+
+"Sir Wulf, are you already weary of the enchanted Star of Fortune, or would you bequeath it to us?"
+
+Now Wulf came back, saying heavily:
+
+"I forgot the thing--who would not at such a time? Where is it? I left it on the cushion."
+
+"Try the hand of Mesrour," said Masouda, whereat with a very crooked smile the eunuch produced it, and said:
+
+"I wished to show you, Sir Knight, that you must be careful with such gems as these, especially in a camp where there are many dishonest persons."
+
+"I thank you," answered Wulf as he took it; "you have shown me." Then, followed by the sound of Masouda's mocking laughter, they left the tent.
+
+The Sultan's messenger led them forward, across ground strewn with the bodies of the murdered Templars and Hospitallers, lying as Godwin had seen them in his dream on the mountain top near Nazareth. Over one of these corpses Godwin stumbled in the gloom, so heavily, that he fell to his knees. He searched the face in the starlight, to find it was that of a knight of the Hospitallers of whom he had made a friend at Jerusalem--a very good and gentle Frenchman, who had abandoned high station and large lands to join the order for the love of Christ and charity. Such was his reward on earth--to be struck down in cold blood, like an ox by its butcher. Then, muttering a prayer for the repose of this knight's soul, Godwin rose and, filled with horror, followed on to the royal pavilion, wondering why such things were.
+
+Of all the strange feasts that they ever ate the brethren found this the strangest and the most sad. Saladin was seated at the head of the table with guards and officers standing behind him, and as each dish was brought he tasted it and no more, to show that it was not poisoned. Not far from him sat the king of Jerusalem and his brother, and all down the board great captive nobles, to the number of fifty or more. Sorry spectacles were these gallant knights in their hewn and blood-stained armour, pale-faced, too, with eyes set wide in horror at the dread deeds they had just seen done. Yet they ate, and ate ravenously, for now that their thirst was satisfied, they were mad with hunger. Thirty thousand Christians lay dead on the Horn and plain of Hattin; the kingdom of Jerusalem was destroyed, and its king a prisoner. The holy Rood was taken as a trophy. Two hundred knights of the sacred Orders lay within a few score of yards of them, butchered cruelly by those very emirs and doctors of the law who stood grave and silent behind their master's seat, at the express command of that merciless master. Defeated, shamed, bereaved--yet they ate, and, being human, could take comfort from the thought that having eaten, by the law of the Arabs, at least their lives were safe.
+
+Saladin called Godwin and Wulf to him that they might interpret for him, and gave them food, and they also ate who were compelled to it by hunger.
+
+"Have you seen your cousin, the princess?" he asked; "and how found you her?" he asked presently.
+
+Then, remembering over what he had fallen outside her tent, and looking at those miserable feasters, anger took hold of Godwin, and he answered boldly:
+
+"Sire, we found her sick with the sights and sounds of war and murder; shamed to know also that her uncle, the conquering sovereign of the East, had slaughtered two hundred unarmed men."
+
+Wulf trembled at his words, but Saladin listened and showed no anger.
+
+"Doubtless," he answered, "she thinks me cruel, and you also think me cruel--a despot who delights in the death of his enemies. Yet it is not so, for I desire peace and to save life, not to destroy it. It is you Christians who for hard upon a hundred years have drenched these sands with blood, because you say that you wish to possess the land where your prophet lived and died more than eleven centuries ago. How many Saracens have you slain? Hundreds of thousands of them. Moreover, with you peace is no peace. Those Orders that I destroyed tonight have broken it a score of times. Well, I will bear no more. Allah has given me and my army the victory, and I will take your cities and drive the Franks back into the sea. Let them seek their own lands and worship God there after their own fashion, and leave the East in quiet.
+
+"Now, Sir Godwin, tell these captives for me that tomorrow I send those of them who are unwounded to Damascus, there to await ransom while I besiege Jerusalem and the other Christian cities. Let them have no fear; I have emptied the cup of my anger; no more of them shall die, and a priest of their faith, the bishop of Nazareth, shall stay with their sick in my army to minister to them after their own rites."
+
+So Godwin rose and told them, and they answered not a word, who had lost all hope and courage.
+
+Afterwards he asked whether he and his brother were also to be sent to Damascus.
+
+Saladin replied, "No; he would keep them for awhile to interpret, then they might go their ways without ransom."
+
+On the morrow, accordingly, the captives were sent to Damascus, and that day Saladin took the castle of Tiberias, setting at liberty Eschiva, the wife of Raymond, and her children. Then he moved on to Acre, which he took, relieving four thousand Moslem captives, and so on to other towns, all of which fell before him, till at length he came to Ascalon, which he besieged in form, setting up his mangonels against its walls.
+
+The night was dark outside of Ascalon, save when the flashes of lightning in the storm that rolled down from the mountains to the sea lit it up, showing the thousands of white tents set round the city, the walls and the sentries who watched upon them, the feathery palms that stood against the sky, the mighty, snow-crowned range of Lebanon, and encircling all the black breast of the troubled ocean. In a little open space of the garden of an empty house that stood without the walls, a man and a woman were talking, both of them wrapped in dark cloaks. They were Godwin and Masouda.
+
+"Well," said Godwin eagerly, "is all ready?"
+
+She nodded and answered:
+
+"At length, all. To-morrow afternoon an assault will be made upon Ascalon, but even if it is taken the camp will not be moved that night. There will be great confusion, and Abdullah, who is somewhat sick, will be the captain of the guard over the princess's tent. He will allow the soldiers to slip away to assist in the sack of the city, nor will they betray him. At sunset but one eunuch will be on watch--Mesrour; and I will find means to put him to sleep. Abdullah will bring the princess to this garden disguised as his young son, and there you two and I shall meet them."
+
+"What then?" asked Godwin.
+
+"Do you remember the old Arab who brought you the horses Flame and Smoke, and took no payment for them, he who was named Son of the Sand? Well, as you know, he is my uncle, and he has more horses of that breed. I have seen him, and he is well pleased at the tale of Flame and Smoke and the knights who rode them, and more particularly at the way in which they came to their end, which he says has brought credit to their ancient blood. At the foot of this garden is a cave, which was once a sepulchre. There we shall find the horses--four of them--and with them my uncle, Son of the Sand, and by the morning light we will be a hundred miles away and lie hid with his tribe until we can slip to the coast and board a Christian ship. Does it please you?"
+
+"Very well; but what is Abdullah's price?"
+
+"One only--the enchanted star, the Luck of the House of Hassan; for nothing else will he take such risks. Will Sir Wulf give it?"
+
+"Surely," answered Godwin with a laugh.
+
+"Good. Then it must be done to-night. When I return I will send Abdullah to your tent. Fear not; if he takes the jewel he will give the price, since otherwise he thinks it will bring him ill fortune."
+
+"Does the lady Rosamund know?" asked Godwin again.
+
+She shook her head.
+
+"Nay, she is mad to escape; she thinks of little else all day long. But what is the use of telling her till the time comes? The fewer in such a plot the better, and if anything goes wrong, it is well that she should be innocent, for then--"
+
+"Then death, and farewell to all things," said Godwin; "nor indeed should I grieve to say them good-bye. But, Masouda, you run great peril. Tell me now, honestly, why do you do this?"
+
+As he spoke the lightning flashed and showed her face as she stood there against a background of green leaves and red lily flowers. There was a strange look upon it--a look that made Godwin feel afraid, he knew not of what.
+
+"Why did I take you into my inn yonder in Beirut when you were the pilgrims Peter and John? Why did I find you the best horses in Syria and guide you to the Al-je-bal? Why did I often dare death by torment for you there? Why did I save the three of you? And why, for all this weary while, have I--who, after all, am nobly born--become the mock of soldiers and the tire-woman of the princess of Baalbec?
+
+"Shall I answer?" she went on, laughing. "Doubtless in the beginning because I was the agent of Sinan, charged to betray such knights as you are into his hands, and afterwards because my heart was filled with pity and love for--the lady Rosamund."
+
+Again the lightning flashed, and this time that strange look had spread from Masouda's face to the face of Godwin.
+
+"Masouda," he said in a whisper, "oh! think me no vain fool, but since it is best perhaps that both should know full surely, tell me, is it as I have sometimes--"
+
+"Feared?" broke in Masouda with her little mocking laugh. "Sir Godwin, it is so. What does your faith teach--the faith in which I was bred, and lost, but that now is mine again--because it is yours? That men and women are free, or so some read it. Well, it or they are wrong. We are not free. Was I free when first I saw your eyes in Beirut, the eyes for which I had been watching all my life, and something came from you to me, and I--the cast-off plaything of Sinan--loved you, loved you, loved you--to my own doom? Yes, and rejoiced that it was so, and still rejoice that it is so, and would choose no other fate, because in that love I learned that there is a meaning in this life, and that there is an answer to it in lives to be, otherwhere if not here. Nay, speak not. I know your oath, nor would I tempt you to its breaking. But, Sir Godwin, a woman such as the lady Rosamund cannot love two men," and as she spoke Masouda strove to search his face while the shaft went home.
+
+But Godwin showed neither surprise nor pain.
+
+"So you know what I have known for long," he said, "so long that my sorrow is lost in the hope of my brother's joy. Moreover, it is well that she should have chosen the better knight."
+
+"Sometimes," said Masouda reflectively, "sometimes I have watched the lady Rosamund, and said to myself, 'What do you lack? You are beautiful, you are highborn, you are learned, you are brave, and you are good.' Then I have answered, 'You lack wisdom and true sight, else you would not have chosen Wulf when you might have taken Godwin. Or perchance your eyes are blinded also.'"
+
+"Speak not thus of one who is my better in all things, I pray you," said Godwin in a vexed voice.
+
+"By which you mean, whose arm is perhaps a little stronger, and who at a pinch could cut down a few more Saracens. Well, it takes more than strength to make a man--you must add spirit."
+
+"Masouda," went on Godwin, taking no note of her words, "although we may guess her mind, our lady has said nothing yet. Also Wulf may fall, and then I fill his place as best I can. I am no free man, Masouda."
+
+"The love-sick are never free," she answered.
+
+"I have no right to love the woman who loves my brother; to her are due my friendship and my reverence--no more."
+
+"She has not declared that she loves your brother; we may guess wrongly in this matter. They are your words--not mine."
+
+"And we may guess rightly. What then?"
+
+"Then," answered Masouda, "there are many knightly Orders, or monasteries, for those who desire such places--as you do in your heart. Nay, talk no more of all these things that may or may not be. Back to your tent, Sir Godwin, where I will send Abdullah to you to receive the jewel. So, farewell, farewell."
+
+He took her outstretched hand, hesitated a moment, then lifted it to his lips, and went. It was cold as that of a corpse, and fell against her side again like the hand of a corpse. Masouda shrank back among the flowers of the garden as though to hide herself from him and all the world. When he had gone a few paces, eight or ten perhaps, Godwin turned and glanced behind him, and at that moment there came a great blaze of lightning. In its fierce and fiery glare he saw Masouda standing with outstretched arms, pale, upturned face, closed eyes, and parted lips. Illumined by the ghastly sheen of the levin her face looked like that of one new dead, and the tall red lilies which climbed up her dark, pall-like robe to her throat--yes, they looked like streams of fresh-shed blood.
+
+Godwin shuddered a little and went his way, but as she slid thence into the black, embracing night, Masouda said to herself:
+
+"Had I played a little more upon his gentleness and pity, I think that he would have offered me his heart--after Rosamund had done with it and in payment for my services. Nay, not his heart, for he has none on earth, but his hand and loyalty. And, being honourable, he would have kept his promise, and I, who have passed through the harem of Al-je-bal, might yet have become the lady D'Arcy, and so lived out my life and nursed his babes. Nay, Sir Godwin; when you love me--not before; and you will never love me--until I am dead."
+
+Snatching a bloom of the lilies into her hand, the hand that he had kissed, Masouda pressed it convulsively against her breast, till the red juice ran from the crushed flower and stained her like a wound. Then she glided away, and was lost in the storm and the darkness.

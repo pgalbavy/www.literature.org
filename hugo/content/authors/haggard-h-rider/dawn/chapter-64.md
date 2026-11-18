@@ -1,0 +1,79 @@
+---
+title: "Chapter 64"
+weight: 65
+url: "/authors/haggard-h-rider/dawn/chapter-64.html"
+---
+
+When Mildred received Lady Bellamy's telegram, she was so sure that it would prove the forerunner of Arthur's arrival at Madeira that she had at once set about making arrangements for his amusement.
+
+It so happened that there was at the time a very beautiful sea-going steam yacht of about two hundred and fifty tons burden lying in the roadstead. She belonged to a nobleman who was suddenly recalled to England by mail-steamer, and, through a series of chances, Mildred was enabled to buy her a bargain. The crew of the departed nobleman also continued in her service.
+
+The morning after the storm broke sweet and clear, and, except that the flowers were somewhat shattered, all Nature looked the fresher for its violent visitation. Arthur, who had come up early to the Quinta, Mildred, and Miss Terry were all seated at breakfast in a room that looked out to the sea, which, although the wind had died away, still ran rather high. They made a pretty picture as they sat round the English-looking breakfast-table, with the light pouring in upon them from the open windows, Miss Terry, with her usual expression of goodhumoured solemnity, pouring out the tea, and Mildred and Arthur, who sat exactly opposite to each other, drinking it. Never had the former looked more lovely than she did that morning.
+
+"My dear," said Agatha to her, "what have you done to yourself? You look beautiful."
+
+"Do I, dear? Then it is because I am happy."
+
+Agatha was quite right, thought Arthur, she did look beautiful, there was such depth and rest in her clear eyes, such a wealth of happy triumph written on her features. She might have sat that morning as a study of the "Venus Victrix." Her talk, too, was as bright as herself. She laughed and shone and sparkled like the rain-drops on the bamboo sprays that rocked in the sunshine, and whenever she addressed herself to Arthur, which was often enough, every sentence seemed wrapped in tender meaning. Her whole life went out towards him, a palpable thing; she waited on his words and basked in his smile. Mildred Carr did nothing by halves.
+
+Arthur was the least cheerful of the three, though at times he tried his best to join in Mildred's merriment. Any one who knew him well could have told that he was suffering from one of his fits of constitutional melancholy, and a physiognomist, looking at the somewhat dreamy eyes and pensive face, would probably have added that he neither was nor ever would be an entirely happy man.
+
+By degrees, however, he seemed to get the better of his thoughts, whatever they might be.
+
+"Now, Arthur, if you are quite awake," began, or rather went on, Mildred, "perhaps you will come to the window. I have something to show you."
+
+"Here I am at your service; what may it be?"
+
+"Good. Now look; do you see that little vessel in the bay beneath there to the right of Leeuw Rock?"
+
+"Yes, and uncommonly pretty she is; what of her?"
+
+"What of her? Why, she is my yacht."
+
+"Your yacht?"
+
+"Goodness gracious, Mildred, you don't mean to say that you've been buying a yacht and told me nothing about it? Just think! Well, I call that sly."
+
+"Yes, my dear Agatha, I have; a yacht and a ready-made crew, and the very prettiest saloon in the world, and sleeping-cabins that you will think it an honour to be sea-sick in, and a cook's galley with bright copper fittings, and a cook with a white cap, and steam-steering gear if you care to use it, and----"
+
+"For goodness sake, don't overwhelm us; and what are you going to do with your white elephant, now that you have got it?"
+
+"Do with it? why, ride on it, of course. 'Ladies and gentlemen,' or rather 'lady and gentleman.' Attention! You will both be in marching, or rather in sailing, order by four this afternoon, for at five we start for the Canaries. Now, no remarks; I'm a skipper, and I expect to be obeyed, or I'll put you in irons."
+
+"You've done that already," said Arthur, sotto voce.
+
+"Mildred, I won't go, and that's flat."
+
+"My dear, you mean that you are afraid of being flat. But, Agatha, seriously, you must come; nobody is sick in those semi-tropical waters, and, if you won't, I suppose it would not be quite the thing for Arthur and I to go alone. And then, my dear, just think what a splendid place the Canaries must be for insects."
+
+"Why?" asked Agatha, solemnly.
+
+"Because of all the little birds it has to support."
+
+"But I thought they lived on hemp-seed."
+
+"Oh, no--not in their native land."
+
+"Well, I suppose I must go; but I really believe that you will kill me with your mania for sea-voyages, Mildred. I suppose you will take to ballooning next."
+
+"That is by no means a bad idea; I should like to see you in a balloon, Agatha."
+
+"Mildred, I know where to draw the line. Into a balloon I will never go. I have been into a Madeira sledge, and that is quite enough for me. I always dream about it twice a week."
+
+"Well, my dear, I promise never to ask you when I want to go ballooning; Arthur and I will go by ourselves. It would be a grand opportunity for a tete-a-tete. And now go and see about getting the things ready--there's a dear; and, Arthur, do you send John down to Miles' for your portmanteau."
+
+"Hadn't I better go and see about it myself?"
+
+"Certainly not; I want you to help me, and come down and talk to the skipper, for he will be under your orders, you know. He is such a delightful sailor-man, perfect down to his quid, and always says, 'Ay, ay,' in the orthodox fashion. Certainly you must not go; I will not trust you out of my sight--you might run away and leave me alone, and then what should I do?"
+
+Arthur laughed and acquiesced. Sitting down, he wrote a note asking the manager of the hotel to send his things up to the Quinta Carr, together with his account, as he was leaving Madeira for the present.
+
+The rest of the morning was spent by everybody in busy preparation. Boxes were packed and provisions shipped sufficient to victual an Arctic expedition. At last everything was ready, and at a little after three they went down the steps leading to the tiny bay, and, embarking on the smart boat that was waiting for them, were conveyed in safety to the Evening Star, for such was the yacht's name. Arthur suggested that it should be changed to the Mildred Carr, and got snubbed for his pains.
+
+The Evening Star was a beautiful craft, built on fine lines, but for all that a wonderful boat in a heavy sea. She was a three-masted schooner, square-rigged forward, of large beam. Her fittings below were perfect down to the painted panels after Watteau in the saloon and the electric bells, and she was rigged either to sail or steam as might be most convenient. On the present occasion, as there was not the slightest hurry and no danger of a lee-shore, it was determined that they should not avail themselves of the steam-power, so the propeller was hoisted up and everything got ready for that most delightful thing, a long cruise under canvas.
+
+Arthur was perfectly charmed with everything he saw, and so was Agatha Terry, until they got under way, when she discovered that a mailsteamer was a joke compared with the yacht in the matter of motion. In short, the unfortunate Agatha was soon reduced to her normal condition of torpor. Mildred always declared that she hibernated on board ship like a dormouse or a bear. She was not very sea-sick, she simply lay and slept, eating very little and thinking not at all.
+
+"By the way," said Arthur, as they sailed out of the bay, "I never gave any directions about my letters."
+
+"Oh! that will not matter," answered Mildred, carelessly, for they were leaning over the taffrail together; "they will keep them for you at 'Miles' Hotel.' But, my dear boy, do you know what time it is? Ten minutes to seven; that dreadful bell with be going in a minute, and the soup will be spoiled. Run and get ready, do."

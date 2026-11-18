@@ -1,0 +1,29 @@
+---
+title: "Chapter 1 - Scaring Johnny Green"
+weight: 1
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-01.html"
+---
+
+When Johnnie Green was younger, it always scared him to hear Solomon Owl’s deep-toned voice calling in the woods after dark.
+
+“Whoo-whoo-whoo, whoo-whoo, to-whoo-ah!” That weird cry was enough to send Johnnie Green hurrying into the farmhouse, though sometimes he paused in the doorway to listen—especially if Solomon Owl happened to be laughing. His “haw-haw-hoo-hoo,” booming across the meadow on a crisp fall evening, when the big yellow moon hung over the fields of corn-shocks and pumpkins, sounded almost as if Solomon were laughing at the little boy he had frightened. There was certainly a mocking, jeering note in his laughter.
+
+Of course, as he grew older, Johnnie Green no longer shivered on hearing Solomon’s rolling call. When Solomon laughed, Johnnie Green would laugh, too. But Solomon Owl never knew that, for often he was half a mile from the farm buildings.
+
+A “hoot owl,” Johnnie Green termed him. And anyone who heard Solomon hooting of an evening, or just before sunrise, would have agreed that it was a good name for him. But he was really a barred owl, for he had bars of white across his feathers.
+
+If you had happened to catch Solomon Owl resting among the thick hemlocks near the foot of Blue Mountain, where he lived, you would have thought that he looked strangely like a human being. He had no “horns,” or ear-tufts, such as some of the other owls wore; and his great pale face, with its black eyes, made him seem very wise and solemn.
+
+In spite of the mild, questioning look upon his face whenever anyone surprised him in the daytime, Solomon Owl was the noisiest of all the different families of owls in Pleasant Valley. There were the barn owls, the long-eared owls, the short-eared owls, the saw-whet owls, the screech owls—but there! there’s no use of naming them all. There wasn’t one of them that could equal Solomon Owl’s laughing and hooting and shrieking and wailing—at night.
+
+During the day, however, Solomon Owl he was quiet about it. One reason for his silence then was that he generally slept when the sun was shining. And when most people were sleeping, Solomon Owl was as wide awake as he could be.
+
+He was a night-prowler—if ever there was one. And he could see a mouse on the darkest night, even if it stirred ever so slightly.
+
+That was unfortunate for the mice. But luckily for them, Solomon Owl couldn’t be in more than one place at a time. Otherwise, there wouldn’t have been a mouse left in Pleasant Valley—if he could have had his way.
+
+And though he didn’t help the mice, he helped Farmer Green by catching them. If he did take a fat pullet once in a while, it is certain that he more than paid for it.
+
+So, on the whole, Farmer Green did not wood-lot. And for a long time Solomon raised no objection to Farmer Green’s living near Swift River.
+
+But later Solomon Owl claimed that it would be a good thing for the forest folk if they could get rid of the whole Green family—and the hired man, too.

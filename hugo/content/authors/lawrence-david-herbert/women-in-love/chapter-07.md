@@ -1,0 +1,107 @@
+---
+title: "chapter 07"
+weight: 999
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-07.html"
+---
+
+In the morning Gerald woke late. He had slept heavily. Pussum was still asleep, sleeping childishly and pathetically. There was something small and curled up and defenceless about her, that roused an unsatisfied flame of passion in the young man's blood, a devouring avid pity. He looked at her again. But it would be too cruel to wake her. He subdued himself, and went away.
+
+Hearing voices coming from the sitting-room, Halliday talking to Libidnikov, he went to the door and glanced in. He had on a silk wrap of a beautiful bluish colour, with an amethyst hem.
+
+To his surprise he saw the two young men by the fire, stark naked. Halliday looked up, rather pleased.
+
+'Good-morning,' he said. 'Oh - did you want towels?' And stark naked he went out into the hall, striding a strange, white figure between the unliving furniture. He came back with the towels, and took his former position, crouching seated before the fire on the fender.
+
+'Don't you love to feel the fire on your skin?' he said.
+
+'It IS rather pleasant,' said Gerald.
+
+'How perfectly splendid it must be to be in a climate where one could do without clothing altogether,' said Halliday.
+
+'Yes,' said Gerald, 'if there weren't so many things that sting and bite.'
+
+'That's a disadvantage,' murmured Maxim.
+
+Gerald looked at him, and with a slight revulsion saw the human animal, golden skinned and bare, somehow humiliating. Halliday was different. He had a rather heavy, slack, broken beauty, white and firm. He was like a Christ in a Pieta. The animal was not there at all, only the heavy, broken beauty. And Gerald realised how Halliday's eyes were beautiful too, so blue and warm and confused, broken also in their expression. The fireglow fell on his heavy, rather bowed shoulders, he sat slackly crouched on the fender, his face was uplifted, weak, perhaps slightly disintegrate, and yet with a moving beauty of its own.
+
+'Of course,' said Maxim, 'you've been in hot countries where the people go about naked.'
+
+'Oh really!' exclaimed Halliday. 'Where?'
+
+'South America - Amazon,' said Gerald.
+
+'Oh but how perfectly splendid! It's one of the things I want most to do - to live from day to day without EVER putting on any sort of clothing whatever. If I could do that, I should feel I had lived.'
+
+'But why?' said Gerald. 'I can't see that it makes so much difference.'
+
+'Oh, I think it would be perfectly splendid. I'm sure life would be entirely another thing - entirely different, and perfectly wonderful.'
+
+'But why?' asked Gerald. 'Why should it?'
+
+'Oh - one would FEEL things instead of merely looking at them. I should feel the air move against me, and feel the things I touched, instead of having only to look at them. I'm sure life is all wrong because it has become much too visual - we can neither hear nor feel nor understand, we can only see. I'm sure that is entirely wrong.'
+
+'Yes, that is true, that is true,' said the Russian.
+
+Gerald glanced at him, and saw him, his suave, golden coloured body with the black hair growing fine and freely, like tendrils, and his limbs like smooth plant-stems. He was so healthy and well-made, why did he make one ashamed, why did one feel repelled? Why should Gerald even dislike it, why did it seem to him to detract from his own dignity. Was that all a human being amounted to? So uninspired! thought Gerald.
+
+Birkin suddenly appeared in the doorway, in white pyjamas and wet hair, and a towel over his arm. He was aloof and white, and somehow evanescent.
+
+'There's the bath-room now, if you want it,' he said generally, and was going away again, when Gerald called:
+
+'I say, Rupert!'
+
+'What?' The single white figure appeared again, a presence in the room.
+
+'What do you think of that figure there? I want to know,' Gerald asked.
+
+Birkin, white and strangely ghostly, went over to the carved figure of the negro woman in labour. Her nude, protuberant body crouched in a strange, clutching posture, her hands gripping the ends of the band, above her breast.
+
+'It is art,' said Birkin.
+
+'Very beautiful, it's very beautiful,' said the Russian.
+
+They all drew near to look. Gerald looked at the group of men, the Russian golden and like a water-plant, Halliday tall and heavily, brokenly beautiful, Birkin very white and indefinite, not to be assigned, as he looked closely at the carven woman. Strangely elated, Gerald also lifted his eyes to the face of the wooden figure. And his heart contracted.
+
+He saw vividly with his spirit the grey, forward-stretching face of the negro woman, African and tense, abstracted in utter physical stress. It was a terrible face, void, peaked, abstracted almost into meaninglessness by the weight of sensation beneath. He saw the Pussum in it. As in a dream, he knew her.
+
+'Why is it art?' Gerald asked, shocked, resentful.
+
+'It conveys a complete truth,' said Birkin. 'It contains the whole truth of that state, whatever you feel about it.'
+
+'But you can't call it HIGH art,' said Gerald.
+
+'High! There are centuries and hundreds of centuries of development in a straight line, behind that carving; it is an awful pitch of culture, of a definite sort.'
+
+'What culture?' Gerald asked, in opposition. He hated the sheer African thing.
+
+'Pure culture in sensation, culture in the physical consciousness, really ultimate PHYSICAL consciousness, mindless, utterly sensual. It is so sensual as to be final, supreme.'
+
+But Gerald resented it. He wanted to keep certain illusions, certain ideas like clothing.
+
+'You like the wrong things, Rupert,' he said, 'things against yourself.'
+
+'Oh, I know, this isn't everything,' Birkin replied, moving away.
+
+When Gerald went back to his room from the bath, he also carried his clothes. He was so conventional at home, that when he was really away, and on the loose, as now, he enjoyed nothing so much as full outrageousness. So he strode with his blue silk wrap over his arm and felt defiant.
+
+The Pussum lay in her bed, motionless, her round, dark eyes like black, unhappy pools. He could only see the black, bottomless pools of her eyes. Perhaps she suffered. The sensation of her inchoate suffering roused the old sharp flame in him, a mordant pity, a passion almost of cruelty.
+
+'You are awake now,' he said to her.
+
+'What time is it?' came her muted voice.
+
+She seemed to flow back, almost like liquid, from his approach, to sink helplessly away from him. Her inchoate look of a violated slave, whose fulfilment lies in her further and further violation, made his nerves quiver with acutely desirable sensation. After all, his was the only will, she was the passive substance of his will. He tingled with the subtle, biting sensation. And then he knew, he must go away from her, there must be pure separation between them.
+
+It was a quiet and ordinary breakfast, the four men all looking very clean and bathed. Gerald and the Russian were both correct and COMME IL FAUT in appearance and manner, Birkin was gaunt and sick, and looked a failure in his attempt to be a properly dressed man, like Gerald and Maxim. Halliday wore tweeds and a green flannel shirt, and a rag of a tie, which was just right for him. The Hindu brought in a great deal of soft toast, and looked exactly the same as he had looked the night before, statically the same.
+
+At the end of the breakfast the Pussum appeared, in a purple silk wrap with a shimmering sash. She had recovered herself somewhat, but was mute and lifeless still. It was a torment to her when anybody spoke to her. Her face was like a small, fine mask, sinister too, masked with unwilling suffering. It was almost midday. Gerald rose and went away to his business, glad to get out. But he had not finished. He was coming back again at evening, they were all dining together, and he had booked seats for the party, excepting Birkin, at a music-hall.
+
+At night they came back to the flat very late again, again flushed with drink. Again the man-servant - who invariably disappeared between the hours of ten and twelve at night - came in silently and inscrutably with tea, bending in a slow, strange, leopard-like fashion to put the tray softly on the table. His face was immutable, aristocratic-looking, tinged slightly with grey under the skin; he was young and good-looking. But Birkin felt a slight sickness, looking at him, and feeling the slight greyness as an ash or a corruption, in the aristocratic inscrutability of expression a nauseating, bestial stupidity.
+
+Again they talked cordially and rousedly together. But already a certain friability was coming over the party, Birkin was mad with irritation, Halliday was turning in an insane hatred against Gerald, the Pussum was becoming hard and cold, like a flint knife, and Halliday was laying himself out to her. And her intention, ultimately, was to capture Halliday, to have complete power over him.
+
+In the morning they all stalked and lounged about again. But Gerald could feel a strange hostility to himself, in the air. It roused his obstinacy, and he stood up against it. He hung on for two more days. The result was a nasty and insane scene with Halliday on the fourth evening. Halliday turned with absurd animosity upon Gerald, in the cafe. There was a row. Gerald was on the point of knocking-in Halliday's face; when he was filled with sudden disgust and indifference, and he went away, leaving Halliday in a foolish state of gloating triumph, the Pussum hard and established, and Maxim standing clear. Birkin was absent, he had gone out of town again.
+
+Gerald was piqued because he had left without giving the Pussum money. It was true, she did not care whether he gave her money or not, and he knew it. But she would have been glad of ten pounds, and he would have been VERY glad to give them to her. Now he felt in a false position. He went away chewing his lips to get at the ends of his short clipped moustache. He knew the Pussum was merely glad to be rid of him. She had got her Halliday whom she wanted. She wanted him completely in her power. Then she would marry him. She wanted to marry him. She had set her will on marrying Halliday. She never wanted to hear of Gerald again; unless, perhaps, she were in difficulty; because after all, Gerald was what she called a man, and these others, Halliday, Libidnikov, Birkin, the whole Bohemian set, they were only half men. But it was half men she could deal with. She felt sure of herself with them. The real men, like Gerald, put her in her place too much.
+
+Still, she respected Gerald, she really respected him. She had managed to get his address, so that she could appeal to him in time of distress. She knew he wanted to give her money. She would perhaps write to him on that inevitable rainy day.

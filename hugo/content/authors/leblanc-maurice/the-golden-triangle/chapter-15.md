@@ -1,0 +1,437 @@
+---
+title: "Chapter 15 - The Belle Hélène"
+weight: 15
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-15.html"
+---
+
+"There's no mistake about it," said Patrice. "The information conveyed to M. Masseron that the gold had been sent away; the speed with which the work was carried out, at night, mechanically, by the people belonging to the boat; their alien nationality; the direction which they took: it all agrees. The probability is that, between the cellar into which the gold was shot and the place where it finished its journey, there was some spot where it used to remain concealed . . . unless the eighteen hundred bags can have awaited their despatch, slung one behind the other, along the wire. But that doesn't matter much. The great thing is to know that the Belle Hélène, hiding somewhere in the outskirts, lay waiting for the favorable opportunity. In the old days Essarès Bey, by way of precaution, used to send her a signal with the aid of that shower of sparks which I saw. This time old Siméon, who is continuing Essarès' work, no doubt on his own account, gave the crew notice; and the bags of gold are on their way to Rouen and Le Hâvre, where some steamer will take them over and carry them . . . eastwards. After all, forty or fifty tons, hidden in the hold under a layer of coal, is nothing. What do you say? That's it, isn't it? I feel positive about it. . . . Then we have Mantes, to which he took his ticket and for which the Belle Hélène is bound. Could anything be clearer? Mantes, where he'll pick up his cargo of gold and go on board in some seafaring disguise, unknown and unseen. . . . Loot and looter disappearing together. It's as clear as daylight. Don't you agree?"
+
+Once again Don Luis did not answer. However, he must have acquiesced in Patrice's theories, for, after a minute, he declared:
+
+"Very well. I'll go to Mantes." And, turning to the chauffeur, "Hurry off to the garage," he said, "and come back in the six-cylinder. I want to be at Mantes in less than an hour. You, captain . . ."
+
+"I shall come with you."
+
+"And who will look after . . . ?"
+
+"Coralie? She's in no danger! Who can attack her now? Siméon has failed in his attempt and is thinking only of saving his own skin . . . and his bags of gold."
+
+"You insist, do you?"
+
+"Absolutely."
+
+"I don't know that you're wise. However, that's your affair. Let's go. By the way, though, one precaution." He raised his voice. "Ya-Bon!"
+
+The Senegalese came hastening up. While Ya-Bon felt for Patrice all the affection of a faithful dog, he seemed to profess towards Don Luis something more nearly approaching religious devotion. The adventurer's slightest action roused him to ecstasy. He never stopped laughing in the great chief's presence.
+
+"Ya-Bon, are you all right now? Is your wound healed? You don't feel tired? Good. In that case, come with me."
+
+He led him to the quay, a short distance away from Berthou's Wharf:
+
+"At nine o'clock this evening," he said, "you're to be on guard here, on this bench. Bring your food and drink with you; and keep a particular look-out for anything that happens over there, down stream. Perhaps nothing will happen at all; but never mind: you're not to move until I come back . . . unless . . . unless something does happen, in which case you will act accordingly."
+
+He paused and then continued:
+
+"Above all, Ya-Bon, beware of Siméon. It was he who gave you that wound. If you catch sight of him, leap at his throat and bring him here. But mind you don't kill him! No nonsense now. I don't want you to hand me over a corpse, but a live man. Do you understand, Ya-Bon?"
+
+Patrice began to feel uneasy:
+
+"Do you fear anything from that side?" he asked. "Look here, it's out of the question, as Siméon has gone . . ."
+
+"Captain," said Don Luis, "when a good general goes in pursuit of the enemy, that does not prevent him from consolidating his hold on the conquered ground and leaving garrisons in the fortresses. Berthou's Wharf is evidently one of our adversary's rallying-points. I'm keeping it under observation."
+
+Don Luis also took serious precautions with regard to Coralie. She was very much overstrained and needed rest and attention. They put her into the car and, after making a dash at full speed towards the center of Paris, so as to throw any spies off the scent, took her to the home on the Boulevard Maillot, where Patrice handed her over to the matron and recommended her to the doctor's care. The staff received strict orders to admit no strangers to see her. She was to answer no letter, unless the letter was signed "Captain Patrice."
+
+At nine o'clock, the car sped down the Saint-Germain and Mantes road. Sitting inside with Don Luis, Patrice felt all the enthusiasm of victory and indulged freely in theories, every one of which possessed for him the value of an unimpeachable certainty. A few doubts lingered in his mind, however, points which remained obscure and on which he would have been glad to have Don Luis' opinion.
+
+"There are two things," he said, "which I simply cannot understand. In the first place, who was the man murdered by Essarès, at nineteen minutes past seven in the morning, on the fourth of April? I heard his dying cries. Who was killed? And what became of the body?"
+
+Don Luis was silent; and Patrice went on:
+
+"The second point is stranger still. I mean Siméon's behavior. Here's a man who devotes his whole life to a single object, that of revenging his friend Belval's murder and at the same time ensuring my happiness and Coralie's. This is his one aim in life; and nothing can make him swerve from his obsession. And then, on the day when his enemy, Essarès Bey, is put out of the way, suddenly he turns round completely and persecutes Coralie and me, going to the length of using against us the horrible contrivance which Essarès Bey had employed so successfully against our parents! You really must admit that it's an amazing change! Can it be the thought of the gold that has hypnotized him? Are his crimes to be explained by the huge treasure placed at his disposal on the day when he discovered the secret? Has a decent man transformed himself into a bandit to satisfy a sudden instinct? What do you think?"
+
+Don Luis persisted in his silence. Patrice, who expected to see every riddle solved by the famous adventurer in a twinkling, felt peevish and surprised. He made a last attempt:
+
+"And the golden triangle? Another mystery! For, after all, there's not a trace of a triangle in anything we've seen! Where is this golden triangle? Have you any idea what it means?"
+
+Don Luis allowed a moment to pass and then said:
+
+"Captain, I have the most thorough liking for you and I take the liveliest interest in all that concerns you, but I confess that there is one problem which excludes all others and one object towards which all my efforts are now directed. That is the pursuit of the gold of which we have been robbed; and I don't want this gold to escape us. I have succeeded on your side, but not yet on the other. You are both of you safe and sound, but I haven't the eighteen hundred bags; and I want them, I want them."
+
+"You'll have them, since we know where they are."
+
+"I shall have them," said Don Luis, "when they lie spread before my eyes. Until then, I can tell you nothing."
+
+At Mantes the enquiries did not take long. They almost immediately had the satisfaction of learning that a traveler, whose description corresponded with old Siméon's, had gone to the Hôtel des Trois-Empereurs and was now asleep in a room on the third floor.
+
+Don Luis took a ground-floor room, while Patrice, who would have attracted the enemy's attention more easily, because of his lame leg, went to the Grand Hôtel.
+
+He woke late the next morning. Don Luis rang him up and told him that Siméon, after calling at the post-office, had gone down to the river and then to the station, where he met a fashionably-dressed woman, with her face hidden by a thick veil, and brought her back to the hotel. The two were lunching together in the room on the third floor.
+
+At four o'clock Don Luis rang up again, to ask Patrice to join him at once in a little café at the end of the town, facing the Seine. Here Patrice saw Siméon on the quay. He was walking with his hands behind his back, like a man strolling without any definite object.
+
+"Comforter, spectacles, the same get-up as usual," said Patrice. "Not a thing about him changed. Watch him. He's putting on an air of indifference, but you can bet that his eyes are looking up stream, in the direction from which the Belle Hélène is coming."
+
+"Yes, yes," said Don Luis. "Here's the lady."
+
+"Oh, that's the one, is it?" said Patrice. "I've met her two or three times already in the street."
+
+A dust-cloak outlined her figure and shoulders, which were wide and rather well-developed. A veil fell around the brim of her felt hat. She gave Siméon a telegram to read. Then they talked for a moment, seemed to be taking their bearings, passed by the café and stopped a little lower down. Here Siméon wrote a few words on a sheet of note-paper and handed it to his companion. She left him and went back into the town. Siméon resumed his walk by the riverside.
+
+"You must stay here, captain," said Don Luis.
+
+"But the enemy doesn't seem to be on his guard," protested Patrice. "He's not turning round."
+
+"It's better to be prudent, captain. What a pity that we can't have a look at what Siméon wrote down!"
+
+"I might . . ."
+
+"Go after the lady? No, no, captain. Without wishing to offend you, you're not quite cut out for it. I'm not sure that even I . . ."
+
+And he walked away.
+
+Patrice waited. A few boats moved up or down the river. Mechanically, he glanced at their names. And suddenly, half an hour after Don Luis had left him, he heard the clearly-marked rhythm, the pulsation of one of those powerful motors which, for a few years past, have been fitted to certain barges.
+
+At the bend of the river a barge appeared. As she passed in front of him, he distinctly and with no little excitement read the name of the Belle Hélène!
+
+She was gliding along at a fair pace, to the accompaniment of a regular, throbbing beat. She was big and broad in the beam, heavy and pretty deep in the water, though she appeared to carry no cargo. Patrice saw two watermen on board, sitting and smoking carelessly. A dinghy floated behind at the end of a painter.
+
+The barge went on and passed out of sight at the turn. Patrice waited another hour before Don Luis came back.
+
+"Well?" he asked. "Have you seen her?"
+
+"Yes, they let go the dinghy, a mile and a half from here, and put in for Siméon."
+
+"Then he's gone with them?"
+
+"Yes."
+
+"Without suspecting anything?"
+
+"You're asking me too much, captain!"
+
+"Never mind! We've won! We shall catch them up in the car, pass them and, at Vernon or somewhere, inform the military and civil authorities, so that they may proceed to arrest the men and seize the boat."
+
+"We shall inform nobody, captain. We shall proceed to carry out these little operations ourselves."
+
+"What do you mean? Surely . . ."
+
+The two looked at each other. Patrice had been unable to dissemble the thought that occurred to his mind. Don Luis showed no resentment:
+
+"You're afraid that I shall run away with the three hundred millions? By jingo, it's a largish parcel to hide in one's jacket-pocket!"
+
+"Still," said Patrice, "may I ask what you intend to do?"
+
+"You may, captain, but allow me to postpone my reply until we've really won. For the moment, we must first find the barge again."
+
+They went to the Hôtel des Trois-Empereurs and drove off in the car towards Vernon. This time they were both silent.
+
+The road joined the river a few miles lower down, at the bottom of the steep hill which begins at Rosny. Just as they reached Rosny the Belle Hélène was entering the long loop which curves out to La Roche-Guyon, turns back and joins the high-road again at Bonnières. She would need at least three hours to cover the distance, whereas the car, climbing the hill and keeping straight ahead, arrived at Bonnières in fifteen minutes.
+
+They drove through the village. There was an inn a little way beyond it, on the right. Don Luis made his chauffeur stop here:
+
+"If we are not back by twelve to-night," he said, "go home to Paris. Will you come with me, captain?"
+
+Patrice followed him towards the right, whence a small road led them to the river-bank. They followed this for a quarter of an hour. At last Don Luis found what he appeared to be seeking, a boat fastened to a stake, not far from a villa with closed shutters. Don Luis unhooked the chain.
+
+It was about seven o'clock in the evening. Night was falling fast, but a brilliant moonlight lit the landscape.
+
+"First of all," said Don Luis, "a word of explanation. We're going to wait for the barge. She'll come in sight on the stroke of ten and find us lying across stream. I shall order her to heave to; and there's no doubt that, when they see your uniform by the light of the moon or of my electric lamp, they will obey. Then we shall go on board."
+
+"Suppose they refuse?"
+
+"If they refuse, we shall board her by force. There are three of them and two of us. So . . ."
+
+"And then?"
+
+"And then? Well, there's every reason to believe that the two men forming the crew are only extra hands, employed by Siméon, but ignorant of his actions and knowing nothing of the nature of the cargo. Once we have reduced Siméon to helplessness and paid them handsomely, they'll take the barge wherever I tell them. But, mind you--and this is what I was coming to--I mean to do with the barge exactly as I please. I shall hand over the cargo as and when I think fit. It's my booty, my prize. No one is entitled to it but myself."
+
+The officer drew himself up:
+
+"Oh, I can't agree to that, you know!"
+
+"Very well, then give me your word of honor that you'll keep a secret which doesn't belong to you. After which, we'll say good-night and go our own ways. I'll do the boarding alone and you can go back to your own business. Observe, however, that I am not insisting on an immediate reply. You have plenty of time to reflect and to take the decision which your interest, honor and conscience may dictate to you. For my part, excuse me, but you know my weakness: when circumstances give me a little spare time, I take advantage of it to go to sleep. Carpe somnum, as the poet says. Good-night, captain."
+
+And, without another word, Don Luis wrapped himself in his great-coat, sprang into the boat and lay down.
+
+Patrice had had to make a violent effort to restrain his anger. Don Luis' calm, ironic tone and well-bred, bantering voice got on his nerves all the more because he felt the influence of that strange man and fully recognized that he was incapable of acting without his assistance. Besides, he could not forget that Don Luis had saved his life and Coralie's.
+
+The hours slipped by. The adventurer slumbered peacefully in the cool night air. Patrice hesitated what to do, seeking for some plan of conduct which would enable him to get at Siméon and rid himself of that implacable adversary and at the same time to prevent Don Luis from laying hands on the enormous treasure. He was dismayed at the thought of being his accomplice. And yet, when the first throbs of the motor were heard in the distance and when Don Luis awoke, Patrice was by his side, ready for action.
+
+They did not exchange a word. A village-clock struck ten. The Belle Hélène was coming towards them.
+
+Patrice felt his excitement increase. The Belle Hélène meant Siméon's capture, the recovery of the millions, Coralie out of danger, the end of that most hideous nightmare and the total extinction of Essarès' handiwork. The engine was throbbing nearer and nearer. Its loud and regular beat sounded wide over the motionless Seine. Don Luis had taken the sculls and was pulling hard for the middle of the river. And suddenly they saw in the distance a black mass looming up in the white moonlight. Twelve or fifteen more minutes passed and the Belle Hélène was before them.
+
+"Shall I lend you a hand?" whispered Patrice. "It looks as if you had the current against you and as if you had a difficulty in getting along."
+
+"Not the least difficulty," said Don Luis; and he began to hum a tune.
+
+"But . . ."
+
+Patrice was stupefied. The boat had turned in its own length and was making for the bank.
+
+"But, I say, I say," he said, "what's this? Are you going back? Are you giving up? . . . I don't understand. . . . You're surely not afraid because they're three to our two?"
+
+Don Luis leapt on shore at a bound and stretched out his hand to him. Patrice pushed it aside, growling:
+
+"Will you explain what it all means?"
+
+"Take too long," replied Don Luis. "Just one question, though. You know that book I found in old Siméon's room, The Memoirs of Benjamin Franklin: did you see it when you were making your search?"
+
+"Look here, it seems to me we have other things to . . ."
+
+"It's an urgent question, captain."
+
+"Well, no, it wasn't there."
+
+"Then that's it," said Don Luis. "We've been done brown, or rather, to be accurate, I have. Let's be off, captain, as fast as we can."
+
+Patrice was still in the boat. He pushed off abruptly and caught up the scull, muttering:
+
+"As I live, I believe the beggar's getting at me!"
+
+He was ten yards from shore when he cried:
+
+"If you're afraid, I'll go alone. Don't want any help."
+
+"Right you are, captain!" replied Don Luis. "I'll expect you presently at the inn."
+
+Patrice encountered no difficulties in his undertaking. At the first order, which he shouted in a tone of command, the Belle Hélène stopped; and he was able to board her peacefully. The two bargees were men of a certain age, natives of the Basque coast. He introduced himself as a representative of the military authorities; and they showed him over their craft. He found neither old Siméon nor the very smallest bag of gold. The hold was almost empty.
+
+The questions and answers did not take long:
+
+"Where are you going?"
+
+"To Rouen. We've been requisitioned by the government for transport of supplies."
+
+"But you picked up somebody on the way."
+
+"Yes, at Mantes."
+
+"His name, please?"
+
+"Siméon Diodokis."
+
+"Where's he got to?"
+
+"He made us put him down a little after, to take the train."
+
+"What did he want?"
+
+"To pay us."
+
+"For what?"
+
+"For a shipload we took at Paris two days ago."
+
+"Bags?"
+
+"Yes."
+
+"What of?"
+
+"Don't know. We were well paid and asked no questions."
+
+"And what's become of the load?"
+
+"We transhipped it last night to a small steamer that came alongside of us below Passy."
+
+"What's the steamer's name?"
+
+"The Chamois. Crew of six."
+
+"Where is she now?"
+
+"Ahead of us. She was going fast. She must be at Rouen by this time. Siméon Diodokis is on his way to join her."
+
+"How long have you known Siméon Diodokis?"
+
+"It's the first time we saw him. But we knew that he was in M. Essarès' service."
+
+"Oh, so you've worked for M. Essarès?"
+
+"Yes, often. . . . Same job and same trip."
+
+"He called you by means of a signal, didn't he?"
+
+"Yes, he used to light an old factory-chimney."
+
+"Was it always bags?"
+
+"Yes. We didn't know what was inside. He was a good payer."
+
+Patrice asked no more questions. He hurriedly got into his boat, pulled back to shore and found Don Luis seated with a comfortable supper in front of him.
+
+"Quick!" he said. "The cargo is on board a steamer, the Chamois. We can catch her up between Rouen and Le Hâvre."
+
+Don Luis rose and handed the officer a white-paper packet:
+
+"Here's a few sandwiches for you, captain," he said. "We've an arduous night before us. I'm very sorry that you didn't get a sleep, as I did. Let's be off, and this time I shall drive. We'll knock some pace out of her! Come and sit beside me, captain."
+
+They both stepped into the car; the chauffeur took his seat behind them. But they had hardly started when Patrice exclaimed:
+
+"Hi! What are you up to? Not this way! We're going back to Mantes or Paris!"
+
+"That's what I mean to do," said Luis, with a chuckle.
+
+"Eh, what? Paris?"
+
+"Well, of course!"
+
+"Oh, look here, this is a bit too thick! Didn't I tell you that the two bargees . . . ?"
+
+"Those bargees of yours are humbugs."
+
+"They declared that the cargo . . ."
+
+"Cargo? No go!"
+
+"But the Chamois . . ."
+
+"Chamois? Sham was! I tell you once more, we're done, captain, done brown! Old Siméon is a wonderful old hand! He's a match worth meeting. He gives you a run for your money. He laid a trap in which I've been fairly caught. It's a magnificent joke, but there's moderation in all things. We've been fooled enough to last us the rest of our lives. Let's be serious now."
+
+"But . . ."
+
+"Aren't you satisfied yet, captain? After the Belle Hélène do you want to attack the Chamois? As you please. You can get out at Mantes: Only, I warn you, Siméon is in Paris, with three or four hours' start of us."
+
+Patrice gave a shudder. Siméon in Paris! In Paris, where Coralie was alone and unprotected! He made no further protest; and Don Luis ran on:
+
+"Oh, the rascal! How well he played his hand! The Memoirs of Benjamin Franklin were a master stroke. Knowing of my arrival, he said to himself, 'Arsène Lupin is a dangerous fellow, capable of disentangling the affair and putting both me and the bags of gold in his pocket. To get rid of him, there's only one thing to be done: I must act in such a way as to make him rush along the real track at so fast a rate of speed that he does not perceive the moment when the real track becomes a false track.' That was clever of him, wasn't it? And so we have the Franklin book, held out as a bait; the page opening of itself, at the right place; my inevitable easy discovery of the conduit system; the clue of Ariadne most obligingly offered. I follow up the clue like a trusting child, led by Siméon's own hand, from the cellar down to Berthou's Wharf. So far all's well. But, from that moment, take care! There's nobody at Berthou's Wharf. On the other hand, there's a barge alongside, which means a chance of making enquiries, which means the certainty that I shall make enquiries. And I make enquiries. And, having made enquiries, I am done for."
+
+"But then that man . . . ?"
+
+"Yes, yes, yes, an accomplice of Siméon's, whom Siméon, knowing that he would be followed to the Gare Saint-Lazare, instructs in this way to direct me to Mantes for the second time. At Mantes the comedy continues. The Belle Hélène passes, with her double freight, Siméon and the bags of gold. We go running after the Belle Hélène. Of course, on the Belle Hélène there's nothing: no Siméon, no bags of gold. 'Run after the Chamois. We've transhipped it all on the Chamois.' We run after the Chamois, to Rouen, to Le Hâvre, to the end of the world; and of course our pursuit is fruitless, for the Chamois does not exist. But we are convinced that she does exist and that she has escaped our search. And by this time the trick is played. The millions are gone, Siméon has disappeared and there is only one thing left for us to do, which is to resign ourselves and abandon our quest. You understand, we're to abandon our quest: that's the fellow's object. And he would have succeeded if . . ."
+
+The car was traveling at full speed. From time to time Don Luis would stop her dead with extraordinary skill. Post of territorials. Pass to be produced. Then a leap onward and once more the breakneck pace.
+
+"If what?" asked Patrice, half-convinced. "Which was the clue that put you on the track?"
+
+"The presence of that woman at Mantes. It was a vague clue at first. But suddenly I remembered that, in the first barge, the Nonchalante, the person who gave us information--do you recollect?--well, that this person somehow gave me the queer impression, I can't tell you why, that I might be talking to a woman in disguise. The impression occurred to me once more. I made a mental comparison with the woman at Mantes. . . . And then . . . and then it was like a flash of light. . . ."
+
+Don Luis paused to think and, in a lower voice, continued:
+
+"But who the devil can this woman be?"
+
+There was a brief silence, after which Patrice said, from instinct rather than reason:
+
+"Grégoire, I suppose."
+
+"Eh? What's that? Grégoire?"
+
+"Yes. Yes, Grégoire is a woman."
+
+"What are you talking about?"
+
+"Well, obviously. Don't you remember? The accomplice told me so, on the day when I had them arrested outside the café."
+
+"Why, your diary doesn't say a word about it!"
+
+"Oh, that's true! . . . I forgot to put down that detail."
+
+"A detail! He calls it a detail! Why, it's of the greatest importance, captain! If I had known, I should have guessed that that bargee was no other than Grégoire and we should not have wasted a whole night. Hang it all, captain, you really are the limit!"
+
+But all this was unable to affect his good-humor. While Patrice, overcome with presentiments, grew gloomier and gloomier, Don Luis began to sing victory in his turn:
+
+"Thank goodness! The battle is becoming serious! Really, it was too easy before; and that was why I was sulking, I, Lupin! Do you imagine things go like that in real life? Does everything fit in so accurately? Benjamin Franklin, the uninterrupted conduit for the gold, the series of clues that reveal themselves of their own accord, the man and the bags meeting at Mantes, the Belle Hélène: no, it all worried me. The cat was being choked with cream! And then the gold escaping in a barge! All very well in times of peace, but not in war-time, in the face of the regulations: passes, patrol-boats, inspections and I don't know what. . . . How could a fellow like Siméon risk a trip of that kind? No, I had my suspicions; and that was why, captain, I made Ya-Bon mount guard, on the off chance, outside Berthou's Wharf. It was just an idea that occurred to me. The whole of this adventure seemed to center round the wharf. Well, was I right or not? Is M. Lupin no longer able to follow a scent? Captain, I repeat, I shall go back to-morrow evening. Besides, as I told you, I've got to. Whether I win or lose, I'm going. But we shall win. Everything will be cleared up. There will be no more mysteries, not even the mystery of the golden triangle. . . . Oh, I don't say that I shall bring you a beautiful triangle of eighteen-carat gold! We mustn't allow ourselves to be fascinated by words. It may be a geometrical arrangement of the bags of gold, a triangular pile . . . or else a hole in the ground dug in that shape. No matter, we shall have it! And the bags of gold shall be ours! And Patrice and Coralie shall appear before monsieur le maire and receive my blessing and live happily ever after!"
+
+They reached the gates of Paris. Patrice was becoming more and more anxious:
+
+"Then you think the danger's over?"
+
+"Oh, I don't say that! The play isn't finished. After the great scene of the third act, which we will call the scene of the oxide of carbon, there will certainly be a fourth act and perhaps a fifth. The enemy has not laid down his arms, by any means."
+
+They were skirting the quays.
+
+"Let's get down," said Don Luis.
+
+He gave a faint whistle and repeated it three times.
+
+"No answer," he said. "Ya-Bon's not there. The battle has begun."
+
+"But Coralie . . ."
+
+"What are you afraid of for her? Siméon doesn't know her address."
+
+There was nobody on Berthou's Wharf and nobody on the quay below. But by the light of the moon they saw the other barge, the Nonchalante.
+
+"Let's go on board," said Don Luis. "I wonder if the lady known as Grégoire makes a practise of living here? Has she come back, believing us on our way to Le Hâvre? I hope so. In any case, Ya-Bon must have been there and no doubt left something behind to act as a signal. Will you come, captain?"
+
+"Right you are. It's a queer thing, though: I feel frightened!"
+
+"What of?" asked Don Luis, who was plucky enough himself to understand this presentiment.
+
+"Of what we shall see."
+
+"My dear sir, there may be nothing there!"
+
+Each of them switched on his pocket-lamp and felt the handle of his revolver. They crossed the plank between the shore and the boat. A few steps downwards brought them to the cabin. The door was locked.
+
+"Hi, mate! Open this, will you?"
+
+There was no reply. They now set about breaking it down, which was no easy matter, for it was massive and quite unlike an ordinary cabin-door.
+
+At last it gave way.
+
+"By Jingo!" said Don Luis, who was the first to go in. "I didn't expect this!"
+
+"What?"
+
+"Look. The woman whom they called Grégoire. She seems to be dead."
+
+She was lying back on a little iron bedstead, with her man's blouse open at the top and her chest uncovered. Her face still bore an expression of extreme terror. The disordered appearance of the cabin suggested that a furious struggle had taken place.
+
+"I was right. Here, by her side, are the clothes she wore at Mantes. But what's the matter, captain?"
+
+Patrice had stifled a cry:
+
+"There . . . opposite . . . under the window . . ."
+
+It was a little window overlooking the river. The panes were broken.
+
+"Well?" asked Don Luis. "What? Yes, I believe some one's been thrown out that way."
+
+"The veil . . . that blue veil," stammered Patrice, "is her nurse's veil . . . Coralie's. . . ."
+
+Don Luis grew vexed:
+
+"Nonsense! Impossible! Nobody knew her address."
+
+"Still . . ."
+
+"Still what? You haven't written to her? You haven't telegraphed to her?"
+
+"Yes . . . I telegraphed to her . . . from Mantes."
+
+"What's that? Oh, but look here. This is madness! You don't mean that you really telegraphed?"
+
+"Yes, I do."
+
+"You telegraphed from the post-office at Mantes?"
+
+"Yes."
+
+"And was there any one in the post-office?"
+
+"Yes, a woman."
+
+"What woman? The one who lies here, murdered?"
+
+"Yes."
+
+"But she didn't read what you wrote?"
+
+"No, but I wrote the telegram twice over."
+
+"And you threw the first draft anywhere, on the floor, so that any one who came along. . . . Oh, really, captain, you must confess . . . !"
+
+But Patrice was running towards the car and was already out of ear-shot.
+
+Half an hour after, he returned with two telegrams which he had found on Coralie's table. The first, the one which he had sent, said:
+
+"All well. Be easy and stay indoors. Fondest love.
+
+"CAPTAIN PATRICE."
+
+The second, which had evidently been despatched by Siméon, ran as follows:
+
+This second telegram was delivered to Coralie at eight o'clock; and she had left the home immediately afterwards.

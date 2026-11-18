@@ -1,0 +1,97 @@
+---
+title: "Chapter 2 - \u0026quot;An Investment, Anyway\u0026quot;"
+weight: 2
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-02.html"
+---
+
+The natural result of these efforts was, that Miss Belinda was moved to shed a few tears.
+
+"I hope you will excuse my being too startled to say I was glad to see you," she said. "I have not seen my brother for thirty years, and I was very fond of him."
+
+"He said you were," answered Octavia; "and he was very fond of you too. He didn't write to you, because he made up his mind not to let you hear from him until he was a rich man; and then he thought he would wait until he could come home, and surprise you. He was awfully disappointed when he had to go back without seeing you."
+
+"Poor, dear Martin!" wept Miss Belinda gently. "Such a journey!"
+
+Octavia opened her charming eyes in surprise.
+
+"Oh, he'll come back again!" she said. "And he doesn't mind the journey. The journey is nothing, you know."
+
+"Nothing!" echoed Miss Belinda. "A voyage across the Atlantic nothing? When one thinks of the danger, my dear"--
+
+Octavia's eyes opened a shade wider.
+
+"We have made the trip to the States, across the Isthmus, twelve times, and that takes a month," she remarked. "So we don't think ten days much."
+
+"Twelve times!" said Miss Belinda, quite appalled. "Dear, dear, dear!"
+
+And for some moments she could do nothing but look at her young relative in doubtful wonder, shaking her head with actual sadness.
+
+But she finally recovered herself, with a little start.
+
+"What am I thinking of," she exclaimed remorsefully, "to let you sit here in this way? Pray excuse me, my dear. You see I am so upset."
+
+She left her chair in a great hurry, and proceeded to embrace her young guest tenderly, though with a little timorousness. The young lady submitted to the caress with much composure.
+
+"Did I upset you?" she inquired calmly.
+
+The fact was, that she could not see why the simple advent of a relative from Nevada should seem to have the effect of an earthquake, and result in tremor, confusion, and tears. It was true, she herself had shed a tear or so, but then her troubles had been accumulating for several days; and she had not felt confused yet.
+
+When Miss Belinda went down-stairs to superintend Mary Anne in the tea-making, and left her guest alone, that young person glanced about her with a rather dubious expression.
+
+"It is a queer, nice little place," she said. "But I don't wonder that pa emigrated, if they always get into such a flurry about little things. I might have been a ghost."
+
+Then she proceeded to unlock the big trunk, and attire herself.
+
+Down-stairs, Miss Belinda was wavering between the kitchen and the parlor, in a kindly flutter.
+
+"Toast some muffins, Mary Anne, and bring in the cold roast fowl," she said. "And I will put out some strawberry-jam, and some of the preserved ginger. Dear me! Just to think how fond of preserved ginger poor Martin was, and how little of it he was allowed to eat! There really seems a special Providence in my having such a nice stock of it in the house when his daughter comes home."
+
+In the course of half an hour every thing was in readiness; and then Mary Anne, who had been sent up-stairs to announce the fact, came down in a most remarkable state of delighted agitation, suppressed ecstasy and amazement exclaiming aloud in every feature.
+
+"She's dressed, mum," she announced, "an' 'll be down immediate," and retired to a shadowy corner of the kitchen passage, that she might lie in wait unobserved.
+
+Miss Belinda, sitting behind the tea-service, heard a soft, flowing, silken rustle sweeping down the staircase, and across the hall, and then her niece entered.
+
+"Don't you think I've dressed pretty quick?" she said, and swept across the little parlor, and sat down in her place, with the calmest and most unconscious air in the world.
+
+There was in Slowbridge but one dressmaking establishment. The head of the establishment--Miss Letitia Chickie--designed the costumes of every woman in Slowbridge, from Lady Theobald down. There were legends that she received her patterns from London, and modified them to suit the Slowbridge taste. Possibly this was true; but in that case her labors as modifier must have been severe indeed, since they were so far modified as to be altogether unrecognizable when they left Miss Chickie's establishment, and were borne home in triumph to the houses of her patrons. The taste of Slowbridge was quiet,--upon this Slowbridge prided itself especially,--and, at the same time, tended toward economy. When gores came into fashion, Slowbridge clung firmly, and with some pride, to substantial breadths, which did not cut good silk into useless strips which could not be utilized in after-time; and it was only when, after a visit to London, Lady Theobald walked into St. James's one Sunday with two gores on each side, that Miss Chickie regretfully put scissors into her first breadth. Each matronly member of good society possessed a substantial silk gown of some sober color, which gown, having done duty at two years' tea-parties, descended to the grade of "second-best," and so descended, year by year, until it disappeared into the dim distance of the past. The young ladies had their white muslins and natural flowers; which latter decorations invariably collapsed in the course of the evening, and were worn during the latter half of any festive occasion in a flabby and hopeless condition. Miss Chickie made the muslins, festooning and adorning them after designs emanating from her fertile imagination. If they were a little short in the body, and not very generously proportioned in the matter of train, there was no rival establishment to sneer, and Miss Chickie had it all her own way; and, at least, it could never be said that Slowbridge was vulgar or overdressed.
+
+Judge, then, of Miss Belinda Bassett's condition of mind when her fair relative took her seat before her.
+
+What the material of her niece's dress was, Miss Belinda could not have told. It was a silken and soft fabric of a pale blue color; it clung to the slender, lissome young figure like a glove; a fan-like train of great length almost covered the hearth-rug; there were plaitings and frillings all over it, and yards of delicate satin ribbon cut into loops in the most recklessly extravagant manner.
+
+Miss Belinda saw all this at the first glance, as Mary Anne had seen it, and, like Mary Anne, lost her breath; but, on her second glance, she saw something more. On the pretty, slight hands were three wonderful, sparkling rings, composed of diamonds set in clusters: there were great solitaires in the neat little ears, and the thickly-plaited lace at the throat was fastened by a diamond clasp.
+
+"My dear," said Miss Belinda, clutching helplessly at the teapot, "are you--surely it is a--a little dangerous to wear such--such priceless ornaments on ordinary occasions."
+
+Octavia stared at her for a moment uncomprehendingly.
+
+"Your jewels, I mean, my love," fluttered Miss Belinda. "Surely you don't wear them often. I declare, it quite frightens me to think of having such things in the house."
+
+"Does it?" said Octavia. "That's queer."
+
+And she looked puzzled for a moment again.
+
+Then she glanced down at her rings.
+
+"I nearly always wear these," she remarked. "Father gave them to me. He gave me one each birthday for three years. He says diamonds are an investment, anyway, and I might as well have them. These," touching the ear-rings and clasp, "were given to my mother when she was on the stage. A lot of people clubbed together, and bought them for her. She was a great favorite."
+
+Miss Belinda made another clutch at the handle of the teapot.
+
+"Your mother!" she exclaimed faintly. "On the--did you say, on the"--
+
+"Stage," answered Octavia. "San Francisco. Father married her there. She was awfully pretty. I don't remember her. She died when I was born. She was only nineteen."
+
+The utter calmness, and freedom from embarrassment, with which these announcements were made, almost shook Miss Belinda's faith in her own identity. Strange to say, until this moment she had scarcely given a thought to her brother's wife; and to find herself sitting in her own genteel little parlor, behind her own tea-service, with her hand upon her own teapot, hearing that this wife had been a young person who had been "a great favorite" upon the stage, in a region peopled, as she had been led to suppose, by gold-diggers and escaped convicts, was almost too much for her to support herself under. But she did support herself bravely, when she had time to rally.
+
+"Help yourself to some fowl, my dear," she said hospitably, even though very faintly indeed, "and take a muffin."
+
+Octavia did so, her over-splendid hands flashing in the light as she moved them.
+
+"American girls always have more things than English girls," she observed, with admirable coolness. "They dress more. I have been told so by girls who have been in Europe. And I have more things than most American girls. Father had more money than most people; that was one reason; and he spoiled me, I suppose. He had no one else to give things to, and he said I should have every thing I took a fancy to. He often laughed at me for buying things, but he never said I shouldn't buy them."
+
+"He was always generous," sighed Miss Belinda. "Poor, dear Martin!"
+
+Octavia scarcely entered into the spirit of this mournful sympathy. She was fond of her father, but her recollections of him were not pathetic or sentimental.
+
+"He took me with him wherever he went," she proceeded. "And we had a teacher from the States, who travelled with us sometimes. He never sent me away from him. I wouldn't have gone if he had wanted to send me--and he didn't want to," she added, with a satisfied little laugh.

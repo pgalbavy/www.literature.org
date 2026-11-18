@@ -1,0 +1,121 @@
+---
+title: "Chapter 12 - The Beautiful Madam Whitworth"
+weight: 12
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-12.html"
+---
+
+Sue then made for me many introductions and all of those lovely grande dames gave to me affectionate welcomes. Some of them I had encountered at the dance of the Gouverneur Faulkner and all of them had smiles for me.
+
+"Why, boy, you are Henry's very self come back to us after all these years--only with a lot of added deviltry in the way of French beauty," said that Madam Taylor, who was very stately, with white hair and a very young countenance of sweetness. "The daredevil--it was like him to send you back to us as--as revenge," she added with something that almost seemed like anger under the sweetness of her voice.
+
+"It is what my father always named me, Madam, the 'daredevil,' and will you not accept me for your cherishing?" I spoke those words to her from an impulse that I could not understand but I saw them soothe a hurt in her eyes as she laughed and kissed my cheek as I raised my head from kissing her jeweled hand.
+
+"Yes," she answered me softly.
+
+"Come on, L'Aiglon; it's time to beat it. We are late and Sue is beginning to shoo," called my Buzz from the door of the card room. "We are coming home with Phil for supper to-night, Mrs. Taylor, and the Prince wants an introduction to your custard pie. Yes'm, seven sharp! Come on, Bob!"
+
+"My Buzz," I said to that Mr. Buzz Clendenning as he raced the slim car through the country and the city up to the Capitol hill, "you give to me a life of much joy in only a few days. I would that it could so continue."
+
+"It just will until we are jolly old boys with long white beards and canes, Bobby," he answered me with an affectionate grin as we rounded a corner on two wheels of the car. "Say, let's get out of this politics soon, go in for selling timber lands, marry two of the calicoes and found families. We'll call the firm Carruthers and Clendenning and I choose Sue. You can decide about your dame later."
+
+Suddenly something very cold and dead was there in place of my heart that had danced with happiness. What should I do at that time of disclosing myself as one large lie to all of these kind friends who were giving me affection on the account of my honored father and Uncle, the General Robert? That daredevil in me had led me into this dishonor, with the excuse, it is true, of fear that the wicked Uncle would not have mended the hip of small Pierre if I did not obey his summons as a nephew. And now I must stay to be of service to him and to the Gouverneur Faulkner but also to be more involved in that lie and to accept more confidence and affection with thievery.
+
+"I cannot sell the lands of timber with you, my Buzz," I made answer to him quickly and with fierceness. "As soon as this business of the mules is settled and my Uncle, the General Robert, no longer requires my services, I must return and go into the trenches of France." And I felt as I spoke that my fate was decided, and a great calmness came over me. "Then I'll go with you," answered me that Buzz with a look of the steadfast affection which might have grown with years of comradeship. "I'll go and fight for France with you if you'll come back and build an American family alongside of mine. Jump out--we are fifteen minutes late--and watch the General scalp me. Come in through his office and take a part of it, will you?"
+
+Even in the very short time which I had known my Uncle, the General Robert, I had discovered that the times at which could be anticipated explosions, none came, and also the reverse of that fact. When my Buzz and I entered his office he very hastily concealed a book that had some variety of richly colored pictures in it in his desk and smiled with a wink of the eye at my Buzz. Later I should know about that book to my great joy.
+
+"Here's a letter for you, Robert, and go get to your knitting with Governor Bill," he said to me with kindness in his smile as he handed me a large letter and motioned me from the room into the small anteroom that I now knew to be the place assigned to my Buzz and me when not wanted in the offices of my Uncle, the General Robert, or the Gouverneur Faulkner. I made a low bow to my Uncle, the General Robert, and also to Monsieur the Bumble Bee and departed thence.
+
+On seating myself at my table to await the bell of the Gouverneur Faulkner, without which ringing my Buzz had instructed me I must never on pain of extinction as a secretary enter His Excellency's office, I opened that letter and began to read with difficulty a letter of a few words from my wee Pierre, now in the hospital of that kind Doctor Burns. I read not more than one sentence when I leaped to my feet with a cry of joy and my heart beat very high with happiness. To whom should I turn to tell of that happiness? I did not pause to answer that question in my heart but I quickly opened the door of the august Gouverneur of Harpeth and presented myself to him in a disobedience of strict orders. And then what befell me?
+
+Seated at his desk was that great and good man, with his head bowed upon his hands; and at my entrance he raised that head with an alarm. I could see that his face was heavy and sad with deep pondering and I was instantly thrown into mortification that I had so interrupted him. I faltered there beside him and found halting words to exclaim:
+
+"Oh, it is a pardon I ask Your Excellency for intruding into your door, but it is that my small Pierre has stood upon two feet for perhaps a whole minute in the hospital of that good Dr. Burns and I must run to tell you of my joy. Is it quite possible now that Pierre will no longer be for life crooked in the back?" And as I spoke I held out to him the letter upon which tears were dripping and one of my hands I clasped trembling at my breast that shook under that stylish cheviot bag of a coat I had that morning put upon me for the first time. And did that great Gouverneur Faulkner repulse his wicked secretary? He did not.
+
+"God bless you, youngster! Of course you run right to tell me when a big thing like that happens. Sure that back will be all straight in no time and we'll have the little maid down, running in and out at her will in just a few months," and as he spoke that Gouverneur Faulkner came to my side and took the hand that held the tear-besprinkled letter and also drew the one from my breast into his own two large and warm ones. "I've been hearing people's troubles for what seems like an eternity, boy, but not a single son-of-a-gun has run to me with his joy until you have. Here, use one corner of my handkerchief while I use the other," and as he spoke that very large and broad-shouldered man released one of my hands, dabbed his own eyes that were sparkling with perhaps a tear, and then handed that handkerchief to me.
+
+And those tears of both of us ended in a large laugh.
+
+"It is my habit that I shed tears when in joy," I said with apology, as I returned that large white handkerchief to that Gouverneur Faulkner.
+
+"Mind you don't tell anybody that Governor Bill Faulkner does the same thing," he answered with a laugh.
+
+"I have a feeling that is of longing to rush to small Pierre and to prostrate myself at the feet of that good Doctor," I said as again the great joy of that news rushed upon me.
+
+"No, boy, not right now," answered that great Gouverneur Faulkner as he turned and laid a large warm hand on each of my shoulders. "The crisis is at hand and I need you here for a little time. I can't explain it, but--but you seem to feed--feed my faith in myself. In just a few days I've grown to depend on you to--to--. You ridiculous boy, you, with your storms and joy sunbursts, get out of here and tell Cato to send Mr. Whitworth and Mr. Brown into my office immediately." And with a laugh and a shake of me away from his side, the Gouverneur Faulkner picked up the two long sheets of paper which had been of so much labor to my Buzz and me and began to scowl back of his black, white-tipped eyebrows over them. I departed with great rapidity.
+
+Then with much more calmness I told the great news of the back of Pierre to my Uncle, the General Robert.
+
+"That's fine--now we can give her away without any trouble. I knew Burns could do the trick. It's a bargain at two thousand dollars to get a girl in the shape to give away. She could give us no end of bother if we had to keep her. Go find that flea, Clendenning, and tell him to come to me immediately; I think he is buzzing in the telephone closet to that Susan. And you go get busy yourself to earn your salary from the State of Harpeth. Telegraph twenty dollars to that fool nurse to buy a doll for the girl. Now go!" That was the way that my Uncle, the General Robert, received my news of the improved health of the back of small Pierre, and with my two eyes I shed a few secret tears that did roll down into my mouth which was broad from a laugh as I went in search of my Buzz.
+
+"Bully, old top," said my Bumble Bee as I imparted also my joy to him. "Say, if that kid is eight years old and is going to walk all right, we must see to it that she starts in with a good dancing teacher as soon as she can spin around. We want to make a real winner out of her."
+
+"I do love you, my Buzz," I answered to him as I clung with both my hands to his arm across my shoulder.
+
+"That's all right. Prince, but don't talk about it," he answered me with a laugh and a shake.
+
+"And, say, let's get to work, because at about four o'clock I'll have something that'll give you a start."
+
+"Oh, but, my Buzz, at four o'clock I must go for tea to the home of beautiful Madam Whitworth."
+
+"Whe-ee-uh!" whistled my Buzz as he looked at me from the top of my head to the toe of my shoe.
+
+"It would give me a much greater pleasure to be startled by you, my Buzz, but this is a promise I did make the last evening," I pleaded to him.
+
+"Go ahead, sport, but accept it from me that Madam Pat is the genuine and original pump; so don't let her empty you. Do you want me to come by and extract you at about fifteen to five? I'm sorry, but I really must have a business interview with you before six." And my Buzz's eyes twinkled with something that was of a great pleasure to him I could observe.
+
+"It would be of more pleasure to me if you came at the half of five, my Buzz," I made a hurry to assure him, for I had a great dread of all of the falsehoods I was to say to that Madam Whitworth that afternoon for the purpose of extracting perhaps a little wicked truth from her to help in the defense of my Gouverneur Faulkner.
+
+"I'm on," answered my Buzz promptly. "Beat it! I hear the old boy growling." And he disappeared behind the door of my Uncle, the General Robert. I went to the duty of assuring the nice gentleman in very rough clothing that the Gouverneur would in the morning read the paper on the subject of making a long road past his property in good condition by a vote, and I was of a very great success in my efforts, the good Cato assured me.
+
+"You's got a fine oiled tongue tied in the middle and loose at both ends, honey. Yo' father had the same," he assured me as he handed me my hat and walking cane at the hour of four, which ended my duties for the day. Roberta, Marquise of Grez and Bye, did so long to go into that room of the Gouverneur Faulkner and receive upon her hand one nice kiss of good night from him, but Mr. Robert Carruthers walked down from the Capitol and only paused to lift for a little second his very handsome hat towards the window of His Excellency's room high up above.
+
+And the encounter with the beautiful Madam Whitworth was much worse than I had thought that it would be, though also it was of a very interesting excitement. She had made armaments for the encounter in the shape of a very lovely tea apparel of an increditable thinness to be used for covering, a little low fire in the golden grate, and curtains of rose to throw somewhat of glow over the situation. Immediately I was seated beside her on a small divan upon which there was room for only one and a half persons, and my stupidity was called into vigorous action.
+
+"I suppose you have spent the day in translating a lot of those long and tiresome French documents for the General and the Governor. Thank goodness, that is no longer my task," she remarked as she tipped the cognac bottle over my tea and handed the cup to me.
+
+"It is of a great fatigue to work upon a matter that one does not at all understand," I answered her as I sipped at that tea of a very disagreeable taste because of the cognac.
+
+"Did they give you the two sets of specifications to compare?" she asked of me with not much of interest apparent in her manner, though her hand shook as she poured for herself a very small cup of tea, which was then filled complete with the cognac.
+
+"Helas," I answered with a sigh. "And it is impossible for me to add more figures to each other than my fingers will allow. I cannot even use my toes."
+
+"Then he didn't get them ready for the conference this afternoon?" she demanded with a great illumination of joy in her face.
+
+"Oh, indeed, I handed them back completed to His Excellency in a short space of time. Is not one mule like to another exactly, and why should a paper make them different?" I questioned with deceit of stupidity.
+
+"You are a dear boy," laughed that Madam Whitworth. "Of course those specifications agree, for I worked a whole day over them; and I'm glad you didn't tire your eyes out with them. You know you are really a very beautiful creature and I think I'll kiss you just once, purely for the pleasure of it." And I thereupon received a kiss upon my lips from the curled flower which was the mouth of that beautiful Madam Whitworth.
+
+"Is it that the stupid Gouverneur Faulkner must very soon sign that paper that sends the many strong mules to carry food to the soldiers of France fighting in the trenches?" I asked of her as I made her comfortable in the hollow of my arm.
+
+"If he doesn't sign them in a very few days the deal is all off," she answered me. "Jeff has got his capital to put up from some Northern men who are--are restless and--and suspicious. It must go through and immediately."
+
+"Then it must be accomplished immediately," I answered her with decision.
+
+"The agent of the French Government will be here on Tuesday and all of these preliminary papers must be signed before he can close the matter up finally. I hope that the conference over those specifications this afternoon will be the last. Are you sure you discovered no flaw over which the old General or the big stupid Governor can haggle?"
+
+"I discovered not a flaw," I answered her with a great positiveness. "Do you say that it is soon that those representatives of my government come to make a last signing of the papers about the excellent mules to be sent from the great State of Harpeth to France who is at a war of death? I had not heard of the nearness of the visit at the Capitol."
+
+"They don't know it--that is, Governor Faulkner does, but has told only me. He sees things my way but of--of course, he has to keep his councils from his Secretary of State for the time being. And I'm telling you all about it, because--because it is for France we plot and because I--this is the way to say it." And with those wicked words, which involved the honor of the great Gouverneur Faulkner, she pressed her body close to mine and her lips upon my mouth.
+
+For that caress of that wicked woman I had not sufficient endurance and I pushed her from me with roughness and sprang to my feet.
+
+"It is not true, Madam Whitworth, that--" I was exclaiming when I caught myself in the midst of my own betrayal, just as I was about to be shown into a plot which it was of much value to know. And as my words ceased I stood and trembled before her wickedness.
+
+"Do you know, Mr. Robert Carruthers, I do not entirely understand you," she said with a great and beautiful calmness as she lighted a cigarette and looked at me trembling before her. "You are a very bold young cavalier but you have the shrinking nature of--shall I say?--a French--girl!"
+
+As she spoke those words, which began in sarcasm but ended in a queer uncertain tone of suspicion, as if she had blundered on a reason to soothe her vanity for the recoil of my lips from hers, an ugly gleam shot from under her lowered lashes.
+
+"I am the son of the house of Carruthers as well as of Grez and Bye, beautiful Madam, and I cannot endure that you put upon my very good Uncle, the General Carruthers, an unfriendliness to France," I exclaimed with a quickness of my brain that I had not before discovered. "On points of honor I have that sensitiveness that you say to be--be of a woman."
+
+"Oh, my darling boy, I didn't mean to hurt you about that absurd old feud of--" And as she spoke the beautiful Madam Patricia rose and came upon me with outstretched arms for another abhorred embrace, which it was to my good fortune to have interrupted. But I had a fear of that suspicion I had seen flashed into her mind even though lulled by my fine assumption of the attitude of a man of honor.
+
+"Lovely and beautiful Madam," I made a beginning to say, when--
+
+"Oh, yes, Mr. Carruthers is here, for I have an appointment to call for him," an interruption came in the voice of my Buzz in remonstrance with the black maid of Madam Whitworth in the hall of her house.
+
+"Come in, Buzz, dear," called that beautiful Madam Whitworth as in one small instant she changed both her position with arms on my shoulder and her countenance of anger and anxiety. She was a very wise and beautiful and much experienced woman, was that Madam Whitworth, but she had given to me, unlessoned as I was in the art of politics, the fact that I most wanted: that the two papers containing the specifications concerning the mules had been mistranslated by her.
+
+"Put a shawl around you, Madam Pat, and come out here to the street a minute to see what is going to happen to the Prince of Carruthers," said my rescuer as he inserted his head into the room for one little minute and beckoned us to follow him.
+
+And what did I find out there upon that street?

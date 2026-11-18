@@ -1,0 +1,7 @@
+---
+title: "Chapter 8 - In Transit"
+weight: 8
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-08.html"
+---
+
+The eighth chapter is exceedingly brief, and relates that Gibbins, the amateur naturalist of the district, while lying out on the spacious open downs without a soul within a couple of miles of him, as he thought, and almost dozing, heard close to him the sound as of a man coughing, sneezing, and then swearing savagely to himself; and looking, beheld nothing. Yet the voice was indisputable. It continued to swear with that breadth and variety that distinguishes the swearing of a cultivated man. It grew to a climax, diminished again, and died away in the distance, going as it seemed to him in the direction of Adderdean. It lifted to a spasmodic sneeze and ended. Gibbins had heard nothing of the morning's occurrences, but the phenomenon was so striking and disturbing that his philosophical tranquillity vanished; he got up hastily, and hurried down the steepness of the hill towards the village, as fast as he could go.

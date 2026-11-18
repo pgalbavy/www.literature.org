@@ -1,0 +1,107 @@
+---
+title: "Chapter 5 - A Change Of Scene"
+weight: 5
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-05.html"
+---
+
+“What we ought to do now,” Doctor Bolt declared, as the night matron, indignant chin in air, turned toward the door of the private room, “is to notify the officers of Westchester county.”
+
+“I don’t see the necessity for that,” Havens replied. “One may as well look for a pearl in a train-load of oysters as to look for that fellow in Westchester county to-night. Depend upon it, the men who sought employment at the hospital a few days ago were sent here because the hospital happened to be near my home.”
+
+The night matron shrugged her shoulders and passed a scornful glance at the surgeon. The surgeon turned angrily away.
+
+“That relieves me of a great responsibility,” she said. “Ordinarily one becomes responsible for the actions of employes, but when men are sent into your service by a criminal gang for a criminal purpose, responsibility ought to end there.”
+
+“I don’t agree with your reasoning at all!” declared the surgeon. “One should know better than to employ strangers in positions of trust.”
+
+“And when,” continued the night matron, glaring at the surgeon, “a country doctor takes it upon himself to override the rules of a hospital and keeps watch beside a patient to the exclusion of the regular attendants, one certainly should not be held accountable for the safety of that patient. And that’s all I have to say,” she added.
+
+“Settle the responsibility as you will,” Havens broke in. “I have nothing to do with that. What I want now is a promise from each of you that nothing whatever shall be said regarding the matter until private detectives shall have an opportunity to recapture the escaped prisoner.”
+
+“But why the secrecy?” asked the night matron.
+
+“It is my duty as a surgeon to report the entire matter to the police,” shouted Bolt. “I shall do so at once.”
+
+Havens argued with the two for a long time, and finally secured a promise that nothing would be said either of the capture or the escape for three days. The millionaire’s idea was to get the prisoner into his own hands if possible. He knew that the fellow would have a hundred chances of escaping without ever revealing the story of the crime he had committed that night with the police, where he would have not one if guarded by private detectives.
+
+He was well satisfied from the incidents of the night that some person high up in the councils of the police department had leaked in the matter of the employment of the boys on the murder case. He believed, too, that the same influence which had been able to secure the carefully guarded information would be powerful enough to protect the escaped prisoner in case he should regain consciousness and, on promise of immunity, threaten to disclose the names of his accomplices in the incendiary act.
+
+After exacting the promise from the surgeon and the night matron, Havens ordered every workman about the place to remain on guard until morning and, calling his chauffeur, departed for New York in a high-powered touring car. Worn out with the anxiety and exertions of the night, he fell asleep on the soft cushions of the machine, and awoke only when the chauffeur shook him gently by the shoulder and announced that they were at the Grand Central station.
+
+“And I’d like to ask you a question, sir,” the chauffeur said, as Havens stepped out of the car. “It’s about what took place on the way down.”
+
+“What took place on the way down!” laughed the young millionaire. “It has all been a blank to me. I must have slept very soundly.”
+
+“Indeed you did, sir,” replied the chauffeur, “and that’s why I didn’t wake you. You seemed to need the sleep very much, sir.”
+
+“Well, tell me what happened?” Havens said impatiently.
+
+“Why, sir,” the chauffeur went on, “a big car picked us up half a mile this side of the hangar and followed on down to within three blocks of this place. When I drove fast, they drove fast; when I slowed up, they slowed up, too. Very strange, sir.”
+
+“Why didn’t you investigate?” asked Havens angrily.
+
+“You see that marble column at the corner of the building,” declared the chauffeur, pointing. “Well, I stopped once to ask questions of the chauffeur in the other car, and that marble column I’m pointing out, sir, would be just as communicative as that other chauffeur was. He only grunted when I asked questions and kept right on as before.”
+
+Havens thanked the man for the information and went on about the business which had brought him to the city. He was busy all day with lawyers and brokers and real estate managers, and was very tired and sleepy when night fell. It had been his intention to take an afternoon train for St. Louis, but his business had not permitted of so sudden a departure from the city.
+
+He regretted extremely that he had not arranged with the boys to wire their address in the Missouri city. However, he thought, the boys would wait at least twenty-four hours at the point selected, and this delay would enable him to overtake them by train at Denver. He was positive that he could do so if he could catch the Overland Limited at Chicago.
+
+Eight o’clock found him sound asleep in the stateroom of a Pullman car due to start for the west in an hour. He was so tired that the noises of the station; the arrival and departure of trains; the calls of the train starters; the rattling of the couplings under vestibules, soon died away into a dull blur, and then he passed into a dreamless sleep.
+
+His last memory was of a powerful light shining through a slender crack in the drawn blind of a stateroom window. When he awoke again the slender finger of light had become a deep red glow the size of a pail, and the perfumed air of the stateroom had, somehow, taken on the close and unsavory smell of a riverside basement.
+
+Havens made an effort to lift his hands to his head, but found that he was unable to do so. The great red light was staring viciously into his smarting eyes so he closed them, turned his head aside, and lay for a moment in silent thought.
+
+He had no idea as to where he was, or how, or how long ago he had been transported to that villainous place. He knew that violence had been used, for there was a trickle of moisture on his forehead which could not be the result of heat or exertion. There was a smart there, too, and so the moisture must be blood.
+
+The air was thick and damp, bearing the odor of long confinement in filthy quarters. Opening his eyes, directly, he saw that the walls were dark, but not with paint or paper. They were stained with the mold and unsavory accumulations of many years.
+
+The light which shone in his face came from an electric contrivance which seemed at that moment to be a long distance off. Finally, after much study and many smarting examinations, he saw that it was a light nodding and swaying on a mast, and that it shone through the dirty panes of a window before entering the gloom where he lay.
+
+It was plain to the millionaire, then, that, in some mysterious manner, he had been taken from the stateroom and conveyed to one of the disreputable resorts on the river front. He had no idea as to whether he was looking out on the East river or the North river. All he knew was that his hands and feet were tied; that his head ached furiously, and that his lips and tongue were parched with thirst. In a moment he heard a door open and then an old woman, toothless and shrunken of shoulders, stood before him, bearing in her hand a smoking kerosene lamp.
+
+“Well, dearie,” she said with a wicked leer in her watery old eyes.
+
+Havens indicated by motions of his lips and tongue that he needed a drink of water. The old woman had undoubtedly been prepared for this, for she drew a flask of spirits from a capacious pocket in her clothing and held it exultantly before the eyes of the captive.
+
+Havens shook his head.
+
+“It will give you strength,” pleaded the hag. “Strength for what you’ve got to endure. Better take a drop or two!”
+
+In a moment the young millionaire managed to say that he wanted water, and the old hag, with the air of one who considered that a weak-minded man was turning away a blessed boon, restored the bottle to her pocket and brought water in as filthy a tin cup as Havens had ever set eyes on.
+
+The woman eyed him curiously as she held the cup to his lips.
+
+After draining the cup Havens found strength to ask:
+
+“How did I come here?”
+
+“The boys brought you,” was the reply.
+
+“The boys?” repeated Havens. “What boys?”
+
+“The boys always will be having their sport!” the old woman answered indefinitely. “Very bad boys, I’m sure.”
+
+“Why?” demanded the millionaire.
+
+“Oh, my, oh, my!” exclaimed the old hag. “You mustn’t ask so many questions. I’m not here to answer questions.”
+
+“How much do they want?” demanded Havens, coming at once to the point, as there was no doubt whatever in his mind that he had been abducted purely as a financial speculation. “How much?”
+
+The old hag shook her head gravely.
+
+“After a few days,” she said, “the boys will listen to talk of money. Just now,” she went on, “your society is what they desire.”
+
+Then, for the first time since his rude awakening, the events of the night before flashed across the brain of the millionaire. He remembered the pursuit of the Louise, the act of arson at the hangar, the shooting of the stranger, and the escape from the hospital. To his mind, also, came with double force and meaning of the story the chauffeur had told of the pursuing car. With all these memories in his mind he had little difficulty in associating his present situation with the efforts which had been made to prevent the departure of the boys for the Pacific coast.
+
+“How long do you intend to keep me here?” he asked in a moment.
+
+Again the old woman shook her head.
+
+“I’ll give you ten thousand dollars,” he said, “if you’ll set me down at the Grand Central station in an hour.”
+
+“Not near enough, dearie,” the old hag replied, a greedy gleam coming into her watery eyes. “Not near enough, dearie!”
+
+“Twenty thousand!” exclaimed Havens.
+
+The old woman glanced about the apartment cautiously.

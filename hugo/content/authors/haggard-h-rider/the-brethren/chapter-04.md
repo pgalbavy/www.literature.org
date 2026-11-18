@@ -1,0 +1,301 @@
+---
+title: "Chapter 4 - The Letter Of Saladin"
+weight: 5
+url: "/authors/haggard-h-rider/the-brethren/chapter-04.html"
+---
+
+Twas past three in the afternoon, and snow clouds were fast covering up the last grey gleam of the December day, as Godwin, wishing that his road was longer, walked to Steeple church across the meadow. At the door of it he met the two serving women coming out with brooms in their hands, and bearing between them a great basket filled with broken meats and foul rushes. Of them he asked if the Lady Rosamund were still in the church, to which they answered, curtseying:
+
+"Yes, Sir Godwin; and she bade us desire of you that you would come to lead her to the Hall when she had finished making her prayers before the altar."
+
+"I wonder," mused Godwin, "whether I shall ever lead her from the altar to the Hall, or whether--I shall bide alone by the altar?"
+
+Still he thought it a good omen that she had bidden him thus, though some might have read it otherwise.
+
+Godwin entered the church, walking softly on the rushes with which its nave was strewn, and by the light of the lamp that burnt there always, saw Rosamund kneeling before a little shrine, her gracious head bowed upon her hands, praying earnestly. Of what, he wondered--of what?
+
+Still, she did not hear him; so, coming into the chancel, he stood behind her and waited patiently. At length, with a deep sigh, Rosamund rose from her knees and turned, and he noted by the light of the lamp that there were tear-stains upon her face. Perhaps she, too, had spoken with the Prior John, who was her confessor also. Who knows? At the least, when her eyes fell upon Godwin standing like a statue before her, she started, and there broke from her lips the words:
+
+"Oh, how swift an answer!" Then, recovering herself, added, "To my message, I mean, cousin."
+
+"I met the women at the door," he said.
+
+"It is kind of you to come," Rosamund went on; "but, in truth, since that day on Death Creek I fear to walk a bow-shot's length alone or in the company of women only. With you I feel safe."
+
+"Or with Wulf?"
+
+"Yes; or with Wulf," she repeated; "that is, when he is not thinking of wars and adventures far away."
+
+By now they had reached the porch of the church, to find that the snow was falling fast.
+
+"Let us bide here a minute," he said; "it is but a passing cloud."
+
+So they stayed there in the gloom, and for a while there was silence between them. Then he spoke.
+
+"Rosamund, my cousin and lady, I come to put a question to you, but first--why you will understand afterwards--it is my duty to ask that you will give me no answer to that question until a full day has passed."
+
+"Surely, Godwin, that is easy to promise. But what is this wonderful question which may not be answered?"
+
+"One short and simple. Will you give yourself to me in marriage, Rosamund?"
+
+She leaned back against the wall of the porch.
+
+"My father--" she began.
+
+"Rosamund, I have his leave."
+
+"How can I answer since you yourself forbid me?"
+
+"Till this time to-morrow only. Meanwhile, I pray you hear me, Rosamund. I am your cousin, and we were brought up together--indeed, except when I was away at the Scottish war, we have never been apart. Therefore, we know each other well, as well as any can who are not wedded. Therefore, too, you will know that I have always loved you, first as a brother loves his sister, and now as a man loves a woman."
+
+"Nay, Godwin, I knew it not; indeed, I thought that, as it used to be, your heart was other--where."
+
+"Other--where? What lady--?"
+
+"Nay, no lady; but in your dreams."
+
+"Dreams? Dreams of what?"
+
+"I cannot say. Perchance of things that are not here--things higher than the person of a poor maid."
+
+"Cousin, in part you are right, for it is not only the maid whom I love, but her spirit also. Oh, in truth, you are to me a dream--a symbol of all that is noble, high and pure. In you and through you, Rosamund, I worship the heaven I hope to share with you."
+
+"A dream? A symbol? Heaven? Are not these glittering garments to hang about a woman's shape? Why, when the truth came out you would find her but a skull in a jewelled mask, and learn to loath her for a deceit that was not her own, but yours. Godwin, such trappings as your imagination pictures could only fit an angel's face."
+
+"They fit a face that will become an angel's."
+
+"An angel's? How know you? I am half an Eastern; the blood runs warm in me at times. I, too, have my thoughts and visions. I think that I love power and imagery and the delights of life--a different life from this. Are you sure, Godwin, that this poor face will be an angel's?"
+
+"I wish I were as sure of other things. At least I'll risk it."
+
+"Think of your soul, Godwin. It might be tarnished. You would not risk that for me, would you?"
+
+He thought. Then answered:
+
+"No; since your soul is a part of mine, and I would not risk yours, Rosamund."
+
+"I like you for that answer," she said. "Yes; more than for all you have said before, because I know that it is true. Indeed, you are an honourable knight, and I am proud--very proud--that you should love me, though perhaps it would have been better otherwise." And ever so little she bent the knee to him.
+
+"Whatever chances, in life or death those words will make me happy, Rosamund."
+
+Suddenly she caught his arm. "Whatever chances? Ah! what is about to chance? Great things, I think, for you and Wulf and me. Remember, I am half an Eastern, and we children of the East can feel the shadow of the future before it lays its hands upon us and becomes the present. I fear it, Godwin--I tell you that I fear it."
+
+"Fear it not, Rosamund. Why should you fear? On God's knees lies the scroll of our lives, and of His purposes. The words we see and the words we guess may be terrible, but He who wrote it knows the end of the scroll, and that it is good. Do not fear, therefore, but read on with an untroubled heart, taking no thought for the morrow."
+
+She looked at him wonderingly, and asked,
+
+"Are these the words of a wooer or of a saint in wooer's weeds? I know not, and do you know yourself? But you say you love me and that you would wed me, and I believe it; also that the woman whom Godwin weds will be fortunate, since such men are rare. But I am forbid to answer till to-morrow. Well, then I will answer as I am given grace. So till then be what you were of old, and--the snow has ceased; guide me home, my cousin Godwin."
+
+So home they went through the darkness and the cold, moaning wind, speaking no word, and entered the wide hall, where a great fire built in its centre roared upwards towards an opening in the roof, whence the smoke escaped, looking very pleasant and cheerful after the winter night without.
+
+There, standing in front of the fire, also pleasant and cheerful to behold, although his brow seemed somewhat puckered, was Wulf. At the sight of him Godwin turned back through the great door, and having, as it were, stood for one moment in the light, vanished again into the darkness, closing the door behind him. But Rosamund walked on towards the fire.
+
+"You seem cold, cousin," said Wulf, studying her. "Godwin has kept you too long to pray with him in church. Well, it is his custom, from which I myself have suffered. Be seated on this settle and warm yourself."
+
+She obeyed without a word, and opening her fur cloak, stretched out her hands towards the flame, which played upon her dark and lovely face. Wulf looked round him.
+
+The hall was empty. Then he looked at Rosamund.
+
+"I am glad to find this chance of speaking with you alone, Cousin, since I have a question to ask of you; but I must pray of you to give me no answer to it until four-and-twenty hours be passed."
+
+"Agreed," she said. "I have given one such promise; let it serve for both; now for your question."
+
+"Ah!" replied Wulf cheerfully; "I am glad that Godwin went first, since it saves me words, at which he is better than I am."
+
+"I do not know that, Wulf; at least, you have more of them," answered Rosamund, with a little smile.
+
+"More perhaps, but of a different quality--that is what you mean. Well, happily here mere words are not in question."
+
+"What, then, are in question, Wulf?"
+
+"Hearts. Your heart and my heart--and, I suppose, Godwin's heart, if he has one--in that way."
+
+"Why should not Godwin have a heart?"
+
+"Why? Well, you see just now it is my business to belittle Godwin. Therefore I declare--which you, who know more about it, can believe or not as it pleases you--that Godwin's heart is like that of the old saint in the reliquary at Stangate--a thing which may have beaten once, and will perhaps beat again in heaven, but now is somewhat dead--to this world."
+
+Rosamund smiled, and thought to herself that this dead heart had shown signs of life not long ago. But aloud she said:
+
+"If you have no more to say to me of Godwin's heart, I will begone to read with my father, who waits for me."
+
+"Nay, I have much more to say of my own." Then suddenly Wulf became very earnest--so earnest that his great frame shook, and when he strove to speak he could but stammer. At length it all came forth in a flood of burning words.
+
+"I love you, Rosamund! I love you--all of you, as I have ever loved you--though I did not know it till the other day--that of the fight, and ever shall love you--and I seek you for my wife. I know that I am only a rough soldier-man, full of faults, not holy and learned like Godwin. Yet I swear that I would be a true knight to you all my life, and, if the saints give me grace and strength, do great deeds in your honour and watch you well. Oh! what more is there to say?"
+
+"Nothing, Wulf," answered Rosamund, lifting her downcast eyes. "You do not wish that I should answer you, so I will thank you--yes, from my heart, though, in truth, I am grieved that we can be no more brother and sister, as we have been this many a year--and be going."
+
+"Nay, Rosamund, not yet. Although you may not speak, surely you might give me some little sign, who am in torment, and thus must stay until this time to-morrow. For instance, you might let me kiss your hand--the pact said nothing about kissing."
+
+"I know naught of this pact, Wulf," answered Rosamund sternly, although a smile crept about the corners of her mouth, "but I do know that I shall not suffer you to touch my hand."
+
+"Then I will kiss your robe," and seizing a corner of her cloak, he pressed it to his lips.
+
+"You are strong--I am weak, Wulf, and cannot wrench my garment from you, but I tell you that this play advantages you nothing."
+
+He let the cloak fall.
+
+"Your pardon. I should have remembered that Godwin would never have presumed so far."
+
+"Godwin," she said, tapping her foot upon the ground, "if he gave a promise, would keep it in the spirit as well as in the letter."
+
+"I suppose so. See what it is for an erring man to have a saint for a brother and a rival! Nay, be not angry with me, Rosamund, who cannot tread the path of saints."
+
+"That I believe, but at least, Wulf, there is no need to mock those who can."
+
+"I mock him not. I love him as well as--you do." And he watched her face.
+
+It never changed, for in Rosamund's heart were hid the secret strength and silence of the East, which can throw a mask impenetrable over face and features.
+
+"I am glad that you love him, Wulf. See to it that you never forget your love and duty."
+
+"I will; yes--even if you reject me for him."
+
+"Those are honest words, such as I looked to hear you speak," she replied in a gentle voice. "And now, dear Wulf, farewell, for I am weary--"
+
+"To-morrow--" he broke in.
+
+"Ay," she answered in a heavy voice. "To-morrow I must speak, and--you must listen."
+
+The sun had run his course again, and once more it was near four o'clock in the afternoon. The brethren stood by the great fire in the hall looking at each other doubtfully--as, indeed, they had looked through all the long hours of the night, during which neither of them had closed an eye.
+
+"It is time," said Wulf, and Godwin nodded.
+
+As he spoke a woman was seen descending from the solar, and they knew her errand.
+
+"Which?" asked Wulf, but Godwin shook his head.
+
+"Sir Andrew bids me say that he would speak with you both," said the woman, and went her way.
+
+"By the saints, I believe it's neither!" exclaimed Wulf, with a little laugh.
+
+"It may be thus," said Godwin, "and perhaps that would be best for all."
+
+"I don't think so," answered Wulf, as he followed him up the steps of the solar.
+
+Now they had passed the passage and closed the door, and before them was Sir Andrew seated in his chair by the fire, but not alone, for at his side, her hand resting upon his shoulder, stood Rosamund. They noted that she was clad in her richest robes, and a bitter thought came into their minds that this might be to show them how beautiful was the woman whom both of them must lose. As they advanced they bowed first to her and then to their uncle, while, lifting her eyes from the ground, she smiled a little in greeting.
+
+"Speak, Rosamund," said her father. "These knights are in doubt and pain."
+
+"Now for the coup de grace," muttered Wulf.
+
+"My cousins," began Rosamund in a low, quiet voice, as though she were saying a lesson, "as to the matter of which you spoke to me yesterday, I have taken counsel with my father and with my own heart. You did me great honour, both of you, in asking me to be the wife of such worthy knights, with whom I have been brought up and have loved since childhood as a sister loves her brothers. I will be brief as I may. Alas! I can give to neither of you the answer which you wish."
+
+"Coup de grace indeed," muttered Wulf, "through hauberk, gambeson, and shirt, right home to the heart."
+
+But Godwin only turned a trifle paler and said nothing.
+
+Now there was silence for a little space, while from beneath his bushy eyebrows the old knight watched their faces, on which the light of the tapers fell.
+
+Then Godwin spoke: "We thank you, Cousin. Come, Wulf, we have our answer; let us be going."
+
+"Not all of it," broke in Rosamund hastily, and they seemed to breathe again.
+
+"Listen," she said; "for if it pleases you, I am willing to make a promise which my father has approved. Come to me this time two years, and if we all three live, should both of you still wish for me to wife, that there may be no further space of pain or waiting, I will name the man whom I shall choose, and marry him at once."
+
+"And if one of us is dead?" asked Godwin.
+
+"Then," replied Rosamund, "if his name be untarnished, and he has done no deed that is not knightly, will forthwith wed the other."
+
+"Pardon me--" broke in Wulf.
+
+She held up her hand and stopped him, saying: "You think this a strange saying, and so, perhaps, it is; but the matter is also strange, and for me the case is hard. Remember, all my life is at stake, and I may desire more time wherein to make my choice, that between two such men no maiden would find easy. We are all of us still young for marriage, for which, if God guards our lives, there will be time and to spare. Also in two years I may learn which of you is in truth the worthier knight, who to-day both seem so worthy."
+
+"Then is neither of us more to you than the other?" asked Wulf outright.
+
+Rosamund turned red, and her bosom heaved as she replied:
+
+"I will not answer that question."
+
+"And Wulf should not have asked it," said Godwin. "Brother, I read Rosamund's saying thus: Between us she finds not much to choose, or if she does in her secret heart, out of her kindness--since she is determined not to marry for a while--she will not suffer us to see it and thereby bring grief on one of us. So she says, 'Go forth, you knights, and do deeds worthy of such a lady, and perchance he who does the highest deeds shall receive the great reward.' For my part, I find this judgment wise and just, and I am content to abide its issue. Nay, I am even glad of it, since it gives us time and opportunity to show our sweet cousin here, and all our fellows, the mettle whereof we are made, and strive to outshine each other in the achievement of great feats which, as always, we shall attempt side by side."
+
+"Well spoken," said Sir Andrew. "And you, Wulf?"
+
+Then Wulf, feeling that Rosamund was watching his face beneath the shadow of her long eyelashes, answered:
+
+"Before Heaven, I am content also, for whatever may be said against it, now at least there will be two years of war in which one or both of us well may fall, and for that while at least no woman can come between our brotherhood. Uncle, I crave your leave to go serve my liege in Normandy."
+
+"And I also," said Godwin.
+
+"In the spring; in the spring," replied Sir Andrew hastily; "when King Henry moves his power. Meanwhile, bide you here in all good fellowship, for, who knows--much may happen between now and then, and perhaps your strong arms will be needed as they were not long ago. Moreover, I look to all three of you to hear no more of this talk of love and marriage, which, in truth, disturbs my mind and house. For good or ill, the matter is now settled for two years to come, by which time it is likely I shall be in my grave and beyond all troubling.
+
+"I do not say that things have gone altogether as I could have wished, but they are as Rosamund wishes, and that is enough for me. On which of you she looks with the more favour I do not know, and be you content to remain in ignorance of what a father does not think it wise to seek to learn. A maid's heart is her own, and her future lies in the hand of God and His saints, where let it bide, say I. Now we have done with all this business. Rosamund, dismiss your knights, and be you all three brothers and sister once more till this time two years, when those who live will find an answer to the riddle."
+
+So Rosamund came forward, and without a word gave her right hand to Godwin and her left to Wulf, and suffered that they should press their lips upon them. So for a while this was the end of their asking of her in marriage.
+
+The brethren left the solar side by side as they had come into it, but changed men in a sense, for now their lives were afire with a great purpose, which bade them dare and do and win. Yet they were lighter-hearted than when they entered there, since at least neither had been scorned, while both had hope, and all the future, which the young so seldom fear, lay before them.
+
+As they descended the steps their eyes fell upon the figure of a tall man clad in a pilgrim's cape, hood and low-crowned hat, of which the front was bent upwards and laced, who carried in his hand a palmer's staff, and about his waist the scrip and water-bottle.
+
+"What do you seek, holy palmer?" asked Godwin, coming towards him. "A night's lodging in my uncle's house?"
+
+The man bowed; then, fixing on him a pair of beadlike brown eyes, which reminded Godwin of some he had seen, he knew not when or where, answered in the humble voice affected by his class:
+
+"Even so, most noble knight. Shelter for man and beast, for my mule is held without. Also--a word with the lord, Sir Andrew D'Arcy, for whom I have a message."
+
+"A mule?" said Wulf. "I thought that palmers always went afoot?"
+
+"True, Sir Knight; but, as it chances, I have baggage. Nay, not my own, whose earthly gear is all upon my back--but a chest, that contains I know not what, which I am charged to deliver to Sir Andrew D'Arcy, the owner of this hall, or should he be dead, then to the lady Rosamund, his daughter."
+
+"Charged? By whom?" asked Wulf.
+
+"That, sir," said the palmer, bowing, "I will tell to Sir Andrew, who, I understand, still lives. Have I your leave to bring in the chest, and if so, will one of your servants help me, for it is heavy?"
+
+"We will help you," said Godwin. And they went with him into the courtyard, where by the scant light of the stars they saw a fine mule in charge of one of the serving men, and bound upon its back a long-shaped package sewn over with sacking. This the palmer unloosed, and taking one end, while Wulf, after bidding the man stable the mule, took the other, they bore it into the hall, Godwin going before them to summon his uncle. Presently he came and the palmer bowed to him.
+
+"What is your name, palmer, and whence is this box?" asked the old knight, looking at him keenly.
+
+"My name, Sir Andrew, is Nicholas of Salisbury, and as to who sent me, with your leave I will whisper in your ear." And, leaning forward, he did so.
+
+Sir Andrew heard and staggered back as though a dart had pierced him.
+
+"What?" he said. "Are you, a holy palmer, the messenger of--" and he stopped suddenly.
+
+"I was his prisoner," answered the man, "and he--who at least ever keeps his word--gave me my life--for I had been condemned to die--at the price that I brought this to you, and took back your answer, or hers, which I have sworn to do."
+
+"Answer? To what?"
+
+"Nay, I know nothing save that there is a writing in the chest. Its purport I am not told, who am but a messenger bound by oath to do certain things. Open the chest, lord, and meanwhile, if you have food, I have travelled far and fast."
+
+Sir Andrew went to a door, and called to his men-servants, whom he bade give meat to the palmer and stay with him while he ate. Then he told Godwin and Wulf to lift the box and bring it to the solar, and with it hammer and chisel, in case they should be needed, which they did, setting it upon the oaken table.
+
+"Open," said Sir Andrew. So they ripped off the canvas, two folds of it, revealing within a box of dark, foreign looking wood bound with iron bands, at which they laboured long before they could break them. At length it was done, and there within was another box beautifully made of polished ebony, and sealed at the front and ends with a strange device. This box had a lock of silver, to which was tied a silver key.
+
+"At least it has not been tampered with," said Wulf, examining the unbroken seals, but Sir Andrew only repeated:
+
+"Open, and be swift. Here, Godwin, take the key, for my hand shakes with cold."
+
+The lock turned easily, and the seals being broken, the lid rose upon its hinges, while, as it did so, a scent of precious odours filled the place. Beneath, covering the contents of the chest, was an oblong piece of worked silk, and lying on it a parchment.
+
+Sir Andrew broke the thread and seal, and unrolled the parchment. Within it was written over in strange characters. Also, there was a second unsealed roll, written in a clerkly hand in Norman French, and headed, "Translation of this letter, in case the knight, Sir Andrew D'Arcy, has forgotten the Arabic tongue, or that his daughter, the lady Rosamund, has not yet learned the same."
+
+Sir Andrew glanced at both headings, then said:
+
+"Nay, I have not forgotten Arabic, who, while my lady lived, spoke little else with her, and who taught it to our daughter. But the light is bad, and, Godwin, you are scholarly; read me the French. We can compare them afterwards."
+
+At this moment Rosamund entered the solar from her chamber, and seeing the three of them so strangely employed, said:
+
+"Is it your will that I go, father?"
+
+"No, daughter. Since you are here, stay here. I think that this matter concerns you as well as me. Read on, Godwin."
+
+So Godwin read:
+
+"In the Name of God, the Merciful and Compassionate! I, Salah-ed-din, Yusuf ibn Ayoub, Commander of the Faithful, cause these words to be written, and seal them with my own hand, to the Frankish lord, Sir Andrew D'Arcy, husband of my sister by another mother, Sitt Zobeide, the beautiful and faithless, on whom Allah has taken vengeance for her sin. Or if he be dead also, then to his daughter and hers, my niece, and by blood a princess of Syria and Egypt, who among the English is named the lady Rose of the World.
+
+"You, Sir Andrew, will remember how, many years ago, what we were friends, you, by an evil chance, became acquainted with my sister Zobeide, while you were a prisoner and sick in my father's house. How, too, Satan put it into her heart to listen to your words of love, so that she became a Cross-worshipper, and was married to you after the Frankish custom, and fled with you to England. You will remember also, although at the time we could not recapture her from your vessel, how I sent a messenger to you, saying that soon or late I would yet tear her from your arms and deal with her as we deal with faithless women. But within six years of that time sure news reached me that Allah had taken her, therefore I mourned for my sister and her fate awhile, and forgot her and you.
+
+"Know that a certain knight named Lozelle, who dwelt in the part of England where you have your castle, has told me that Zobeide left a daughter, who is very beautiful. Now my heart, which loved her mother, goes out towards this niece whom I have never seen, for although she is your child and a Cross-worshipper at least--save in the matter of her mother's theft--you were a brave and noble knight, of good blood, as, indeed, I remember your brother was also, he who fell in the fight at Harenc.
+
+"Learn now that, having by the will of Allah come to great estate here at Damascus and throughout the East, I desire to lift your daughter up to be a princess of my house. Therefore I invite her to journey to Damascus, and you with her, if you live. Moreover, lest you should fear some trap, on behalf of myself, my successors and councillors, I promise in the Name of God, and by the word of Salah-ed-din, which never yet was broken, that although I trust the merciful God may change her heart so that she enters it of her own will, I will not force her to accept the Faith or to bind herself in any marriage which she does not desire. Nor will I take vengeance upon you, Sir Andrew, for what you have done in the past, or suffer others to do so, but will rather raise you to great honour and live with you in friendship as of yore.
+
+"But if my messenger returns and tells me that my niece refuses this, my loving offer, then I warn her that my arm is long, and I will surely take her as I can.
+
+"Therefore, within a year of the day that I receive the answer of the lady, my niece, who is named Rose of the World, my emissaries will appear wherever she may be, married or single, to lead her to me, with honour if she be willing, but still to lead her to me if she be unwilling. Meanwhile, in token of my love, I send certain gifts of precious things, and with them my patent of her title as Princess, and Lady of the City of Baalbec, which title, with its revenue and prerogatives, are registered in the archives of my empire in favour of her and her lawful heirs, and declared to be binding upon me and my successors forever.
+
+"The bearer of this letter and of my gifts is a certain Cross-worshipper named Nicholas, to whom let your answer be handed for delivery to me. This devoir he is under oath to perform and will perform it, for he knows that if he fails therein, then that he must die.
+
+"Signed by Salah-ed-din, Commander of the Faithful, at Damascus, and sealed with his seal, in the spring season of the year of the Hegira 581.
+
+"Take note also that this writing having been read to me by my secretary before I set my name and seal thereunto, I perceive that you, Sir Andrew, or you, Lady Rose of the World, may think it strange that I should be at such pains and cost over a maid who is not of my religion and whom I never saw, and may therefore doubt my honesty in the matter. Know then the true reason. Since I heard that you, Lady Rose of the World, lived, I have thrice been visited by a dream sent from God concerning you, and in it I saw your face.
+
+"Now this was the dream--that the oath I made as regards your mother is binding as regards you also; further, that in some way which is not revealed to me, your presence here will withhold me from the shedding of a sea of blood, and save the whole world much misery. Therefore it is decreed that you must come and bide in my house. That these things are so, Allah and His Prophet be my witnesses."

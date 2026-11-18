@@ -1,0 +1,7 @@
+---
+title: "The Fox And The Monkey"
+weight: 199
+url: "/authors/aesop/fables/chapter-197.html"
+---
+
+A FOX and a Monkey were traveling together on the same road. As they journeyed, they passed through a cemetery full of monuments. "All these monuments which you see," said the Monkey, "are erected in honor of my ancestors, who were in their day freedmen and citizens of great renown." The Fox replied, "You have chosen a most appropriate subject for your falsehoods, as I am sure none of your ancestors will be able to contradict you." A false tale often betrays itself.

@@ -1,0 +1,377 @@
+---
+title: "Chapter 6 - A Fire Brand"
+weight: 7
+url: "/authors/alcott-louisa-may/little-men/chapter-06.html"
+---
+
+"Please, ma'am, could I speak to you? It is something very important," said Nat, popping his head in at the door of Mrs. Bhaer's room.
+
+It was the fifth head which had popped in during the last half-hour; but Mrs. Jo was used to it, so she looked up, and said, briskly,
+
+"What is it, my lad?"
+
+Nat came in, shut the door carefully behind him, and said in an eager, anxious tone,
+
+"Dan has come."
+
+"Who is Dan?"
+
+"He's a boy I used to know when I fiddled round the streets. He sold papers, and he was kind to me, and I saw him the other day in town, and told him how nice it was here, and he's come."
+
+"But, my dear boy, that is rather a sudden way to pay a visit."
+
+"Oh, it isn't a visit; he wants to stay if you will let him!" said Nat innocently.
+
+"Well, I don't know about that," began Mrs. Bhaer, rather startled by the coolness of the proposition.
+
+"Why, I thought you liked to have poor boys come and live with you, and be kind to 'em as you were to me," said Nat, looking surprised and alarmed.
+
+"So I do, but I like to know something about them first. I have to choose them, because there are so many. I have not room for all. I wish I had."
+
+"I told him to come because I thought you'd like it, but if there isn't room he can go away again," said Nat, sorrowfully.
+
+The boy's confidence in her hospitality touched Mrs. Bhaer, and she could not find the heart to disappoint his hope, and spoil his kind little plan, so she said,
+
+"Tell me about this Dan."
+
+"I don't know any thing, only he hasn't got any folks, and he's poor, and he was good to me, so I'd like to be good to him if I could."
+
+"Excellent reasons every one; but really, Nat, the house is full, and I don't know where I could put him," said Mrs. Bhaer, more and more inclined to prove herself the haven of refuge he seemed to think her.
+
+"He could have my bed, and I could sleep in the barn. It isn't cold now, and I don't mind, I used to sleep anywhere with father," said Nat, eagerly.
+
+Something in his speech and face made Mrs. Jo put her hand on his shoulder, and say in her kindest tone:
+
+"Bring in your friend, Nat; I think we must find room for him without giving him your place."
+
+Nat joyfully ran off, and soon returned followed by a most unprepossessing boy, who slouched in and stood looking about him, with a half bold, half sullen look, which made Mrs. Bhaer say to herself, after one glance,
+
+"A bad specimen, I am afraid."
+
+"This is Dan," said Nat, presenting him as if sure of his welcome.
+
+"Nat tells me you would like to come and stay with us," began Mrs. Jo, in a friendly tone.
+
+"Yes," was the gruff reply.
+
+"Have you no friends to take care of you?"
+
+"No."
+
+"Say, 'No, ma'am,' " whispered Nat.
+
+"Shan't neither," muttered Dan.
+
+"How old are you?"
+
+"About fourteen."
+
+"You look older. What can you do?"
+
+"'Most anything."
+
+"If you stay here we shall want you to do as the others do, work and study as well as play. Are you willing to agree to that?"
+
+"Don't mind trying."
+
+"Well, you can stay a few days, and we will see how we get on together. Take him out, Nat, and amuse him till Mr. Bhaer comes home, when we will settle about the matter," said Mrs. Jo, finding it rather difficult to get on with this cool young person, who fixed his big black eyes on her with a hard, suspicious expression, sorrowfully unboyish.
+
+"Come on, Nat," he said, and slouched out again.
+
+"Thank you, ma'am," added Nat, as he followed him, feeling without quite understanding the difference in the welcome given to him and to his ungracious friend.
+
+"The fellows are having a circus out in the barn; don't you want to come and see it?" he asked, as they came down the wide steps on to the lawn.
+
+"Are they big fellows?" said Dan.
+
+"No; the big ones are gone fishing."
+
+"Fire away, then," said Dan.
+
+Nat led him to the great barn and introduced him to his set, who were disporting themselves among the half-empty lofts. A large circle was marked out with hay on the wide floor, and in the middle stood Demi with a long whip, while Tommy, mounted on the much-enduring Toby, pranced about the circle playing being a monkey.
+
+"You must pay a pin apiece, or you can't see the show," said Stuffy, who stood by the wheelbarrow in which sat the band, consisting of a pocket-comb blown upon by Ned, and a toy drum beaten spasmodically by Rob.
+
+"He's company, so I'll pay for both," said Nat, handsomely, as he stuck two crooked pins in the dried mushroom which served as money-box.
+
+With a nod to the company they seated themselves on a couple of boards, and the performance went on. After the monkey act, Ned gave them a fine specimen of his agility by jumping over an old chair, and running up and down ladders, sailor fashion. Then Demi danced a jig with a gravity beautiful to behold. Nat was called upon to wrestle with Stuffy, and speedily laid that stout youth upon the ground. After this, Tommy proudly advanced to turn a somersault, an accomplishment which he had acquired by painful perseverance, practising in private till every joint of his little frame was black and blue. His feats were received with great applause, and he was about to retire, flushed with pride and a rush of blood to the head, when a scornful voice in the audience was heard to say,
+
+"Ho! that ain't any thing!"
+
+"Say that again, will you?" and Tommy bristled up like an angry turkey-cock.
+
+"Do you want to fight?" said Dan, promptly descending from the barrel and doubling up his fists in a business-like manner.
+
+"No, I don't;" and the candid Thomas retired a step, rather taken aback by the proposition.
+
+"Fighting isn't allowed!" cried the others, much excited.
+
+"You're a nice lot," sneered Dan.
+
+"Come, if you don't behave, you shan't stay," said Nat, firing up at that insult to his friends.
+
+"I'd like to see him do better than I did, that's all," observed Tommy, with a swagger.
+
+"Clear the way, then," and without the slightest preparation Dan turned three somersaults one after the other and came up on his feet.
+
+"You can't beat that, Tom; you always hit your head and tumble flat," said Nat, pleased at his friend's success.
+
+Before he could say any more the audience were electrified by three more somersaults backwards, and a short promenade on the hands, head down, feet up. This brought down the house, and Tommy joined in the admiring cries which greeted the accomplished gymnast as he righted himself, and looked at them with an air of calm superiority.
+
+"Do you think I could learn to do it without its hurting me very much?" Tom meekly asked, as he rubbed the elbows which still smarted after the last attempt.
+
+"What will you give me if I'll teach you?" said Dan.
+
+"My new jack-knife; it's got five blades, and only one is broken."
+
+"Give it here, then."
+
+Tommy handed it over with an affectionate look at its smooth handle. Dan examined it carefully, then putting it into his pocket, walked off, saying with a wink,
+
+"Keep it up till you learn, that's all."
+
+A howl of wrath from Tommy was followed by a general uproar, which did not subside till Dan, finding himself in a minority, proposed that they should play stick-knife, and whichever won should have the treasure. Tommy agreed, and the game was played in a circle of excited faces, which all wore an expression of satisfaction, when Tommy won and secured the knife in the depth of his safest pocket.
+
+"You come off with me, and I'll show you round," said Nat, feeling that he must have a little serious conversation with his friend in private.
+
+What passed between them no one knew, but when they appeared again, Dan was more respectful to every one, though still gruff in his speech, and rough in his manner; and what else could be expected of the poor lad who had been knocking about the world all his short life with no one to teach him any better?
+
+The boys had decided that they did not like him, and so they left him to Nat, who soon felt rather oppressed by the responsibility, but too kind-hearted to desert him.
+
+Tommy, however, felt that in spite of the jack-knife transaction, there was a bond of sympathy between them, and longed to return to the interesting subject of somersaults. He soon found an opportunity, for Dan, seeing how much he admired him, grew more amiable, and by the end of the first week was quite intimate with the lively Tom.
+
+Mr. Bhaer, when he heard the story and saw Dan, shook his head, but only said quietly,
+
+"The experiment may cost us something, but we will try it."
+
+If Dan felt any gratitude for his protection, he did not show it, and took without thanks all that was give him. He was ignorant, but very quick to learn when he chose; had sharp eyes to watch what went on about him; a saucy tongue, rough manners, and a temper that was fierce and sullen by turns. He played with all his might, and played well at almost all the games. He was silent and gruff before grown people, and only now and then was thoroughly sociable among the lads. Few of them really liked him, but few could help admiring his courage and strength, for nothing daunted him, and he knocked tall Franz flat on one occasion with an ease that caused all the others to keep at a respectful distance from his fists. Mr. Bhaer watched him silently, and did his best to tame the "Wild Boy," as they called him, but in private the worthy man shook his head, and said soberly, "I hope the experiment will turn out well, but I am a little afraid it may cost too much."
+
+Mrs. Bhaer lost her patience with him half a dozen times a day, yet never gave him up, and always insisted that there was something good in the lad, after all; for he was kinder to animals than to people, he liked to rove about in the woods, and, best of all, little Ted was fond of him. What the secret was no one could discover, but Baby took to him at once gabbled and crowed whenever he saw him preferred his strong back to ride on to any of the others and called him "My Danny" out of his own little head. Teddy was the only creature to whom Dan showed an affection, and this was only manifested when he thought no one else would see it; but mothers' eyes are quick, and motherly hearts instinctively divine who love their babies. So Mrs. Jo soon saw and felt that there was a soft spot in rough Dan, and bided her time to touch and win him.
+
+But an unexpected and decidedly alarming event upset all their plans, and banished Dan from Plumfield.
+
+Tommy, Nat, and Demi began by patronizing Dan, because the other lads rather slighted him; but soon they each felt there was a certain fascination about the bad boy, and from looking down upon him they came to looking up, each for a different reason. Tommy admired his skill and courage; Nat was grateful for past kindness; and Demi regarded him as a sort of animated story book, for when he chose Dan could tell his adventures in a most interesting way. It pleased Dan to have the three favorites like him, and he exerted himself to be agreeable, which was the secret of his success.
+
+The Bhaers were surprised, but hoped the lads would have a good influence over Dan, and waited with some anxiety, trusting that no harm would come of it.
+
+Dan felt they did not quite trust him, and never showed them his best side, but took a wilful pleasure in trying their patience and thwarting their hopes as far as he dared.
+
+Mr. Bhaer did not approve of fighting, and did not think it a proof of either manliness or courage for two lads to pommel one another for the amusement of the rest. All sorts of hardy games and exercises were encouraged, and the boys were expected to take hard knocks and tumbles without whining; but black eyes and bloody noses given for the fun of it were forbidden as a foolish and a brutal play.
+
+Dan laughed at this rule, and told such exciting tales of his own valor, and the many frays that he had been in, that some of the lads were fired with a desire to have a regular good "mill."
+
+"Don't tell, and I'll show you how," said Dan; and, getting half a dozen of the lads together behind the barn, he gave them a lesson in boxing, which quite satisfied the ardor of most of them. Emil, however, could not submit to be beaten by a fellow younger than himself, for Emil was past fourteen and a plucky fellow, so he challenged Dan to a fight. Dan accepted at once, and the others looked on with intense interest.
+
+What little bird carried the news to head-quarters no one ever knew, but, in the very hottest of the fray, when Dan and Emil were fighting like a pair of young bulldogs, and the others with fierce, excited faces were cheering them on, Mr. Bhaer walked into the ring, plucked the combatants apart with a strong hand, and said, in the voice they seldom heard,
+
+"I can't allow this, boys! Stop it at once; and never let me see it again. I keep a school for boys, not for wild beasts. Look at each other and be ashamed of yourselves."
+
+"You let me go, and I'll knock him down again," shouted Dan, sparring away in spite of the grip on his collar.
+
+"Come on, come on, I ain't thrashed yet!" cried Emil, who had been down five times, but did not know when he was beaten.
+
+"They are playing be gladdy what-you-call-'ems, like the Romans, Uncle Fritz," called out Demi, whose eyes were bigger than ever with the excitement of this new pastime.
+
+"They were a fine set of brutes; but we have learned something since then, I hope, and I cannot have you make my barn a Colosseum. Who proposed this?" asked Mr. Bhaer.
+
+"Dan," answered several voices.
+
+"Don't you know that it is forbidden?"
+
+"Yes," growled Dan, sullenly.
+
+"Then why break the rule?"
+
+"They'll all be molly-coddles, if they don't know how to fight."
+
+"Have you found Emil a molly-coddle? He doesn't look much like one," and Mr. Bhaer brought the two face to face. Dan had a black eye, and his jacket was torn to rags, but Emil's face was covered with blood from a cut lip and a bruised nose, while a bump on his forehead was already as purple as a plum. In spite of his wounds however, he still glared upon his foe, and evidently panted to renew the fight.
+
+"He'd make a first-rater if he was taught," said Dan, unable to withhold the praise from the boy who made it necessary for him to do his best.
+
+"He'll be taught to fence and box by and by, and till then I think he will do very well without any lessons in mauling. Go and wash your faces; and remember, Dan, if you break any more of the rules again, you will be sent away. That was the bargain; do your part and we will do ours."
+
+The lads went off, and after a few more words to the spectators, Mr. Bhaer followed to bind up the wounds of the young gladiators. Emil went to bed sick, and Dan was an unpleasant spectacle for a week.
+
+But the lawless lad had no thought of obeying, and soon transgressed again.
+
+One Saturday afternoon as a party of the boys went out to play, Tommy said,
+
+"Let's go down to the river, and cut a lot of new fish-poles."
+
+"Take Toby to drag them back, and one of us can ride him down," proposed Stuffy, who hated to walk.
+
+"That means you, I suppose; well, hurry up, lazy-bones," said Dan.
+
+Away they went, and having got the poles were about to go home, when Demi unluckily said to Tommy, who was on Toby with a long rod in his hand,
+
+"You look like the picture of the man in the bull-fight, only you haven't got a red cloth, or pretty clothes on."
+
+"I'd like to see one; there's old Buttercup in the big meadow, ride at her, Tom, and see her run," proposed Dan, bent on mischief.
+
+"No, you mustn't," began Demi, who was learning to distrust Dan's propositions.
+
+"Why not, little fuss-button?" demanded Dan.
+
+"I don't think Uncle Fritz would like it."
+
+"Did he ever say we must not have a bull-fight?"
+
+"No, I don't think he ever did," admitted Demi.
+
+"Then hold your tongue. Drive on, Tom, and here's a red rag to flap at the old thing. I'll help you to stir her up," and over the wall went Dan, full of the new game, and the rest followed like a flock of sheep; even Demi, who sat upon the bars, and watched the fun with interest.
+
+Poor Buttercup was not in a very good mood, for she had been lately bereft of her calf, and mourned for the little thing most dismally. Just now she regarded all mankind as her enemies (and I do not blame her), so when the matadore came prancing towards her with the red handkerchief flying at the end of his long lance, she threw up her head, and gave a most appropriate "Moo!" Tommy rode gallantly at her, and Toby recognizing an old friend, was quite willing to approach; but when the lance came down on her back with a loud whack, both cow and donkey were surprised and disgusted. Toby back with a bray of remonstrance, and Buttercup lowered her horns angrily.
+
+"At her again, Tom; she's jolly cross, and will do it capitally!" called Dan, coming up behind with another rod, while Jack and Ned followed his example.
+
+Seeing herself thus beset, and treated with such disrespect, Buttercup trotted round the field, getting more and more bewildered and excited every moment, for whichever way she turned, there was a dreadful boy, yelling and brandishing a new and very disagreeable sort of whip. It was great fun for them, but real misery for her, till she lost patience and turned the tables in the most unexpected manner. All at once she wheeled short round, and charged full at her old friend Toby, whose conduct cut her to the heart. Poor slow Toby backed so precipitately that he tripped over a stone, and down went horse, matadore, and all, in one ignominious heap, while distracted Buttercup took a surprising leap over the wall, and galloped wildly out of sight down the road.
+
+"Catch her, stop her, head her off! run, boys, run!" shouted Dan, tearing after her at his best pace, for she was Mr. Bhaer's pet Alderney, and if anything happened to her, Dan feared it would be all over with him. Such a running and racing and bawling and puffing as there was before she was caught! The fish-poles were left behind; Toby was trotted nearly off his legs in the chase; and every boy was red, breathless, and scared. They found poor Buttercup at last in a flower garden, where she had taken refuge, worn out with the long run. Borrowing a rope for a halter, Dan led her home, followed by a party of very sober young gentlemen, for the cow was in a sad state, having strained her shoulder jumping, so that she limped, her eyes looked wild, and her glossy coat was wet and muddy.
+
+"You'll catch it this time, Dan," said Tommy, as he led the wheezing donkey beside the maltreated cow.
+
+"So will you, for you helped."
+
+"We all did, but Demi," added Jack.
+
+"He put it into our heads," said Ned.
+
+"I told you not to do it," cried Demi, who was most broken-hearted at poor Buttercup's state.
+
+"Old Bhaer will send me off, I guess. Don't care if he does," muttered Dan, looking worried in spite of his words.
+
+"We'll ask him not to, all of us," said Demi, and the others assented with the exception of Stuffy, who cherished the hope that all the punishment might fall on one guilty head. Dan only said, "Don't bother about me;" but he never forgot it, even though he led the lads astray again, as soon as the temptation came.
+
+When Mr. Bhaer saw the animal, and heard the story, he said very little, evidently fearing that he should say too much in the first moments of impatience. Buttercup was made comfortable in her stall, and the boys sent to their rooms till supper-time. This brief respite gave them time to think the matter over, to wonder what the penalty would be, and to try to imagine where Dan would be sent. He whistled briskly in his room, so that no one should think he cared a bit; but while he waited to know his fate, the longing to stay grew stronger and stronger, the more he recalled the comfort and kindness he had known here, the hardship and neglect he had felt elsewhere. He knew they tried to help him, and at the bottom of his heart he was grateful, but his rough life had made him hard and careless, suspicious and wilful. He hated restraint of any sort, and fought against it like an untamed creature, even while he knew it was kindly meant, and dimly felt that he would be the better for it. He made up his mind to be turned adrift again, to knock about the city as he had done nearly all his life; a prospect that made him knit his black brows, and look about the cosy little room with a wistful expression that would have touched a much harder heart than Mr. Bhaer's if he had seen it. It vanished instantly, however, when the good man came in, and said in his accustomed grave way,
+
+"I have heard all about it, Dan, and though you have broken the rules again, I am going to give you one more trial, to please Mother Bhaer."
+
+Dan flushed up to his forehead at this unexpected reprieve, but he only said in his gruff way,
+
+"I didn't know there was any rule about bull-fighting."
+
+"As I never expected to have any at Plumfield, I never did make such a rule," answered Mr. Bhaer, smiling in spite of himself at the boy's excuse. Then he added gravely, "But one of the first and most important of our few laws is the law of kindness to every dumb creature on the place. I want everybody and everything to be happy here, to love and trust, and serve us, as we try to love and trust and serve them faithfully and willingly. I have often said that you were kinder to the animals than any of the other boys, and Mrs. Bhaer liked that trait in you very much, because she thought it showed a good heart. But you have disappointed us in that, and we are sorry, for we hoped to make you quite one of us. Shall we try again?"
+
+Dan's eyes had been on the floor, and his hands nervously picking at the bit of wood he had been whittling as Mr. Bhaer came in, but when he heard the kind voice ask that question, he looked up quickly, and said in a more respectful tone than he had ever used before,
+
+"Yes, please."
+
+"Very well, then, we will say no more, only you will stay at home from the walk to-morrow, as the other boys will and all of you must wait on poor Buttercup till she is well again."
+
+"I will."
+
+"Now, go down to supper, and do your best, my boy, more for your own sake than for ours." Then Mr. Bhaer shook hands with him, and Dan went down more tamed by kindness than he would have been by the good whipping which Asia had strongly recommended.
+
+Dan did try for a day or two, but not being used to it, he soon tired and relapsed into his old wilful ways. Mr. Bhaer was called from home on business one day, and the boys had no lessons. They liked this, and played hard till bedtime, when most of them turned in and slept like dormice. Dan, however, had a plan in his head, and when he and Nat were alone, he unfolded it.
+
+"Look here!" he said, taking from under his bed a bottle, a cigar, and a pack of cards, "I'm going to have some fun, and do as I used to with the fellows in town. Here's some beer, I got if of the old man at the station, and this cigar; you can pay for 'em or Tommy will, he's got heaps of money and I haven't a cent. I'm going to ask him in; no, you go, they won't mind you."
+
+"The folks won't like it," began Nat.
+
+"They won't know. Daddy Bhaer is away, and Mrs. Bhaer's busy with Ted; he's got croup or something, and she can't leave him. We shan't sit up late or make any noise, so where's the harm?"
+
+"Asia will know if we burn the lamp long, she always does."
+
+"No, she won't, I've got a dark lantern on purpose; it don't give much light, and we can shut it quick if we hear anyone coming," said Dan.
+
+This idea struck Nat as a fine one, and lent an air of romance to the thing. He started off to tell Tommy, but put his head in again to say,
+
+"You want Demi, too, don't you?"
+
+"No, I don't; the Deacon will rollup eyes and preach if you tell him. He will be asleep, so just tip the wink to Tom and cut back again."
+
+Nat obeyed, and returned in a minute with Tommy half dressed, rather tousled about the head and very sleepy, but quite ready for fun as usual.
+
+"Now, keep quiet, and I'll show you how to play a first-rate game called 'Poker,' " said Dan, as the three revellers gathered round the table, on which were set forth the bottle, the cigar, and the cards. "First we'll all have a drink, then we'll take a go at the 'weed,' and then we'll play. That's the way men do, and it's jolly fun."
+
+The beer circulated in a mug, and all three smacked their lips over it, though Nat and Tommy did not like the bitter stuff. The cigar was worse still, but they dared not say so, and each puffed away till he was dizzy or choked, when he passed the "weed" on to his neighbor. Dan liked it, for it seemed like old times when he now and then had a chance to imitate the low men who surrounded him. He drank, and smoked, and swaggered as much like them as he could, and, getting into the spirit of the part he assumed, he soon began to swear under his breath for fear some one should hear him. "You mustn't; it's wicked to say 'Damn!' " cried Tommy, who had followed his leader so far.
+
+"Oh, hang! don't you preach, but play away; it's part of the fun to swear."
+
+"I'd rather say 'thunder turtles,' " said Tommy, who had composed this interesting exclamation and was very proud of it.
+
+"And I'll say 'The Devil;' that sounds well," added Nat, much impressed by Dan's manly ways.
+
+Dan scoffed at their "nonsense," and swore stoutly as he tried to teach them the new game.
+
+But Tommy was very sleepy, and Nat's head began to ache with the beer and the smoke, so neither of them was very quick to learn, and the game dragged. The room was nearly dark, for the lantern burned badly; they could not laugh loud nor move about much, for Silas slept next door in the shed-chamber, and altogether the party was dull. In the middle of a deal Dan stopped suddenly, and called out, "Who's that?" in a startled tone, and at the same moment drew the slide over the light. A voice in the darkness said tremulously, "I can't find Tommy," and then there was the quick patter of bare feet running away down the entry that led from the wing to the main house.
+
+"It's Demi! he's gone to call some one; cut into bed, Tom, and don't tell!" cried Dan, whisking all signs of the revel out of sight, and beginning to tear off his clothes, while Nat did the same.
+
+Tommy flew to his room and dived into bed, where he lay, laughing till something burned his hand, when he discovered that he was still clutching the stump of the festive cigar, which he happened to be smoking when the revel broke up.
+
+It was nearly out, and he was about to extinguish it carefully when Nursey's voice was heard, and fearing it would betray him if he hid it in the bed, he threw it underneath, after a final pinch which he thought finished it.
+
+Nursey came in with Demi, who looked much amazed to see the red face of Tommy reposing peacefully upon his pillow.
+
+"He wasn't there just now, because I woke up and could not find him anywhere," said Demi, pouncing on him.
+
+"What mischief are you at now, bad child?" asked Nursey, with a good-natured shake, which made the sleeper open his eyes to say meekly,
+
+"I only ran into Nat's room to see him about something. Go away, and let me alone; I'm awful sleepy."
+
+Nursey tucked Demi in, and went off to reconnoitre, but only found two boys slumbering peacefully in Dan's room. "Some little frolic," she thought, and as there was no harm done she said nothing to Mrs. Bhaer, who was busy and worried over little Teddy.
+
+Tommy was sleepy, and telling Demi to mind his own business and not ask questions, he was snoring in ten minutes, little dreaming what was going on under his bed. The cigar did not go out, but smouldered away on the straw carpet till it was nicely on fire, and a hungry little flame went creeping along till the dimity bedcover caught, then the sheets, and then the bed itself. The beer made Tommy sleep heavily, and the smoke stupified Demi, so they slept on till the fire began to scorch them, and they were in danger of being burned to death.
+
+Franz was sitting up to study, and as he left the school-room he smelt the smoke, dashed up-stairs and saw it coming in a cloud from the left wing of the house. Without stopping to call any one, he ran into the room, dragged the boys from the blazing bed, and splashed all the water he could find at hand on to the flames. It checked but did not quench the fire, and the children wakened on being tumbled topsy-turvy into a cold hall, began to roar at the top of their voices. Mrs. Bhaer instantly appeared, and a minute after Silas burst out of his room shouting, "Fire!" in a tone that raised the whole house. A flock of white goblins with scared faces crowded into the hall, and for a minute every one was panic-stricken.
+
+Then Mrs. Bhaer found her wits, bade Nursey see to the burnt boys, and sent Franz and Silas down-stairs for some tubs of wet clothes which she flung on the bed, over the carpet, and up against the curtains, now burning finely, and threatening to kindle the walls.
+
+Most of the boys stood dumbly looking on, but Dan and Emil worked bravely, running to and fro with water from the bath-room, and helping to pull down the dangerous curtains.
+
+The peril was soon over, and ordering the boys all back to bed, and leaving Silas to watch lest the fire broke out again, Mrs. Bhaer and Franz went to see how the poor boys got on. Demi had escaped with one burn and a grand scare, but Tommy had not only most of his hair scorched off his head, but a great burn on his arm, that made him half crazy with the pain. Demi was soon made cosy, and Franz took him away to his own bed, where the kind lad soothed his fright and hummed him to sleep as cosily as a woman. Nursey watched over poor Tommy all night, trying to ease his misery, and Mrs. Bhaer vibrated between him and little Teddy with oil and cotton, paregoric and squills, saying to herself from time to time, as if she found great amusement in the thought, "I always knew Tommy would set the house on fire, and now he has done it!"
+
+When Mr. Bhaer got home next morning he found a nice state of things. Tommy in bed, Teddy wheezing like a little grampus, Mrs. Jo quite used up, and the whole flock of boys so excited that they all talked at once, and almost dragged him by main force to view the ruins. Under his quiet management things soon fell into order, for every one felt that he was equal to a dozen conflagrations, and worked with a will at whatever task he gave them.
+
+There was no school that morning, but by afternoon the damaged room was put to rights, the invalids were better, and there was time to hear and judge the little culprits quietly. Nat and Tommy told their parts in the mischief, and were honestly sorry for the danger they had brought to the dear old house and all in it. But Dan put on his devil-may-care look, and would not own that there was much harm done.
+
+Now, of all things, Mr. Bhaer hated drinking, gambling, and swearing; smoking he had given up that the lads might not be tempted to try it, and it grieved and angered him deeply to find that the boy, with whom he had tried to be most forbearing, should take advantage of his absence to introduce these forbidden vices, and teach his innocent little lads to think it manly and pleasant to indulge in them. He talked long and earnestly to the assembled boys, and ended by saying, with an air of mingled firmness and regret,
+
+"I think Tommy is punished enough, and that scar on his arm will remind him for a long time to let these things alone. Nat's fright will do for him, for he is really sorry, and does try to obey me. But you, Dan, have been many times forgiven, and yet it does no good. I cannot have my boys hurt by your bad example, nor my time wasted in talking to deaf ears, so you can say good-bye to them all, and tell Nursey to put up your things in my little black bag."
+
+"Oh! sir, where is he going?" cried Nat.
+
+"To a pleasant place up in the country, where I sometimes send boys when they don't do well here. Mr. Page is a kind man, and Dan will be happy there if he chooses to do his best."
+
+"Will he ever come back?" asked Demi.
+
+"That will depend on himself; I hope so."
+
+As he spoke, Mr. Bhaer left the room to write his letter to Mr. Page, and the boys crowded round Dan very much as people do about a man who is going on a long and perilous journey to unknown regions.
+
+"I wonder if you'll like it," began Jack.
+
+"Shan't stay if I don't," said Dan coolly.
+
+"Where will you go?" asked Nat.
+
+"I may go to sea, or out west, or take a look at California," answered Dan, with a reckless air that quite took away the breath of the little boys.
+
+"Oh, don't! stay with Mr. Page awhile and then come back here; do, Dan," pleaded Nat, much affected at the whole affair.
+
+"I don't care where I go, or how long I stay, and I'll be hanged if I ever come back here," with which wrathful speech Dan went away to put up his things, every one of which Mr. Bhaer had given him.
+
+That was the only good-bye he gave the boys, for they were all talking the matter over in the barn when he came down, and he told Nat not to call them. The wagon stood at the door, and Mrs. Bhaer came out to speak to Dan, looking so sad that his heart smote him, and he said in a low tone,
+
+"May I say good-bye to Teddy?"
+
+"Yes, dear; go in and kiss him, he will miss his Danny very much."
+
+No one saw the look in Dan's eyes as he stooped over the crib, and saw the little face light up at first sight of him, but he heard Mrs. Bhaer say pleadingly,
+
+"Can't we give the poor lad one more trial, Fritz?" and Mr. Bhaer answer in his steady way,
+
+"My dear, it is not best, so let him go where he can do no harm to others, while they do good to him, and by and by he shall come back, I promise you."
+
+"He's the only boy we ever failed with, and I am so grieved, for I thought there was the making of a fine man in him, spite of his faults."
+
+Dan heard Mrs. Bhaer sigh, and he wanted to ask for one more trial himself, but his pride would not let him, and he came out with the hard look on his face, shook hands without a word, and drove away with Mr. Bhaer, leaving Nat and Mrs. Jo to look after him with tears in their eyes.
+
+A few days afterwards they received a letter from Mr. Page, saying that Dan was doing well, whereat they all rejoiced. But three weeks later came another letter, saying that Dan had run away, and nothing had been heard of him, whereat they all looked sober, and Mr. Bhaer said,
+
+"Perhaps I ought to have given him another chance."
+
+Mrs. Bhaer, however, nodded wisely and answered, "Don't be troubled, Fritz; the boy will come back to us, I'm sure of it."
+
+But time went on and no Dan came.

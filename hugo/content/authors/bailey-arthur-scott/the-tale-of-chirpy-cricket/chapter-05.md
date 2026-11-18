@@ -1,0 +1,33 @@
+---
+title: "Chapter 5 - A Light In The Dark"
+weight: 5
+url: "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-05.html"
+---
+
+Chirpy Cricket preferred the dark to the day. He was quite different from Jennie Junebug and Mehitable Moth, who dearly loved a light at night, and would dash joyously into any they saw.
+
+There was only one light that Chirpy Cricket was always glad to see. He thought Freddie Firefly's flashes looked very cheerful as they twinkled about the farmyard. And he often told Freddie that he would be willing to linger above ground in the daytime now and then, if only Freddie would stay with him and make merry with his light.
+
+But Freddie Firefly knew enough to decline the invitation. He was well aware that nobody could see his light when the sun was shining. And he was afraid that other merrymakers in the farmyard might make matters far from merry for him. For Freddie Firefly feared all birds. At night he used his trusty light to frighten Mr. Nighthawk or Willie Whip-poor-will. But he didn't intend to run any risk in the daytime, with Jolly Robin or Rusty Wren.
+
+Chirpy Cricket soon saw that it was useless to try to get Freddie Firefly to enjoy an outing with him by daylight. So every night he spent as much time as he could in Freddie's company.
+
+If the truth were known, Chirpy Cricket wished that he had a light of his own. And he couldn't help hoping that sooner or later Freddie Firefly would offer to lend him his.
+
+Night after night the two met in the farmyard. But nothing seemed further from Freddie Firefly's thoughts than lending his brilliant greenish-white light to Chirpy Cricket, or to any one else.
+
+But Chirpy simply couldn't keep his eyes off that wonderful flash-light when Freddie Firefly was in the neighborhood. People began to notice that he even stopped fiddling sometimes, to stare at Freddie Firefly.
+
+At last Chirpy Cricket made up his mind that if he was ever going to borrow the light he would have to ask Freddie for it. Several nights passed before he could think of a good reason for using it. But after a while he thought of a fine one. So he went straight to Freddie Firefly.
+
+"I'm going to see Miss Christabel Cricket home after the music is over tonight," Chirpy said, "and I've been wondering if you'd be willing to do me a favor."
+
+"Why, certainly!" Freddie Firefly told him.
+
+"Will you loan me your light?" Chirpy asked him. "You know there'll be no moon when it's time to go home. And your light would be a great help to me, for Miss Christabel lives beyond the barnyard fence."
+
+For just a few moments Freddy Firefly appeared greatly surprised. To tell the truth, Chirpy's request almost took his breath away. And while he recovered himself he forgot to flash his light--a most unusual oversight.
+
+But Freddie was no person to disappoint a friend. Besides, he had just said, "Why, certainly!"
+
+Really, there was nothing for him to do but to say the same thing again.

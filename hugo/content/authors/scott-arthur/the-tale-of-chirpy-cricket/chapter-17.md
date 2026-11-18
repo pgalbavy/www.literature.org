@@ -1,0 +1,47 @@
+---
+title: "Chapter 17 - Sitting On A Lily-Pad"
+weight: 17
+url: "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-17.html"
+---
+
+Though Chirpy Cricket looked all around with great care, he couldn't discover who had spoken to him. A voice from somewhere had called out that his music was fine and asked him if he wouldn't play some more.
+
+Whoever the owner of the voice might be, it was plain that he liked music. So without knowing for whom he was playing, Chirpy began to fiddle again. And when he stopped the same voice cried, "Thank you very much!"
+
+Now, the duck-pond was near-by. And at first Chirpy hadn't thought of looking there for his listener. But the second time he heard the voice he guessed that it came from the pond. So Chirpy leaped to the water's edge; and there, sitting on a lily-pad, was the tiniest Frog he had ever seen. He seemed no bigger than Chirpy himself.
+
+"How do you do!" Chirpy said to him. "Was it you that spoke to me?"
+
+"Yes!" the stranger said. "I've been enjoying your music. And I'm glad to meet you. It's time we knew each other, living as we do in the same neighborhood. My name is Mr. Cricket Frog. And may I inquire what yours is?"
+
+"I'm called Chirpy Cricket," said the fiddler on the bank. "Is it possible--do you think--that we are cousins?"
+
+"No!" said Mr. Cricket Frog. "No! I belong to a branch of the well-known Tree Frog family. But somehow I've never cared to live in trees. Indeed, I've never climbed a tree in all my life."
+
+"You're a sensible person!" Chirpy Cricket cried. He did not know that the reason why Mr. Cricket Frog stayed on the ground was because his feet were not suited to climbing trees. He couldn't have got up a tree if he had tried. "Aren't you afraid of falling off that lily-pad into the water?" Chirpy asked his new friend. "It seems to me you haven't picked out a safe place at all."
+
+He had scarcely finished speaking when he had a great fright. For Mr. Cricket Frog did not answer him. Instead he leaped suddenly into the air. And Chirpy Cricket feared that he would fall into the water and be drowned. But when Mr. Cricket Frog came down again he landed squarely upon another lily-pad.
+
+"I caught him," he said pleasantly.
+
+Chirpy Cricket had no idea what he was talking about.
+
+"Whom did you catch?" he asked.
+
+"The fly!" Mr. Cricket Frog replied.
+
+"Don't you think you took a great risk, leaping above the water like that?" Chirpy inquired. "Aren't you worried for fear you'll fall into the pond some day, if you jump for flies in that careless fashion?"
+
+Mr. Cricket Frog tried not to smile.
+
+"Bless you!" he exclaimed. "I spend half my time in the water. Please don't think I'm boasting when I say I'm a fine swimmer. You'll understand why when you look at my feet." And he held up a foot so that Chirpy Cricket might see it.
+
+Chirpy noticed that there were webs between Mr. Cricket Frog's toes. And everybody knows that webbed feet are the best for swimming.
+
+Mr. Cricket Frog wanted to be agreeable. "Would you like to see me swim?" he asked.
+
+"Yes, thank you!" Chirpy replied.
+
+So Mr. Cricket Frog leaped nimbly into the water and began to swim among the lily-pads while Chirpy watched him and admired his skill.
+
+All at once Chirpy heard a splash. And he was just about to ask Mr. Cricket Frog what it could be, when he noticed something queer about his new friend. He was no longer swimming. He was floating, motionless, upon the water. Not by a single movement of any kind did he show that he was alive.

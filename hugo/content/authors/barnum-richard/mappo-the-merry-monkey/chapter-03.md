@@ -1,0 +1,143 @@
+---
+title: "Chapter 3 - Mappo In A Net"
+weight: 3
+url: "/authors/barnum-richard/mappo-the-merry-monkey/chapter-03.html"
+---
+
+Mappo crouched down on the ground, trying to hide under a green bush of the jungle. In his paw he held the empty cocoanut shell with which he was going to play a trick on Bumpo or Jacko. The tiger was creeping, slowly, slowly along, on his soft, padded feet, just as your cat creeps after a bird. Mappo was too frightened to move.
+
+"Ah ha!" growled the tiger, away down deep in his throat. "At last I have caught a monkey!"
+
+Of course he had not yet really caught Mappo, but he soon would; there was very little doubt of that. Mappo shivered. He wished he had not tried to play the trick. If he had stayed safe up in the tree, the tiger could not have gotten at him.
+
+Mappo, with his queer little eyes, almost like yours, looked up toward where he knew his tree-house was. He was looking to see if his papa or mamma were in sight.
+
+"Ha! There is no use looking up there!" said the cunning tiger, lashing his striped sides with his long tail. "There's no one up there to help you!"
+
+Poor Mappo saw that this was so. There was none of his brothers or sisters up in the tree-house. Nor was his papa or mamma there. The whole monkey family had gone off to look for more cocoanuts, since those they had had were all eaten up.
+
+Just before starting out Mrs. Monkey had said:
+
+"Where is Mappo?"
+
+"Oh, he just went on ahead," said Bumpo, who had seen his brother scrambling down the tree toward the ground. Bumpo did not know what his brother was going to do, or that Mappo intended to play a trick with the empty cocoanut shell.
+
+"Oh, if he's gone on ahead, then we'll catch up to him," said Mrs. Monkey. So away they all went, leaving the tree-house empty, and expecting to meet Mappo somewhere on the road through the jungle.
+
+But they did not, and there was poor Mappo on the ground right in front of the bad tiger. The tiger knew none of the monkey family was near the tree-house except Mappo. That was what made the tiger so bold.
+
+For, had Mr. Monkey, or Mrs. Monkey, been at home they would have seen, or smelled the tiger. Monkeys, and other creatures of the jungle, can often smell danger much better and more quickly than they can see it. And, had Mr. or Mrs. Monkey smelled the tiger, they would have kept their little ones safe in the tree, and would have shouted loudly, to warn all the other monkeys of the danger of the bad tiger.
+
+"Well, you can't get away from me this time!" growled the tiger, speaking in his own language, which Mappo understood very well, just as the tiger understood the monkey talk.
+
+For, though monkeys, tigers and elephants, as well as cats and dogs, cannot speak our language, they have a way of their own for talking one to another. To us it may sound only like chatter, growls, meows and barks, but it is really talk. Wouldn't it be nice if we could understand animals as well as they understand us?
+
+For they can understand our talk, you know. Else how would a horse know when to start and stop, when the driver tells him? Or how would your dog know when to come to you, and to lie down when you tell him to, if he didn't understand you? Tell me that, if you please.
+
+So Mappo understood the tiger, and the tiger understood Mappo.
+
+The little monkey, still keeping tight hold of the empty cocoanut shell, looked at the crouching tiger as bravely as he could. Nearer and nearer crept the striped beast. But don't you be afraid. I have a way of saving Mappo, and I'm going to do it, too!
+
+"Chatter! Chatter! Chip! Chip! Whew! Zur-r-r-r-r!" went Mappo in his queer monkey talk. That was his way of calling for help. All monkeys do that in the jungle, when they are in danger. They want a whole lot more monkeys to come and help them.
+
+"There's no use in your calling that way!" growled the tiger, deep in his throat. "Nobody can hear you!"
+
+Mappo began to believe that this was so. All the monkeys seemed to have gone away from that part of the jungle. He was all alone with the tiger.
+
+Now Mappo was a brave little chap, but being brave is not going to do one much good, when there's a tiger in the way. So Mappo thought, besides being brave, he might be polite, and ask a favor of the tiger. For animals are often more kind to one another than we think. If you watch them sometimes, as I have done, you will see that this is so.
+
+So Mappo made up his mind he would ask the tiger, as a favor, not to bite or eat him.
+
+"And, if he won't be kind to me," thought Mappo, "well, then maybe something else will happen. Maybe papa will come, with a whole lot more monkeys, and drive the tiger away. Or, if he does not, well, maybe something else will happen," and Mappo looked at the empty cocoanut shell in his paw.
+
+"Please let me go, Mr. Tiger!" begged Mappo. "I never did anything to you. Let me go!"
+
+"No. I'll not!" growled the tiger. "I'm hungry and I want something to eat. I chased after a goat half the morning, but it got away from me. Then I tried to get a little deer, but it ran back with the rest of the deer, and, as the big deer had such sharp horns, I dared not go after it. So I haven't had anything to eat, and I'm very hungry. You haven't any horns, none of your monkey friends are near, and I'm going to eat you!"
+
+Mappo looked to see how far it was to the nearest tree. It was some distance off, but the little monkey boy knew if he could reach it he would be safe. For, in the tree, he could run much faster, from branch to branch, than could the tiger on the ground. But in getting over the ground on his four paws the monkey was a bit slow. And the tiger, in one jump could grab Mappo if the monkey started to run.
+
+"Well, there's no use trying to get away from him by running on the ground," thought Mappo. "He'd have me in a second. And there's no use asking a favor of him. He seems to be mad at me. I wonder how I can get away from him!"
+
+Once more Mappo looked at the empty cocoanut shell in his paw--the shell with which he was going to play a trick on Jacko or Bumpo.
+
+Nearer and nearer to Mappo crept the tiger, lashing his tail from side to side. Tigers always do that, just as cats do when they are trying to catch a bird in the garden. Tigers are only big cats, you know, very much bigger and stronger than your pussy. And they always creep slowly, slowly up toward anything they are going to catch, until they are near enough to give one jump and grab it in their claws. That is what the tiger was trying to do to Mappo.
+
+All of a sudden Mappo raised the paw that held the cocoanut shell. The little monkey chap made up his mind to be brave and save himself if he could.
+
+"Take that, Mr. Tiger!" called Mappo, all at once.
+
+With all his might he threw the empty cocoanut shell right at the tiger's head. Monkeys are very good throwers. They are almost as good as are baseball boys at that sort of thing.
+
+"Bang!" went the cocoanut on the tiger's head. It cracked open--I mean the cocoanut cracked open--where Mappo had stuck it together. It made quite a noise.
+
+"Oh my!" cried the tiger, jumping up suddenly, for he did not know what to make of the cocoanut shell in his face. Mappo had thrown it so suddenly.
+
+Then, as the tiger heard the cracking of the cocoanut shell, he thought it was his own head. Tigers are sometimes silly that way, no matter if they are strong, and have sharp claws.
+
+"Oh my head! My head!" cried the tiger. "It is broken!"
+
+You see he really thought it was. The crack of the cocoanut shell made him think that it was his own silly, bad head.
+
+Up in the air reared the tiger on his hind legs. This was just the chance Mappo wanted.
+
+"Here I go!" thought the little monkey chap. "Here's where I get away."
+
+As fast as Mappo could go he scrambled over the ground toward the tree where his house was built. By this time the tiger had seen the empty cocoanut shell fall to the ground, and the striped creature knew what had happened.
+
+"Ha! That monkey boy! He did that!" growled the tiger. "He can't fool me that way! I'll get him! I'll fix him for playing tricks on me!"
+
+Finding that his head was all right, and not cracked as he had feared it was, the tiger gave a big jump, and ran after Mappo. But Mappo was not waiting for him. The little monkey boy was now far across the open place on the ground, and was climbing up into a tree as fast as he could go.
+
+"Come back here!" growled the tiger, making a spring for Mappo. But Mappo was safely out of the way. The tiger's claws stuck in the trunk of the tree, tearing loose some bits of bark, but Mappo was not hurt. He got safely away.
+
+Then, sitting up in the tree on a high limb, Mappo, as he looked down at the tiger, chattered:
+
+"Ha! You didn't get me after all! You didn't catch me! I fooled you! Chatter-chatter-chat! Bur-r-r-r! Wuzzzzzzz! Whir-r-r-r-r-r!"
+
+That's the way Mappo chattered, not so much to make fun of the bad tiger, as to warn the other monkeys in the woods that the bad striped animal was near, and that there was danger in the jungle.
+
+"Chatter-chatter-chat! Bur-r-r-r-r! Whe-e-e-e-e! Zir-r-r-r!" chattered the other monkeys, far off in the jungle, as they heard Mappo's warning. The woods were filled with the sound they made.
+
+"Well, I might as well go away," thought the tiger. "They will all be on the lookout for me now. I'll have to wait until after dark to catch a monkey, or something else to eat. Bur-r-r-r-r-r! But I'm hungry!"
+
+So the tiger slunk away, and I guess no one else in the woods felt sorry that he had not caught Mappo. They were all glad the monkey boy had gotten away, and Mappo was especially glad, on his own account.
+
+"Ha! That was a good trick of yours--to throw the empty cocoanut shell at the tiger, Mappo," said an old grandfather monkey, high in a tree. Mappo had told his friends, the other monkeys, what had happened.
+
+"Yes, indeed it was," said an uncle monkey. "Mappo is a smart boy to think of such a trick."
+
+This made Mappo feel pretty proud of himself.
+
+"Do you know where my papa and mamma are?" he asked.
+
+"They went off over toward the banana grove," said the grandfather monkey. "Be careful of the tiger if you follow them."
+
+"I will," promised Mappo. But the tiger had slunk away now, so Mappo thought it would be safe to travel through the jungle, especially if he kept up in the trees, and did not go down on the ground.
+
+Off Mappo started after his folks, who had gone on, thinking to catch up to him.
+
+Mappo had not gone very far before he came to a place in the woods where he saw something very strange. It was strange and also nice, for, down on the ground, were a number of pieces of white cocoanut.
+
+"Well, that's good!" thought Mappo. "Cocoanut already shelled to eat. I wonder who could have left that there for me. Maybe my papa or mamma did, knowing I would come this way. Yes, that must be it. They are very kind to me. I'll go down and get some of that sweet cocoanut."
+
+Now Mappo was not a very wise little monkey. He had not lived long enough to know all the dangers of the jungle. There were dangers from tigers and other wild beasts.
+
+Some of those dangers Mappo knew about, and he also knew how to keep out of their way. But there were other dangers from men--from hunters--and these Mappo did not know so well. For, as yet, he had never seen a man--a human being. Mappo had only lived in the jungle where men very seldom came, and those men were brown or black men.
+
+But men knew monkeys were in the woods, and men wanted the monkeys for circuses, for menageries and for hand-organs. That is the reason men try to catch monkeys.
+
+Mappo looked all around the forest from the top of the tree where he had come to rest. He saw no signs of danger. He saw only white pieces of cocoanut on the ground.
+
+"I'll go down and get some, and then I'll run on and find my papa and mamma and brothers and sisters," thought Mappo. "They will want some of this cocoanut."
+
+Down he went, and began picking up the bits of cocoanut. They were rather small pieces and Mappo had to eat a great many of them before he felt he had enough. Each piece was a little way beyond the next one, and Mappo kept on walking along slowly as he picked them up.
+
+Finally he saw a very large piece. He reached for it with his paw, and then, all at once something happened.
+
+Something like a big spider's web seemed to fall down out of a tree right over Mappo. In an instant he was all tangled up--his paws and tail were caught. He yelled and chattered in fright, and tried to get loose, but the more he tried, the tighter the meshes of the net fell about him.
+
+Poor Mappo was caught. He had been caught by a hunter's net in the jungle, and the pieces of cocoanut were only bait, just as you bait a mouse trap with cheese.
+
+"Oh!" cried Mappo, in his shrill, chattering voice. "Oh dear! I am caught!"
+
+Tighter and tighter the net closed over him.

@@ -1,0 +1,111 @@
+---
+title: "Chapter 30 - Elsa's Triumph"
+weight: 30
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-30.html"
+---
+
+Code Schofield's appearance at his schooner the next morning to help the crew unload was the signal for a veritable native-son demonstration. Not only had the story of Code's sudden liberation and Nat's as sudden imprisonment spread like wild-fire clear to Southern Head Light, twenty miles away, but the tale was hailed with joy.
+
+For Nat had come into his own in the hatred of his townsfolk. Among the fleet he was heartily unpopular because he had not fished all season and then had tried to catch the first market with a purchased cargo, merely to revenge himself on Code and the Tanners. Throughout his conduct had been utterly selfish, whereas others had worked for the island and for its salvation.
+
+With the landing of the two schooners from the fleet the women-folk were soon apprised of Nat's action, and, had it not been for Elsa's sensational disclosures in the little jail that made him the sudden occupant of a cell, there is no question but what the women of Marblehead would have been equaled by the women of Freekirk Head; and Skipper Ireson would not have ridden down history alone in tarry glory.
+
+But now, since Code was free, the whole town exulted, and there was a steady procession to the jail to look in upon the first real criminal the village had mustered in years.
+
+Code, after checking the scale-tally all morning as his stalwart men swung the baskets of salted fish out of the hold, went along the road to Squire Hardy's house after dinner and interviewed that worthy man.
+
+"You've got him where you want him," said the squire, "but you can't get much except damages."
+
+"I don't want even damages," said Code. "I want him to take all his things and go away from here and never come back. Since he didn't do any real damage to anybody I don't care what becomes of him so long as he leaves here."
+
+"Well, all you must do is to withdraw your charges against him--they were put in your name so that Mrs. Mallaby's would not have to appear."
+
+"But even if I do, won't the State take it up. You know a murder case--"
+
+"Yes, my boy, but this is no murder case now. On the face of it Nat did not set out to murder his father; he did not set out really to sink your schooner--merely to disable it; the proof is indisputable and self-evident by his own confession and letter.
+
+"Well, now, in a private racing agreement between gentlemen, if both vessels are registered and rated seaworthy, nothing that happens to one can be laid to the other unless, as in the present case, one deliberately damages the other. The principal punishment is a moral one administered by the former friends of the dishonest man, but the victim can collect money damages. Naturally the insurance company will change its charge so as to accuse Nat instead of you.
+
+"They have a proven case against him already, and he will have to pay them nearly all they gave you--so that, in the end, he really pays you for the damage he did that day. Then, I understand, he is going to pay an amount to the family of each man who lost his life in the May, on condition that they will never sue him."
+
+"Whee-ew!" whistled Code. "When he gets through he won't have much money left, I guess."
+
+"No, I guess he won't," agreed the judge, "and it serves him right. He'll probably have to sell his schooner and start life over again somewhere else. I hope he starts honestly this time. Then you won't take any action against him, Code?"
+
+"Me? Oh, no!" said Schofield. "I've nothing against him now. Let him go. But I'll tell you one thing, squire--he had better be smuggled away to-night quietly, because, if the crowd gets hold of him, it might not be good for his health."
+
+The squire agreed and Code went back to his work. Late that afternoon Pete Ellinwood swung the last basket of the catch to the scales and Code completed his tally.
+
+"Sixteen hundred and seventy quintal," he announced, "and forty-three pounds. At a hundred pounds a quintal that makes 167,078 pounds, and at three cents a pound totals to $5,012.34. Not bad for a two months' cruise, but my soul and body, Bill Boughton, how the fish did run!"
+
+"It's a good catch, Code, and fine fish," answered Boughton, who had been writing. "How will you have the money--in a lump or individual checks?"
+
+"Separate checks." Boughton went back to his glass-surrounded desk to write them.
+
+Code, being the sole owner of the Charming Lass, took two thousand dollars as his share, and the rest was divided almost equally among the other nine men, a trifle extra going to Pete Ellinwood for his services as mate.
+
+"It was a toppin' haul," declared Pete jovially, slapping his well-filled pocket after a visit to the bank, "an' the rest of them poor devils won't get over two and a half a pound--some of 'em only two, when there's lots of fish. Half a cent a pound is a pretty good bonus!"
+
+Code had dinner with his mother that night, and appeared for it carefully dressed. What was his surprise to see his mother in her one silk dress.
+
+"I'm going up to Mallaby House," he said in answer to her inquiring look. "But you! What's all this gaiety, mother?"
+
+"I am going to hear an account of how you behaved yourself on the voyage, Code," she said, attempting severity.
+
+"By an eye-witness?" Visions of Ellinwood, painfully arrayed, danced in his head.
+
+"Yes."
+
+"Um-m. Well, I won't be home until late, then, because it's a long story."
+
+"You rascal!" said his mother, and kissed him.
+
+On the way to Mallaby House (it was up the old familiar path that he had raced down so recklessly the night of the great fire), he thought over the thing that his eyes had seen for an instant the night before in the jail.
+
+Elsa loved him, he knew now, and she had always loved him. He cursed himself for a stupid fool in that it had taken him so long to find out, but he was relieved to know at last upon what footing to meet her. She was no longer a baffling and alluring creature of a hundred chameleon moods; she was a lonely girl.
+
+Martin, who had been his body-servant while aboard the mystery schooner, opened the door, and bowed with decided pleasure at seeing his temporary master. He ventured congratulations that Schofield was free of the law's shadow.
+
+"Mrs. Mallaby is up-stairs, sir," he said, taking Code's hat. "Just step into the drawing-room, sir, and I'll call her."
+
+It was a sample of Elsa's taste that she illuminated all her rooms with the soft flame of candles or the mellow light of lamps. The mahogany furniture, much of it very old and historic among the island families, gleamed in the warm lights. There were built-in shelves of books against one wall, splendid engravings, etchings, and a few colored prints of the daughters of Louis XV.
+
+Presently Elsa came down the broad staircase. Her hair was parted simply in the middle and done into two wheels, one over each pink ear. Her dress was a plain one of China silk with a square Dutch neck. It fitted her splendid figure beautifully.
+
+Never had she appeared to Code so fresh and simple. The great lady was gone, the keen advocate had disappeared, the austere arbiter of Freekirk Head's destinies was no more. She seemed a girl. He arose and took her hand awkwardly.
+
+"I am glad you came so soon," she said; "but aren't you neglecting other people? I'm sure there must be friends who would like to see you."
+
+"Perhaps so, but this time they must wait until I have paid my respects to you. As far as actions go, you are the only friend I have."
+
+"You are getting quite adept at turning a phrase," she said, smiling.
+
+"Not as adept as you in turning heaven and earth to liberate an innocent man."
+
+"I have no answer to that," she replied. "But seriously, Code, I hope you didn't come up to thank me again to-night. Please don't. It embarrasses me. We know each other well enough, I think, to do little things without the endless social prating that should accompany them."
+
+"You've been a dear!" he cried, and took one of her hands in his. She did not move. "Elsa, I want you for my wife!"
+
+"What can I say?" she began in a low voice. "You are noble and good, Code, and I know what has actuated you to say this to me. Some women would be resentful at your offer, but I am not. A week ago, even yesterday, I should have accepted it gladly and humbly, but to-day--no.
+
+"Since last night I have thought, and somehow things have come clearer to me. I have tried to do too much. I have always loved you, Code, but I can see now that you were not meant for me. I tried to win you because of that love, not considering you or others--only myself. And I defeated my own end. I overshot the mark."
+
+"I don't understand," said Code.
+
+"Perhaps not, but I will tell you. In the first place, I deliberately managed so that Nat Burns and Nellie could never be married. I know now that they have separated for good. I hated Burns for his part in my sister's life, and I resolved to wreck his happiness if his engagement to Nellie was happiness. So now she is free and you can have her, I think, for the asking."
+
+"But," cried Schofield in protest, "I have never said--"
+
+"You did not need to say that you loved some one," she told him, with a faint smile. "That night at dinner on the schooner with me proved it. I have talked to your mother since I came home, and she told me what Nat's engagement meant to you, so that I know Nellie is the girl you have always loved. Isn't it so?"
+
+"Yes," he replied gently.
+
+"Now is it plain to you how I have undone my own plans? Two things I desired more than anything else on earth, you, and Burns's ruin. I ruined Burns and paved the way for the loss of you, for, unscrupulous as I am in some things, I could never marry you when Nellie was free and you loved her. I have wanted happiness so hard, Code, that when I see others who have it within their grasp, I cannot stand in their way.
+
+"But I don't mind now--I really don't. That was all in the past, and it's over now. If you want to make me happy, be happy yourself. I see there are forces that guide our lives that must have their will whatever our own private plans may be, and, having learned that lesson, I feel that perhaps now I shall be happier, somehow, than I ever would have been if my own selfishness had triumphed."
+
+Code lifted her hand to his lips and kissed it.
+
+"What a splendid woman you are! I know that happiness and joy will come to you. One who has done what you have done cannot fail to realize it. This hour will always be a very sweet one in my memory, and I shall never forget it."
+
+"Nor I," she said softly, "for, through you, I have begun to find myself."

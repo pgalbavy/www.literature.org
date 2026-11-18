@@ -1,0 +1,97 @@
+---
+title: "Chapter 17"
+weight: 18
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-17.html"
+---
+
+After Billina had entered the palace Dorothy and Evring sat down to await the success or failure of her mission, and the Nome King occupied his throne and smoked his long pipe for a while in a cheerful and contented mood.
+
+Then the bell above the throne, which sounded whenever an enchantment was broken, began to ring, and the King gave a start of annoyance and exclaimed, "Rocketty-ricketts!"
+
+When the bell rang a second time the King shouted angrily, "Smudge and blazes!" and at a third ring he screamed in a fury, "Hippikaloric!" which must be a dreadful word because we don't know what it means.
+
+After that the bell went on ringing time after time; but the King was now so violently enraged that he could not utter a word, but hopped out of his throne and all around the room in a mad frenzy, so that he reminded Dorothy of a jumping-jack.
+
+The girl was, for her part, filled with joy at every peal of the bell, for it announced the fact that Billina had transformed one more ornament into a living person. Dorothy was also amazed at Billina's success, for she could not imagine how the yellow hen was able to guess correctly from all the bewildering number of articles clustered in the rooms of the palace. But after she had counted ten, and the bell continued to ring, she knew that not only the royal family of Ev, but Ozma and her followers also, were being restored to their natural forms, and she was so delighted that the antics of the angry King only made her laugh merrily.
+
+Perhaps the little monarch could not be more furious than he was before, but the girl's laughter nearly drove him frantic, and he roared at her like a savage beast. Then, as he found that all his enchantments were likely to be dispelled and his victims every one set free, he suddenly ran to the little door that opened upon the balcony and gave the shrill whistle that summoned his warriors.
+
+At once the army filed out of the gold and silver doors in great numbers, and marched up a winding stairs and into the throne room, led by a stern featured Nome who was their captain. When they had nearly filled the throne room they formed ranks in the big underground cavern below, and then stood still until they were told what to do next.
+
+Dorothy had pressed back to one side of the cavern when the warriors entered, and now she stood holding little Prince Evring's hand while the great Lion crouched upon one side and the enormous Tiger crouched on the other side.
+
+"Seize that girl!" shouted the King to his captain, and a group of warriors sprang forward to obey. But both the Lion and Tiger snarled so fiercely and bared their strong, sharp teeth so threateningly, that the men drew back in alarm.
+
+"Don't mind them!" cried the Nome King; "they cannot leap beyond the places where they now stand."
+
+"But they can bite those who attempt to touch the girl," said the captain.
+
+"I'll fix that," answered the King. "I'll enchant them again, so that they can't open their jaws."
+
+He stepped out of the throne to do this, but just then the Sawhorse ran up behind him and gave the fat monarch a powerful kick with both his wooden hind legs.
+
+"Ow! Murder! Treason!" yelled the King, who had been hurled against several of his warriors and was considerably bruised. "Who did that?"
+
+"I did," growled the Sawhorse, viciously. "You let Dorothy alone, or I'll kick you again."
+
+"We'll see about that," replied the King, and at once he waved his hand toward the Sawhorse and muttered a magical word. "Aha!" he continued; "NOW let us see you move, you wooden mule!"
+
+But in spite of the magic the Sawhorse moved; and he moved so quickly toward the King, that the fat little man could not get out of his way. Thump--BANG! came the wooden heels, right against his round body, and the King flew into the air and fell upon the head of his captain, who let him drop flat upon the ground.
+
+"Well, well!" said the King, sitting up and looking surprised. "Why didn't my magic belt work, I wonder?"
+
+"The creature is made of wood," replied the captain. "Your magic will not work on wood, you know."
+
+"Ah, I'd forgotten that," said the King, getting up and limping to his throne. "Very well, let the girl alone. She can't escape us, anyway."
+
+The warriors, who had been rather confused by these incidents, now formed their ranks again, and the Sawhorse pranced across the room to Dorothy and took a position beside the Hungry Tiger.
+
+At that moment the doors that led to the palace flew open and the people of Ev and the people of Oz were disclosed to view. They paused, astonished, at sight of the warriors and the angry Nome King, seated in their midst.
+
+"Surrender!" cried the King, in a loud voice. "You are my prisoners."
+
+"Go 'long!" answered Billina, from the Scarecrow's shoulder. "You promised me that if I guessed correctly my friends and I might depart in safety. And you always keep your promises."
+
+"I said you might leave the palace in safety," retorted the King; "and so you may, but you cannot leave my dominions. You are my prisoners, and I will hurl you all into my underground dungeons, where the volcanic fires glow and the molten lava flows in every direction, and the air is hotter than blue blazes."
+
+"That will be the end of me, all right," said the Scarecrow, sorrowfully. "One small blaze, blue or green, is enough to reduce me to an ash-heap."
+
+"Do you surrender?" demanded the King.
+
+Billina whispered something in the Scarecrow's ear that made him smile and put his hands in his jacket pockets.
+
+"No!" returned Ozma, boldly answering the King. Then she said to her army:
+
+"Forward, my brave soldiers, and fight for your Ruler and yourselves, unto death!"
+
+"Pardon me, Most Royal Ozma," replied one of her generals; "but I find that I and my brother officers all suffer from heart disease, and the slightest excitement might kill us. If we fight we may get excited. Would it not be well for us to avoid this grave danger?"
+
+"Soldiers should not have heart disease," said Ozma.
+
+"Private soldiers are not, I believe, afflicted that way," declared another general, twirling his moustache thoughtfully. "If your Royal Highness desires, we will order our private to attack yonder warriors."
+
+"Do so," replied Ozma.
+
+"For-ward--march!" cried all the generals, with one voice. "For-ward--march!" yelled the colonels. "For-ward--march!" shouted the majors. "For-ward--march!" commanded the captains.
+
+And at that the private leveled his spear and dashed furiously upon the foe.
+
+The captain of the Nomes was so surprised by this sudden onslaught that he forgot to command his warriors to fight, so that the ten men in the first row, who stood in front of the private's spear, fell over like so many toy soldiers. The spear could not go through their steel armor, however, so the warriors scrambled to their feet again, and by that time the private had knocked over another row of them.
+
+Then the captain brought down his battle-axe with such a strong blow that the private's spear was shattered and knocked from his grasp, and he was helpless to fight any longer.
+
+The Nome King had left his throne and pressed through his warriors to the front ranks, so he could see what was going on; but as he faced Ozma and her friends the Scarecrow, as if aroused to action by the valor of the private, drew one of Billina's eggs from his right jacket pocket and hurled it straight at the little monarch's head.
+
+It struck him squarely in his left eye, where the egg smashed and scattered, as eggs will, and covered his face and hair and beard with its sticky contents.
+
+"Help, help!" screamed the King, clawing with his fingers at the egg, in a struggle to remove it.
+
+"An egg! an egg! Run for your lives!" shouted the captain of the Nomes, in a voice of horror.
+
+And how they DID run! The warriors fairly tumbled over one another in their efforts to escape the fatal poison of that awful egg, and those who could not rush down the winding stair fell off the balcony into the great cavern beneath, knocking over those who stood below them.
+
+Even while the King was still yelling for help his throne room became emptied of every one of his warriors, and before the monarch had managed to clear the egg away from his left eye the Scarecrow threw the second egg against his right eye, where it smashed and blinded him entirely. The King was unable to flee because he could not see which way to run; so he stood still and howled and shouted and screamed in abject fear.
+
+While this was going on, Billina flew over to Dorothy, and perching herself upon the Lion's back the hen whispered eagerly to the girl:
+
+"Get his belt! Get the Nome King's jeweled belt! It unbuckles in the back. Quick, Dorothy--quick!"

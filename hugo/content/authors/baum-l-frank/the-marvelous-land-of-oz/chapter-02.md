@@ -1,0 +1,159 @@
+---
+title: "Chapter 2"
+weight: 3
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-02.html"
+---
+
+After considering the matter carefully, Tip decided that the best place to locate Jack would be at the bend in the road, a little way from the house. So he started to carry his man there, but found him heavy and rather awkward to handle. After dragging the creature a short distance Tip stood him on his feet, and by first bending the joints of one leg, and then those of the other, at the same time pushing from behind, the boy managed to induce Jack to walk to the bend in the road. It was not accomplished without a few tumbles, and Tip really worked harder than he ever had in the fields or forest; but a love of mischief urged him on, and it pleased him to test the cleverness of his workmanship.
+
+"Jack's all right, and works fine!" he said to himself, panting with the unusual exertion. But just then he discovered the man's left arm had fallen off in the journey so he went back to find it, and afterward, by whittling a new and stouter pin for the shoulder-joint, he repaired the injury so successfully that the arm was stronger than before. Tip also noticed that Jack's pumpkin head had twisted around until it faced his back; but this was easily remedied. When, at last, the man was set up facing the turn in the path where old Mombi was to appear, he looked natural enough to be a fair imitation of a Gillikin farmer, -- and unnatural enough to startle anyone that came on him unawares.
+
+As it was yet too early in the day to expect the old woman to return home, Tip went down into the valley below the farm-house and began to gather nuts from the trees that grew there.
+
+However, old Mombi returned earlier than usual. She had met a crooked wizard who resided in a lonely cave in the mountains, and had traded several important secrets of magic with him. Having in this way secured three new recipes, four magical powders and a selection of herbs of wonderful power and potency, she hobbled home as fast as she could, in order to test her new sorceries.
+
+So intent was Mombi on the treasures she had gained that when she turned the bend in the road and caught a glimpse of the man, she merely nodded and said:
+
+"Good evening, sir."
+
+But, a moment after, noting that the person did not move or reply, she cast a shrewd glance into his face and discovered his pumpkin head elaborately carved by Tip's jack-knife.
+
+"Heh!" ejaculated Mombi, giving a sort of grunt; "that rascally boy has been playing tricks again! Very good! ve -- ry good! I'll beat him black- and-blue for trying to scare me in this fashion!"
+
+Angrily she raised her stick to smash in the grinning pumpkin head of the dummy; but a sudden thought made her pause, the uplifted stick left motionless in the air.
+
+"Why, here is a good chance to try my new powder!" said she, eagerly. "And then I can tell whether that crooked wizard has fairly traded secrets, or whether he has fooled me as wickedly as I fooled him." So she set down her basket and began fumbling in it for one of the precious powders she had obtained.
+
+While Mombi was thus occupied Tip strolled back, with his pockets full of nuts, and discovered the old woman standing beside his man and apparently not the least bit frightened by it.
+
+At first he was generally disappointed; but the next moment he became curious to know what Mombi was going to do. So he hid behind a hedge, where he could see without being seen, and prepared to watch.
+
+After some search the woman drew from her basket an old pepper-box, upon the faded label of which the wizard had written with a lead-pencil:
+
+"Powder of Life."
+
+"Ah -- here it is!" she cried, joyfully. "And now let us see if it is potent. The stingy wizard didn't give me much of it, but I guess there's enough for two or three doses."
+
+Tip was much surprised when he overheard this speech. Then he saw old Mombi raise her arm and sprinkle the powder from the box over the pumpkin head of his man Jack. She did this in the same way one would pepper a baked potato, and the powder sifted down from Jack's head and scattered over the red shirt and pink waistcoat and purple trousers Tip had dressed him in, and a portion even fell upon the patched and worn shoes.
+
+Then, putting the pepper-box back into the basket, Mombi lifted her left hand, with its little finger pointed upward, and said:
+
+"Weaugh!"
+
+Then she lifted her right hand, with the thumb pointed upward, and said:
+
+"Teaugh!"
+
+Then she lifted both hands, with all the fingers and thumbs spread out, and cried:
+
+"Peaugh!"
+
+Jack Pumpkinhead stepped back a pace, at this, and said in a reproachful voice:
+
+"Don't yell like that! Do you think I'm deaf?"
+
+Old Mombi danced around him, frantic with delight.
+
+"He lives!" she screamed: "He lives! he lives!"
+
+Then she threw her stick into the air and caught it as it came down; and she hugged herself with both arms, and tried to do a step of a jig; and all the time she repeated, rapturously:
+
+"He lives! -- he lives! -- he lives!"
+
+Now you may well suppose that Tip observed all this with amazement. At first he was so frightened and horrified that he wanted to run away, but his legs trembled and shook so badly that he couldn't. Then it struck him as a very funny thing for Jack to come to life, especially as the expression on his pumpkin face was so droll and comical it excited laughter on the instant. So, recovering from his first fear, Tip began to laugh; and the merry peals reached old Mombi's ears and made her hobble quickly to the hedge, where she seized Tip's collar and dragged him back to where she had left her basket and the pumpkinheaded man.
+
+"You naughty, sneaking, wicked boy!" she exclaimed, furiously:" I'll teach you to spy out my secrets and to make fun of me!"
+
+"I wasn't making fun of you," protested Tip. "I was laughing at old Pumpkinhead! Look at him! Isn't he a picture, though?"
+
+"I hope you are not reflecting on my personal appearance," said Jack; and it was so funny to hear his grave voice, while his face continued to wear its jolly smile, that Tip again burst into a peal of laughter.
+
+Even Mombi was not without a curious interest in the man her magic had brought to life; for, after staring at him intently, she presently asked:
+
+"What do you know?"
+
+"Well, that is hard to tell," replied Jack. "For although I feel that I know a tremendous lot, I am not yet aware how much there is in the world to find out about. It will take me a little time to discover whether I am very wise or very foolish."
+
+"To be sure," said Mombi, thoughtfully.
+
+"But what are you going to do with him, now he is alive?" asked Tip, wondering.
+
+"I must think it over," answered Mombi. "But we must get home at once, for it is growing dark. Help the Pumpkinhead to walk."
+
+"Never mind me," said Jack; "I can walk as well as you can. Haven't I got legs and feet, and aren't they jointed?"
+
+"Are they?" asked the woman, turning to Tip.
+
+"Of course they are; I made 'em myself," returned the boy, with pride.
+
+So they started for the house, but when they reached the farm yard old Mombi led the pumpkin man to the cow stable and shut him up in an empty stall, fastening the door securely on the outside.
+
+"I've got to attend to you, first," she said, nodding her head at Tip.
+
+Hearing this, the boy became uneasy; for he
+
+knew Mombi had a bad and revengeful heart, and would not hesitate to do any evil thing.
+
+They entered the house. It was a round, domeshaped structure, as are nearly all the farm houses in the Land of Oz.
+
+Mombi bade the boy light a candle, while she put her basket in a cupboard and hung her cloak on a peg. Tip obeyed quickly, for he was afraid of her.
+
+After the candle had been lighted Mombi ordered him to build a fire in the hearth, and while Tip was thus engaged the old woman ate her supper. When the flames began to crackle the boy came to her and asked a share of the bread and cheese; but Mombi refused him.
+
+"I'm hungry!" said Tip, in a sulky tone.
+
+"You won't be hungry long," replied Mombi, with a grim look.
+
+The boy didn't like this speech, for it sounded like a threat; but he happened to remember he had nuts in his pocket, so he cracked some of those and ate them while the woman rose, shook the crumbs from her apron, and hung above the fire a small black kettle.
+
+Then she measured out equal parts of milk and vinegar and poured them into the kettle. Next she
+
+produced several packets of herbs and powders and began adding a portion of each to the contents of the kettle. Occasionally she would draw near the candle and read from a yellow paper the recipe of the mess she was concocting.
+
+As Tip watched her his uneasiness increased.
+
+"What is that for?" he asked.
+
+"For you," returned Mombi, briefly.
+
+Tip wriggled around upon his stool and stared awhile at the kettle, which was beginning to bubble. Then he would glance at the stern and wrinkled features of the witch and wish he were any place but in that dim and smoky kitchen, where even the shadows cast by the candle upon the wall were enough to give one the horrors. So an hour passed away, during which the silence was only broken by the bubbling of the pot and the hissing of the flames.
+
+Finally, Tip spoke again.
+
+"Have I got to drink that stuff?" he asked, nodding toward the pot.
+
+"Yes," said Mombi.
+
+"What'll it do to me?" asked Tip.
+
+"If it's properly made," replied Mombi, "it will change or transform you into a marble statue."
+
+Tip groaned, and wiped the perspiration from his forehead with his sleeve.
+
+"I don't want to be a marble statue!" he protested.
+
+"That doesn't matter I want you to be one," said the old woman, looking at him severely.
+
+"What use'll I be then?" asked Tip. "There won't be any one to work for you."
+
+"I'll make the Pumpkinhead work for me," said Mombi.
+
+Again Tip groaned.
+
+"Why don't you change me into a goat, or a chicken?" he asked, anxiously. "You can't do anything with a marble statue."
+
+"Oh, yes, I can," returned Mombi. "I'm going to plant a flower garden, next Spring, and I'll put you in the middle of it, for an ornament. I wonder I haven't thought of that before; you've been a bother to me for years."
+
+At this terrible speech Tip felt the beads of perspiration starting all over his body. but he sat still and shivered and looked anxiously at the kettle.
+
+"Perhaps it won't work," he mutttered, in a voice that sounded weak and discouraged.
+
+"Oh, I think it will," answered Mombi, cheerfully. "I seldom make a mistake."
+
+Again there was a period of silence a silence so long and gloomy that when Mombi finally lifted the kettle from the fire it was close to midnight.
+
+"You cannot drink it until it has become quite cold," announced the old witch for in spite of the law she had acknowledged practising witchcraft. "We must both go to bed now, and at daybreak I will call you and at once complete your transformation into a marble statue."
+
+With this she hobbled into her room, bearing the steaming kettle with her, and Tip heard her close and lock the door.
+
+The boy did not go to bed, as he had been commanded to do, but still sat glaring at the embers of the dying fire.

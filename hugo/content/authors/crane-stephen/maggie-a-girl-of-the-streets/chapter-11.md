@@ -1,0 +1,153 @@
+---
+title: "Chapter 11"
+weight: 11
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-11.html"
+---
+
+On a corner a glass-fronted building shed a yellow glare upon the pavements. The open mouth of a saloon called seductively to passengers to enter and annihilate sorrow or create rage.
+
+The interior of the place was papered in olive and bronze tints of imitation leather. A shining bar of counterfeit massiveness extended down the side of the room. Behind it a great mahogany-appearing sideboard reached the ceiling. Upon its shelves rested pyramids of shimmering glasses that were never disturbed. Mirrors set in the face of the sideboard multiplied them. Lemons, oranges and paper napkins, arranged with mathematical precision, sat among the glasses. Many-hued decanters of liquor perched at regular intervals on the lower shelves. A nickel-plated cash register occupied a position in the exact centre of the general effect. The elementary senses of it all seemed to be opulence and geometrical accuracy.
+
+Across from the bar a smaller counter held a collection of plates upon which swarmed frayed fragments of crackers, slices of boiled ham, dishevelled bits of cheese, and pickles swimming in vinegar. An odor of grasping, begrimed hands and munching mouths pervaded.
+
+Pete, in a white jacket, was behind the bar bending expectantly toward a quiet stranger. "A beeh," said the man. Pete drew a foam-topped glassful and set it dripping upon the bar.
+
+At this moment the light bamboo doors at the entrance swung open and crashed against the siding. Jimmie and a companion entered. They swaggered unsteadily but belligerently toward the bar and looked at Pete with bleared and blinking eyes.
+
+"Gin," said Jimmie.
+
+"Gin," said the companion.
+
+Pete slid a bottle and two glasses along the bar. He bended his head sideways as he assiduously polished away with a napkin at the gleaming wood. He had a look of watchfulness upon his features.
+
+Jimmie and his companion kept their eyes upon the bartender and conversed loudly in tones of contempt.
+
+"He's a dindy masher, ain't he, by Gawd?" laughed Jimmie.
+
+"Oh, hell, yes," said the companion, sneering widely. "He's great, he is. Git onto deh mug on deh blokie. Dat's enough to make a feller turn hand-springs in 'is sleep."
+
+The quiet stranger moved himself and his glass a trifle further away and maintained an attitude of oblivion.
+
+"Gee! ain't he hot stuff!"
+
+"Git onto his shape! Great Gawd!"
+
+"Hey," cried Jimmie, in tones of command. Pete came along slowly, with a sullen dropping of the under lip.
+
+"Well," he growled, "what's eatin' yehs?"
+
+"Gin," said Jimmie.
+
+"Gin," said the companion.
+
+As Pete confronted them with the bottle and the glasses, they laughed in his face. Jimmie's companion, evidently overcome with merriment, pointed a grimy forefinger in Pete's direction.
+
+"Say, Jimmie," demanded he, "what deh hell is dat behind deh bar?"
+
+"Damned if I knows," replied Jimmie. They laughed loudly. Pete put down a bottle with a bang and turned a formidable face toward them. He disclosed his teeth and his shoulders heaved restlessly.
+
+"You fellers can't guy me," he said. "Drink yer stuff an' git out an' don' make no trouble."
+
+Instantly the laughter faded from the faces of the two men and expressions of offended dignity immediately came.
+
+"Who deh hell has said anyt'ing teh you," cried they in the same breath.
+
+The quiet stranger looked at the door calculatingly.
+
+"Ah, come off," said Pete to the two men. "Don't pick me up for no jay. Drink yer rum an' git out an' don' make no trouble."
+
+"Oh, deh hell," airily cried Jimmie.
+
+"Oh, deh hell," airily repeated his companion.
+
+"We goes when we git ready! See!" continued Jimmie.
+
+"Well," said Pete in a threatening voice, "don' make no trouble."
+
+Jimmie suddenly leaned forward with his head on one side. He snarled like a wild animal.
+
+"Well, what if we does? See?" said he.
+
+Dark blood flushed into Pete's face, and he shot a lurid glance at Jimmie.
+
+"Well, den we'll see whose deh bes' man, you or me," he said.
+
+The quiet stranger moved modestly toward the door.
+
+Jimmie began to swell with valor.
+
+"Don' pick me up fer no tenderfoot. When yeh tackles me yeh tackles one of deh bes' men in deh city. See? I'm a scrapper, I am. Ain't dat right, Billie?"
+
+"Sure, Mike," responded his companion in tones of conviction.
+
+"Oh, hell," said Pete, easily. "Go fall on yerself."
+
+The two men again began to laugh.
+
+"What deh hell is dat talkin'?" cried the companion.
+
+"Damned if I knows," replied Jimmie with exaggerated contempt.
+
+Pete made a furious gesture. "Git outa here now, an' don' make no trouble. See? Youse fellers er lookin' fer a scrap an' it's damn likely yeh'll fin' one if yeh keeps on shootin' off yer mout's. I know yehs! See? I kin lick better men dan yehs ever saw in yer lifes. Dat's right! See? Don' pick me up fer no stuff er yeh might be jolted out in deh street before yeh knows where yeh is. When I comes from behind dis bar, I t'rows yehs bote inteh deh street. See?"
+
+"Oh, hell," cried the two men in chorus.
+
+The glare of a panther came into Pete's eyes. "Dat's what I said! Unnerstan'?"
+
+He came through a passage at the end of the bar and swelled down upon the two men. They stepped promptly forward and crowded close to him.
+
+They bristled like three roosters. They moved their heads pugnaciously and kept their shoulders braced. The nervous muscles about each mouth twitched with a forced smile of mockery.
+
+"Well, what deh hell yer goin' teh do?" gritted Jimmie.
+
+Pete stepped warily back, waving his hands before him to keep the men from coming too near.
+
+"Well, what deh hell yer goin' teh do?" repeated Jimmie's ally. They kept close to him, taunting and leering. They strove to make him attempt the initial blow.
+
+"Keep back, now! Don' crowd me," ominously said Pete.
+
+Again they chorused in contempt. "Oh, hell!"
+
+In a small, tossing group, the three men edged for positions like frigates contemplating battle.
+
+"Well, why deh hell don' yeh try teh t'row us out?" cried Jimmie and his ally with copious sneers.
+
+The bravery of bull-dogs sat upon the faces of the men. Their clenched fists moved like eager weapons.
+
+The allied two jostled the bartender's elbows, glaring at him with feverish eyes and forcing him toward the wall.
+
+Suddenly Pete swore redly. The flash of action gleamed from his eyes. He threw back his arm and aimed a tremendous, lightning- like blow at Jimmie's face. His foot swung a step forward and the weight of his body was behind his fist. Jimmie ducked his head, Bowery-like, with the quickness of a cat. The fierce, answering blows of him and his ally crushed on Pete's bowed head.
+
+The quiet stranger vanished.
+
+The arms of the combatants whirled in the air like flails. The faces of the men, at first flushed to flame-colored anger, now began to fade to the pallor of warriors in the blood and heat of a battle. Their lips curled back and stretched tightly over the gums in ghoul-like grins. Through their white, gripped teeth struggled hoarse whisperings of oaths. Their eyes glittered with murderous fire.
+
+Each head was huddled between its owner's shoulders, and arms were swinging with marvelous rapidity. Feet scraped to and fro with a loud scratching sound upon the sanded floor. Blows left crimson blotches upon pale skin. The curses of the first quarter minute of the fight died away. The breaths of the fighters came wheezingly from their lips and the three chests were straining and heaving. Pete at intervals gave vent to low, labored hisses, that sounded like a desire to kill. Jimmie's ally gibbered at times like a wounded maniac. Jimmie was silent, fighting with the face of a sacrificial priest. The rage of fear shone in all their eyes and their blood-colored fists swirled.
+
+At a tottering moment a blow from Pete's hand struck the ally and he crashed to the floor. He wriggled instantly to his feet and grasping the quiet stranger's beer glass from the bar, hurled it at Pete's head.
+
+High on the wall it burst like a bomb, shivering fragments flying in all directions. Then missiles came to every man's hand. The place had heretofore appeared free of things to throw, but suddenly glass and bottles went singing through the air. They were thrown point blank at bobbing heads. The pyramid of shimmering glasses, that had never been disturbed, changed to cascades as heavy bottles were flung into them. Mirrors splintered to nothing.
+
+The three frothing creatures on the floor buried themselves in a frenzy for blood. There followed in the wake of missiles and fists some unknown prayers, perhaps for death.
+
+The quiet stranger had sprawled very pyrotechnically out on the sidewalk. A laugh ran up and down the avenue for the half of a block.
+
+"Dey've trowed a bloke inteh deh street."
+
+People heard the sound of breaking glass and shuffling feet within the saloon and came running. A small group, bending down to look under the bamboo doors, watching the fall of glass, and three pairs of violent legs, changed in a moment to a crowd.
+
+A policeman came charging down the sidewalk and bounced through the doors into the saloon. The crowd bended and surged in absorbing anxiety to see.
+
+Jimmie caught first sight of the on-coming interruption. On his feet he had the same regard for a policeman that, when on his truck, he had for a fire engine. He howled and ran for the side door.
+
+The officer made a terrific advance, club in hand. One comprehensive sweep of the long night stick threw the ally to the floor and forced Pete to a corner. With his disengaged hand he made a furious effort at Jimmie's coat-tails. Then he regained his balance and paused.
+
+"Well, well, you are a pair of pictures. What in hell yeh been up to?"
+
+Jimmie, with his face drenched in blood, escaped up a side street, pursued a short distance by some of the more law-loving, or excited individuals of the crowd.
+
+Later, from a corner safely dark, he saw the policeman, the ally and the bartender emerge from the saloon. Pete locked the doors and then followed up the avenue in the rear of the crowd- encompassed policeman and his charge.
+
+On first thoughts Jimmie, with his heart throbbing at battle heat, started to go desperately to the rescue of his friend, but he halted.
+
+"Ah, what deh hell?" he demanded of himself.

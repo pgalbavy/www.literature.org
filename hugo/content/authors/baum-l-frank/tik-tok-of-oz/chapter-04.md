@@ -1,0 +1,35 @@
+---
+title: "Chapter 4"
+weight: 5
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-04.html"
+---
+
+The waves dashed and the lightning flashed and the thunder rolled and the ship struck a rock. Betsy Bobbin was running across the deck and the shock sent her flying through the air until she fell with a splash into the dark blue water. The same shock caught Hank, a thin little, sad-faced mule, and tumbled him also into the sea, far from the ship's side.
+
+When Betsy came up, gasping for breath because the wet plunge had surprised her, she reached out in the dark and grabbed a bunch of hair. At first she thought it was the end of a rope, but presently she heard a dismal "Hee-haw!" and knew she was holding fast to the end of Hank's tail.
+
+Suddenly the sea was lighted up by a vivid glare. The ship, now in the far distance, caught fire, blew up and sank beneath the waves.
+
+Betsy shuddered at the sight, but just then her eye caught a mass of wreckage floating near her and she let go the mule's tail and seized the rude raft, pulling herself up so that she rode upon it in safety. Hank also saw the raft and swam to it, but he was so clumsy he never would have been able to climb upon it had not Betsy helped him to get aboard.
+
+They had to crowd close together, for their support was only a hatch-cover torn from the ship's deck; but it floated them fairly well and both the girl and the mule knew it would keep them from drowning.
+
+The storm was not over, by any means, when the ship went down. Blinding bolts of lightning shot from cloud to cloud and the clamor of deep thunderclaps echoed far over the sea. The waves tossed the little raft here and there as a child tosses a rubber ball and Betsy had a solemn feeling that for hundreds of watery miles in every direction there was no living thing besides herself and the small donkey.
+
+Perhaps Hank had the same thought, for he gently rubbed his nose against the frightened girl and said "Hee-haw!" in his softest voice, as if to comfort her.
+
+"You'll protect me, Hank dear, won't you?" she cried helplessly, and the mule said "Hee-haw!" again, in tones that meant a promise.
+
+On board the ship, during the days that preceded the wreck, when the sea was calm, Betsy and Hank had become good friends; so, while the girl might have preferred a more powerful protector in this dreadful emergency, she felt that the mule would do all in a mule's power to guard her safety.
+
+All night they floated, and when the storm had worn itself out and passed away with a few distant growls, and the waves had grown smaller and easier to ride, Betsy stretched herself out on the wet raft and fell asleep.
+
+Hank did not sleep a wink. Perhaps he felt it his duty to guard Betsy. Anyhow, he crouched on the raft beside the tired sleeping girl and watched patiently until the first light of dawn swept over the sea.
+
+The light wakened Betsy Bobbin. She sat up, rubbed her eyes and stared across the water.
+
+"Oh, Hank; there's land ahead!" she exclaimed.
+
+"Hee-haw!" answered Hank in his plaintive voice.
+
+The raft was floating swiftly toward a very beautiful country and as they drew near Betsy could see banks of lovely flowers showing brightly between leafy trees. But no people were to be seen at all.

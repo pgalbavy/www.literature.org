@@ -1,0 +1,7 @@
+---
+title: "The Hunter And The Horseman"
+weight: 278
+url: "/authors/aesop/fables/chapter-276.html"
+---
+
+A CERTAIN HUNTER, having snared a hare, placed it upon his shoulders and set out homewards. On his way he met a man on horseback who begged the hare of him, under the pretense of purchasing it. However, when the Horseman got the hare, he rode off as fast as he could. The Hunter ran after him, as if he was sure of overtaking him, but the Horseman increased more and more the distance between them. The Hunter, sorely against his will, called out to him and said, "Get along with you! for I will now make you a present of the hare."

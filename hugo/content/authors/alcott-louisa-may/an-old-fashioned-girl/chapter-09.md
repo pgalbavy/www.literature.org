@@ -1,0 +1,163 @@
+---
+title: "Chapter 9 - Lessons"
+weight: 10
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-09.html"
+---
+
+THE first few weeks were hard ones, for Polly had not yet outgrown her natural shyness and going among so many strangers caused her frequent panics. But her purpose gave her courage, and when the ice was once broken, her little pupils quickly learned to love her. The novelty soon wore off, and though she thought she was prepared for drudgery, she found it very tedious to go on doing the same thing day after day. Then she was lonely, for Will could only come once a week, her leisure hours were Fanny's busiest, and the “bits of pleasure” were so few and far between that they only tantalized her. Even her small housekeeping lost its charms, for Polly was a social creature, and the solitary meals were often sad ones. Ashputtel and Nick did their best to cheer her, but they too, seemed to pine for country freedom and home atmosphere. Poor Puttel, after gazing wistfully out of the window at the gaunt city cats skulking about the yard, would retire to the rug, and curl herself up as if all hope of finding congenial society had failed; while little Nick would sing till he vibrated on his perch, without receiving any response except an inquisitive chirp from the pert sparrows, who seemed to twit him with his captivity. Yes, by the time the little teakettle had lost its brightness, Polly had decided that getting one's living was no joke, and many of her brilliant hopes had shared the fate of the little kettle.
+
+If one could only make the sacrifice all at once, and done with it, then it would seem easier; but to keep up a daily sacrifice of one's wishes, tastes, and pleasures, is rather a hard task, especially when one is pretty, young, and gay. Lessons all day, a highly instructive lecture, books over a solitary fire, or music with no audience but a sleepy cat and a bird with his head tucked under his wing, for evening entertainment, was not exactly what might be called festive; so, in spite of her brave resolutions, Polly did long for a little fun sometimes, and after saying virtuously to herself at nine: “Yes, it is much wiser and better for me to go to bed early, and be ready for work tomorrow,” she would lie awake hearing the carriages roll to and fro, and imagining the gay girls inside, going to party, opera, or play, till Mrs. Dodd's hop pillow might as well have been stuffed with nettles, for any sleep it brought, or any use it was, except to catch and hide the tears that dropped on it when Polly's heart was very full.
+
+Another thorn that wounded our Polly in her first attempt to make her way through the thicket that always bars a woman's progress, was the discovery that working for a living shuts a good many doors in one's face even in democratic America. As Fanny's guest she had been, in spite of poverty, kindly received wherever her friend took her, both as child and woman. Now, things were changed; the kindly people patronized, the careless forgot all about her, and even Fanny, with all her affection, felt that Polly the music teacher would not be welcome in many places where Polly the young lady had been accepted as “Miss Shaw's friend.”
+
+Some of the girls still nodded amiably, but never invited her to visit them; others merely dropped their eyelids, and went by without speaking, while a good many ignored her as entirely as if she had been invisible. These things hurt Polly more than she would confess, for at home every one worked, and every one was respected for it. She tried not to care, but girls feel little slights keenly, and more than once Polly was severely tempted to give up her plan, and run away to the safe shelter at home.
+
+Fanny never failed to ask her to every sort of festivity in the Shaw mansion; but after a few trials, Polly firmly declined everything but informal visits when the family were alone. She soon found that even the new black silk was n't fine enough for Fanny's smallest party, and, after receiving a few of the expressive glances by which women convey their opinion of their neighbor's toilet, and overhearing a joke or two “about that inevitable dress,” and “the little blackbird,” Polly folded away the once treasured frock, saying, with a choke in her voice: “I 'll wear it for Will, he likes it, and clothes can't change his love for me.”
+
+I am afraid the wholesome sweetness of Polly's nature was getting a little soured by these troubles; but before lasting harm was done, she received, from an unexpected source, some of the real help which teaches young people how to bear these small crosses, by showing them the heavier ones they have escaped, and by giving them an idea of the higher pleasures one may earn in the good, old-fashioned ways that keep hearts sweet, heads sane, hands busy.
+
+Everybody has their days of misfortune like little Rosamond, and Polly was beginning to think she had more than her share. One of these ended in a way which influenced her whole life, and so we will record it. It began early; for the hard-hearted little grate would n't behave itself till she had used up a ruinous quantity of kindlings. Then she scalded poor Puttel by upsetting her coffee-pot; and instead of a leisurely, cosy meal, had to hurry away uncomfortably, for everything went wrong even to the coming off of both bonnet strings in the last dreadful scramble. Being late, she of course forgot her music, and hurrying back for it, fell into a puddle, which capped the climax of her despair.
+
+Such a trying morning as that was! Polly felt out of tune herself, and all the pianos seemed to need a tuner as much as she did. The pupils were unusually stupid, and two of them announced that their mamma was going to take them to the South, whither she was suddenly called. This was a blow, for they had just begun, and Polly had n't the face to send in a bill for a whole quarter, though her plans and calculations were sadly disturbed by the failure of that sum.
+
+Trudging home to dinner, tired and disappointed, poor Polly received another blow, which hurt her more than the loss of all her pupils. As she went hurrying along with a big music book in one hand and a paper bag of rolls for tea in the other, she saw Tom and Trix coming. As she watched them while they slowly approached, looking so gay and handsome and happy, it seemed to Polly as if all the sunshine and good walking was on their side of the street, all the wintry wind and mud on hers. Longing to see a friendly face and receive a kind word, she crossed over, meaning to nod and smile at least. Trix saw her first, and suddenly became absorbed in the distant horizon. Tom apparently did not see her, for his eyes were fixed on a fine horse just prancing by. Polly thought that he had seen her, and approached with a curious little flutter at her heart, for if Tom cut her she felt that her cup would be full.
+
+On they came, Trix intent on the view, Tom staring at the handsome horse, and Polly, with red checks, expectant eyes, and the brown bundle, in full sight. One dreadful minute as they came parallel, and no one spoke or bowed, then it was all over, and Polly went on, feeling as if some one had slapped her in the face. “She would n't have believed it of Tom; it was all the doings of that horrid Trix; well, she would n't trouble him any more, if he was such a snob as to be ashamed of her just because she carried bundles and worked for her bread.” She clutched the paper bag fiercely as she said this to herself, then her eyes filled, and her lips trembled, as she added, “How could he do it, before her, too?”
+
+Now Tom was quite guiltless of this offence, and had always nodded to Polly when they met; but it so happened he had always been alone till now, and that was why it cut so deeply, especially as Polly never had approved of Trix. Before she could clear her eyes or steady her face, a gentleman met her, lifted his hat, smiled, and said pleasantly, “Good morning, Miss Polly, I'm glad to meet you.” Then, with a sudden change of voice and manner, he added, “I beg pardon is anything the matter can I be of service?”
+
+It was very awkward, but it could n't be helped, and all Polly could do was to tell the truth and make the best of it.
+
+“It's very silly, but it hurts me to be cut by my old friends. I shall get used to it presently, I dare say.”
+
+Mr. Sydney glanced back, recognized the couple behind them, and turned round with a disgusted expression. Polly was fumbling for her handkerchief, and without a word he took both book and bundle from her, a little bit of kindness that meant a good deal just then. Polly felt it, and it did her good; hastily wiping the traitorous eyes, she laughed and said cheerfully, “There, I'm all right again; thank you, don't trouble yourself with my parcels.”
+
+“No trouble, I assure you, and this book reminds me of what I was about to say. Have you an hour to spare for my little niece? Her mother wants her to begin, and desired me to make the inquiry.”
+
+“Did she, really?” and Polly looked up at him, as if she suspected him of inventing the whole thing, out of kindness.
+
+Mr. Sydney smiled, and taking a note from his pocket, presented it, saying, with a reproachful look, “Behold the proof of my truth, and never doubt again.”
+
+Polly begged pardon, read the note from the little girl's mother, which was to have been left at her room if she was absent, and gave the bearer a very grateful look as she accepted this welcome addition to her pupils. Well pleased at the success of his mission, Sydney artfully led the conversation to music, and for a time Polly forgot her woes, talking enthusiastically on her favorite theme. As she reclaimed her book and bag, at her own door, she said, in her honest way, “Thank you very much for trying to make me forget my foolish little troubles.”
+
+“Then let me say one thing more; though appearances are against him, I don't believe Tom Shaw saw you. Miss Trix is equal to that sort of thing, but it is n't like Tom, for with all his foppery he is a good fellow at heart.”
+
+As Mr. Sydney said this, Polly held out her hand with a hearty “Thank you for that.” The young man shook the little hand in the gray woollen glove, gave her exactly the same bow which he did the Honorable Mrs. Davenport, and went away, leaving Polly to walk up stairs and address Puttel with the peculiar remark, “You are a true gentleman! so kind to say that about Tom. I'll think it's so, anyway; and won't I teach Minnie in my very best style!”
+
+Puttel purred, Nick chirped approvingly, and Polly ate her dinner with a better appetite than she had expected. But at the bottom of her heart there was a sore spot still, and the afternoon lessons dragged dismally. It was dusk when she got home, and as she sat in the firelight eating her bread and milk, several tears bedewed the little rolls, and even the home honey had a bitter taste.
+
+“Now this won't do,” she broke out all at once; “this is silly and wicked, and can't be allowed. I'll try the old plan and put myself right by doing some little kindness to somebody. Now what shall it be? O, I know! Fan is going to a party to-night; I'll run up and help her dress; she likes to have me, and I enjoy seeing the pretty things. Yes, and I'll take her two or three clusters of my daphne, it's so sweet.”
+
+Up got Polly, and taking her little posy, trotted away to the Shaws', determined to be happy and contented in spite of Trix and hard work.
+
+She found Fanny enduring torment under the hands of the hair-dresser, who was doing his best to spoil her hair, and distort her head with a mass of curls, braids, frizzles, and puffs; for though I discreetly refrain from any particular description, still, judging from the present fashions, I think one may venture to predict that six years hence they would be something frightful.
+
+“How kind of you, Polly; I was just wishing you were here to arrange my flowers. These lovely daphnes will give odor to my camellias, and you were a dear to bring them. There's my dress; how do you like it?” said Fanny, hardly daring to lift her eyes from under the yellow tower on her head.
+
+“It's regularly splendid; but how do you ever get into it?” answered Polly, surveying with girlish interest the cloud of pink and white lace that lay upon the bed.
+
+“It's fearfully and wonderfully made, but distractingly becoming, as you shall see. Trix thinks I'm going to wear blue, so she has got a green one, and told Belle it would spoil the effect of mine, as we are much together, of course. Was n't that sweet of her? Belle came and told me in, time, and I just got pink, so my amiable sister, that is to be, won't succeed in her pretty little plot.”
+
+“I guess she has been reading the life of Josephine. You know she made a pretty lady, of whom she was jealous, sit beside her on a green sofa, which set off her own white dress and spoilt the blue one of her guest,” answered Polly, busy with the flowers.
+
+“Trix never reads anything; you are the one to pick up clever little stories. I'll remember and use this one. Am I done? Yes, that is charming, is n't it, Polly?” and Fan rose to inspect the success of Monsieur's long labor.
+
+“You know I don't appreciate a stylish coiffure as I ought, so I like your hair in the old way best. But this is'the thing,' I suppose, and not a word must be said.”
+
+“Of course it is. Why, child, I have frizzed and burnt my hair so that I look like an old maniac with it in its natural state, and have to repair damages as well as I can. Now put the flowers just here,” and Fanny laid a pink camellia in a nest of fuzz, and stuck a spray of daphne straight up at the back of her head.
+
+“O, Fan, don't, it looks horridly so!” cried Polly, longing to add a little beauty to her friend's sallow face by a graceful adjustment of the flowers.
+
+“Can't help it, that's the way, and so it must be,” answered Fan, planting another sprig half-way up the tower.
+
+Polly groaned and offered no more suggestions as the work went on; but when Fan was finished from top to toe, she admired all she honestly could, and tried to keep her thoughts to herself. But her frank face betrayed her, for Fanny turned on her suddenly, saying, “You may as well free your mind, Polly, for I see by your eyes that something don't suit.”
+
+“I was only thinking of what grandma once said, that modesty had gone out of fashion,” answered Polly, glancing at the waist of her friend's dress, which consisted of a belt, a bit of lace, and a pair of shoulder straps.
+
+Fanny laughed good-naturedly, saying, as she clasped her necklace, “If I had such shoulders as yours, I should n't care what the fashion was. Now don't preach, but put my cloak on nicely, and come along, for I'm to meet Tom and Trix, and promised to be there early.”
+
+Polly was to be left at home after depositing Fan at Belle's.
+
+“I feel as if I was going myself,” she said, as they rolled along.
+
+“I wish you were, and you would be, Polly, if you weren't such a resolute thing. I've teased, and begged, and offered anything I have if you'll only break your absurd vow, and come and enjoy yourself.”
+
+“Thank you; but I won't, so don't trouble your kind heart about me; I'm all right,” said Polly, stoutly.
+
+But when they drew up before the lighted house, and she found herself in the midst of the pleasant stir of festivity, the coming and going of carriages, the glimpses of bright colors, forms, and faces, the bursts of music, and a general atmosphere of gayety, Polly felt that she was n't all right, and as she drove away for a dull evening in her lonely little room, she just cried as heartily as any child denied a stick of candy.
+
+“It's dreadful wicked of me, but I can't help it,” she sobbed to herself, in the corner of the carriage. “That music sets me all in a twitter, and I should have looked nice in Fan's blue tarlatan, and I know I could behave as well as any one, and have lots of partners, though I'm not in that set. Oh, just one good gallop with Mr. Sydney or Tom! No, Tom would n't ask me there, and I would n't accept if he did. Oh, me! oh, me! I wish I was as old and homely, and good and happy, as Miss Mills!”
+
+So Polly made her moan, and by the time she got home, was just in the mood to go to bed and cry herself to sleep, as girls have a way of doing when their small affliction becomes unbearable.
+
+But Polly did n't get a chance to be miserable very long, for as she went up stairs feeling like the most injured girl in the world, she caught a glimpse of Miss Mills, sewing away with such a bright face that she could n't resist stopping for a word or two.
+
+“Sit down, my dear, I'm glad to see you, but excuse me if I go on with my work, as I'm in a driving hurry to get these things done to-night,” said the brisk little lady, with a smile and a nod, as she took a new needleful of thread, and ran up a seam as if for a wager.
+
+“Let me help you, then; I'm lazy and cross, and it will do me good,” said Polly, sitting down with the resigned feeling. “Well, if I can't be happy, I can be useful, perhaps.”
+
+“Thank you, my dear; yes, you can just hem the skirt while I put in the sleeves, and that will be a great lift.”
+
+Polly put on her thimble in silence, but as Miss Mills spread the white flannel over her lap, she exclaimed, “Why, it looks like a shroud! Is it one?”
+
+“No, dear, thank God, it is n't, but it might have been, if we had n't saved the poor little soul,” cried Miss Mills, with a sudden brightening of the face, which made it beautiful in spite of the stiff gray curl that bobbed on each temple, the want of teeth, and a crooked nose.
+
+“Will you tell me about it? I like to hear your adventures and good works so much,” said Polly, ready to be amused by anything that made her forget herself.
+
+“Ah, my dear, it's a very common story, and that's the saddest part of it. I'll tell you all about it, for I think you may be able to help me. Last night I watched with poor Mary Floyd. She's dying of consumption, you know,” began Miss Mills, as her nimble fingers flew, and her kind old face beamed over the work, as if she put a blessing in with every stitch. “Mary was very low, but about midnight fell asleep, and I was trying to keep things quiet, when Mrs. Finn she's the woman of the house came and beckoned me out, with a scared face. 'Little Jane has killed herself, and I don't know what to do,' she said, leading me up to the attic.”
+
+“Who was little Jane?” broke in Polly, dropping her work.
+
+“I only knew her as a pale, shy young girl who went in and out, and seldom spoke to any one. Mrs. Finn told me she was poor, but a busy, honest, little thing, who did n't mix with the other folks, but lived and worked alone. 'She has looked so down-hearted and pale for a week, that I thought she was sick, and asked her about it,' said Mrs. Finn, 'but she thanked me in her bashful way, and said she was pretty well, so I let her alone. But to-night, as I went up late to bed, I was kind of impressed to look in and see how the poor thing did, for she had n't left her room all day. I did look in, and here's what I found.' As Mrs. Finn ended she opened the door of the back attic, and I saw about as sad a sight as these old eyes ever looked at.”
+
+“O, what?” cried Polly, pale now with interest.
+
+“A bare room, cold as a barn, and on the bed a little dead, white face that almost broke my heart, it was so thin, so patient, and so young. On the table was a bottle half full of laudanum, an old pocket-book, and a letter. Read that, my dear and don't think hard of little Jane.”
+
+Polly took the bit of paper Miss Mills gave her, and read these words:
+
+DEAR MRS. FINN, Please forgive me for the trouble I make you, but I don't see any other way. I can't get work that pays enough to keep me; the Dr. says I can't be well unless I rest. I hate to be a burden, so I'm going away not to trouble anybody anymore. I've sold my things to pay what I owe you. Please let me be as I am, and don't let people come and look at me. I hope it is n't very wicked, but there don't seem any room for me in the world, and I'm not afraid to die now, though I should be if I stayed and got bad because I had n't strength to keep right. Give my love to the baby, and so good-by, good-by.
+
+JANE BRYANT.
+
+“O, Miss Mills, how dreadful!” cried Polly, with her eyes so full she could hardly read the little letter.
+
+“Not so dreadful as it might have been, but a bitter, sad thing to see that child, only seventeen, lying there in her little clean, old night-gown, waiting for death to come and take her, because'there did n't seem to be any room for her in the world.' Ah, well, we saved her, for it was n't too late, thank heaven, and the first thing she said was, 'Oh, why did you bring me back?' I've been nursing her all day, hearing her story, and trying to show her that there is room and a welcome for her. Her mother died a year ago, and since then she has been struggling along alone. She is one of the timid, innocent, humble creatures who can't push their way, and so get put aside and forgotten. She has tried all sorts of poorly paid work, could n't live on it decently, got discouraged, sick, frightened, and could see no refuge from the big, bad world but to get out of it while she was n't afraid to die. A very old story, my dear, new and dreadful as it seems to you, and I think it won't do you any harm to see and help this little girl, who has gone through dark places that you are never like to know.”
+
+“I will; indeed, I will do all I can! Where is she now?” asked Polly, touched to the heart by the story, so simple yet so sad.
+
+“There,” and Miss Mills pointed to the door of her own little bedroom. “She was well enough to be moved to-night, so I brought her home and laid her safely in my bed. Poor little soul! she looked about her for a minute, then the lost look went away, and she gave a great sigh, and took my hand in both her thin bits of ones, and said, 'O, ma'am, I feel as if I'd been born into a new world. Help me to begin again, and I 'll do better.' So I told her she was my child now, and might rest here, sure of a home as long as I had one.”
+
+As Miss Mills spoke in her motherly tone, and cast a proud and happy look toward the warm and quiet nest in which she had sheltered this friendless little sparrow, feeling sure that God meant her to keep it from falling to the ground, Polly put both arms about her neck, and kissed her withered cheek with as much loving reverence as if she had been a splendid saint, for in the likeness of this plain old maid she saw the lovely charity that blesses and saves the world.
+
+“How good you are! Dear Miss Mills, tell me what to do, let me help you, I'm ready for anything,” said Polly, very humbly, for her own troubles looked so small and foolish beside the stern hardships which had nearly had so tragical an end, that she felt heartily ashamed of herself, and quite burned to atone for them.
+
+Miss, Mills stopped to stroke the fresh cheek opposite, to smile, and say, “Then, Polly, I think I'll ask you to go in and say a friendly word to my little girl. The sight of you will do her good; and you have just the right way of comforting people, without making a fuss.”
+
+“Have I?” said Polly, looking much gratified by the words.
+
+“Yes, dear, you've the gift of sympathy, and the rare art of showing it without offending. I would n't let many girls in to see my poor Jenny, because they'd only flutter and worry her; but you'll know what to do; so go, and take this wrapper with you; it's done now, thanks to your nimble fingers.”
+
+Polly threw the warm garment over her arm, feeling a thrill of gratitude that it was to wrap a living girl in, and not to hide away a young heart that had grown cold too soon. Pushing open the door, she went quietly into the dimly lighted room, and on the pillow saw a face that drew her to it with an irresistible power, for it was touched by a solemn shadow that made its youth pathetic. As she paused at the bedside, thinking the girl asleep, a pair of hollow, dark eyes opened wide, and looked up at her; startled at first, then softening with pleasure, at sight of the bonny face before them, and then a humble, beseeching expression filled them, as if asking pardon for the rash act nearly committed, and pity for the hard fate that prompted it. Polly read the language of these eyes, and answered their mute prayer with a simple eloquence that said more than any words for she just stooped down and kissed the poor child, with her own eyes full, and lips that trembled with the sympathy she could not tell. Jenny put both arms about her neck, and began to shed the quiet tears that so refresh and comfort heavy hearts when a tender touch unseals the fountain where they lie.
+
+“Everybody is so kind,” she sobbed, “and I was so wicked, I don't deserve it.”
+
+“Oh, yes, you do; don't think of that, but rest and let us pet you. The old life was too hard for such a little thing as you, and we are going to try and make the new one ever so much easier and happier,” said Polly, forgetting everything except that this was a girl like herself, who needed heartening up.
+
+“Do you live here?” asked Jenny, when her tears were wiped away, still clinging to the new-found friend.
+
+“Yes, Miss Mills lets me have a little room up stairs, and there I have my cat and bird, my piano and my posy pots, and live like a queen. You must come up and see me to-morrow if you are able. I'm often lonely, for there are no young people in the house to play with me,” answered Polly, smiling hospitably.
+
+“Do you sew?” asked Jenny.
+
+“No, I'm a music teacher, and trot round giving lessons all day.”
+
+“How beautiful it sounds, and how happy you must be, so strong and pretty, and able to go round making music all the time,” sighed Jenny, looking with respectful admiration at the plump, firm hand held in both her thin and feeble ones.
+
+It did sound pleasant even to Polly's ears, and she felt suddenly so rich, and so contented, that she seemed a different creature from the silly girl who cried because she could n't go to the party. It passed through her mind like a flash, the contrast between her life, and that of the wan creature lying before her, and she felt as if she could not give enough out of her abundance to this needy little sister, who had nothing in the wide world but the life just saved to her. That minute did more for Polly than many sermons, or the wisest books, for it brought her face to face with bitter truths, showed her the dark side of life, and seemed to blow away her little vanities, her frivolous desires, like a wintry wind, that left a wholesome atmosphere behind. Sitting on the bedside, Polly listened while Jane told the story, which was so new to her listener, that every word sank deep into her heart, and never was forgotten.
+
+“Now you must go to sleep. Don't cry nor think, nor do anything but rest. That will please Miss Mills best. I'll leave the doors open, and play you a lullaby that you can't resist. Good night, dear.” And with another kiss, Polly went away to sit in the darkness of her own room, playing her softest airs till the tired eyes below were shut, and little Jane seemed to float away on a sea of pleasant sounds, into the happier life which had just dawned for her.
+
+Polly had fully intended to be very miserable, and cry herself to sleep; but when she lay down at last, her pillow seemed very soft, her little room very lovely, with the firelight flickering on all the home-like objects, and her new-blown roses breathing her a sweet good-night. She no longer felt an injured, hard-working, unhappy Polly, but as if quite burdened with blessings, for which she was n't half grateful enough. She had heard of poverty and suffering, in the vague, far-off way, which is all that many girls, safe in happy homes, ever know of it; but now she had seen it, in a shape which she could feel and understand, and life grew more earnest to her from that minute. So much to do in the great, busy world, and she had done so little. Where should she begin? Then, like an answer came little Jenny's words, now taking a'new significance' to Polly's mind, “To be strong, and beautiful, and go round making music all the time.” Yes, she could do that; and with a very earnest prayer, Polly asked for the strength of an upright soul, the beauty of a tender heart, the power to make her life a sweet and stirring song, helpful while it lasted, remembered when it died.
+
+Little Jane's last thought had been to wish with all her might, that “God would bless the dear, kind girl up there, and give her all she asked.” I think both prayers, although too humble to be put in words, went up together, for in the fulness of time they were beautifully answered.

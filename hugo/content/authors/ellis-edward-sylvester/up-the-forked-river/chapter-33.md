@@ -1,0 +1,71 @@
+---
+title: "Chapter 33"
+weight: 33
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-33.html"
+---
+
+The tropical night wore away and the growing light in the east showed that day was dawning. With the exception of the men who wrought below, Miss Starland was the only one who slept during those monotonous hours, but she was astir early, and with the help of Martella set about preparing the morning meal for the crew and passengers. General Yozarro could be counted upon to carry a well stocked larder, and little solid food is required in so warm a country. Many of the fish in the bifurcated river are of delicious flavor, but rice and fruit form the principal diet. She prepared coffee and the first food that was ready was taken below by Martella for the men who did the hardest work.
+
+"The Captain must not be forgotten, Martella; will you carry a tray to him?"
+
+"Not for all the gold in the Rubio Mountains; you told me you allowed him to keep his pistol."
+
+"True, as you said, it isn't best to tempt him too far; I will take his food to him."
+
+"Permit me to do so," interposed Captain Guzman, who thereupon performed the pleasing task. Ortega was first invited to come to the cabin to join them, but he replied that his duties required him to remain in the pilot house. The delicate feeling that prompted his refusal was understood by the brother and sister.
+
+Just as the meal was finished, all were startled by the hoarse, tremulous whistle overhead. Two long blasts sounded, and the clink of the little brass lever was heard as it dropped back to its resting place against the sounding tube.
+
+"What does that mean?" asked Major Starland, who the next moment bounded to his feet and hurried to the Captain, with Guzman at his heels.
+
+"Captain, what is the cause of that signal; have you so soon forgotten your neutrality?"
+
+"It is a salutation to the steamer just coming round the bend. Listen!"
+
+A sepulchral tremolo rumbled across the water, and the topmast of a craft was discerned gliding along over the stunted tops of the timber growing on the projecting point of land which for the moment shut the hull from view. From the highest point fluttered the most beautiful flag ever bathed in the sunlight of heaven. It seemed to be bounding forward as if borne at the head of a charging regiment.
+
+"By heavens!" exclaimed the happy American, to whom the answering signal was one of the most familiar sounds on earth; "that's the *Warrenia*, my own yacht!"
+
+"I am pleased to know it," said Captain Ortega.
+
+Miss Starland was scarcely behind the others in climbing to the upper deck. The Captain lifted his hat, they smiled at each other, but there was no other sign of recognition.
+
+First the clean cut prow, with the pretty flag of the Triton Navy dallying from the staff, then the graceful hull and the peak with the flag of our country streaming in the gale created by its own motion, and the whole magnificent craft steamed round the bend and headed toward the tugboat. With dancing eyes centered upon the thrilling picture, our friends saw a snowy puff shoot upward from the brass cylinder and the old welcome signal shuddered across the water.
+
+"Will the Señorita oblige me by replying?" asked Captain Ortega. The radiant young woman, with a smile and inclination of her head, but with no further evidence that they were acquaintances, stepped into the door that the Captain opened for her, and grasping the cord answered the boat named for herself. Then, thanking the courteous officer, she passed out again and excitedly waved her handkerchief at a lady who was seen standing in front of the others at the bow.
+
+"That's Aunt Cynthia! There! she has raised her glass! She knows me! Bless her dear heart!"
+
+The woman had recognized her niece and her handkerchief was also a-flutter. An understanding was had through the signalling of the whistles and the two craft rapidly approached each other. Major Starland swung his hat in greeting, again the whistles bellowed across the decreasing space and all was gladness and joy.
+
+While they were yet too far apart to converse readily, the Major had noted another form near the pilot house, a little to one side of Aunt Cynthia. It was bulky and broad, was in gorgeous uniform of blue and gilt, with the golden sash high up in front and low at the back, and the point of his scabbard touching the deck.
+
+"What the mischief is General Bambos doing there?"
+
+"Probably he is a self-invited guest," suggested Captain Guzman.
+
+"True, and I can afford to welcome him; it is fortunate that the yacht took aboard new supplies at San Luis."
+
+The tinkling of signal bells and the reversing of screws and the shifting over of wheels brought the two boats so nearly alongside that conversation became facile among all parties. Holding off the *General Yozarro*, Captain Ortega waited to know the wishes of his chief passenger, who now became the supreme authority on both crafts.
+
+Under the manipulation of the adepts at the respective wheels, the boats were laid beside each other and the gangplank of the yacht connected the two. Miss Starland was the first to run across and was clasped in the arms of her delighted relative. Then her brother, Captain Guzman and Martella followed. General Bambos bowed as nearly to the deck as he could, with his plumed hat sweeping the air, and expressed his happiness at meeting the charming young American Señorita again. Then, while the boats remained lashed, he asked an explanation of the situation, which was a mystery to him as it was to nearly all the others.
+
+Major Starland took it upon himself to enlighten him and his friends, doing so with a succinctness that left no doubt in the mind of any one. The broad face grew solemn, when he succeeded at last in comprehending the remarkable story.
+
+"You will permit me to say, Major, that you have committed a serious international offence."
+
+"And I am prepared to bear all the consequences of my crime."
+
+"They are likely to be graver than you seem to think; it is your duty, first of all, to apologize—"
+
+"Apologize to that scoundrel of a Yozarro! I'll see him hanged first!"
+
+"You will not deny that it is your honorable duty to restore the Atlamalcan navy to my excellent compatriot, General Yozarro."
+
+"You seem to be concerned for the brother with whom, only a day or two ago, you were eager to go to war. I don't want that old tub which he calls a gunboat; he is welcome to it; Atlamalco holds a single solitary gentleman, Captain Ramon Ortega, who is up there at the wheel, and he is at liberty to take the boat back to his chief with my compliments, and that chief may go hang."
+
+"But that will hardly do; you took it by force from him and should return it in person. It is the only way by which an international complication can be prevented."
+
+Yielding to an impulse inspired by the humor of the situation, Major Starland said:
+
+"Very well; I'll take it upon myself to deliver the *General Yozarro* to its owner with my own hands."

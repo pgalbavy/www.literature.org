@@ -1,0 +1,109 @@
+---
+title: "Book 2 - Chapter 18 - The Awakening"
+weight: 34
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-18.html"
+---
+
+Wingrave had risen to his feet. He was perfectly calm, but there was a look on his face which Juliet had never seen there before. Instinctively she drew a little away, and Aynesworth took his place between them.
+
+"Are you mad, Aynesworth?" Wingrave asked coolly.
+
+"Not now," Aynesworth answered. "I have been mad to stay with you for four years, to look on, however passively, at all the evil you have done. I've had enough of it now, and of you! I came here to tell you so."
+
+"A letter," Wingrave answered, "would have been equally efficacious. However, since you have told me--"
+
+"I'll go when I'm ready," Aynesworth answered, "and I've more to say. When I first entered your service and you told me what your outlook upon life was, I never dreamed but that the years would make a man of you again, I never believed that you could be such a brute as to carry out your threats. I saw you do your best to corrupt a poor, silly little woman, who only escaped ruin by a miracle; I saw you deal out what might have been irretrievable disaster to a young man just starting in life. Since your return to London, you have done as little good, and as much harm, with your millions as any man could."
+
+Wingrave was beginning to look bored.
+
+"This is getting," he remarked, "a little like melodrama. I have no objection to being abused, even in my own garden, but there are limits to my patience. Come to the point, if you have one."
+
+"Willingly," Aynesworth answered. "I want you to understand this. I have never tried to interfere in any of your malicious schemes, although I am ashamed to think I have watched them without protest. But this one is different. If you have harmed, if you should ever dare to harm this child, as sure as there is a God above us, I will kill you!"
+
+"What is she to you?" Wingrave asked calmly.
+
+"She--I love her," Aynesworth answered. "I mean her to be my wife."
+
+"And she?"
+
+"She looks upon me as her greatest friend, her natural protector, and protect her I will--even against you."
+
+Wingrave shrugged his shoulders.
+
+"It seems to me," he said, "that the young lady is very well off as she is. She has lived in my house, and been taken care of by my servants. She has been relieved of all the material cares of life, and she has been her own mistress. I scarcely see how you, my young friend, could do better for her."
+
+Aynesworth moved a step nearer to him. The veins on his forehead were swollen. His voice was hoarse with passion.
+
+"Why have you done this for her?" he demanded, "secretly, too, you a man to whom a good action is a matter for a sneer, who have deliberately proclaimed yourself an evil-doer by choice and destiny? Why have you constituted yourself her guardian? Not from kindness for you don't know what it is; not from good nature for you haven't any. Why, then?"
+
+Wingrave shrugged his shoulders.
+
+"I admit." he remarked coolly, "that it does seem rather a problem; we all do unaccountable things at times, though."
+
+"For your own sake," Aynesworth said fiercely, "I trust that this is one of the unaccountable things. For the rest, you shall have no other chance. I shall take her to Truro tonight."
+
+"Are you sure that she will go?"
+
+"I shall tell her the truth."
+
+"And if she does not believe you?"
+
+"She will! If you interfere, I shall take her by force."
+
+"I interfere!" Wingrave remarked. "You need not be afraid of that. The affair as it stands is far too interesting. Call her, and make your appeal."
+
+"I shall tell her the truth," Aynesworth declared.
+
+"By all means! I shall remain and listen to my indictment. Quite a novel sensation! Call the young lady, by all means, and don't spare me."
+
+Aynesworth moved a few steps up the path. He called to her softly, and she came through the little iron gates from the rose gardens. She was very pale, and there was a gleam in her eyes which was like fear. Aynesworth took her by the hand and led her forward.
+
+"You must be brave, dear," he whispered. "I am compelled to say some disagreeable things. It is for your good. It is because I care for you so much."
+
+She looked towards Wingrave. He was sitting upon the garden seat, and his face was absolutely expressionless. He spoke to her, and his cold, precise tone betrayed not the slightest sign of any emotion.
+
+"Aynesworth," he remarked, "is going to tell you some interesting facts about myself. Please listen attentively as afterwards you will be called upon to make a somewhat important decision."
+
+She looked at him a little wistfully and sighed. There was no trace any longer of her companion of the last few weeks. It was the stern and gloomy stranger of her earlier recollections who sat there with folded arms.
+
+"Is it really necessary?" she asked.
+
+"Absolutely," Aynesworth answered hurriedly. "It won't take long, but there are things which you must know."
+
+"Very well," she answered, "I am listening."
+
+Aynesworth inclined his head towards the place where Wingrave sat.
+
+"I will admit," he said, "that the man there, whom I have served for the last four years and more, never deceived me as to his real character and intentions. He had been badly treated by a woman, and he told me plainly that he entered into life again at war with his fellows. Where he could see an opportunity of doing evil, he meant to do it; where he could bring misery and suffering upon anyone with whom he came into contact, he meant to grasp the opportunity. I listened to him, but I never believed. I told myself that it would be interesting to watch his life, and to see the gradual, inevitable humanizing of the man. So I entered his service, and have remained in it until today."
+
+He turned more directly towards Juliet. She was listening breathlessly to every word.
+
+"Juliet," he said, "he has kept his word. I have been by his side, and I speak of the things I know. He has sought no one's friendship who has not suffered for it, there is not a man or woman living who owes him the acknowledgment of a single act of kindness. I have seen him deliberately scheme to bring about the ruin of a harmless little woman. I have seen him exact his pound of flesh, even at the cost of ruin, from a boy. I tell you, Juliet, of my own knowledge, that he has neither heart nor conscience, and that he glories in the evil that his hand finds to do. Even you must know something of his reputation--have heard something of his doings, under the name he is best known by in London--Mr. Wingrave, millionaire."
+
+She started back as though in terror. Then she turned to Wingrave, who sat stonily silent.
+
+"It isn't true," she cried. "You are not--that man?"
+
+He raised his eyes and looked at her. It seemed to her that there was something almost satanic in the smile which alone disturbed the serenity of his face.
+
+"Certainly I am," he answered; "when I returned from America, it suited me to change my identity. You must not doubt anything that Mr. Aynesworth says. I can assure you that he is a most truthful and conscientious young man. I shall be able to give him a testimonial with a perfectly clear conscience."
+
+Juliet shuddered as she turned away. All the joy of life seemed to have gone from her face.
+
+"You are Mr. Wingrave--the Mr. Wingrave. Oh! I can't believe it," she broke off suddenly. "No one could have been so kind, so generous, as you have been to me."
+
+She looked from one to the other of the two men. Both were silent, but whereas Aynesworth had turned his head away, Wingrave's position and attitude were unchanged. She moved suddenly over towards him. One hand fell almost caressingly upon his shoulder. She looked eagerly into his face.
+
+"Tell me--that it isn't all true," she begged. "Tell me that you kindness to me, at least, was real--that you did not mean it to be for my unhappiness afterwards. Please tell me that. I think if you asked me, if you cared to ask me, that I could forgive everything else."
+
+"Every vice, save one," Wingrave murmured, "Nature has lavished upon me. I am a poor liar. It is perfectly true that my object in life has been exactly as Aynesworth has stated it. I may have been more or less successful--Aynesworth can tell you that, too. As regards yourself--"
+
+"Yes?" she exclaimed.
+
+"I congratulate you upon your escape," Wingrave said. "Aynesworth is right. Association of any sort with me is for your evil!"
+
+She covered her face with her hands. Even his tone was different. She felt that this man was a stranger, and a stranger to be feared. Aynesworth came over to her side and drew her away.
+
+"I have a cart outside," he said. "I am going to take you to Truro--"
+
+Wingrave heard the gate close after them--he heard the rumble of the cart in the road growing fainter and fainter. He was alone now in the garden, and the darkness was closing around him. He staggered to his feet. His face was back in its old set lines. He was once more at war with the world.

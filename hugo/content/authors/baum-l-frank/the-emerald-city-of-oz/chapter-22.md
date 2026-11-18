@@ -1,0 +1,139 @@
+---
+title: "Chapter 22"
+weight: 23
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-22.html"
+---
+
+When they came to the signpost, there, to their joy, were the tents of the Wizard pitched beside the path and the kettle bubbling merrily over the fire. The Shaggy Man and Omby Amby were gathering firewood while Uncle Henry and Aunt Em sat in their camp chairs talking with the Wizard.
+
+They all ran forward to greet Dorothy, as she approached, and Aunt Em exclaimed: "Goodness gracious, child! Where have you been?"
+
+"You've played hookey the whole day," added the Shaggy Man, reproachfully.
+
+"Well, you see, I've been lost," explained the little girl, "and I've tried awful hard to find the way back to you, but just couldn't do it."
+
+"Did you wander in the forest all day?" asked Uncle Henry.
+
+"You must be a'most starved!" said Aunt Em.
+
+"No," said Dorothy, "I'm not hungry. I had a wheelbarrow and a piano for breakfast, and lunched with a King."
+
+"Ah!" exclaimed the Wizard, nodding with a bright smile. "So you've been having adventures again."
+
+"She's stark crazy!" cried Aunt Em. "Whoever heard of eating a wheelbarrow?"
+
+"It wasn't very big," said Dorothy; "and it had a zuzu wheel."
+
+"And I ate the crumbs," said Billina, soberly.
+
+"Sit down and tell us about it," begged the Wizard. "We've hunted for you all day, and at last I noticed your footsteps in this path--and the tracks of Billina. We found the path by accident, and seeing it only led to two places I decided you were at either one or the other of those places. So we made camp and waited for you to return. And now, Dorothy, tell us where you have been--to Bunbury or to Bunnybury?"
+
+"Why, I've been to both," she replied; "but first I went to Utensia, which isn't on any path at all."
+
+She then sat down and related the day's adventures, and you may be sure Aunt Em and Uncle Henry were much astonished at the story.
+
+"But after seeing the Cuttenclips and the Fuddles," remarked her uncle, "we ought not to wonder at anything in this strange country."
+
+"Seems like the only common and ordinary folks here are ourselves," rejoined Aunt Em, diffidently.
+
+"Now that we're together again, and one reunited party," observed the Shaggy Man, "what are we to do next?"
+
+"Have some supper and a night's rest," answered the Wizard promptly, "and then proceed upon our journey."
+
+"Where to?" asked the Captain General.
+
+"We haven't visited the Rigmaroles or the Flutterbudgets yet," said Dorothy. "I'd like to see them--wouldn't you?"
+
+"They don't sound very interesting," objected Aunt Em. "But perhaps they are."
+
+"And then," continued the little Wizard, "we will call upon the Tin Woodman and Jack Pumpkinhead and our old friend the Scarecrow, on our way home."
+
+"That will be nice!" cried Dorothy, eagerly.
+
+"Can't say THEY sound very interesting, either," remarked Aunt Em.
+
+"Why, they're the best friends I have!" asserted the little girl, "and you're sure to like them, Aunt Em, 'cause EVER'body likes them."
+
+By this time twilight was approaching, so they ate the fine supper which the Wizard magically produced from the kettle and then went to bed in the cozy tents.
+
+They were all up bright and early next morning, but Dorothy didn't venture to wander from the camp again for fear of more accidents.
+
+"Do you know where there's a road?" she asked the little man.
+
+"No, my dear," replied the Wizard; "but I'll find one."
+
+After breakfast he waved his hand toward the tents and they became handkerchiefs again, which were at once returned to the pockets of their owners. Then they all climbed into the red wagon and the Sawhorse inquired:
+
+"Which way?"
+
+"Never mind which way," replied the Wizard. "Just go as you please and you're sure to be right. I've enchanted the wheels of the wagon, and they will roll in the right direction, never fear."
+
+As the Sawhorse started away through the trees Dorothy said:
+
+"If we had one of those new-fashioned airships we could float away over the top of the forest, and look down and find just the places we want."
+
+"Airship? Pah!" retorted the little man, scornfully. "I hate those things, Dorothy, although they are nothing new to either you or me. I was a balloonist for many years, and once my balloon carried me to the Land of Oz, and once to the Vegetable Kingdom. And once Ozma had a Gump that flew all over this kingdom and had sense enough to go where it was told to--which airships won't do. The house which the cyclone brought to Oz all the way from Kansas, with you and Toto in it--was a real airship at the time; so you see we've got plenty of experience flying with the birds."
+
+"Airships are not so bad, after all," declared Dorothy. "Some day they'll fly all over the world, and perhaps bring people even to the Land of Oz."
+
+"I must speak to Ozma about that," said the Wizard, with a slight frown. "It wouldn't do at all, you know, for the Emerald City to become a way-station on an airship line."
+
+"No," said Dorothy, "I don't s'pose it would. But what can we do to prevent it?"
+
+"I'm working out a magic recipe to fuddle men's brains, so they'll never make an airship that will go where they want it to go," the Wizard confided to her. "That won't keep the things from flying, now and then, but it'll keep them from flying to the Land of Oz."
+
+Just then the Sawhorse drew the wagon out of the forest and a beautiful landscape lay spread before the travelers' eyes. Moreover, right before them was a good road that wound away through the hills and valleys.
+
+"Now," said the Wizard, with evident delight, "we are on the right track again, and there is nothing more to worry about."
+
+"It's a foolish thing to take chances in a strange country," observed the Shaggy Man. "Had we kept to the roads we never would have been lost. Roads always lead to some place, else they wouldn't be roads."
+
+"This road," added the Wizard, "leads to Rigmarole Town. I'm sure of that because I enchanted the wagon wheels."
+
+Sure enough, after riding along the road for an hour or two they entered a pretty valley where a village was nestled among the hills. The houses were Munchkin shaped, for they were all domes, with windows wider than they were high, and pretty balconies over the front doors.
+
+Aunt Em was greatly relieved to find this town "neither paper nor patch-work," and the only surprising thing about it was that it was so far distant from all other towns.
+
+As the Sawhorse drew the wagon into the main street the travelers noticed that the place was filled with people, standing in groups and seeming to be engaged in earnest conversation. So occupied with themselves were the inhabitants that they scarcely noticed the strangers at all. So the Wizard stopped a boy and asked:
+
+"Is this Rigmarole Town?"
+
+"Sir," replied the boy, "if you have traveled very much you will have noticed that every town differs from every other town in one way or another and so by observing the methods of the people and the way they live as well as the style of their dwelling places it ought not to be a difficult thing to make up your mind without the trouble of asking questions whether the town bears the appearance of the one you intended to visit or whether perhaps having taken a different road from the one you should have taken you have made an error in your way and arrived at some point where--"
+
+"Land sakes!" cried Aunt Em, impatiently; "what's all this rigmarole about?"
+
+"That's it!" said the Wizard, laughing merrily. "It's a rigmarole because the boy is a Rigmarole and we've come to Rigmarole Town."
+
+"Do they all talk like that?" asked Dorothy, wonderingly.
+
+"He might have said 'yes' or 'no' and settled the question," observed Uncle Henry.
+
+"Not here," said Omby Amby. "I don't believe the Rigmaroles know what 'yes' or 'no' means."
+
+While the boy had been talking several other people had approached the wagon and listened intently to his speech. Then they began talking to one another in long, deliberate speeches, where many words were used but little was said. But when the strangers criticized them so frankly one of the women, who had no one else to talk to, began an address to them, saying:
+
+"It is the easiest thing in the world for a person to say 'yes' or 'no' when a question that is asked for the purpose of gaining information or satisfying the curiosity of the one who has given expression to the inquiry has attracted the attention of an individual who may be competent either from personal experience or the experience of others to answer it with more or less correctness or at least an attempt to satisfy the desire for information on the part of the one who has made the inquiry by--"
+
+"Dear me!" exclaimed Dorothy, interrupting the speech. "I've lost all track of what you are saying."
+
+"Don't let her begin over again, for goodness sake!" cried Aunt Em.
+
+But the woman did not begin again. She did not even stop talking, but went right on as she had begun, the words flowing from her mouth in a stream.
+
+"I'm quite sure that if we waited long enough and listened carefully, some of these people might be able to tell us something, in time," said the Wizard.
+
+"Let's don't wait," returned Dorothy. "I've heard of the Rigmaroles, and wondered what they were like; but now I know, and I'm ready to move on."
+
+"So am I," declared Uncle Henry; "we're wasting time here."
+
+"Why, we're all ready to go," said the Shaggy Man, putting his fingers to his ears to shut out the monotonous babble of those around the wagon.
+
+So the Wizard spoke to the Sawhorse, who trotted nimbly through the village and soon gained the open country on the other side of it. Dorothy looked back, as they rode away, and noticed that the woman had not yet finished her speech but was talking as glibly as ever, although no one was near to hear her.
+
+"If those people wrote books," Omby Amby remarked with a smile, "it would take a whole library to say the cow jumped over the moon."
+
+"Perhaps some of 'em do write books," asserted the little Wizard. "I've read a few rigmaroles that might have come from this very town."
+
+"Some of the college lecturers and ministers are certainly related to these people," observed the Shaggy Man; "and it seems to me the Land of Oz is a little ahead of the United States in some of its laws. For here, if one can't talk clearly, and straight to the point, they send him to Rigmarole Town; while Uncle Sam lets him roam around wild and free, to torture innocent people."
+
+Dorothy was thoughtful. The Rigmaroles had made a strong impression upon her. She decided that whenever she spoke, after this, she would use only enough words to express what she wanted to say.

@@ -1,0 +1,221 @@
+---
+title: "Chapter 14 - The Schoolhouse Dance"
+weight: 14
+url: "/authors/titus-harold/i-conquered/chapter-14.html"
+---
+
+Young VB held a twofold interest for the men of Clear River. First, the story of his fight with the Captain spread over the land, percolating to the farthest camps. Men laughed at first. The absurdity of it! Then, their surprise giving way to their appreciation of his attainment, their commendation for the young Easterner soared to superlatively profane heights.
+
+When he met those who had been strangers before it was to be scrutinized and questioned and frankly, honestly admired.
+
+Now came another reason for discussing him about bunk-house stoves. He had thrashed Rhues! Great as had been the credit accorded VB for the capture of the stallion, just so great was men's delight caused by the outcome of that other encounter.
+
+They remembered, then, how Rhues had told of the greenhorn who was afraid to take a drink; how he had made it a purpose to spread stories of ridicule, doing his best to pervert the community's natural desire to let the affairs of others alone. And this recollection of Rhues's bullying was an added reason for their saying: "Good! I'm glad to hear it. Too bad th' kid didn't beat him to death!"
+
+Though his meetings with other men were few and scattered, VB was coming to be liked. It mattered little to others why he was in the country, from where he came, or who he had been. He had accomplished two worthy things among them, and respect was accorded him across vast distances. Dozens of these men had seen him only once, and scores never, yet they reckoned him of their number--a man to be taken seriously, worthy of their kindly attention, of their interest, and of their respect.
+
+Bob Thorpe helped to establish VB in the mountains. He thought much about his interview with the young chap, and told to a half-dozen men the story which, coming from him, had weight.
+
+His daughter did not abandon her idea of owning the Captain. Bob told her repeatedly that it was useless to argue with a man who spoke as did Jed's rider; but the girl chose to disagree with him.
+
+"I think that if you'd flatter him enough--if we both would--that he would listen. Don't you?" she asked.
+
+Bob Thorpe shook his head.
+
+"No," he answered. "You can't convince me of that. You don't know men, and I do. I've seen one or two like him before--who love a thing of that sort above money; and, I've found you can't do a thing with 'em--ding 'em!"
+
+The girl cried: "Why, don't feel that way about it! I think it's perfectly fine--to love an animal so much that money won't buy him!"
+
+"Sure it is," answered her father. "That's what makes me out of patience with them. They're--they're better men than most of us, and--well, they make a fellow feel rather small at times."
+
+Then he went away, and Gail puzzled over his concluding remark.
+
+A week to a day after her first visit she drove again to Jed's ranch.
+
+"I came over to see the Captain," she told the old man gayly.
+
+"Well, th' Captain ain't here now," he answered, beaming on her; "but VB'll be back with him before noon."
+
+She looked for what seemed to be an unnecessarily long time at her watch, and then asked:
+
+"Is that his name?"
+
+"What--th' Captain?"
+
+"No--VB."
+
+Jed laughed silently at her.
+
+"Yep--to be sure an' that's his name--all th' name he's got."
+
+"Well, I wish Mr. VB would hurry back with the Captain," she said.
+
+But that easy flush was again in her cheeks, and the turn she gave the conversation was, as they say in certain circles, poor footwork.
+
+Within an hour the Captain bore his rider home. Gail stayed for dinner and ate with the two men.
+
+It was a strange meal for VB. Not in months had he eaten at the same table with a woman; not in years had he broken bread with a woman such as this, and realization of the fact carried him back beyond those darkest days. He remembered suddenly and quite irrelevantly that he once had wondered if this daughter of Bob Thorpe's was to be a connecting link with the old life. That had been when he first learned that the big cattleman had a daughter, and that she was living in his East. Now as he sat before neglected food and watched and listened, feasting his starved spirit on her, noting her genuine vivacity, her enthusiasm, the quick come and go of color in her fine skin, he knew that she was a link, but not with the past that he had feared. She took him back beyond that, into his earlier boyhood, that period of adolescence when, to a clean-minded boy, all things are good and unstained. She was attractive in all the ways that women can be attractive, and at the same time she was more than a desirable individual; she seemed to stand for classes, for modes of living and thinking, that Young VB had put behind him--put behind first by his wasting, now by distance. But as the meal progressed a fresh wonder crept up in his mind. Was all that really so very far away? Was not the distance just that between them and the big ranch house under the cotton woods beyond the hills? And was the result of his wasting quite irreparable? Was he not rebuilding what he had torn down?
+
+He felt himself thrilling and longing suddenly for fresher, newer experiences as the talk ran on between the others. The conversation was wholly of the country, and VB was surprised to discover that this girl could talk intelligently and argue effectively with Jed over local stock conditions when she looked for all the world like any of the hundreds he could pick out on Fifth Avenue at five o'clock of any fine afternoon. He corrected himself hastily. She was not like those others, either. She possessed all their physical endowments, all and more, for her eye was clearer, her carriage better, she was possessed of a color that was no sham; and a finer body. Put her beside them in their own environment, and they would seem stale by comparison; bring those others here, and their bald artificiality would be pathetic. The boy wanted her to know those things, yet thought of telling her never came to his consciousness. Subjectively he was humble before her.
+
+The interest between the two young people was not centered completely in VB. Each time he lowered his gaze to his plate he was conscious of those frank, intelligent blue eyes on him, studying, prying, wondering, a laugh ever deep within them. Now and then the girl addressed a remark to him, but for the most part she spoke directly to Jed; however, she was studying the boy every instant, quietly, carefully, missing no detail, and by the time the meal neared its end the laughter had left her eyes and they betrayed a frank curiosity.
+
+When the meal was finished the girl asked VB to take her to the corral. She made the request lightly, but it smote something in the man a terrific blow, stirring old memories, fresh desires, and he was strangely glad that he could do something for her. As they walked from the cabin to the inclosure he was flushed, embarrassed, awkward. He could not talk to her, could scarcely keep his body from swinging from side to side with schoolboy shyness.
+
+The stallion did not fidget at sight of the girl as he had done on the approach of other strangers. He snorted and backed away, keeping his eyes on her and his ears up with curiosity, coming to a halt against the far side of the corral and switching his fine tail down over the shapely hocks as though to make these people understand that in spite of his seeming harmlessness he might yet show the viciousness that lurked down in his big heart.
+
+"I think he'll come to like you," said VB, looking from his horse to the girl. "I don't see how he could help it--to like women, understand," he added hastily when she turned a wide-eyed gaze on him. "He doesn't like strange men, but see--he's interested in you; and it's curiosity, not anger. I--I don't blame him--for being interested," he ventured, and hated himself for the flush that swept up from his neck.
+
+They both laughed, and Gail said: "So this country hasn't taken the flattery out of you?"
+
+"Why, it's been years--years since I said a thing like that to a girl of your sort," VB answered soberly.
+
+An awkward pause followed.
+
+"Dare I touch him?" the girl finally asked.
+
+"No, I wouldn't to-day," VB advised. "Just let him look at you now. Some other time we'll see if--That is, if you'll ever come to see us--to see the Captain again."
+
+"I should like to come to see the Captain very much, and as often as is proper," she said with mocking demureness.
+
+And she did come again; and again and yet again. Always she took pains to begin with inquiries about the horse. When she did this in Jed Avery's presence it was with a peculiar avoidance of his gaze, that might have been from embarrassment; when she asked Young VB those questions it was with a queer little teasing smile. A half-dozen times she found the boy alone at the ranch, and the realization that on such occasions she stayed longer than she did when Jed was about gave him a new thrill of delight.
+
+At first there was an awkward reserve between them, but after the earlier visits this broke down and their talk became interspersed with personal references, with small, inconsequential confidences that, intrinsically worthless, meant much to them. Yet there was never a word of the life both had lived far over the other side of those snowcaps to the eastward. Somehow the girl felt intuitively that it had not all been pleasant for the man there, and VB maintained a stubborn reticence. He could have told her much of her own life back in the East, of the things she liked, of the events and conditions that were irksome, because he knew the environment in which she had lived and he felt that he knew the girl herself. He would not touch that topic, however, for it would lead straight to his life; and all that he wanted for his thoughts now were Jed and the hills and the Captain and--this girl. They composed a comfortable world of which he wanted to be a part.
+
+Gail found herself feeling strangely at home with this young fellow. She experienced a mingled feeling compounded of her friendship for the finished youths she had known during school days and that which she felt for the men of her mountains, who were, she knew, as rugged, as genuine, as the hills themselves. To her Young VB rang true from the ground up, and he bore the finish that can come only from contact with many men. That is a rare combination.
+
+It came about that after a time the Captain let Gail touch him, allowed her to walk about him and caress his sleek body. Always, when she was near, he stood as at attention, dignified and self-conscious, and from time to time his eyes would seek the face of his master, as though for reassurance. Once after the girl had gone VB took the Captain's face between his hands and, looking into the big black eyes, muttered almost fiercely:
+
+"She's as much of the real stuff as you are, old boy! Do you think, Captain, that I can ever match up with you two?"
+
+Before a month had gone by the girl could lead the Captain about, could play with him almost as familiarly as VB did; but always the horse submitted as if uninterested, went through this formality of making friends as though it were a duty that bored him.
+
+Once Dick Worth, the deputy from Sand Creek, and his wife rode up the gulch to see the black stallion. While the Captain would not allow the man near him, he suffered the woman to tweak his nose and slap his cheeks and pull his ears; then it was that Jed and VB knew that the animal understood the difference between sexes and that the chivalry which so became him had been cultivated by his intimacy with Gail Thorpe.
+
+After that, of course, there was no plausible excuse for Gail's repeated visits. However, she continued coming. VB was always reserved up to a certain point before her, never yielding beyond it in spite of the strength of the subtle tactics she employed to draw him out. A sense of uncertainty of himself held him aloof. Within him was a traditional respect for women. He idealized them, and then set for men a standard which they must attain before meeting women as equals. But this girl, while satisfying his ideal, would not remain aloof. She forced herself into VB's presence, forced herself, and yet with a delicacy that could not be misunderstood. She came regularly, her visits lengthened, and one sunny afternoon as they stood watching the Captain roll she looked up sharply at the man beside her.
+
+"Why do you keep me at this?"
+
+"This? What? I don't get your meaning."
+
+"At coming over here? Why don't you come to see me? I-- Of course, I haven't any fine horse to show you, but--"
+
+Her voice trailed off, with a hint of wounded pride in the tone. The man faced her, stunning surprise in his face.
+
+"You--you don't think I fail to value this friendship of ours?" he demanded, rallying. "You--Why, what can I say to you? It has meant so much to me--just seeing you; it's been one of the finest things of this fine country. But I thought--I thought it was because of this,"--with a gesture toward the Captain, who stood shaking the dust from his hair with mighty effort. "I thought all along you were interested in the horse; not that you cared about knowing me--"
+
+"Did you really think that?" she broke in.
+
+VB flushed, then laughed, with an abrupt change of mood.
+
+"Well, it began that way," he pleaded weakly.
+
+"And you'd let it end that way."
+
+"Oh, no; you don't understand, Miss Thorpe," serious again. "I--I can't explain, and you don't understand now. But I've felt somehow as though it would be presuming too much if I came to see you."
+
+She looked at him calculatingly a long moment as he twirled his hat and kicked at a pebble with his boot.
+
+"I think it would be presuming too much if you let me do all the traveling, since you admit that a friendship does exist," she said lightly.
+
+"Then the only gallant thing for me to do is to call on you."
+
+"I think so. I'm glad you recognize the fact."
+
+"When shall it be?"
+
+"Any time. If I'm not home, stay until I get back. Daddy likes you. You'll love my mother."
+
+The vague "any time" occurred three days later. Young VB made a special trip over the hills to the S Bar S. The girl was stretched in a hammock, reading, when he rode up, and at the sound of his horse she scrambled to her feet, flushed, and evidently disconcerted.
+
+"I'd given you up!" she cried.
+
+"In three days?" taking the hand she offered.
+
+"Well--most boys in the East would have come the next morning--if they were really interested."
+
+"This is Colorado," he reminded her.
+
+He sat crosslegged on the ground at her feet, and they talked of the book she had been reading. It was a novel of music and a musician and a rare achievement, she said. He questioned her about the story, and their talk drifted to music, on which they both could converse well.
+
+"You don't know what it means--to sit here and talk of these things with you," he said hungrily.
+
+"Well, I should like to know," she said, leaning forward over her knees.
+
+For two long hours they talked as they never had talked before; of personal tastes, of kindred enthusiasms, of books and plays and music and people. They went into the ranch house, and Gail played for him--on the only grand piano in that section of the state. They came out, and she saddled her pony to ride part way back through the hills with him.
+
+"_Adios,_ my friend," she called after him, as he swung away from her.
+
+"It's your turn to call now," he shouted back to her, and when the ridge took him from sight he leaned low to the Captain's ear and repeated gently,--"my friend!"
+
+So the barrier of reserve was broken. VB did not dare think into the future in any connection--least of all in relation to this new and growing friendship; yet he wanted to make their understanding more complete though he would scarcely admit that fact even to himself.
+
+A week had not passed when Gail Thorpe drove the automobile up to the VB gate.
+
+"I didn't come to see the Captain this time," she announced to them both. "I came to pay a party call to Mr. VB, and to include Mr. Avery. Because when a girl out here receives a visit from a man it's of party proportions!"
+
+As she was leaving, she asked, "Why don't you come down to the dance Friday night?"
+
+"A big event?"
+
+"Surely!" She laughed merrily. "It's the first one since spring, and everybody'll be there. Mr. Avery will surely come. Won't you, too, Mr. VB?"
+
+He evaded her, but when she had turned the automobile about and sped down the road, homeward bound, he let down the bars for youth's romanticism and knew that he would dance with her if it meant walking every one of the twenty-two miles to the schoolhouse.
+
+For the first time in years VB felt a thrill at the anticipation of a social function, and with it a guilty little thought kept buzzing in the depths of his mind. The thought was: Is her hair as fragrant as it is glorious in color and texture?
+
+Jed and VB made the ride after supper, over frozen paths, for autumn had aged and the tang of winter was in the air. Miles away they could see the glow of the bonfire that had been built before the little stone schoolhouse; and VB was not sorry that Jed wanted to ride the last stages of the trip at a faster pace.
+
+Clear River had turned out, to the last man and woman--and to the last child, too! The schoolhouse was no longer a seat of learning; it was a festal bower. The desks had been taken up and placed along the four walls, seats outward, tops forming a ledge against the calcimined stones, making a splendid place for those youngest children who had turned out! Yes, a dozen babies slumbered there in the confusion, wrapped in many thicknesses of blankets.
+
+Three lamps with polished reflectors were placed on window ledges, and the yellow glare filled the room with just sufficient brilliance to soften lines in faces and wrinkles in gowns that clung to bodies in unexpected places. The fourth window ledge was reserved for the music--a phonograph with a morning-glory horn, a green morning-glory horn that would have baffled a botanist. The stove blushed as if for its plainness in the center of the room, and about it, with a great scraping of feet and profound efforts to be always gentlemanly and at ease, circled the men, guiding their partners.
+
+VB stood in the doorway and watched. He coughed slightly from the dust that rose and mantled everything with a dulling blanket--everything, I said, but the eyes must be excepted. They flashed with as warm a brilliance as they ever do where there is music and dancing and laughter.
+
+The music stopped. Women scurried to their seats; some lifted the edges of blankets and peered with concerned eyes at the little sleepers lying there, then whirled about and opened their arms to some new gallant; for so brief was the interval between dances.
+
+"Well, are you never going to see me?"
+
+VB started at the sound of Gail's voice so close to him. He bowed and smiled at her.
+
+"I was interested," he said in excuse. "Getting my bearings."
+
+She did not reply, but the expectancy in her face forced his invitation, and they joined the swirl about the stove.
+
+"I can't dance in these riding boots," he confided with an embarrassed laugh. "Never thought about it until now."
+
+"Oh, yes, you can! You dance much better than most men. Don't stop, please!"
+
+He knew that no woman who danced with Gail's lightness could find pleasure in the stumbling, stilted accompaniment of his handicapped feet; and the conviction sent a fresh thrill through him. He was glad she wanted him to keep on! She had played upon the man down in him and touched upon vanity, one of those weak spots in us. She wanted him near. His arm, spite of his caution, tightened a trifle and he suddenly knew that her hair was as fragrant as it should be--a heavy, rich odor that went well with its other wealth! For an instant he was a bit giddy, but as the music came to a stop he recovered himself and walked silently beside Gail to a seat.
+
+After that he danced with the wife of a cattleman, and answered absently her stammered advances at communication while he watched the floating figure of Gail Thorpe as it followed the bungling lead of her father's foreman.
+
+The end of the intermission found him with her again. As they whirled away his movements became a little quicker, his tongue a little looser. It had been a long time since he had felt so gay.
+
+He learned of the other women, Gail telling him about them as they danced, and through the thrill that her warm breath aroused he found himself delighting in the individuality of her expression, the stamping of a characteristic in his mind by a queer little word or twisted phrase. He discovered, too, that she possessed a penetrating insight into the latent realities of life. The red-handed, blunt, strong women about him, who could ride with their husbands and brothers, who could face hardships, who knew grim elementals, became new beings under the interpretation of this sunny-haired girl; took on a charm tinged with pathos that brought up within VB a sympathy that those struggles in himself had all but buried. And the knowledge that Gail appreciated those raw realities made him look down at her lingeringly, a trifle wonderingly.
+
+She was of that other life--the life of refinements--in so many ways, yet she had escaped its host of artificialities. She had lifted herself above the people among whom she was reared; but her touch, her sympathies, her warm humanness remained unalloyed! She was real.
+
+And then, when he was immersed in this appreciation of her, she turned the talk suddenly to him. He was but slightly responsive. He put her off, evaded, but he laughed; his cold reluctance to let her know him had ceased to be so stern, and her determination to get behind his silence rose.
+
+As they stood in the doorway in a midst of repartee she burst on him:
+
+"Mr. VB, why do you go about with that awful name? It's almost as bad as being branded."
+
+He sobered so quickly that it frightened her.
+
+"Maybe I am branded," he said slowly, and her agile understanding caught the significance of his tone. "Perhaps I'm branded and can't use another. Who knows?"
+
+He smiled at her, but from sobered eyes. Confused by his evident seriousness, she made one more attempt, and laughed: "Well, if you won't tell me who you are, won't you please tell me what you are?"
+
+The door swung open then, and on the heels of her question came voices from without. One voice rose high above the rest, and they heard: "Aw, come on; le's have jus' one more little drag at th' bottle!"
+
+VB looked at Gail a bit wildly.
+
+Those words meant that out there whisky was waiting for him, and at its mention that searing thing sprang alive in his throat!
+
+"What am I?" he repeated dully, trying to rally himself. "What am I?" Unknowingly his fingers gripped her arm. "Who knows? I don't!"
+
+And he flung out of the place, wanting but one thing--to be with the Captain, to feel the stallion's nose in his arms, to stand close to the body which housed a spirit that knew no defeat.
+
+As he strode past the bonfire a man's face leered at him from the far side. The man was Rhues.

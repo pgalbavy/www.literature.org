@@ -1,0 +1,7 @@
+---
+title: "The Lamp"
+weight: 162
+url: "/authors/aesop/fables/chapter-160.html"
+---
+
+A LAMP, soaked with too much oil and flaring brightly, boasted that it gave more light than the sun. Then a sudden puff of wind arose, and the Lamp was immediately extinguished. Its owner lit it again, and said: "Boast no more, but henceforth be content to give thy light in silence. Know that not even the stars need to be relit"

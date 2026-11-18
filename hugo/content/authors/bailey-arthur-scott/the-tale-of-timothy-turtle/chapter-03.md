@@ -1,0 +1,59 @@
+---
+title: "Chapter 3 - Timothy's Grudge"
+weight: 3
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-03.html"
+---
+
+Sometimes Fatty Coon liked a taste of fresh fish, just by way of a change from Farmer Green's corn, and blackberries, wild grapes, bugs--and all the other dainties on which he dined.
+
+So it happened that one day he visited Black Creek, where he crouched near the water with the hope that some silly fish would swim within reach of his sharp claws.
+
+For a long time he waited patiently. And at last, to his great joy, a young pickerel nosed his way through the shallow water in front of him.
+
+The newcomer was hunting flies. And he did not notice the eager fisherman.
+
+Fatty Coon waited until just the right moment. And then one of his paws darted suddenly into the water.
+
+But instead of Fatty Coon catching the pickerel, someone else caught Fatty Coon.
+
+His captor was no less a person than Timothy Turtle himself, who had been buried all this time in the mud almost under Fatty Coon's nose. That is, his body was buried. His head and neck he had left free, so that he might strike at a fish when one came his way. But he had seen something else that took his fancy. When Fatty's paw scooped into the water Timothy Turtle just had to grab it.
+
+"Let me go!" Fatty Coon shrieked, for Mr. Turtle's cruel jaws hurt him terribly.
+
+"Why, this is fun!" Timothy Turtle muttered thickly, as he took a firmer hold on Fatty's paw. "Besides, I've been wanting to talk with you for a long time."
+
+"Then you'd better let me go," Fatty groaned, "because you can't talk well with your mouth full."
+
+"I can say all I need to," Timothy Turtle grunted. "And I know that if I dropped your paw you'd run off."
+
+"Hurry, then!" Fatty Coon begged him piteously. "Hurry and tell me what you have to say. And please talk fast!"
+
+Timothy Turtle almost smiled.
+
+"Am I hurting you?" he inquired.
+
+"Yes, you are!" cried Fatty Coon.
+
+"Good!" Mr. Turtle snorted. "I meant to, because I've a grudge against you."
+
+Fatty Coon couldn't think what he meant.
+
+"I've never done a thing to you," he declared.
+
+"Perhaps not!" Timothy Turtle admitted.
+
+"But you stole Mrs. Turtle's eggs--twenty-seven of them--and you can't deny it."
+
+Now, it was true--what Timothy Turtle said. Hidden among the reeds one day, Fatty Coon had watched Mrs. Turtle bury her eggs in the sand, to hatch. And when she had gone he had crept out from his hiding-place, dug up her precious, round, white treasures, and eaten them, every one.
+
+Well, Fatty Coon dropped his head in front of Mr. Turtle. He was somewhat ashamed, and frightened, too. And he did not like to look into Timothy Turtle's blinking eyes. "How did you know?" he asked Mr. Turtle.
+
+"Mrs. Turtle told me," said Timothy, shifting his hold slightly, for a better one.
+
+"How did the old lady know who took her eggs?" Fatty persisted.
+
+"Mr. Crow saw everything that happened--and don't you call my wife an old lady!" Timothy Turtle spluttered.
+
+"Very well! She's a young one, of course," Fatty said hastily. "But I don't know how I've harmed you."
+
+"You don't, eh?" Timothy Turtle snarled. "Then I'll explain. I meant to have those eggs myself, young man!"

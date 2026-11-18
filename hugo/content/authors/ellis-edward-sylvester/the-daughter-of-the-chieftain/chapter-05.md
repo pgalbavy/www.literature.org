@@ -1,0 +1,125 @@
+---
+title: "Chapter 5 - In The Woods"
+weight: 5
+url: "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-05.html"
+---
+
+You have not forgotten what I told you about the mountain range, which shuts in Wyoming Valley on the east. It is a thousand feet in height, abounding with ravines, clefts, rocks, boulders and the most rugged kind of places.
+
+The fugitives who fled from the Susquehanna to escape the Indians had to make their way over these mountains, and then find their way through sixty miles of trackless woods to the Delaware River. A great many succeeded in doing so, but the deaths and sufferings in the vast stretch of forest gave it the dreadful name of "The Shades of Death," by which it is often referred to even to this day.
+
+Omas swam at the rear of the small canoe, as I told you, with Mrs. Ripley and her two children seated inside and balancing themselves with great care to prevent the heavily loaded craft from sinking or overturning.
+
+More than one Seneca or Oneida Indian, or perhaps a Tory, that had chased some terrified fugitives to the edge of the river, halted and made ready to fire upon the canoe, whose occupants were seen to be three white persons.
+
+When they looked again, however, they observed the head and shoulders of an Indian warrior, who was plainly propelling the craft in front of him. That was enough to satisfy them.
+
+On the way over, Linna, the little Indian girl, amused herself by diving under the canoe, sometimes appearing on one side and then on the other, sometimes in front and then at the rear. She even ventured to impose upon her father by splashing water in his painted face. She did little of that, and he paid no attention to it.
+
+The sun had not yet set when the grim warrior and his child emerged on the eastern shore, their garments dripping, but caring nothing for that. The boat was drawn far enough up the bank to prevent its being swept away by the current, and then all stood side by side, and as if by a common impulse, looked back at the shore they had left.
+
+The smoke from the burning Fort Wintermoot still rested on the calm surface of the river, and filtered among the green vegetation near the scene of the battle. Other buildings had been fired, and mingled their vapor with it.
+
+Here and there, every minute or two, sounded the sharp crack of a rifle. This too often meant that some fugitive had been run down by his cruel pursuer, who listened to no pleadings for mercy. A good many had taken refuge on Monacacy Island, from which the reports of guns continually came.
+
+I have not the space here to tell you of the wonderful escapes at Wyoming, the particulars of which I have given in another work.
+
+One boy, who was with several men near Fort Jenkins before the battle, saw all the men shot down or captured; but he hid himself among some willows and was not noticed.
+
+If you ever visit the scene of the battle, you will notice a broad, flat stone, called Queen Esther's Rock, a half dozen miles below Wilkesbarre. Queen Esther was an old, cruel, half breed woman who came with the Indians. She is sometimes known as Katharine Montour. A son of hers was killed in the conflict, and she was so angered that she had sixteen captives placed around the rock, and meant to slay them all, while the warriors prevented them from escaping.
+
+Nevertheless two of the young men jumped up and started on a run for the river. The guards dashed after them. One caught his toe, and rolled headlong down the bank into some bushes. Instead of springing up again, as he first started to do, he lay still, and though the Indians almost stepped upon him, he was not discovered, and got off without harm.
+
+The other reached the river, took a running leap and dived, and swam under water as far as he could. When he came up to breathe, the waiting red men fired at him again and again. He was wounded, but not badly, and, reaching the other side, caught a stray horse, made a bridle from a hickory withe, and soon joined his friend.
+
+Another fugitive, after running until he was so tired out he could hardly stand, and hearing the Indians near, backed into a hollow log and awaited his fate. He had been in the hollow but a few minutes when a spider spun its web across the entrance. A few minutes later, two warriors sat down on the log. They noticed how good a hiding place it would be for the white man, and one of them leaned over to peep in. As he did so, he saw the spider web. He was sure that it would not be there if the man was inside, and did not search further. When the warriors left, the man crawled out and got safely away.
+
+You know that the home of the Ripleys was on the eastern shore, which they left that same morning. They had crossed over in a large flatboat with a number of other families, so that now they were near their own home again. Omas had guided the canoe, too, so they landed not far from the little structure.
+
+"Omas," said the mother, "I understand you wish us to go to the Delaware."
+
+"Yes," he replied, "Iroquois won't hurt you there—must go."
+
+"We haven't a particle of food with us; Ben has his gun and may have a chance to shoot some game on the way—more than likely, he will have no chance at all; it will take us several days to reach Stroudsburg, which, I believe, is the nearest point. Don't you think it best that we should stop at the house and get what food we can?"
+
+"Yes, we do dat; come 'long; not great time."
+
+There could be no safer guide than the Delaware, when his race were such complete masters of the situation; though there was risk that a patriot hiding somewhere in the neighborhood might take a shot at him, under the belief that he meant harm to the captives.
+
+The humble log structure was found just as it was left that morning. If any of the marauding bands of Indians paid it a visit, they did not linger after seeing it was tenantless.
+
+There was a whole loaf of bread and part of another left beside some cooked chicken, and a number of live ones were scratching the ground outside, as if they had no concern in what was going on.
+
+"The weather is warm now," remarked the prudent housewife, "but a cold storm may set in before we reach shelter."
+
+With which she folded a blanket from her bed and laid it over her arm.
+
+"It will come handy to sleep on," added Ben, who did the same with a second, despite the weight of his rifle, which (as they were made in those days) was a good load of itself for a strong boy.
+
+Omas showed some impatience, though his companions did not understand the cause. His actions, indeed, were curious. They supposed he meant to conduct them all or a greater part of the way to Stroudsburg, though at times he appeared to be hesitating over it, or over some other scheme he had in mind.
+
+Ben Ripley had rambled among the rugged scenery, on the eastern shore of the river, having gone with his father many times when he was on hunting excursions; but he was not as familiar with the ins and outs of the mountains as the Delaware, whose village was a good many miles away.
+
+None of the party had eaten anything of account since the early morning meal, before they crossed the Susquehanna. The dangers, excitement, and suspense of the hours drove away the thought of food. Young as was Linna, she had already learned not to ask for it when either of her parents chose not to offer it to her. Doubtless she was hungry, but if so, no one else knew it. Alice had been given bread when at Forty Fort, and she now suggested that some more would not come amiss.
+
+"We all need it," said Ben; "why not take our last meal in our old home? You have no objection Omas?"
+
+"Eat here," was his reply.
+
+The guns were leaned against the walls, the blankets put aside and all gathered round the board. The Delaware had done the same before when visiting the family, and acquired the civilized form of eating, while Linna picked it up during the brief time spent with her friends.
+
+The meal lasted but a few minutes, when they once more gathered up their luggage, as it may be called, left the house, and with Omas in the lead, struck into the mountains on the long tramp to the Delaware.
+
+The sun went down while they were picking their way through the rough section. The Ripleys expected to do much hard travelling, but their guide's knowledge of every turn enabled him to pick out paths which none ever suspected. Sometimes the climbing was abrupt, but all, even to Alice, were accustomed to that kind of work, and they kept up a steady gait, which must have placed many miles to the rear if continued long.
+
+Omas continued at the head. Directly behind him walked his child, the path most of the time being so narrow that they were obliged to travel in Indian file. Then came Alice and her mother, while Ben considered himself the rearguard. When the space allowed, Alice took the hand of her parent, but Linna never presumed to speak to or interfere with her grim, silent parent.
+
+Darkness closed around them before they had gone a couple of miles. During all this time the tramp continued in silence, probably not a dozen words being spoken. Each of the three elder was using eyes and ears to the utmost.
+
+The sharp crack of a rifle broke the silence, not more than a hundred yards to the right of them. Everyone started except Omas, who acted as if he did not hear the report. He made no change in his pace, and so far as the others could see in the gloom, did not turn his head. They concluded, therefore, that no cause for alarm existed.
+
+Fairly through the mountain spur and among the deep woods, the journey was pushed until the night was well along. Suddenly, Omas made a short turn to the right and stopping in a hollow, where there were several large boulders, he said—"We stay here all night."
+
+The words were a surprise, for it was expected he would travel for a long time. He, Mrs. Ripley and Linna could have done so without inconvenience, but Alice was tired out. Her relatives were pretty well burdened already, though either would have carried her had it been necessary; but the party had gained so good a start that there seemed little risk in making a long stop.
+
+Omas reached down one hand and laid it on the bare head of Alice, saying in a voice of strange gentleness—"Little girl tired—she can rest."
+
+And then all knew he had ceased walking because of her. Had she not been a member of the party, he would have kept the rest on their feet until the sun appeared above the forest.
+
+"Yes, I'm tired, Omas," said the little one wearily, holding the hand of the Delaware in both her own; "I'm glad you stopped."
+
+The gloom was so deep, for there was no moon until very late (and if there had been, its rays could not have pierced the dense foliage), that they could hardly see each other's figures. Omas hastily gathered some leaves and dead twigs, which were heaped together against one of the boulders. Then he produced his flint and steel—for he had learned the trick long before of the whites—and by and by a shower of sparks was flying from the swift, sharp blows of the metal against the hard stone. A minute later one of the sparks "caught," and under his nursing a fire was speedily under way.
+
+While he was thus engaged, Mrs. Ripley spread the blankets on the ground and Alice stretched her tired little body upon one of them.
+
+"Mamma, I guess God will excuse me for not saying my prayers," she murmured, as she closed her eyes and sank into slumber.
+
+Linna was tired, too, but she kept her feet and looked at her father for his permission, before presuming to lie down.
+
+"Come, Linna, here is your place beside Alice," said the mother kindly.
+
+Again she turned to her father, who was standing by the fire, looking off in the gloom, as if he suspected something wrong.
+
+He gave the permission in their native tongue and she cuddled down beside her friend without further waiting.
+
+"Mother," said Ben, "you had better lie down with them."
+
+"Not yet," she replied, with a significant look at he Delaware, whose back was toward them.
+
+"What about him?" asked the surprised lad in a low voice.
+
+"He is meditating something evil: he wants to leave us.
+
+"What evil is there in that, if he thinks we have gone far enough to be safe?"
+
+"You have forgotten that he fought with the Iroquois today; he wants to go back to Wyoming and join them in their work."
+
+"If that is so, how can we hinder him?"
+
+"I don't know that we can; but I shall try it."
+
+Ben busied himself gathering more wood, so that the fire cast a glow several yards from where it burned against the boulder.
+
+When he had collected enough to last a long while, he came back and sat down by his mother. All this time the Delaware remained motionless, with his face away from them. He was debating some troublous question in his mind. They watched him closely.
+
+He turned about abruptly, and said—"Omas must go—he say 'goodnight' to his friends."

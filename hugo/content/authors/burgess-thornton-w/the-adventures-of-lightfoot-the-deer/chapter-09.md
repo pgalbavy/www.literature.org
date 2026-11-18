@@ -1,0 +1,17 @@
+---
+title: "Chapter 9 - Lightfoot Becomes Uncertain"
+weight: 9
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-09.html"
+---
+
+Lightfoot the Deer traveled on through the Green Forest, straight ahead in the direction from which the Merry Little Breezes were blowing. Every few steps he would raise his delicate nose and test all the scents that the Merry Little Breezes were bringing. So long as he kept the Merry Little Breezes blowing in his face, he could be sure whether or not there was danger ahead of him.
+
+Lightfoot uses his nose very much as you and I use our eyes. It tells him the things he wants to know. He knew that Reddy Fox had been along ahead of him, although he didn't get so much as a glimpse of Reddy's red coat. Once he caught just the faintest of scents which caused him to stop abruptly and test the air more carefully than ever. It was the scent of Buster Bear. But it was so very faint that Lightfoot knew Buster was not near, so he went ahead again, but even more carefully than before. After a little he couldn't smell Buster at all, so he knew then that Buster had merely passed that way when he was going to some other part of the Green Forest.
+
+Lightfoot knew that he had nothing to fear in that direction so long as the Merry Little Breezes brought him none of the dreaded man-scent, and he knew that he could trust the Merry Little Breezes to bring him that scent if there should be a man anywhere in front of him. You know the Merry Little Breezes are Lightfoot's best friends. But Lightfoot didn't want to keep going in that direction all day.
+
+It would take him far away from that part of the Green Forest with which he was familiar and which he called home. It might in time take him out of the Green Forest and that wouldn't do at all. So after a while Lightfoot became uncertain. He didn't know just what to do. You see, he couldn't tell whether or not that hunter with the terrible gun was still following him.
+
+Every once in a while he would stop in a thicket of young trees or behind a tangle of fallen trees uprooted by the wind. There he would stand, facing the direction from which he had come, and watch and listen for some sign that the hunter was still following. But after a few minutes of this he would grow uneasy and then bound away in the direction from which the Merry Little Breezes were blowing, so as to be sure of not running into danger.
+
+"If only I could know if that hunter is still following, I would know better what to do," thought Lightfoot. "I've got to find out."

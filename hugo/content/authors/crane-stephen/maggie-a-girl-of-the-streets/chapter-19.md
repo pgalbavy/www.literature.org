@@ -1,0 +1,63 @@
+---
+title: "Chapter 19"
+weight: 19
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-19.html"
+---
+
+In a room a woman sat at a table eating like a fat monk in a picture.
+
+A soiled, unshaven man pushed open the door and entered.
+
+"Well," said he, "Mag's dead."
+
+"What?" said the woman, her mouth filled with bread.
+
+"Mag's dead," repeated the man.
+
+"Deh hell she is," said the woman. She continued her meal. When she finished her coffee she began to weep.
+
+"I kin remember when her two feet was no bigger dan yer t'umb, and she weared worsted boots," moaned she.
+
+"Well, whata dat?" said the man.
+
+"I kin remember when she weared worsted boots," she cried.
+
+The neighbors began to gather in the hall, staring in at the weeping woman as if watching the contortions of a dying dog. A dozen women entered and lamented with her. Under their busy hands the rooms took on that appalling appearance of neatness and order with which death is greeted.
+
+Suddenly the door opened and a woman in a black gown rushed in with outstretched arms. "Ah, poor Mary," she cried, and tenderly embraced the moaning one.
+
+"Ah, what ter'ble affliction is dis," continued she. Her vocabulary was derived from mission churches. "Me poor Mary, how I feel fer yehs! Ah, what a ter'ble affliction is a disobed'ent chil'."
+
+Her good, motherly face was wet with tears. She trembled in eagerness to express her sympathy. The mourner sat with bowed head, rocking her body heavily to and fro, and crying out in a high, strained voice that sounded like a dirge on some forlorn pipe.
+
+"I kin remember when she weared worsted boots an' her two feets was no bigger dan yer t'umb an' she weared worsted boots, Miss Smith," she cried, raising her streaming eyes.
+
+"Ah, me poor Mary," sobbed the woman in black. With low, coddling cries, she sank on her knees by the mourner's chair, and put her arms about her. The other women began to groan in different keys.
+
+"Yer poor misguided chil' is gone now, Mary, an' let us hope it's fer deh bes'. Yeh'll fergive her now, Mary, won't yehs, dear, all her disobed'ence? All her t'ankless behavior to her mudder an' all her badness? She's gone where her ter'ble sins will be judged."
+
+The woman in black raised her face and paused. The inevitable sunlight came streaming in at the windows and shed a ghastly cheerfulness upon the faded hues of the room. Two or three of the spectators were sniffling, and one was loudly weeping. The mourner arose and staggered into the other room. In a moment she emerged with a pair of faded baby shoes held in the hollow of her hand.
+
+"I kin remember when she used to wear dem," cried she. The women burst anew into cries as if they had all been stabbed. The mourner turned to the soiled and unshaven man.
+
+"Jimmie, boy, go git yer sister! Go git yer sister an' we'll put deh boots on her feets!"
+
+"Dey won't fit her now, yeh damn fool," said the man.
+
+"Go git yer sister, Jimmie," shrieked the woman, confronting him fiercely.
+
+The man swore sullenly. He went over to a corner and slowly began to put on his coat. He took his hat and went out, with a dragging, reluctant step.
+
+The woman in black came forward and again besought the mourner.
+
+"Yeh'll fergive her, Mary! Yeh'll fergive yer bad, bad, chil'! Her life was a curse an' her days were black an' yeh'll fergive yer bad girl? She's gone where her sins will be judged."
+
+"She's gone where her sins will be judged," cried the other women, like a choir at a funeral.
+
+"Deh Lord gives and deh Lord takes away," said the woman in black, raising her eyes to the sunbeams.
+
+"Deh Lord gives and deh Lord takes away," responded the others.
+
+"Yeh'll fergive her, Mary!" pleaded the woman in black. The mourner essayed to speak but her voice gave way. She shook her great shoulders frantically, in an agony of grief. Hot tears seemed to scald her quivering face. Finally her voice came and arose like a scream of pain.
+
+"Oh, yes, I'll fergive her! I'll fergive her!"

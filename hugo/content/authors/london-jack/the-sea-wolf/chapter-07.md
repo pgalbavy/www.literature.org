@@ -1,0 +1,43 @@
+---
+title: "Chapter 7"
+weight: 7
+url: "/authors/london-jack/the-sea-wolf/chapter-07.html"
+---
+
+At last, after three days of variable winds, we have caught the north-east trades. I came on deck, after a good night's rest in spite of my poor knee, to find the Ghost foaming along, wing-and- wing, and every sail drawing except the jibs, with a fresh breeze astern. Oh, the wonder of the great trade-wind! All day we sailed, and all night, and the next day, and the next, day after day, the wind always astern and blowing steadily and strong. The schooner sailed herself. There was no pulling and hauling on sheets and tackles, no shifting of topsails, no work at all for the sailors to do except to steer. At night when the sun went down, the sheets were slackened; in the morning, when they yielded up the damp of the dew and relaxed, they were pulled tight again - and that was all.
+
+Ten knots, twelve knots, eleven knots, varying from time to time, is the speed we are making. And ever out of the north-east the brave wind blows, driving us on our course two hundred and fifty miles between the dawns. It saddens me and gladdens me, the gait with which we are leaving San Francisco behind and with which we are foaming down upon the tropics. Each day grows perceptibly warmer. In the second dog-watch the sailors come on deck, stripped, and heave buckets of water upon one another from overside. Flying-fish are beginning to be seen, and during the night the watch above scrambles over the deck in pursuit of those that fall aboard. In the morning, Thomas Mugridge being duly bribed, the galley is pleasantly areek with the odour of their frying; while dolphin meat is served fore and aft on such occasions as Johnson catches the blazing beauties from the bowsprit end.
+
+Johnson seems to spend all his spare time there or aloft at the crosstrees, watching the Ghost cleaving the water under press of sail. There is passion, adoration, in his eyes, and he goes about in a sort of trance, gazing in ecstasy at the swelling sails, the foaming wake, and the heave and the run of her over the liquid mountains that are moving with us in stately procession.
+
+The days and nights are "all a wonder and a wild delight," and though I have little time from my dreary work, I steal odd moments to gaze and gaze at the unending glory of what I never dreamed the world possessed. Above, the sky is stainless blue - blue as the sea itself, which under the forefoot is of the colour and sheen of azure satin. All around the horizon are pale, fleecy clouds, never changing, never moving, like a silver setting for the flawless turquoise sky.
+
+I do not forget one night, when I should have been asleep, of lying on the forecastle-head and gazing down at the spectral ripple of foam thrust aside by the Ghost's forefoot. It sounded like the gurgling of a brook over mossy stones in some quiet dell, and the crooning song of it lured me away and out of myself till I was no longer Hump the cabin-boy, nor Van Weyden, the man who had dreamed away thirty-five years among books. But a voice behind me, the unmistakable voice of Wolf Larsen, strong with the invincible certitude of the man and mellow with appreciation of the words he was quoting, aroused me.
+
+"'O the blazing tropic night, when the wake's a welt of light That holds the hot sky tame, And the steady forefoot snores through the planet-powdered floors Where the scared whale flukes in flame. Her plates are scarred by the sun, dear lass, And her ropes are taut with the dew, For we're booming down on the old trail, our own trail, the out trail, We're sagging south on the Long Trail - the trail that is always new.'"
+
+"Eh, Hump? How's it strike you?" he asked, after the due pause which words and setting demanded.
+
+I looked into his face. It was aglow with light, as the sea itself, and the eyes were flashing in the starshine.
+
+"It strikes me as remarkable, to say the least, that you should show enthusiasm," I answered coldly.
+
+"Why, man, it's living! it's life!" he cried.
+
+"Which is a cheap thing and without value." I flung his words at him.
+
+He laughed, and it was the first time I had heard honest mirth in his voice.
+
+"Ah, I cannot get you to understand, cannot drive it into your head, what a thing this life is. Of course life is valueless, except to itself. And I can tell you that my life is pretty valuable just now - to myself. It is beyond price, which you will acknowledge is a terrific overrating, but which I cannot help, for it is the life that is in me that makes the rating."
+
+He appeared waiting for the words with which to express the thought that was in him, and finally went on.
+
+"Do you know, I am filled with a strange uplift; I feel as if all time were echoing through me, as though all powers were mine. I know truth, divine good from evil, right from wrong. My vision is clear and far. I could almost believe in God. But," and his voice changed and the light went out of his face, - "what is this condition in which I find myself? this joy of living? this exultation of life? this inspiration, I may well call it? It is what comes when there is nothing wrong with one's digestion, when his stomach is in trim and his appetite has an edge, and all goes well. It is the bribe for living, the champagne of the blood, the effervescence of the ferment - that makes some men think holy thoughts, and other men to see God or to create him when they cannot see him. That is all, the drunkenness of life, the stirring and crawling of the yeast, the babbling of the life that is insane with consciousness that it is alive. And - bah! To-morrow I shall pay for it as the drunkard pays. And I shall know that I must die, at sea most likely, cease crawling of myself to be all a-crawl with the corruption of the sea; to be fed upon, to be carrion, to yield up all the strength and movement of my muscles that it may become strength and movement in fin and scale and the guts of fishes. Bah! And bah! again. The champagne is already flat. The sparkle and bubble has gone out and it is a tasteless drink."
+
+He left me as suddenly as he had come, springing to the deck with the weight and softness of a tiger. The Ghost ploughed on her way. I noted the gurgling forefoot was very like a snore, and as I listened to it the effect of Wolf Larsen's swift rush from sublime exultation to despair slowly left me. Then some deep-water sailor, from the waist of the ship, lifted a rich tenor voice in the "Song of the Trade Wind":
+
+"Oh, I am the wind the seamen love - I am steady, and strong, and true; They follow my track by the clouds above, O'er the fathomless tropic blue.
+
+\* * * * *
+
+Through daylight and dark I follow the bark I keep like a hound on her trail; I'm strongest at noon, yet under the moon, I stiffen the bunt of her sail."

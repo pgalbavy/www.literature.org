@@ -1,0 +1,111 @@
+---
+title: "Chapter 6 - Nero In A Circus"
+weight: 6
+url: "/authors/barnum-richard/nero-the-circus-lion/chapter-06.html"
+---
+
+Nero did not know what had happened to him, except that he had fallen down into a big hole dug in the earth. He did not know what the black African man said about being in a "trap," for though Nero could understand lion talk, he did not yet know much about the talk of men. Later on he was to learn a little about that. Just now he was frightened and hurt, for when he fell down the hole he had struck his paw that had the bullet in it, and, though the sore was healed, it still pained a bit at times.
+
+"I wonder what can have happened to me," thought Nero, as he tumbled and twisted about on the bottom of the pit, which was partly filled with dried leaves. "I wonder what this is, anyhow!"
+
+More than once, when a very little lion boy and out walking along the jungle paths with his father and mother, Nero had fallen into a mud puddle or other hole, because he had not yet learned to walk steadily and carefully. But at such times he had easily scrambled out of the hole, or his mother had helped him.
+
+Now Mrs. Lion was not here to do this, and, try as he did, Nero could not get out of this hole. It was too deep, and the sides were too straight. Nero tried hard enough, jumping up and clawing at the dirt, some of which got into his eyes, but jump though he did, and roar though he did, he could not get out.
+
+Up on top, at the edge of the hole, the black African man was jumping about, waving his hands, in one of which was a long, sharp spear, and the African was shouting:
+
+"I have caught a lion! I have a lion in my hole-trap! Whoop-la!"
+
+Of course Nero did not know what all this meant. All he knew was that a man had something to do with his trouble.
+
+"Maybe that is the hunter man who shot me," thought Nero; "and now he has caught me because I ran away from him and hid in the cave. Well, he has caught me at last, unless I can get out of this hole."
+
+But Nero was wrong. This was not the same man who had shot him. This was another man, a trapper of wild animals, and he had dug a deep hole along a jungle path where he knew lions and other animals would walk. Then he covered the hole with little sticks and leaves, so they would easily break if a big animal, like Nero, jumped on them.
+
+And that is just what Nero had done. He saw the piece of meat on the ground, and jumped straight for it. But he landed in the middle of the sticks and leaves, and fell into the hole.
+
+That is how Nero was caught, and he did not like it at all. He wanted to be loose, to roam through the jungle as he liked. He wanted to try to find his father and his mother and Chet and Boo. But they were far away.
+
+And, while I think of it, I might tell you that for a long time after Nero was lost, that night of the hunt, Mr. Lion looked everywhere for the boy lion. But Nero could not be found, and his father and mother and the other lions thought he had been killed by the hunters. They never saw him again, and, for a time, felt very sad. But so many things happened in the jungle that Mr. and Mrs. Lion soon forgot Nero. That's the way with animals. They are not like us. And so it was that Nero's father and mother never really knew what happened to him. They might find out if they could read this book, but that, of course, can't be done.
+
+Now we'll get back to Nero. There he was in the bottom of a big hole, and up at the top was the black African trapper looking down on him. Pretty soon other hunters and trappers came to see the lion that had been caught alive.
+
+"He's a fine big fellow, Chaki," said one black man to the trapper who had been so pleased when Nero was caught. "What are you going to do with him?"
+
+"Oh, I am going to sell him to a white animal man who comes from across the sea in a big boat called a ship," answered Chaki, the trapper.
+
+"And what will the white animal man do with a live lion?"
+
+"He buys him to sell to a circus," answered Chaki.
+
+"And what is a circus?" asked the other black man.
+
+"I don't know," answered Chaki, "except that far across the ocean white people like to pay money to look at wild animals such as we have in our jungle. That's all I know about a circus. The white animal man told me that."
+
+"Ha! A circus!" laughed the other black man. "And people pay money to look at wild animals? Well, they should come to the jungle. They could see all the animals they want for nothing."
+
+And of course we could, I suppose, only very few of us can go to jungles, and so we go to circuses instead.
+
+Nero, down on the bottom of the hole, listened to the talk of the black men up above. He did not understand any of it, or he might have remembered that word "circus." The rhinoceros, who had knocked him away from the drinking pool, had spoken of a "circus" where Chunky, the happy hippo, went. But Nero was too frightened and in too much pain to pay any heed to what the men said.
+
+And then began a very unhappy time for our lion friend. It was such an unhappy, sad time that I am not going to tell you very much about this part of Nero's life. I'm going to skip over it and come to the funnier, happier part.
+
+For, after the lion had thrashed about on the bottom of the pit for some time, the black African trapper let down ropes and tangled the lion all up in them. Then Nero was hauled to the top of the pit and put into a big wooden cage. He tried to get out, by striking the bars with his paws, and biting them with his teeth, but they were too strong. Then he lay down in a corner of his cage and shut his eyes. He did not like to look out through the bars at the jungle, when he could no longer roam about as he liked. Poor Nero was a prisoner--a caged wild animal.
+
+For many days Nero was kept in the cage in the jungle near the hut of the black trapper. At first the lion would not eat, but at last he grew so hungry that he had to take some of the meat they thrust through the bars of the cage to him. And when he had eaten and taken some water, Nero felt better. But he was still cross and unhappy, and whenever any of the black Africans came near his cage Nero would suddenly stick out his paws and try to scratch them. But they knew enough to keep out of his way.
+
+Then, one day, Nero felt his cage being suddenly lifted up on long poles, which the black men put across their shoulders, and so they carried the caged lion through the jungle. They wouldn't trust Nero to walk by himself. What had happened was that the white animal man, who bought wild animals for his circus, had come along, and, seeing that Nero was a fine lion, had taken him to be sent away across the ocean, from Africa to the United States of America, where there were many circuses.
+
+Nero, still in his cage, was put on board a ship. He was stowed away down in a deep, black hole, deeper and blacker than the jungle pit into which he had fallen, and then began a sea voyage.
+
+Nero didn't like this a bit. Sometimes he seemed to be standing on his head, and again he would be on his feet. At other times he seemed to roll over and over in a regular somersault. And these somersaults weren't at all like the ones he used to turn by accident, when he was playing tag in the jungle with his brother and sister, or with Switchie.
+
+"Oh, dear, I don't like this at all!" grumbled Nero, in his cage in the ship. "I wish I could go back to the jungle. Oh, here I go again--upside down!"
+
+And over he went, cage and all. What was happening was that the ship was in a big storm, and was being tossed up and down on great ocean waves, and that Nero's cage had got loose and was being flung about.
+
+Our lion friend was seasick, and he had a dreadful time. More than once he wished himself back in the jungle, but he could not get there.
+
+After many days the ship stopped tossing to and fro. It had crossed to the other side, with Nero on board, and was now tied up at a dock in New York. Then Nero felt himself being hoisted up in his cage, and, for the first time in many days, he saw the sun again and smelled fresh air. And, oh, how good it was!
+
+It was not like the air of the jungle, for it was cooler, and Nero had been used to being very hot nearly all the time. But he did not mind being a bit cool.
+
+Nero's cage was hoisted out of the hold, the deep, black hold of the ship, and slung on a big automobile truck with some boxes and barrels. Nero was the only wild animal, and people passing along on the dock stopped to look into the big wooden cage at the tawny yellow lion who had been brought all the way from the jungle.
+
+Away started the auto-truck, giving Nero a new kind of ride. He would much rather have walked, but of course a lion can't go about loose in the streets of New York, though they do let the elephants and camels walk in a circus parade. But Nero was not yet in a circus.
+
+Nero looked out through the bars of his cage as he was carted through the streets of New York.
+
+"My, this is a queer jungle!" thought the lion. "Where are the trees and the tangled vines and the snakes and monkeys and other animals? All I see are men and other queer creatures. This isn't at all like my jungle!"
+
+And of course it was not, being a big city. There are not many places for trees in a city, you know.
+
+So Nero cowered down in the corner of his cage until he was put in a freight car to be sent to a place called Bridgeport, Connecticut, where some circus men keep their wild animals, to train them, and have them safe during the winter when it is too cold to give shows in the big, white tents.
+
+"Well, this is a new sort of motion," thought Nero, as the train started off. "I don't know that I like it, but still it is better than being made to turn somersaults all the while."
+
+[Illustration: Nero looked out through the bars of his cage. Page 62]
+
+Indeed it was easier riding on a train than in a ship; at least for Nero. He knew nothing about railroads, nor where he was being taken. But, after a while, during which he did not get much to eat or drink, once more his cage was put on a big auto-truck.
+
+A little later, after being lifted about, and slung here and there, Nero suddenly saw one end of his cage open. The wooden bars, which had been around him ever since he had left the jungle, seemed to drop away.
+
+"Ha! Now, maybe, I can get loose!" thought Nero.
+
+He sprang forward, but, to his surprise, he found himself in very much the same sort of place. But this new cage was larger, and the bars were of iron instead of wood.
+
+Looking through them Nero could see many other just such cages. He sniffed, and he smelled the smell of many wild animals which he knew. He smelled lions, buffaloes, and elephants.
+
+Nero looked around him. He was in a big wooden building, and over to one side were some elephants. At first Nero could not believe it. He rubbed his eyes with his paw and looked again.
+
+Yes, surely enough, they were elephants. They were swaying slowly to and fro, as elephants always sway, and they were stuffing hay into their mouths with their curling trunks.
+
+"Oh, am I back in the jungle?" asked Nero aloud, speaking in animal talk.
+
+"The jungle? No, I should say not!" cried a big jolly-looking elephant. "This isn't the jungle."
+
+"Then what is it?" asked Nero.
+
+"It's a circus," said the elephant. "This is a circus, and we are glad to have you with us, jungle lion. My name is Tum Tum, what is yours?"
+
+"Nero," was the answer. "And so this is a circus!" went on the lion. "Well, well! I never thought I'd be here!"

@@ -1,0 +1,55 @@
+---
+title: "Chapter 14 - The Strange Camp"
+weight: 14
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-14.html"
+---
+
+The Apaches, however, were not quarreling. They were engaged in a dispute, or rather argument, which concerned them all, and about which it was all-important that no blunder should be made.
+
+Fred Munson, the instant he found himself upon the ground, moved timidly back, so as to be out of the way when the expected clash of arms would come, and he watched the three men with an intensity of interest which can scarcely be imagined. He now noticed, for the first time, that as the disputants talked, they all three pointed and looked, at intervals, up the mountain, showing that the all-absorbing topic was located there.
+
+Following the direction indicated, the boy noticed the smoke of a camp-fire rising from the side of the mountain, about a quarter of a mile in advance. It could be seen plainly and distinctly, although the fire itself from which the smoke came was imperceptible. It was evident, therefore, that the discovery of this camp-fire had produced the excitement among the Apaches.
+
+And why should such be the case?
+
+The fact of it was, that the three Apaches were upon territory which could by no means be considered the exclusive tramping-ground of their tribe. Immediately to the eastward roamed the Kiowas and Comanches, and it was no more than natural that their warriors should come into occasional collision, especially when none of them were disposed to recognize any of the presumed rights of the other.
+
+The dispute, therefore, was regarding the campfire, which had suddenly appeared to plague them. Did it belong to their friends or enemies?
+
+Lone Wolf, in sending his three warriors homeward with the captive, dispatched them by a round-about method through the mountains, for the reason that it would be more difficult to trail them. The advantage which they had gained in the start, he was confident, placed it out of the power of Sut Simpson, or any of his friends, to do them injury. But here, while carrying out the directions of their chief, they found themselves confronted by an unexpected danger.
+
+If the Kiowas or Comanches, as the case might be, discerned the little company, they would not fail to observe that they had a prize in their possession, and they very probably would show a disposition to interfere. The wrangle was as to whether it was best to go directly ahead upon the route they were pursuing, trusting not only to the possibility that the strangers there were friends, but to the prospect of their getting by without detection, or whether they should go to the trouble of a flank movement.
+
+Waukko was inclined to go directly ahead, while the others were opposed, and, as is frequently the case with such people, the dispute was excited and hot for awhile; but the hideous Apache triumphed by virtue of his official position. Lone Wolf had placed the lad in his charge, and he was bent upon managing the business in his own fashion.
+
+It was agreed, therefore, that they should continue on up the ravine, as this offered so much the better chance for their mustangs to make good progress. Waukko took the lead, his horse walking at a steady gait, while he scrutinized the camp-fire as closely and searchingly as if his life depended on the result.
+
+The flame seemed to have been started directly behind a mass of rocks, large and compact enough to shelter a dozen men, if they wished to conceal themselves. The smoke showed that it was burning so vigorously that fuel must have been placed upon it but a short time before. It would seem that, if set going by hostile hands, the owners were short-sighted in thus exposing their location; but the mischief of such a thing is that the smoke of a camp-fire in an Indian country may have one or more of a dozen dangerous meanings.
+
+In the West and Southwest the Indians have a system of telegraphy, conducted entirely by means of signal fires from mountain top to mountain top. Treaties signed in Washington in one day have been known hundreds of miles away at night, by the redskins chiefly concerned, who had no means of gaining the news except by some system of telegraphy, understood only by themselves. The most cunning and effective war movements, where the success depends upon the cooperation of widely separated parties, have been managed and conducted by the smoke curling upward from hills and mountain peaks. Still further, a camp-fire is frequently used as a way of confusing an approaching enemy, for by what means could the latter judge whether the parties who had kindled it were in the immediate neighborhood?
+
+Was there not, in this instance, one stealthy Kiowa carefully keeping up the blaze, while his companions had stolen around and across the chasm, where they were ambushed and awaiting the coming of their victims? Were not the sly dogs successful in hiding their positions by the very means which would generally be supposed to betray it?
+
+At any rate, Waukko was not yet abreast of the dangerous point when he again checked his mustang, and the three Apaches consulted in a low voice and with every appearance of suppressed excitement. There was something in the wind which made all three feel anything but comfortable.
+
+The consultation was brief and decisive. Waukko and one of his warriors dismounted, leaving Fred and his guardian upon the remaining horse. Waukko moved off to the right, as though he meant to reconnoiter the camp-fire, while the other savage stole off to the left. Very evidently there was something which needed looking after, and it may have been that Waukko was in quest of information for his leader, Lone Wolf.
+
+Be that as it may, before Fred Munson fairly suspected it he found himself alone with another mounted Apache, both the others having vanished as effectually as if the ground had opened and swallowed them up.
+
+"Now is my chance, if I could only get an opening," was the truthful conclusion of the lad, whose heart suddenly beat with an awakened hope. "If I can manage to get this old fellow off, or if I could steal a little march on him, so as to gain a chance, I could escape. Anyhow, I'm going to try it," he added, and his boyish heart was fired with a renewed determination to make a desperate leap for liberty.
+
+One Apache, however, if he attended to his business, could guard him as effectually as a dozen, and it all depended upon the disposition this warrior should manifest. Just now his great and all absorbing interest was in the efforts of his comrades to detect the meaning of the signal fire.
+
+Fred sat behind him upon the horse, and he stealthily looked to the right and left, in the hope of detecting some place which offered an opportunity for concealment, for he felt that there would be but the single chance offered him. If he should fail in that, the savages would guard him too closely to permit a second effort.
+
+The ravine at this place was about a hundred feet in width. The sides sloped abruptly downward, growing nearly perpendicular further ahead, so that the Apaches, if caught in any trap at all, would be caught in the worst possible manner. Hence the extreme caution they displayed before committing themselves.
+
+There were rocks and stones on the right and left, and here and there some stunted vegetation. A few minutes start would give any one a chance to hide, but just there was the whole difficulty. How was the start to be obtained? It seemed, at this juncture, as if the fates were unusually propitious. Everything conspired to invite the attempt which the boy was so anxious to make.
+
+Waukko and his companion had not been gone more than ten minutes when one of them signaled to the Indian left behind. It came in the shape of a soft low whistle, which could easily be mistaken for the call of a bird. The horseman started and turned his head sidewise to listen the instant it fell upon his ear, and this caused Fred to notice it. The Indian held his head a moment in the attitude of deep attention, and then he replied in precisely the same manner without turning his head. A full minute passed. Then a second call was heard, emitted in precisely the same manner as before. This was the one which did the business.
+
+The trained ear of the veteran scout could have detected no difference that had been made, but there was, for all that, and a very wide one, so far as meaning was concerned. The red-skin had no sooner caught it than he dismounted and moved carefully forward, his mustang quietly following him, bearing the lad upon his back.
+
+The warrior glanced backward only once, to satisfy himself that his steed was there, and understood what was required of it. In the meantime, the heart of Fred was throbbing painfully with hope. He felt as if Providence was interfering directly in his behalf.
+
+"Now is my time," he added, a moment later.

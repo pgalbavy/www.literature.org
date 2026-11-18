@@ -1,0 +1,121 @@
+---
+title: "Chapter 3"
+weight: 4
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-03.html"
+---
+
+Walking a little way back from the water's edge, toward the grove of trees, Dorothy came to a flat stretch of white sand that seemed to have queer signs marked upon its surface, just as one would write upon sand with a stick.
+
+"What does it say?" she asked the yellow hen, who trotted along beside her in a rather dignified fashion.
+
+"How should I know?" returned the hen. "I cannot read."
+
+"Oh! Can't you?"
+
+"Certainly not; I've never been to school, you know."
+
+"Well, I have," admitted Dorothy; "but the letters are big and far apart, and it's hard to spell out the words."
+
+But she looked at each letter carefully, and finally discovered that these words were written in the sand:
+
+"BEWARE THE WHEELERS!"
+
+"That's rather strange," declared the hen, when Dorothy had read aloud the words. "What do you suppose the Wheelers are?"
+
+"Folks that wheel, I guess. They must have wheelbarrows, or baby-cabs or hand-carts," said Dorothy.
+
+"Perhaps they're automobiles," suggested the yellow hen. "There is no need to beware of baby-cabs and wheelbarrows; but automobiles are dangerous things. Several of my friends have been run over by them."
+
+"It can't be auto'biles," replied the girl, "for this is a new, wild country, without even trolley-cars or tel'phones. The people here haven't been discovered yet, I'm sure; that is, if there ARE any people. So I don't b'lieve there CAN be any auto'biles, Billina."
+
+"Perhaps not," admitted the yellow hen. "Where are you going now?"
+
+"Over to those trees, to see if I can find some fruit or nuts," answered Dorothy.
+
+She tramped across the sand, skirting the foot of one of the little rocky hills that stood near, and soon reached the edge of the forest.
+
+At first she was greatly disappointed, because the nearer trees were all punita, or cotton-wood or eucalyptus, and bore no fruit or nuts at all. But, bye and bye, when she was almost in despair, the little girl came upon two trees that promised to furnish her with plenty of food.
+
+One was quite full of square paper boxes, which grew in clusters on all the limbs, and upon the biggest and ripest boxes the word "Lunch" could be read, in neat raised letters. This tree seemed to bear all the year around, for there were lunch-box blossoms on some of the branches, and on others tiny little lunch-boxes that were as yet quite green, and evidently not fit to eat until they had grown bigger.
+
+The leaves of this tree were all paper napkins, and it presented a very pleasing appearance to the hungry little girl.
+
+But the tree next to the lunch-box tree was even more wonderful, for it bore quantities of tin dinner-pails, which were so full and heavy that the stout branches bent underneath their weight. Some were small and dark-brown in color; those larger were of a dull tin color; but the really ripe ones were pails of bright tin that shone and glistened beautifully in the rays of sunshine that touched them.
+
+Dorothy was delighted, and even the yellow hen acknowledged that she was surprised.
+
+The little girl stood on tip-toe and picked one of the nicest and biggest lunch-boxes, and then she sat down upon the ground and eagerly opened it. Inside she found, nicely wrapped in white papers, a ham sandwich, a piece of sponge-cake, a pickle, a slice of new cheese and an apple. Each thing had a separate stem, and so had to be picked off the side of the box; but Dorothy found them all to be delicious, and she ate every bit of luncheon in the box before she had finished.
+
+"A lunch isn't zactly breakfast," she said to Billina, who sat beside her curiously watching. "But when one is hungry one can eat even supper in the morning, and not complain."
+
+"I hope your lunch-box was perfectly ripe," observed the yellow hen, in a anxious tone. "So much sickness is caused by eating green things."
+
+"Oh, I'm sure it was ripe," declared Dorothy, "all, that is, 'cept the pickle, and a pickle just HAS to be green, Billina. But everything tasted perfectly splendid, and I'd rather have it than a church picnic. And now I think I'll pick a dinner-pail, to have when I get hungry again, and then we'll start out and 'splore the country, and see where we are."
+
+"Haven't you any idea what country this is?" inquired Billina.
+
+"None at all. But listen: I'm quite sure it's a fairy country, or such things as lunch-boxes and dinner-pails wouldn't be growing upon trees. Besides, Billina, being a hen, you wouldn't be able to talk in any civ'lized country, like Kansas, where no fairies live at all."
+
+"Perhaps we're in the Land of Oz," said the hen, thoughtfully.
+
+"No, that can't be," answered the little girl; because I've been to the Land of Oz, and it's all surrounded by a horrid desert that no one can cross."
+
+"Then how did you get away from there again?" asked Billina.
+
+"I had a pair of silver shoes, that carried me through the air; but I lost them," said Dorothy.
+
+"Ah, indeed," remarked the yellow hen, in a tone of unbelief.
+
+"Anyhow," resumed the girl, "there is no seashore near the Land of Oz, so this must surely be some other fairy country."
+
+While she was speaking she selected a bright and pretty dinner-pail that seemed to have a stout handle, and picked it from its branch. Then, accompanied by the yellow hen, she walked out of the shadow of the trees toward the sea-shore.
+
+They were part way across the sands when Billina suddenly cried, in a voice of terror:
+
+"What's that?"
+
+Dorothy turned quickly around, and saw coming out of a path that led from between the trees the most peculiar person her eyes had ever beheld.
+
+It had the form of a man, except that it walked, or rather rolled, upon all fours, and its legs were the same length as its arms, giving them the appearance of the four legs of a beast. Yet it was no beast that Dorothy had discovered, for the person was clothed most gorgeously in embroidered garments of many colors, and wore a straw hat perched jauntily upon the side of its head. But it differed from human beings in this respect, that instead of hands and feet there grew at the end of its arms and legs round wheels, and by means of these wheels it rolled very swiftly over the level ground. Afterward Dorothy found that these odd wheels were of the same hard substance that our finger-nails and toe-nails are composed of, and she also learned that creatures of this strange race were born in this queer fashion. But when our little girl first caught sight of the first individual of a race that was destined to cause her a lot of trouble, she had an idea that the brilliantly-clothed personage was on roller-skates, which were attached to his hands as well as to his feet.
+
+"Run!" screamed the yellow hen, fluttering away in great fright. "It's a Wheeler!"
+
+"A Wheeler?" exclaimed Dorothy. "What can that be?"
+
+"Don't you remember the warning in the sand: 'Beware the Wheelers'? Run, I tell you--run!"
+
+So Dorothy ran, and the Wheeler gave a sharp, wild cry and came after her in full chase.
+
+Looking over her shoulder as she ran, the girl now saw a great procession of Wheelers emerging from the forest--dozens and dozens of them--all clad in splendid, tight-fitting garments and all rolling swiftly toward her and uttering their wild, strange cries.
+
+"They're sure to catch us!" panted the girl, who was still carrying the heavy dinner-pail she had picked. "I can't run much farther, Billina."
+
+"Climb up this hill,--quick!" said the hen; and Dorothy found she was very near to the heap of loose and jagged rocks they had passed on their way to the forest. The yellow hen was even now fluttering among the rocks, and Dorothy followed as best she could, half climbing and half tumbling up the rough and rugged steep.
+
+She was none too soon, for the foremost Wheeler reached the hill a moment after her; but while the girl scrambled up the rocks the creature stopped short with howls of rage and disappointment.
+
+Dorothy now heard the yellow hen laughing, in her cackling, henny way.
+
+"Don't hurry, my dear," cried Billina. "They can't follow us among these rocks, so we're safe enough now."
+
+Dorothy stopped at once and sat down upon a broad boulder, for she was all out of breath.
+
+The rest of the Wheelers had now reached the foot of the hill, but it was evident that their wheels would not roll upon the rough and jagged rocks, and therefore they were helpless to follow Dorothy and the hen to where they had taken refuge. But they circled all around the little hill, so the child and Billina were fast prisoners and could not come down without being captured.
+
+Then the creatures shook their front wheels at Dorothy in a threatening manner, and it seemed they were able to speak as well as to make their dreadful outcries, for several of them shouted:
+
+"We'll get you in time, never fear! And when we do get you, we'll tear you into little bits!"
+
+"Why are you so cruel to me?" asked Dorothy. "I'm a stranger in your country, and have done you no harm."
+
+"No harm!" cried one who seemed to be their leader. "Did you not pick our lunch-boxes and dinner-pails? Have you not a stolen dinner-pail still in your hand?"
+
+"I only picked one of each," she answered. "I was hungry, and I didn't know the trees were yours."
+
+"That is no excuse," retorted the leader, who was clothed in a most gorgeous suit. "It is the law here that whoever picks a dinner-pail without our permission must die immediately."
+
+"Don't you believe him," said Billina. "I'm sure the trees do not belong to these awful creatures. They are fit for any mischief, and it's my opinion they would try to kill us just the same if you hadn't picked a dinner-pail."
+
+"I think so, too," agreed Dorothy. "But what shall we do now?"
+
+"Stay where we are," advised the yellow hen. "We are safe from the Wheelers until we starve to death, anyhow; and before that time comes a good many things can happen."

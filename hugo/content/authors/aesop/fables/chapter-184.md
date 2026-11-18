@@ -1,0 +1,7 @@
+---
+title: "The Mule"
+weight: 186
+url: "/authors/aesop/fables/chapter-184.html"
+---
+
+A MULE, frolicsome from lack of work and from too much corn, galloped about in a very extravagant manner, and said to himself: "My father surely was a high-mettled racer, and I am his own child in speed and spirit." On the next day, being driven a long journey, and feeling very wearied, he exclaimed in a disconsolate tone: "I must have made a mistake; my father, after all, could have been only an ass."

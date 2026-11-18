@@ -1,0 +1,141 @@
+---
+title: "Chapter 9 - You Don't Understand"
+weight: 9
+url: "/authors/coolidge-dane/rimrock-jones/chapter-09.html"
+---
+
+"Well, well," remarked Rimrock after he had started his machine and the desert was gliding smoothly by, "so that's why they call you Miss Fortune, eh? Losing all your money on that stock."
+
+The silent woman who sat beside him closed her lips, but made no reply. He glanced at her curiously. She was deaf, of course, though she seldom showed it--perhaps she had failed to hear.
+
+"But that can be fixed," he said, speaking louder, "you can cut off that Miss, any time."
+
+"Yes," she said with a touch of sarcasm, "I believe I've heard that before."
+
+"But I mean it!" he declared and she smiled rather grimly. "And that!" she answered, whereupon Rimrock flushed. He had used those words before in exactly the same connection. It must be madness, this insane prompting that moved him to talk love to this girl. The first time he had met her, after a scant hour of conversation, he had made that equivocal remark: "How about fifty-fifty--an undivided half?" And many times since, when he came to think of it, he had wondered how the words had slipped out. It was a way he had, of speaking impulsively, but now it was more than that. He had deliberately planned to take her out on the desert and ask her that question again. There was something about her that destroyed his judgment even when, as now, she made no effort to charm.
+
+"Then that shows I mean it!" he answered fatuously. "I meant it, the very first time."
+
+"Well, it's very flattering," she said, dimpling slightly, "but isn't this rather sudden?"
+
+"You bet it's sudden--that's the way I do things!" He dropped the wheel and caught her in his arms.
+
+"Oh, be careful," she cried and as he tried roughly to kiss her she thrust him in the throat with her elbow. They struggled for a moment and then, as the machine made a swerve, she laid her hands on the wheel.
+
+"Just let me drive this machine," she said, "and remember--you are supposed to be a gentleman."
+
+"Well, I am!" protested Rimrock as he came out of his madness. "What's the matter? Are you going back home?"
+
+She had flung a quick turn out across a hard flat and was swinging back into the road.
+
+"I think we'd better," she answered quietly. "I hope you haven't made any mistake?"
+
+"Why--no!" he stammered. "Why? What do you mean? Don't you think I'm on the square? Well, I certainly am; I'm asking you to marry me!"
+
+"Yes, but even then; have I given you any reason to think I'm so madly infatuated? Of course I was foolish to come out with you this way, but I assure you I'm no flighty girl."
+
+"Oh, I didn't mean that!" protested Rimrock abjectly. "Say, now listen, you don't understand." He stopped and panted as he fought down his emotions and the automobile sped smoothly on. It was eight or ten miles across the level desert and a few minutes would bring them into town. "You don't know my ways," he went on bluffly, "but say, you don't need to be afraid. Just slow down a little, I want to talk with you--you're the finest girl I know. I want you, don't you see? And when I want anything----"
+
+He stopped as she glanced at him swiftly.
+
+"Yes, you try to take it," she said and curled her lip with scorn. "I understand you, perfectly; but I want to tell you something--there are some things you can't get that way. And one of them is love. That has to be given to you--and you have to be worthy of it--I don't suppose you ever thought about that."
+
+She kept her eyes on the road ahead, but Rimrock could see that she was biting her lip with anger.
+
+"That's the thing I don't like about you," she burst out passionately, "you never think about anybody else. You always resort to violence. And just because you can walk in on Mr. McBain----"
+
+"Ah!" exclaimed Rimrock, leaning forward accusingly; but she scorned to meet his stare.
+
+"--just because you can terrorize him with that pistol you carry----"
+
+"So that's what's the matter," went on Rimrock significantly, "you're thinking about Andy McBain!"
+
+"Mr. Jones!" she burst out, bringing the auto to a stop, "I guess this has gone far enough. Will you walk to town, or shall I?"
+
+"Neither one," he said quietly, taking over the wheel, "I'll drive you to the hotel myself."
+
+"Very well," she said and sat back white with anger as mile after mile sped past.
+
+"Here you are," he said as he slowed down at the Gunsight and suddenly she was her old, sweet self.
+
+"Thank you very much," she said, stepping gracefully out of the car; "the country was very beautiful." And she went smilingly in through the door.
+
+Rimrock Jones sat silent, struck dumb by her manner, so different from her cold, silent wrath; and then he caught a flash of movement on the veranda. She was hiding their quarrel from the women!
+
+"Sorry you couldn't stay longer," he answered, taking off his hat with a belated flourish. "Good evening," he added and then, jamming on his hat, he drove off where he could be alone.
+
+After twenty-four hours of conflicting emotions Rimrock weakened and took his troubles to Hassayamp; and after a passionate presentation of his side of the misunderstanding he acknowledged that the lady was right. He was nothing but a brute, a despicable barbarian, not worthy to look at her; a presumptuous hound, and so on. But he told Hassayamp, as one friend to another, that there would soon be a dead dog in camp; and if Andy McBain ever crossed his path he would shoot him down in his tracks.
+
+With all this on his mind he made very poor company and Gunsight had just about decided he had failed on his mine when it awoke to a sudden miracle. A large party of surveyors had come in during the night and were running a line to the south. Straight out across the desert, while the morning light was good, they had driven their line of stakes; a line which sighted as true as a rifle to the Tecolote Hills. It was for a wagon road, perhaps--but why these surveyors when the whole desert was as flat as a board? A railroad! The whole town jumped to the same conclusion at once and the rush for the Tecolotes was on.
+
+The men who had laughed at Rimrock Jones for months were leaders in the wild stampede and Hassayamp roused up Rimrock from where he was brooding and warned him to get to his ground.
+
+"They'll jump you," he bellowed, "the whole town is going. They'll stake every claim for miles!"
+
+"Let 'em stake!" answered Rimrock whose mood was vindictive, "and the first man that jumps me, I'll jump him, by grab, with this!"
+
+He patted his pistol which, in its ancient holster was once more slung on his hip, and stalked sullenly out into the street. Every wagon and buckboard in the town of Gunsight seemed lined up in front of the stores. Men rushed to and fro with canteens and grub-sacks or half-filled boxes and sacks.
+
+"Is it a railroad?" they yelled as Rimrock appeared and he answered:
+
+"You bet your life it is!"
+
+That settled it, and soon across the desert there went a procession of horsemen and wagons. Those who could travel no other way filled syrup cans with water and started for the Tecolotes on foot. A railroad! Well, why had they never thought of that in the long, wasted days before? Even L. W., the scoffer, caught the sudden contagion; but Andrew McBain did not stir. He was a cautious man and good friends had told him that Rimrock Jones had threatened his life. He stayed in town--and Rimrock stayed also--and soon the procession came back. It was led by L. W. in his cactus-proof automobile, and he reported all the ground as staked. He reported further that the ground was worthless, but Rimrock Jones only smiled.
+
+"Yes, all that's left," he answered grimly. "I made you out a sucker, for once. I guess you remember when I offered you a share in my mine for two thousand dollars or less; but now, by grab, I've staked it all and you Gunsight boys can go bust. And I give you fair warning!" he shouted fiercely, "I'll say it to all of you--the first man that jumps me, I'll kill him!"
+
+"Well, who's trying to jump you?" asked L. W. irritably. "What's biting you, anyway? Ain't your claims all legal? Has anybody disputed you? Well, get onto yourself, you danged fool!"
+
+"Well, all the same," went on Rimrock insistently, "I know what some people will do. I don't name no names, but I've been cleaned out once----"
+
+"Aw, you make me tired!" snapped back L. W., "you're crazy--and what's more you're drunk! You're a hell of a subject to be Gunsight's first citizen, a building ho-tels, and general stores and banks!"
+
+"Well, all the same, you watch me do it! I'm going to make this town over right. And I warn you all, you can't be friends with me and that dastardly McBain outfit, too. It's a fight to a finish and I don't care who knows it, I'm going to bust him if it takes my last cent. I'm not talking about L. W. nor anybody else--you can jump any way you please--but there's one man in this town that I'm out to get and I'll kill him, by grab, if he peeps!"
+
+"You talk too much!" answered L. W. scornfully. "Why don't you go and put up that gun? If we had a town marshal that was worth the powder he'd come around and take it away."
+
+"He would not," retorted Rimrock, "because he knows I won't give it up. I'm carrying that gun just to let people know that I'm out now to fight for my rights. As long as I'm left alone in my legal rights I'm the most peaceable man in this town, but the first man that builds a monument on my claims is going to find that I can't be bluffed."
+
+"Oh, cut it off," cried L. W. in disgust, "we know you're bad--you've told us before. And as for Andrew McBain, you'd better not crowd him too far; he'll fight, on a pinch, himself."
+
+"All right, if he wants it. I've got my eye on him. I'm just waiting till he makes the first move. I know it's coming, but as sure as he does it----"
+
+"Plain drunk," grunted L. W. contemptuously and stumped away up the street.
+
+It was easy enough to say Rimrock was drunk, but it was soon demonstrated that he was not crazy. He was standing in front of the Alamo Saloon, still holding forth against McBain, when a Mexican boy beckoned him off to one side and slipped a note into his hand.
+
+"Please come to my office at once.--M. F."
+
+Rimrock read it over and thrust it into his pocket, then drew it out and read it over again; after which he went up the street.
+
+He stepped into the office with his eyes fixed and sullen and she met him just inside the door.
+
+"I'll accept your apology for your conduct the other day," she said with compelling calm, "and then I want to tell you some news."
+
+"All right," mumbled Rimrock, "I apologize, all right. I was a miserable, pot-licking hound. I'd give my right hand----"
+
+"Yes, yes, that's all right," she broke in hurriedly, "but here's what I want to say. Mr. McBain has been up to Geronimo and got him a copy of that survey of your claims!"
+
+"I knowed it!" burst out Rimrock swinging his fist into his hand, "I saw him get off that train!"
+
+"No, listen!" she said, "you mustn't talk so loud! You mustn't talk at all! Just listen to what I say. I depend on you to save our mine."
+
+"I'll do it!" began Rimrock; but she made a motion for silence and went swiftly on with her tale.
+
+"More than that," she said. "I happen to know that he's looked up the names of those Mexicans, the original locators of your claims; and I think--I can't be sure--but I think that one or two of them were not citizens of the United States. Now wait! I've not finished! I'm looking to you to go out there and protect our claims!"
+
+"Well--the dirty--thief!" rumbled Rimrock in his throat. "I didn't think he had the nerve. But say," he went on, suddenly struck with an idea, "how come you're telling me all this? I thought you and McBain----"
+
+"We won't discuss that, if you please," she broke in, blushing painfully. "There are some things you don't understand. But I think, under the circumstances, I have the right to take steps to protect my own interests. Now will you go out to the claims and keep them from being jumped, or----"
+
+"Leave it to me," he said, the fighting light in his eyes. "Where's McBain? He's the man I've got to stop."
+
+"No, now let's not have any violence. I know something of the law. All you need to do is to stay on the ground. If you're in possession----"
+
+"That's got nothing to do with it!" he burst out impatiently. "This has gone beyond the law. I've warned this man McBain before all kinds of witnesses not to set his foot on my ground; and if he does it--I'll make him pay for it."
+
+He started for the door, hitching up his belt, and she caught at his pistol as he passed.
+
+"No," she said, "I don't want you to shoot him. I'd rather we'd lose the mine."
+
+"You don't understand," he answered. "This has got nothing to do with a mine." He took both her hands in one of his and put them firmly away. "It's between me and him," he said and went off without looking back.

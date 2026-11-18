@@ -1,0 +1,85 @@
+---
+title: "Chapter 19 - Deerfoot's Woodcraft"
+weight: 19
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-19.html"
+---
+
+Neither Deerfoot nor the trapper wished to engage in the trial of skill suggested by Burt Hawkins. Crumpet feared that if such a test took place he would be worsted, in which event he would never hear the last of it from his friends. He might well shrink, therefore, from such a contest.
+
+The Shawanoe knew he could surpass the trapper if he exerted himself, as he most certainly would do. Crumpet's ill-nature would be embittered, and matters were likely to take an unpleasant shape. When Hawkins turned toward him, therefore, expecting him to bound to his feet and invite the challenge, he shook his head:
+
+"Deerfoot's arrows are few, and he saves them for game or his enemies."
+
+"And therein is wise," added Kellogg, shrewd enough to see the situation in all its bearings.
+
+Crumpet said nothing, but was greatly relieved, while Hawkins gave a sniff of disgust.
+
+"Some folks are very free with their tongues, but when you come down to business they ain't there; howsumever, let that go; we've got our extra rifle, and I s'pose we might as well keep up the tramp toward St. Louis. Deerfoot, can't you go with us?"
+
+He shook his head, and said:
+
+"Deerfoot is hunting for two friends who are lost; he must not sleep nor tarry on the way."
+
+"How is that?" asked Burt, while the others listened with interest. The young Shawanoe told, in his characteristic manner, the story which is already well known to the reader. While doing so he watched each countenance closely, hoping (though he could give no reason for such hope) to catch some sign of a shadowy knowledge of that for which he was seeking, but he was disappointed.
+
+"One thing is sartin," remarked Burt Hawkins, when the story was fully told, "them boys ain't dead."
+
+"I agree with you," said Kellogg, with an emphatic nod of the head, in which even the surly Crumpet joined. Deerfoot was surprised at this unanimity, and inquired of Hawkins his reason for his belief.
+
+"'Cause it's agin common sense; when two young men go out in the woods to hunt game, both of 'em ain't going to get killed: that isn't the fashion now-a-days. One of 'em might be hurt, but if that was so, and the other couldn't get away, the Injins would take him off and keep him. More than likely the varmints carried away both, and if you make a good hunt for three or four thousand miles around, you'll get track of 'em."
+
+"I think I know a better plan than that," said Kellogg, and, as the others looked inquiringly toward him, he said, "both of them chaps have been took by Injins who'll keep them awhile. One of these days the boys will find a chance to give 'em the slip, and they'll leave on some dark night and strike for home."
+
+"It isn't likely both 'll have a show to do that at the same time," said Crumpet, speaking with more courtesy than he had yet shown, and manifesting much interest in the matter.
+
+"No; one will have to leave a good while before the other, and then the one that is left will be watched that much sharper, but all he's got to do is to bide his time."
+
+"When one of my brothers comes through the woods to his home, the other will come with him," said Deerfoot, confident as he was that neither Jack Carleton nor Otto Relstaub would desert the other, when placed in any kind of danger.
+
+Deerfoot was confirmed in his theory of the disappearance of his young friends, for it agreed with what he had formed after leaving the settlement that morning. But, admitting it was the correct theory, the vast difficulty of locating the boys still confronted him. They might be journeying far southward in the land of the Creeks and Chickasaws, or to the homes of the Dacotah in the frozen north, or westward toward the Rocky Mountains.
+
+Kellogg and Crumpet now fell into an earnest discussion of the question, for, though agreeing in the main, they differed on minor points, in which each was persistent in his views. Deerfoot listened to every word, for, like a wise man, he was anxious to gain all the knowledge he could from others.
+
+But he noticed that for several minutes Burt Hawkins took no part in the conversation. He had sat down again on the log, thrown one leg over another, and was slowly stroking his handsome beard, while his gaze was fixed on the ground in front. He was evidently in deep thought.
+
+Such was the fact, and just as the lull came, he reached his conclusion. Deliberately rising to his full height, he walked over to where Deerfoot stood, and with another slap on his shoulder, said:
+
+"See here, young man!"
+
+The warrior faced him, earnest, attentive, and interested. Burt shifted the weight of his body, so that it rested on his right leg; he looked down in the eyes of Deerfoot, his brow wrinkled as in the case when a man is about to deliver himself of the most important and original thoughts of his life. Then he began wabbling the index finger of his right hand in the face of the warrior, as a man with the important and original thought is inclined to do. He commenced to wabble quite slowly, gradually increasing the amplitude of the vibrations, and passing his finger so close to the countenance of the Shawanoe that it seemed almost to graze the end of his nose. He spoke slowly, pointing his words with his swaying finger:
+
+"Deerfoot, I've got the question answered; listen to me: them boys have been tooken away by Injins; I know it; now where have the Injins gone? You ought to know as much about your race as me, but you don't; do what I tell you; go to the south till you come to some Injin village; make your inquiries there; if they haven't got the boys, they'll know whether the tribe that took 'em passed through their country, 'cause they couldn't very well do so without some of their warriors finding it out. If none of them don't know nothing about no such party, you can make up your mind you're barking up the wrong tree; then take an excursion west and do the same thing; then, if you don't learn anything, try toward the north; there ain't any use in going eastward, for common sense will teach you they haint been tooken that way; a chap with your good sense will pick up some clue that'll show you the way through."
+
+"My brother speaks the words of wisdom," said Deerfoot, who was much impressed by the utterances of the trapper: "Deerfoot will not forget what he has said; he will carry his words with him and they shall be his guide; Deerfoot says good-bye."
+
+And with a courteous salute to the three, the young warrior walked a few steps, broke into a light run, and was out of sight before his intention was fairly understood. The trappers looked in each others' faces, laughed, made some characteristic remarks, and then turned to their own business.
+
+Deerfoot the Shawanoe had determined to follow the advice given by Burt Hawkins the trapper. It certainly was singular that such an extraordinary woodman as the Indian should profit by the counsel of a white man, even though he was a veteran; but Deerfoot had studied the problem so long that his brain was confused, and, having fixed his own line of conduct, he only needed the endorsement of some sturdy character like the hunter. He had received that endorsement, and now he could not use too much haste.
+
+His intention was to journey rapidly southward, in the direction of the present State of Arkansas, until he should reach some of the Indian villages that were there a hundred years ago. He would push his inquiries among them, just as Burt Hawkins had suggested, pressing the search in other directions, until able to pick up some clue. After that, it would be an easy matter to determine the line of policy that would lead to success.
+
+Any one engaged in such a task as that on which the young Shawanoe had entered, needs to take all the observations he can, for the knowledge thus gained is sure to be of great help. The Indian scanned the country opening to the southward, and, as was his custom, turned his face toward the first elevation which would give him the view he was so desirous of obtaining.
+
+The elevation was similar to those with which the reader became familiar long ago, and the sun had not yet reached the horizon when the lithe warrior had climbed to the crest of the ridge, and was scanning the wilderness which opened to the south and west. He was in a region where he was warranted in looking for Indian villages, and his penetrating eyes traveled over the area with a minuteness of search hardly imaginable by the reader. The country was so broken by mountain, hill, and wood, that the survey was much less extended than would be supposed. He was disappointed in one respect, however: he could detect no Indian village in the whole range of vision.
+
+But, besides the dim smoke from the camp he had left a short time before, he observed another to the westward, and a third to the south; he concluded to make his way to the last, though he half suspected it was the camp of another party of trappers, from whom he could not gather the first morsel of information.
+
+Deerfoot pushed toward the valley, less than a mile distant, from which the tell-tale vapor ascended, and was quite close to the camp, when he became aware that an altogether unexpected state of affairs existed. Despite his usual caution, his approach was detected, and the Shawanoe found himself in no little peril.
+
+It is difficult, if not impossible, to make clear how it was Deerfoot discovered this singular state of affairs; but he was more than a hundred yards from the camp, which was screened by a dense undergrowth and rocks, when he stopped abruptly, warned to do so by that subtle instinct which is like a sixth sense.
+
+He did not leap behind a tree, nor fall on his face and creep to the rear of the large boulder on his right, but he stood erect, using the faculties of hearing and sight with a delicate power and unerring skill which were marvelous in the highest degree.
+
+The black eyes glanced around, as he slowly turned his head from side to side, and he saw everything in front, rear, at his right, left, and above, among the limbs and on the ground. He heard the silken rustling of several leaves in the top of a beach overhead, and he knew it was caused by one of those slight puffs of wind which make themselves known in that manner.
+
+The inhalation through his nostrils brought the faint odor of the elm, the oak, the hickory, the chestnut, the sycamore, and the resinous pine. He identified them, I say, as well as the peculiar and indescribable odor given off by the decaying leaves, the mossy rocks, and even the rotting twigs and branches; but among them all he detected nothing of a foreign nature.
+
+But it was his hearing upon which he mainly depended, though his eyes were forced to their highest skill. When the pinnated leaf of a hickory was shaken loose by the wind puff it had hardly floated from its stem before he caught sight of it, and followed it in its downward course until it fluttered slowly to the ground.
+
+It may be said that the danger which threatened Deerfoot was "in the air," if it be conceivable that there is anything in the expression. He was as certain of it as he was of his own existence, and yet he stood motionless, displaying an incredible confidence in his ability to discover the nature of the peril before it could take effective shape.
+
+Had he leaped lightly behind a tree, he might have placed himself on the side which would have left him exposed to the stealthy shot; had he dropped to the ground and crept to one side of the moss-covered boulder, the same fatal mistake was likely to be made. Therefore he stood as rigid as iron, until he could learn the direction from which he was threatened.
+
+A rustling no louder than that made by the oscillation of a falling leaf came from a point some distance ahead and on his right. So soft indeed was the sound that it cannot be explained how the human ear could be trained to the point of hearing it.
+
+But it was that for which Deerfoot the Shawanoe was waiting, and it gave him the knowledge he sought.

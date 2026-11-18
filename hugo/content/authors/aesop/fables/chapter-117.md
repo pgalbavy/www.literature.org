@@ -1,0 +1,7 @@
+---
+title: "The Dolphins, The Whales, And The Sprat"
+weight: 119
+url: "/authors/aesop/fables/chapter-117.html"
+---
+
+THE DOLPHINS and Whales waged a fierce war with each other. When the battle was at its height, a Sprat lifted its head out of the waves and said that he would reconcile their differences if they would accept him as an umpire. One of the Dolphins replied, "We would far rather be destroyed in our battle with each other than admit any interference from you in our affairs."

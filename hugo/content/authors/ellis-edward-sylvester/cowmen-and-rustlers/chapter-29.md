@@ -1,0 +1,97 @@
+---
+title: "Chapter 29 - A Strange Occurrence"
+weight: 29
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-29.html"
+---
+
+"Do you know," inquired Sterry, "how soon it is contemplated making the attack?"
+
+"I have not heard Inman or Cadmus say, but from the talk of the men I judge it will be quite soon."
+
+"Probably within a couple of hours?" "Sooner than that—by 9 o'clock at the latest."
+
+It was the mother who now spoke: "Suppose Jennie and I decline to leave the house?"
+
+"That has been considered," replied the son, "and I am sorry to say it will make no difference. The rustlers are in an uglier mood than before—wrathful because they have been kept idle so long. They can claim that they have given you ample notice, and if you refuse to come out they cannot be held blamable for the consequences."
+
+This would never do, and Hawkridge interposed:
+
+"If the attack cannot be prevented, Fred, it must be delayed."
+
+"On what grounds?"
+
+"Any that you can think of; they must not disturb us until near midnight."
+
+"But I shall have to give a reason; I am as anxious as you to do my utmost, but I do not see how I can do anything."
+
+The quick wit of Jennie came to the rescue.
+
+"Tell Capt. Inman and Larch Cadmus for me that we have a number of articles we wish to save from destruction; ask them in the name of mother and myself to give us time in which to gather them together."
+
+Fred was silent for a moment.
+
+"At least it will do no harm to try it, even though I do not believe it will be of any use."
+
+"Ask them to make it between 11 and 12; we will then have time to collect all we want—in fact a good deal more time than is necessary."
+
+"I do not see the need of this," replied the brother, who, it need not be repeated, had no knowledge of what was in the minds of the few; "I think I can say that if I do not return in the course of ten or fifteen minutes, you may consider your prayer granted."
+
+Bidding them good-by once more, he passed out of the door and disappeared in the darkness, which had now fully descended and shut from sight the impatient rustlers.
+
+It was a peculiar situation in which the defenders, including the mother and sister, dreaded the return of the head of the household, but the front of the dwelling was watched with an intensity of interest it would be hard to describe.
+
+"By gracious! there he is!" exclaimed Dick Hawkridge, hardly ten minutes after Fred's departure; "it's no use."
+
+A shadowy figure was observed moving across the dark space in front, but while they were waiting for him to enter the door, which was unfastened to admit him, he passed on and vanished in the gloom without checking his motion or speaking.
+
+"That wasn't Fred," whispered Jennie; "I know his walk too well."
+
+"It makes no difference," replied Sterry, "you can depend that he will soon put in an appearance."
+
+But the slow minutes dragged along and nothing was seen of him. By and by a faint hope began to form that the urgent request of the ladies had been conceded, for they insisted that they could see no reason why it should not be.
+
+A full hour passed, and, when it was after 9 o'clock, all doubt was removed. The attack would not be made until close upon midnight. Monteith Sterry would be given the chance, provided Duke Vesey showed the way for him.
+
+The crisis was so near that it was deemed best to let all know what was in contemplation. Capt. Asbury, therefore, explained it to the men, as the daughter had explained to the mother.
+
+"Those fellows can't be trusted," the leader added; "they may seek to give the impression that the delay has been granted, while preparing to assail us when least expected. The night is dark, as you see, and favourable to their plans. Keep the closest watch possible on all sides of the house, for to set fire to it they must approach near enough to touch the building."
+
+"Suppose we catch sight of some one stealing up?" asked one of the cattlemen.
+
+"Challenge him, and if he does not give a satisfactory response, fire."
+
+"What will be a satisfactory response?"
+
+"The voice of Fred Whitney, and I may say of Duke Vesey, or the announcement that the individual is the bearer of a message for us. In the latter case, of course, he will approach from the front. When you shoot, too, boys, you mustn't throw away any shots, for this isn't going to be child's play."
+
+"We understand that," was the significant response of a couple of the stockmen.
+
+It was now growing so late that Sterry placed himself near the rear door to watch for the expected signal from Vesey, feeling, as the minutes passed, a nervousness greater than at any time before.
+
+Since no light burned in the house, the only means of determining the hour was by striking a match and holding it in front of a watch. Hope became high when 10 o'clock was at hand.
+
+Sterry half expected, in case everything promised well, that Vesey would manage to give something in the nature of a preliminary signal, but the closest scrutiny showed nothing of the kind.
+
+Capt. Asbury, who maintained his place near one of the front windows, close to the door, suddenly called:
+
+"Come here a moment, Sterry."
+
+The young man stepped hastily across the room.
+
+"You have everything clear in your mind?" was the question which struck the young man as slightly inopportune.
+
+"Yes; as clear as I can have; why do you ask?"
+
+"I wanted to be certain, for your task is a delicate one; we will hold the door ajar a little while after you go, so that if anything happens, such as their recognizing you, you will be able to dash back. You know it won't do for you to be identified."
+
+"I understand," replied Sterry, who felt that he ought to be at his post.
+
+He hastily stepped back, and as he did so was surprised to find the door drawn open several inches.
+
+"What does that mean?" he asked of the several gathered around in the darkness, whose faces he could not see.
+
+"Why," replied Hawkridge, "what does it mean, indeed? I thought you passed out just now."
+
+"You see I did not. Why do you make such a remark?"
+
+"Some one went out," was the amazing declaration.

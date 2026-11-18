@@ -1,0 +1,105 @@
+---
+title: "Chapter 21"
+weight: 22
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-21.html"
+---
+
+I had no further difficulty in carrying out my plans. I found a small hotel in a back street, got a room there, paid a deposit as I had no luggage with me, and went placidly to bed.
+
+On the following morning I was up early and went out into the town to purchase a modest wardrobe. My idea was to do nothing until after the departure of the eleven-o’clock train to Rhodesia with most of the party on board. Pagett was not likely to indulge in any nefarious activities until he had got rid of them. Accordingly I took a tram out of the town and proceeded to enjoy a country walk. It was comparatively cool, and I was glad to stretch my legs after the long voyage and my close confinement at Muizenberg.
+
+A lot hinges on small things. My shoe-lace came untied, and I stopped to do it up. The road had just turned a corner, and as I was bending over the offending shoe a man came right round and almost walked into me. He lifted his hat, murmuring an apology, and went on. It struck me at the time that his face was vaguely familiar, but at the moment I thought no more of it. I looked at my wrist-watch. The time was getting on. I turned my feet in the direction of Cape Town.
+
+There was a tram on the point of going and I had to run for it. I heard other footsteps running behind me. I swung myself on and so did the other runner. I recognized him at once. It was the man who had passed me on the road when my shoe came untied, and in a flash I knew why his face was familiar. It was the small man with the big nose whom I had run into on leaving the station the night before.
+
+The coincidence was rather startling. Could it be possible that the man was deliberately following me? I resolved to test that as promptly as possible. I rang the bell and got off at the next stop. The man did not get off. I withdrew into the shadow of a shop doorway and watched. He alighted at the next stop and walked back in my direction.
+
+The case was clear enough. I was being followed. I had crowed too soon. My victory over Guy Pagett took on another aspect. I hailed the next tram and, as I expected, my shadower also got on. I gave myself up to some very serious thinking.
+
+It was perfectly apparent that I had stumbled on a bigger thing than I knew. The murder in the house at Marlow was not an isolated incident committed by a solitary individual. I was up against a gang, and, thanks to Colonel Race’s revelations to Suzanne, and what I had overheard at the house at Muizenberg, I was beginning to understand some of its manifold activities. Systematized crime, organized by the man known to his followers as the “Colonel”! I remembered some of the talk I had heard on board ship, of the strike on the Rand and the causes underlying it—and the belief that some secret organization was at work fomenting the agitation. That was the “Colonel’s” work, his emissaries were acting according to plan. He took no part in these things himself, I had always heard, as he limited himself to directing and organizing. The brain-work—not the dangerous labour—for him. But still it well might be that he himself was on the spot, directing affairs from an apparently impeccable position.
+
+That, then, was the meaning of Colonel Race’s presence on the Kilmorden Castle. He was out after the arch-criminal. Everything fitted in with that assumption. He was some one high up in the Secret Service whose business it was to lay the “Colonel” by the heels.
+
+I nodded to myself—things were becoming very clear to me. What of my part in the affair? Where did I come in? Was it only diamonds they were after? I shook my head. Great as the value of the diamonds might be, they hardly accounted for the desperate attempts which had been made to get me out of the way. No, I stood for more than that. In some way, unknown to myself, I was a menace, a danger! Some knowledge that I had, or that they thought I had, made them anxious to remove me at all costs—and that knowledge was bound up somehow with the diamonds. There was one person, I felt sure, who could enlighten me—if he would! The Man in the Brown Suit—Harry Rayburn. He knew the other half of the story. But he had vanished into the darkness, he was a hunted creature flying from pursuit. In all probability he and I would never meet again. . . .
+
+I brought myself back with a jerk to the actualities of the moment. It was no good thinking sentimentally of Harry Rayburn. He had displayed the greatest antipathy to me from the first. Or, at least——There I was again—dreaming! The real problem was what to do—_now!_
+
+I, priding myself upon my rôle of watcher, had become the watched. And I was afraid! For the first time I began to lose my nerve. I was the little bit of grit that was impeding the smooth working of the great machine—and I fancied that the machine would have a short way with little bits of grit. Once Harry Rayburn had saved me, once I had saved myself—but I felt suddenly that the odds were heavily against me. My enemies were all around me in every direction, and they were closing in. If I continued to play a lone hand I was doomed.
+
+I rallied myself with an effort. After all, what could they do? I was in a civilized city—with policemen every few yards. I would be wary in future. They should not trap me again as they had done in Muizenberg.
+
+As I reached this point in my meditations, the train arrived at Adderly Street. I got out. Undecided what to do, I walked slowly up the left-hand side of the street. I did not trouble to look if my watcher was behind me. I knew he was. I walked into Cartwright’s and ordered two coffee ice-cream sodas—to steady my nerves. A man, I suppose, would have had a stiff peg; but girls derive a lot of comfort from ice-cream sodas. I applied myself to the end of the straw with gusto. The cool liquid went trickling down my throat in the most agreeable manner. I pushed the first glass aside empty.
+
+I was sitting on one of the little high stools in front of the counter. Out of the tail of my eye, I saw my tracker come in and sit down unostentatiously at a little table near the door. I finished the second coffee soda and demanded a maple one. I can drink practically an unlimited amount of ice-cream sodas.
+
+Suddenly the man by the door got up and went out. That surprised me. If he was going to wait outside, why not wait outside from the beginning. I slipped down from my stool and went cautiously to the door. I drew back quickly into the shadow. The man was talking to Guy Pagett.
+
+If I had ever had any doubts, that would have settled it. Pagett had his watch out and was looking at it. They exchanged a few brief words, and then the secretary swung on down the street towards the station. Evidently he had given his orders. But what were they?
+
+Suddenly my heart leapt into my mouth. The man who had followed me crossed to the middle of the road and spoke to a policeman. He spoke at some length, gesticulating towards Cartwright’s and evidently explaining something. I saw the plan at once. I was to be arrested on some charge or other—pocket-picking, perhaps. It would be easy enough for the gang to put through a simple little matter like that. Of what good to protest my innocence? They would have seen to every detail. Long ago they had brought a charge of robbing De Beers against Harry Rayburn, and he had not been able to disprove it, though I had little doubt but that he had been absolutely blameless. What chance had I against such a “frame up” as the “Colonel” could devise?
+
+I glanced up at the clock almost mechanically, and immediately another aspect of the case struck me. I saw the point of Guy Pagett’s looking at his watch. It was just on eleven, and at eleven the mail train left for Rhodesia bearing with it the influential friends who might otherwise come to my rescue. That was the reason of my immunity up to now. From last night till eleven this morning I had been safe, but now the net was closing in upon me.
+
+I hurriedly opened my bag and paid for my drinks, and as I did so, my heart seemed to stand still, _for inside it was a man’s wallet stuffed with notes!_ It must have been deftly introduced into my handbag as I left the tram.
+
+Promptly I lost my head. I hurried out of Cartwright’s. The little man with the big nose and the policeman were just crossing the road. They saw me, and the little man designated me excitedly to the policeman. I took to my heels and ran. I judged him to be a slow policeman. I should get a start. But I had no plan, even then. I just ran for my life down Adderly Street. People began to stare. I felt that in another minute some one would stop me.
+
+An idea flashed into my head.
+
+“The station?” I asked, in a breathless gasp.
+
+“Just down on the right.”
+
+I sped on. It is permissible to run for a train. I turned into the station, but as I did so I heard footsteps close behind me. The little man with the big nose was a champion sprinter. I foresaw that I should be stopped before I got to the platform I was in search of. I looked up to the clock—one minute to eleven. I might just do it if my plan succeeded.
+
+I had entered the station by the main entrance in Adderly Street. I now darted out again through the side exit. Directly opposite me was the side entrance to the post office, the main entrance to which is in Adderly Street.
+
+As I expected, my pursuer, instead of following me in, ran down the street to cut me off when I emerged by the main entrance, or to warn the policeman to do so.
+
+In an instant I slipped across the street again and back into the station. I ran like a lunatic. It was just eleven. The long train was moving as I appeared on the platform. A porter tried to stop me, but I wriggled myself out of his grasp and sprang upon the footboard. I mounted the two steps and opened the gate. I was safe! The train was gathering way.
+
+We passed a man standing by himself at the end of the platform. I waved to him.
+
+“Good-bye, Mr. Pagett,” I shouted.
+
+Never have I seen a man more taken aback. He looked as though he had seen a ghost.
+
+In a minute or two I was having trouble with the conductor. But I took a lofty tone.
+
+“I am Sir Eustace Pedler’s secretary,” I said haughtily. “Please take me to his private car.”
+
+Suzanne and Colonel Race were standing on the rear observation platform. They both uttered an exclamation of utter surprise at seeing me.
+
+“Hullo, Miss Anne,” cried Colonel Race, “where have you turned up from? I thought you’d gone to Durban. What an unexpected person you are.”
+
+Suzanne said nothing, but her eyes asked a hundred questions.
+
+“I must report myself to my chief,” I said demurely. “Where is he?”
+
+“He’s in the office—middle compartment—dictating at an incredible rate to the unfortunate Miss Pettigrew.”
+
+“This enthusiasm for work is something new,” I commented.
+
+“H’m!” said Colonel Race. “His idea is, I think, to give her sufficient work to chain her to her typewriter in her own compartment for the rest of the day.”
+
+I laughed. Then, followed by the other two, I sought out Sir Eustace. He was striding up and down the circumscribed space, hurling a flood of words at the unfortunate secretary whom I now saw for the first time. A tall, square woman in drab clothing, with pince-nez and an efficient air. I judged that she was finding it difficult to keep pace with Sir Eustace, for her pencil was flying along, and she was frowning horribly.
+
+I stepped into the compartment.
+
+“Come aboard, sir,” I said saucily.
+
+Sir Eustace paused dead in the middle of a complicated sentence on the labour situation and stared at me. Miss Pettigrew must be a nervous creature, in spite of her efficient air, for she jumped as though she had been shot.
+
+“God bless my soul!” ejaculated Sir Eustace. “What about the young man in Durban?”
+
+“I prefer you,” I said softly.
+
+“Darling,” said Sir Eustace. “You can start holding my hand at once.”
+
+Miss Pettigrew coughed, and Sir Eustace hastily withdrew his hand.
+
+“Ah, yes,” he said. “Let me see, where were we? Yes. Tylman Roos, in his speech at——What’s the matter? Why aren’t you taking it down?”
+
+“I think,” said Colonel Race gently, “that Miss Pettigrew has broken her pencil.”
+
+He took it from her and sharpened it. Sir Eustace stared, and so did I. There was something in Colonel Race’s tone that I did not quite understand.

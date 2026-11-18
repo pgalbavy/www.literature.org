@@ -1,0 +1,7 @@
+---
+title: "The Dogs And The Fox"
+weight: 229
+url: "/authors/aesop/fables/chapter-227.html"
+---
+
+SOME DOGS, finding the skin of a lion, began to tear it in pieces with their teeth. A Fox, seeing them, said, "If this lion were alive, you would soon find out that his claws were stronger than your teeth." It is easy to kick a man that is down.

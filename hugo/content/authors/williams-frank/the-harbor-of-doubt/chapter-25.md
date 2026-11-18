@@ -1,0 +1,223 @@
+---
+title: "Chapter 25 - The Guilt Fixed"
+weight: 25
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-25.html"
+---
+
+It was the following afternoon before Code Schofield ventured on deck.
+
+When he did so it was to find that all naval uniforms had been laid aside, the imitation brass guns forward had been removed, and the schooner so altered that she would scarcely have been recognized as the Albatross.
+
+The wireless had been erected again, and now the apparatus was spitting forth an almost constant series of messages. The crew, spotless in dungarees and without a vestige of a weapon, maneuvered the schooner as Code had never in his life seen a vessel handled. At a word from the officer of the watch they jumped as one man. Every order was executed on the run, and all sails were swayed as flat and taut as boards.
+
+Code found Elsa ensconced with a book under the awning amidships. Big, comfortable wicker chairs were about and the deck so lately cleared for action had an almost homelike look.
+
+"Did you sleep well?" asked the girl with an entire lack of self-consciousness, as though the episode of the night before had never occurred. Code was very thankful for her tact and much relieved. It was evident that their relations for the remainder of the four days' journey north were to be impersonal unless he chose to make them otherwise. This he had no intention of doing--after his morning's battle with himself.
+
+"Like a top, when I got started," he replied. "And you?"
+
+"Splendidly, thanks. And you should have seen the breakfast I ate. I am a shameful gourmand when I am at sea."
+
+He took a chair and filled his pipe.
+
+"By the way, how long have you been out on this cruise? You weren't aboard, were you, the time the mystery schooner led the revenue steamer such a chase?"
+
+"No," she replied, "but I wish I had been. I nearly died when I heard about that; it was so funny. I have only been aboard about four days. I'll tell you the history of it.
+
+"I was having a very delightful dinner up at Mallaby House with Mrs. Tanner, Nellie's mother, you know"--she looked unconcernedly out to sea--"when I got a message, part wireless and part telegram, saying that Nat Burns had nabbed you in St. Pierre and was racing with you to St. Andrew's.
+
+"Well, I've sworn all along that you shouldn't come to any harm through him, so I just left Freekirk Head the next morning on the steamer, took a train to Halifax, and had the schooner pick me up there. Off Halifax they told me that the Nettie B. was six hours ahead of us and going hard, so we had to wing it out for all there was in this one. I had provided all the naval fixings before, realizing that we would probably have to use them some time, and that's all there is to it."
+
+"Well, Elsa, I'll say this--that I don't believe that there was ever a schooner built that could outgame and outsail this one. She's a wonder!"
+
+For a while they talked of trite and inconsequential things. It was very necessary that they become firmly grounded on their new footing of genuine friendship before departing into personalities; and so, for two days, they avoided any but the most casual topics.
+
+As the weather was exceptionally warm, with a spicy salt breeze that seemed to bear the very germ of life in its midst, they had breakfast and luncheon on deck, dining below in the rosy little dining-room.
+
+Thirty-six hours before they expected to catch the fishing fleet (it had been maneuvered so that Code should be restored to the Charming Lass after dark), Elsa opened the subject of Code's trouble with Nat Burns. It was morning, and his recent days of ease and mental refreshment had made him see things clearly that had before been obscured by the great strain under which he labored.
+
+Code told her the whole thing from beginning to end, leaving out only that part of Nat's cumulative scheme that had to do with Nellie Tanner. He showed Elsa how his enemy had left no stone unturned to bring him back home a pauper, a criminal, and one who could never again lift his head among his own people even though he escaped years in prison.
+
+It was a brief and simple story, but he could see Elsa's face change as emotions swept over it. Her remarks were few, but he suddenly became aware that she was harboring a great and lasting hatred against Nat. He did not flatter himself that it was on his own account, nor did he ask the reason for it, but the knowledge that such a hatred existed came to him as a decided surprise.
+
+When he had finished his narrative she sat for some little time silent.
+
+"And you think, then," she asked at last, "that his motive for all this is revenge, because his father happened to meet death on the old May?"
+
+"So far it has seemed to me that that can be the only possible reason. What else--but now wait a moment while I think."
+
+He went below into his room, secured the old log of the M.C. Burns and the artificial horizon. Together they read the entries that Michael Burns had made.
+
+"Now, Elsa," said Code by way of explanation, "it was a dead-sure thing that Nat could never have beaten me in his schooner, and for two reasons: First, the May was a naturally faster boat than the old M.C., although Nat would never admit it. That is what really started our racing. Secondly, I am only telling the truth when I say that I can outsail Nat Burns in any wind from a zephyr to a typhoon.
+
+"He is the kind of chap, in regard to sailing, who doesn't seem to have the 'feel' of the thing. There is a certain instinct of forces and balance that is either natural or acquired. Nat's is acquired. Why, I can remember just as well when I was eight years old my father used to let me take a short trick at the wheel in good weather, and I took to it naturally. Once on the Banks in a gale, when I was only eighteen, the men below said that my trick at the wheel was the only one when they got any sleep.
+
+"Now, those two things being the case, Elsa, how did Nat Burns expect to win the second race from the May?"
+
+"I don't know. It doesn't seem possible that he could win."
+
+"Of course it doesn't, and yet his father writes here that Nat 'swears he can't lose.' Well, now, you know, a man that swears he can't lose is pretty positive."
+
+"Did he try to bet with you for the second race?" asked Elsa.
+
+"Did he? I had five hundred dollars at the bank and he tried to bet me that. I never bet, because I've never had enough money to throw it around. A good deal changed hands on the first race, but none of it was mine. I raced for sport and not for money, and I told Nat so when he tried to bet with me. If I had raced for money I couldn't have withdrawn that day and gone to St. John for cargo the way I did."
+
+"Then it seems to me that he must have known he couldn't lose or he would not have tried to bet."
+
+"Exactly."
+
+"But how could he know it?"
+
+"That is what I would like to find out."
+
+Code absently thrust his hand into his coat pocket and encountered the mirror he had found aboard the Nettie B. He drew it out and polished its bright surface with his handkerchief.
+
+Elsa was immediately interested and Code told her of its unexpected discovery.
+
+"And he had it!" she cried, laughing. "Of all things!"
+
+"Yes, and he always wanted it. I remember when father first gave it to me and I was working out little problems in astronomy, Nat used to take the thing and handle it and admire it. You see the back and edges are silver-plated and it is really quite valuable. He tried to get his father interested, but, so far as I know, never succeeded.
+
+"It was a strange thing, but that simple mirror appealed to Nat tremendously, and you know how that would act on a man of his nature. He is and always has been utterly selfish, and if there was any object he wanted and could not have it increased his desire."
+
+"But how did he get it, I wonder?" asked the girl, taking the object and heliographing the bright sun's rays from the polished surface. "When did you have it last?"
+
+Code knitted his brows and thought back carefully. He had an instinctive feeling that perhaps in this mirror lay the key to the whole situation, just as often in life the most unexpected and trivial things or events are pregnant with great moment.
+
+"I had it," he said slowly, thinking hard; "let me see: the last time I remember it was the day after my first race with Nat. In the desk that stood in the cabin of the old May I kept the log, my sextant, and a lot of other things of that kind. In a lower drawer was this mirror, and the reason I saw it was this:
+
+"When I had made fast to my moorings in the harbor I immediately went below to make the entry in the log about the race--naturally I couldn't leave that undone. I remember I looked in the top drawer for the book, but didn't find it. So then I looked in the other drawers and, in doing so, opened the one containing the mirror.
+
+"I distinctly remember seeing it, for the lamp was lighted and the glass flashed a blinding glare into my eyes. You see we raced in about the worst winter weather there was and the lamp had to be lighted very early.
+
+"The log-book wasn't there, and I found it somewhere or other later, but that hasn't anything to do with the case. I never saw the mirror after that--in fact, never looked for it. I took for granted it had gone down with the May, along with all my other things, except the log-book, which I saved and use now aboard the Lass."
+
+"And you didn't take it out or give it to anybody?"
+
+"No. I am positive of that. I didn't touch it after seeing it that once."
+
+"Then it is very plain, Code, that if Nat Burns came into possession of it he must have taken it himself. He was very angry with you for winning, wasn't he?"
+
+"Terribly. For once I thought he might be dangerous and kept out of his way until the thing had worn off a little."
+
+"Just like him," said Elsa in that tone of bitter hatred that Code had heard her use before when speaking of Burns. "He must have gone aboard the May and taken it, because you prized it so much. A fine revenge!"
+
+"Yes, but we don't do those things in Freekirk Head, Elsa. You know that. We don't steal from one another's trawl-lines, and we don't prowl about other men's schooners. I can't understand his doing a thing like that."
+
+"Perhaps not, but if not, explain how he got it."
+
+"You're right," Code admitted after a moment's thought; "that's the only way."
+
+They were silent for a while, pondering over this new development and trying to discover where it might lead. Under sharp commands the crew brought the schooner about on the starboard tack, for the wind was on the bow, and set a staysail between the fore and main masts. The splendid ship seemed to skim over the surface of the sea, touching only the tops of the waves.
+
+"No, it's no good!" broke out Code suddenly. "Much as I hate Nat Burns, I don't believe he would come aboard my schooner just for the purpose of stealing a silver-plated mirror. That isn't like him. He's too clever to do anything like that. And, besides, what kind of a revenge would that be for having lost the race?"
+
+"Well, what can you suggest? How else did he get it?" Elsa was frankly sceptical and clung to her own theory.
+
+"He might have come aboard for something else, mightn't he, and picked up the mirror just incidentally?"
+
+"He might have, yes, but what else would bring him there?"
+
+Code sat rigid for a few minutes. He had such a thought that he scarcely dared consider it himself.
+
+"It's all clear to me now," he said in a low, hoarse voice. "Nat came aboard to damage the schooner so that he would be sure to win the second race."
+
+"Code!" The cry was one of involuntary horror as Elsa remembered the tragedy of the May. Hate Nate though she might, this was an awful charge to lay at his door.
+
+"Then he killed his own father, if what you say is true!" she added breathlessly. "Oh, the poor wretch! The poor wretch!"
+
+"Yes, that solves it," went on Code, who had hardly heard her. "That solves the entries that Michael Burns made in his ship's log before he went to St. John on his last business trip. Nat swore he could not lose, and the old man, who was honest enough himself, must have wondered what his son was up to.
+
+"This mirror proves that Nat must have been aboard the schooner secretly; what he told his father and his eagerness to bet with me on a proposition that seemed foolhardy on the face of it clinch the thing in my mind. The misguided fool! That, Elsa, is an example of how low a man will go who has been spoiled and brought up without the slightest idea of self-control."
+
+"Why, you're preaching to me, Code," laughed the girl, and he joined her. But she sobered in a moment.
+
+"This is all very fine theory," she said, "and I half believe it myself, but it's worthless; you haven't a grain of proof. Tell me, have you ever thought over the details of the sinking of the May?"
+
+"Only once," groaned Schofield, "and I--I hate to do it, Elsa. I'd rather not. Every time I think of that awful day I sweat with sheer horror. Every incident of it is engraved on my brain."
+
+"But listen, Code, you must think about it for once, and think about it with all your mind. Tell me everything that happened. It is vital to our case; it may save the whole thing from being worthless. Even if we get nothing you must make the effort."
+
+Code knew that what Elsa said was true. With an effort he focused his mind back on that awful day and began.
+
+"There was a good sea that day," he said, "and more than half a gale out of the northeast. If it had been any other day I shouldn't have taken the old May out at all, because she was loaded very deep. But the whole trip was a hurry call and they wanted me to get back to Mignon with the salt as soon as I could.
+
+"Old Burns saw me on the wharf and asked if he could go along as passenger. I said he could, and we started early in the morning. Now that day wasn't anything unusual, Elsa. I've been in a lot worse gales in the May, but not with her so deep; but I didn't think anything would happen.
+
+"Everything went all right for three hours, with the wind getting fresher all the time, and the vessel under four lowers, which was a pretty big strain on any schooner. As I say, she should have stood it, but all of a sudden, on a big lurch, the fore topm'st that hadn't a rag on her broke off short and banged down, hanging by the guys. With one swipe it smashed the foregaff to splinters, and half the canvas hung down flapping like a great wing.
+
+"I couldn't understand it. I knew the topm'st was in a weakened condition, but not as rotten as punk, and I supposed my foregaff was as solid a piece of timber as ever went into a vessel.
+
+"But listen!" as Elsa started to speak. "That isn't all. The flapping canvas, with part of the gaff, pounded around like the devil let loose for the ten seconds before we couldn't loosen the halyards and lower away the wreckage, but in that time it had parted the mainstay in two like a woman snipping a thread.
+
+"Mind that, Elsa, a steel mainstay an inch thick. I never heard of one parting in my life before. Things were happening so fast that I couldn't keep track of them, and now, just at the crucial minute, the old May jibed, fell off from the wind, and went into the trough of the sea. A great wave came then, ripped her rudder off (I found this as soon as I tried to use the wheel) and swept the decks, taking one man.
+
+"Meanwhile the mainmast, with one stay gone, was whipping from side to side like a great, loose stick. I put the wheel in the becket and in one jump released the mains'l throat-halyards, while another fellow released the peak. The sail came down on the run in the lazy jacks and the men jumped on it and began to crowd it into some kind of a furl.
+
+"I jumped back to the wheel and tried to bring her up into the wind, but I might as well have tried to steer an ocean liner with a sculling sweep. Not only was her rudder gone, but the tiller ropes were parted on each side. It was damaged beyond repair!
+
+"Once I read in school the funny poem of an American named Holmes. It was called the 'One Hoss Shay,' and it told about an old chaise that, after a hundred years of service, suddenly went to pieces all at the same time and the same place. Even, in that time of danger, the memory of the 'One Hoss Shay' came to me, and I thought that the May Schofield was doing exactly the same thing, although only half as old."
+
+"And then what happened?" asked Elsa, who had sat breathless through Code's narrative.
+
+"There's not much more to tell," he said, with an involuntary shudder. "It was too much for the old girl with that load in her. She began to wallow and drive toward the Wolves that I had caught a glimpse of through the scud. She hadn't got halfway there when the mainmast came down (bringing nearly everything with it) and hung over the starboard quarter, dragging the vessel down like a stoat hanging to a duck's leg.
+
+"After that it was easy to see she was doomed. We chopped away at the tangle of wreckage whenever we got a chance, but that wasn't often, because, in her present position, the waves raked her every second and we had to hang on for dear life.
+
+"And then she began to go to pieces--which was the beginning of the end. All hands knew it was to be every man for himself. We had no life preservers, and our one big dory had been smashed when the wreckage came down."
+
+Code's face was working with suppressed emotion, and Elsa reached out her hand and touched his.
+
+"Don't tell me any more," she said; "I know the rest. Let's talk about the present."
+
+"Thanks, Elsa," he said, gratefully.
+
+"How long have you thought that the schooner was a second 'one hoss shay'?"
+
+"Until this talk with you. I would never have thought anything else. It's the logical thing to think, isn't it? All my neighbors at Freekirk Head, except those who believe the evil they hear, have told me half a dozen times that that is what must have happened to the May. She had lived her life and that last great strain, combined with the race the week before, was too much for her. I simply could not explain those things happening."
+
+"Yes, but you can now, can't you?" she asked coolly.
+
+Reluctantly he faced the issue, but he faced it squarely.
+
+"Yes, I can. Nat expected me to sail the May in a race, so he weakened my topm'st and mainstay. Of course, when there is sport in it you set every kite you've got in your lockers and, you know, Elsa, I never took my mains'l in yet while there was one standing in the fleet, even ordinary fishing days."
+
+"I know it; you've scared me half to death a dozen times with your sail-carrying."
+
+"And mind, Elsa, I'd been warned by all the wiseacres in Freekirk Head that my sticks would carry away sometime in a gale o' wind. Nat banked on that, too, and it shows how clever he was, forever since the May sank I've had men tell me I shouldn't have carried four lowers that day.
+
+"He planned to weaken me where I needed sail most and he succeeded. Why, Elsa, that topm'st must have been sawed a quarter of the way through and that mainstay as much again. I don't really believe he did anything to the foregaff; it appeared to be the natural result of the topm'st's falling, but the damage he did resulted in the wreck of the schooner--"
+
+"And the death of his own father. Yes, Code, we've got him where he is probably the wretchedest man in the world. Fury and hurt pride made him injure the May so he would be sure to win the second time, and instead of that fate intervened, sent you on the cargo voyage, and killed his father. Now it is perfectly plain to me why he is charging you with all these crimes."
+
+"Why?"
+
+"Nat is a weak nature, because uncontrolled, and when weak natures do wrong they suffer agonies of fear that they will be found out. Nat committed this double crime in a momentary passion. Then as the weeks passed by and the village talked of nothing else, he finally began to fear that he would be found out.
+
+"There was no one who could have found him out, but there was that haunting terror of the weak nature.
+
+"Somebody spoke a word, perhaps in jest, that you must have wanted a new schooner since the May's policy was to run out so soon, and he seized the thought in a frenzy of joy and began to spread rumors. This grip on you gave him courage. He remembered that his revenge against you was still unsatisfied and it became clear to him that perhaps, after all, he could get one much more complete.
+
+"Code, the picture of that man's mind is a terrible one to me. He may have hated you before, but just think how he must have hated you after knowing how he had wronged and was going to ruin you. It is only the one of two people who does the injury whose hatred grows. An injured person who is sensible in regard to such matters, as you have been with Nat all your life, throws them off and thinks nothing more about them.
+
+"So Nat's hatred of you and the fear of discovery, preying on his mind, finally urged him into the course he has taken."
+
+"And he went into it with open eyes," rejoined Code, "for his plans were perfect. He pays his crew double wages and they ask no questions. Had it not been for you on two occasions I should have been in jail long before this."
+
+"Yes, but now that is past--"
+
+"No," interrupted Code, "it isn't, Elsa. He has just as much power over me as he ever had. I am still a criminal at large to be arrested, and you can wager your last dollar that if he can bring it about I will be picked up by the first gunboat that finds me."
+
+"But after all this?"
+
+"Yes, after all this. We have made a beautiful case against him and it fits, but, Elsa, there's one thing we haven't got, and that is a single word of proof! We haven't enough to even bring a charge against him. Do you realize that?"
+
+The girl sat back, unable to reply. Code had expressed the situation in a sentence. Despite all they had pieced together he, Code, was still the man against whom the burden of circumstantial evidence rested. Nat was, and always could go, scot free.
+
+"Code, this is terrible!" she said. "But there may be a way out yet. No man with the right on his side has ever failed to triumph, however black things looked."
+
+"But how?" he cried despairingly. "I have racked my brains for some means of closing the net about him, but there seems no way."
+
+"Now there is not," she returned, "but, Code, you can rest assured that I will do everything I can."
+
+"God bless you," he said, taking her hand; "you are the best friend a man ever had."

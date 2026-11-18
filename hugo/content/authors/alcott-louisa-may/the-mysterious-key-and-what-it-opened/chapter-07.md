@@ -1,0 +1,91 @@
+---
+title: "Chapter 7 - The Secret Key"
+weight: 7
+url: "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-07.html"
+---
+
+"Is Lady Trevlyn at home, Bedford?" asked Paul, as he presented himself at an early hour next day, wearing the keen, stern expression which made him look ten years older than he was.
+
+"No, sir, my lady and Miss Lillian went down to the Hall last night."
+
+"No ill news, I hope?" And the young man's eye kindled as if he felt a crisis at hand.
+
+"Not that I heard, sir. Miss Lillian took one of her sudden whims and would have gone alone, if my lady hadn't given in much against her will, this being a time when she is better away from the place."
+
+"Did they leave no message for me?"
+
+"Yes, sir. Will you step in and read the note at your ease. We are in sad confusion, but this room is in order."
+
+Leading the way to Lillian's boudoir, the man presented the note and retired. A few hasty lines from my lady, regretting the necessity of this abrupt departure, yet giving no reason for it, hoping they might meet next season, but making no allusion to seeing him at the Hall, desiring Lillian's thanks and regards, but closing with no hint of Helen, except compliments. Paul smiled as he threw it into the fire, saying to himself, "Poor lady, she thinks she has escaped the danger by flying, and Lillian tries to hide her trouble from me. Tender little heart! I'll comfort it without delay."
+
+He sat looking about the dainty room still full of tokens of her presence. The piano stood open with a song he liked upon the rack; a bit of embroidery, whose progress he had often watched, lay in her basket with the little thimble near it; there was a strew of papers on the writing table, torn notes, scraps of drawing, and ball cards; a pearl-colored glove lay on the floor; and in the grate the faded flowers he had brought two days before. As his eye roved to and fro, he seemed to enjoy some happy dream, broken too soon by the sound of servants shutting up the house. He arose but lingered near the table, as if longing to search for some forgotten hint of himself.
+
+"No, there has been enough lock picking and stealthy work; I'll do no more for her sake. This theft will harm no one and tell no tales." And snatching up the glove, Paul departed.
+
+"Helen, the time has come. Are you ready?" he asked, entering her room an hour later.
+
+"I am ready." And rising, she stretched her hand to him with a proud expression, contrasting painfully with her helpless gesture.
+
+"They have gone to the Hall, and we must follow. It is useless to wait longer; we gain nothing by it, and the claim must stand on such proof as we have, or fall for want of that one link. I am tired of disguise. I want to be myself and enjoy what I have won, unless I lose it all."
+
+"Paul, whatever happens, remember we cling together and share good or evil fortune as we always have done. I am a burden, but I cannot live without you, for you are my world. Do not desert me."
+
+She groped her way to him and clung to his strong arm as if it was her only stay. Paul drew her close, saying wistfully, as he caressed the beautiful sightless face leaning on his shoulder, "Mia cara, would it break your heart, if at the last hour I gave up all and let the word remain unspoken? My courage fails me, and in spite of the hard past I would gladly leave them in peace."
+
+"No, no, you shall not give it up!" cried Helen almost fiercely, while the slumbering fire of her southern nature flashed into her face. "You have waited so long, worked so hard, suffered so much, you must not lose your reward. You promised, and you must keep the promise."
+
+"But it is so beautiful, so noble to forgive, and return a blessing for a curse. Let us bury the old feud, and right the old wrong in a new way. Those two are so blameless, it is cruel to visit the sins of the dead on their innocent heads. My lady has suffered enough already, and Lillian is so young, so happy, so unfit to meet a storm like this. Oh, Helen, mercy is more divine than justice."
+
+Something moved Paul deeply, and Helen seemed about to yield, when the name of Lillian wrought a subtle change in her. The color died out of her face, her black eyes burned with a gloomy fire, and her voice was relentless as she answered, while her frail hands held him fast, "I will not let you give it up. We are as innocent as they; we have suffered more; and we deserve our rights, for we have no sin to expiate. Go on, Paul, and forget the sentimental folly that unmans you."
+
+Something in her words seemed to sting or wound him. His face darkened, and he put her away, saying briefly, "Let it be so then. In an hour we must go."
+
+On the evening of the same day, Lady Trevlyn and her daughter sat together in the octagon room at the Hall. Twilight was falling and candles were not yet brought, but a cheery fire blazed in the wide chimney, filling the apartment with a ruddy glow, turning Lillian's bright hair to gold and lending a tinge of color to my lady's pallid cheeks. The girl sat on a low lounging chair before the fire, her head on her hand, her eyes on the red embers, her thoughts - where? My lady lay on her couch, a little in the shadow, regarding her daughter with an anxious air, for over the young face a somber change had passed which filled her with disquiet.
+
+"You are out of spirits, love," she said at last, breaking the long silence, as Lillian gave an unconscious sigh and leaned wearily into the depths of her chair.
+
+"Yes, Mamma, a little."
+
+"What is it? Are you ill?"
+
+"No, Mamma; I think London gaiety is rather too much for me. I'm too young for it, as you often say, and I've found it out."
+
+"Then it is only weariness that makes you so pale and grave, and so bent on coming back here?"
+
+Lillian was the soul of truth, and with a moment's hesitation answered slowly, "Not that alone, Mamma. I'm worried about other things. Don't ask me what, please."
+
+"But I must ask. Tell me, child, what things? Have you seen any one? Had letters, or been annoyed in any way about - anything?"
+
+My lady spoke with sudden energy and rose on her arm, eyeing the girl with unmistakable suspicion and excitement.
+
+"No, Mamma, it's only a foolish trouble of my own," answered Lillian, with a glance of surprise and a shamefaced look as the words reluctantly left her lips.
+
+"Ah, a love trouble, nothing more? Thank God for that!" And my lady sank back as if a load was off her mind. "Tell me all, my darling; there is no confidante like a mother."
+
+"You are very kind, and perhaps you can cure my folly if I tell it, and yet I am ashamed," murmured the girl. Then yielding to an irresistible impulse to ask help and sympathy, she added, in an almost inaudible tone, "I came away to escape from Paul."
+
+"Because he loves you, Lillian?" asked my lady, with a frown and a half smile.
+
+"Because he does not love me, Mamma." And the poor girl hid her burning cheeks in her hands, as if overwhelmed with maidenly shame at the implied confession of her own affection.
+
+"My child, how is this? I cannot but be glad that he does not love you; yet it fills me with grief to see that this pains you. He is not a mate for you, Lillian. Remember this, and forget the transient regard that has sprung up from that early intimacy of yours."
+
+"He is wellborn, and now my equal in fortune, and oh, so much my superior in all gifts of mind and heart," sighed the girl, still with hidden face, for tears were dropping through her slender fingers.
+
+"It may be, but there is a mystery about him; and I have a vague dislike to him in spite of all that has passed. But, darling, are you sure he does not care for you? I fancied I read a different story in his face, and when you begged to leave town so suddenly, I believed that you had seen this also, and kindly wished to spare him any pain."
+
+"It was to spare myself. Oh, Mamma, he loves Helen, and will marry her although she is blind. He told me this, with a look I could not doubt, and so I came away to hide my sorrow," sobbed poor Lillian in despair.
+
+Lady Trevlyn went to her and, laying the bright head on her motherly bosom, said soothingly as she caressed it, "My little girl, it is too soon for you to know these troubles, and I am punished for yielding to your entreaties for a peep at the gay world. It is now too late to spare you this; you have had your wish and must pay its price, dear. But, Lillian, call pride to aid you, and conquer this fruitless love. It cannot be very deep as yet, for you have known Paul, the man, too short a time to be hopelessly enamored. Remember, there are others, better, braver, more worthy of you; that life is long, and full of pleasure yet untried."
+
+"Have no fears for me, Mamma. I'll not disgrace you or myself by any sentimental folly. I do love Paul, but I can conquer it, and I will. Give me a little time, and you shall see me quite myself again."
+
+Lillian lifted her head with an air of proud resolve that satisfied her mother, and with a grateful kiss stole away to ease her full heart alone. As she disappeared Lady Trevlyn drew a long breath and, clasping her hands with a gesture of thanksgiving, murmured to herself in an accent of relief, "Only a love sorrow! I feared it was some new terror like the old one. Seventeen years of silence, seventeen years of secret dread and remorse for me," she said, pacing the room with tightly locked hands and eyes full of unspeakable anguish. "Oh, Richard, Richard! I forgave you long ago, and surely I have expiated my innocent offense by these years of suffering! For her sake I did it, and for her sake I still keep dumb. God knows I ask nothing for myself but rest and oblivion by your side."
+
+Half an hour later, Paul stood at the hall door. It was ajar, for the family had returned unexpectedly, as was evident from the open doors and empty halls. Entering unseen, he ascended to the room my lady usually occupied. The fire burned low, Lillian's chair was empty, and my lady lay asleep, as if lulled by the sighing winds without and the deep silence that reigned within. Paul stood regarding her with a great pity softening his face as he marked the sunken eyes, pallid cheeks, locks too early gray, and restless lips muttering in dreams.
+
+"I wish I could spare her this," he sighed, stooping to wake her with a word. But he did not speak, for, suddenly clutching the chain about her neck, she seemed to struggle with some invisible foe and beat it off, muttering audibly as she clenched her thin hands on the golden case. Paul leaned and listened as if the first word had turned him to stone, till the paroxysm had passed, and with a heavy sigh my lady sank into a calmer sleep. Then, with a quick glance over his shoulder, Paul skillfully opened the locket, drew out the silver key, replaced it with one from the piano close by, and stole from the house noiselessly as he had entered it.
+
+That night, in the darkest hour before the dawn, a figure went gliding through the shadowy Park to its most solitary corner. Here stood the tomb of the Trevlyns, and here the figure paused. A dull spark of light woke in its hand, there was a clank of bars, the creak of rusty hinges, then light and figure both seemed swallowed up.
+
+Standing in the tomb where the air was close and heavy, the pale glimmer of the lantern showed piles of moldering coffins in the niches, and everywhere lay tokens of decay and death. The man drew his hat lower over his eyes, pulled the muffler closer about his mouth, and surveyed the spot with an undaunted aspect, though the beating of his heart was heard in the deep silence. Nearest the door stood a long casket covered with black velvet and richly decorated with silver ornaments, tarnished now. The Trevlyns had been a stalwart race, and the last sleeper brought there had evidently been of goodly stature, for the modern coffin was as ponderous as the great oaken beds where lay the bones of generations. Lifting the lantern, the intruder brushed the dust from the shield-shaped plate, read the name RICHARD TREVLYN and a date, and, as if satisfied, placed a key in the lock, half-raised the lid, and, averting his head that he might not see the ruin seventeen long years had made, he laid his hand on the dead breast and from the folded shroud drew a mildewed paper. One glance sufficed, the casket was relocked, the door rebarred, the light extinguished, and the man vanished like a ghost in the darkness of the wild October night.

@@ -1,0 +1,71 @@
+---
+title: "Book 1 - Chapter 15"
+weight: 15
+url: "/authors/london-jack/valley-of-the-moon/book-01-chapter-15.html"
+---
+
+"Why, Bert!--you're squiffed!" Mary cried reproachfully.
+
+The four were at the table in the private room at Barnum's. The wedding supper, simple enough, but seemingly too expensive to Saxon, had been eaten. Bert, in his hand a glass of California red wine, which the management supplied for fifty cents a bottle, was on his feet endeavoring a speech. His face was flushed; his black eyes wers feverishly bright.
+
+"You've ben drinkin' before you met me," Mary continued. "I can see it stickin' out all over you."
+
+"Consult an oculist, my dear," he replied. "Bertram is himself to-night. An' he is here, arisin' to his feet to give the glad hand to his old pal. Bill, old man, here's to you. It's how-de-do an' good-bye, I guess. You're a married man now, Bill, an' you got to keep regular hours. No more runnin' around with the boys. You gotta take care of yourself, an' get your life insured, an' take out an accident policy, an' join a buildin' an' loan society, an' a buryin' association--"
+
+"Now you shut up, Bert," Mary broke in. "You don't talk about buryin's at weddings. You oughta be ashamed of yourself."
+
+"Whoa, Mary! Back up! I said what I said because I meant it. I ain't thinkin' what Mary thinks. What I was thinkin' ... Let me tell you what I was thinkin'. I said buryin' association, didn't I? Well, it was not with the idea of castin' gloom over this merry gatherin'. Far be it..."
+
+He was so evidently seeking a way out of his predicament, that Mary tossed her head triumphantly. This acted as a spur to his reeling wits.
+
+"Let me tell you why," he went on. "Because, Bill, you got such an all-fired pretty wife, that's why. All the fellows is crazy over her, an' when they get to runnin' after her, what'll you be doin'? You'll be gettin' busy. And then won't you need a buryin' association to bury 'em? I just guess yes. That was the compliment to your good taste in skirts I was tryin' to come across with when Mary butted in."
+
+His glittering eyes rested for a moment in bantering triumph on Mary.
+
+"Who says I'm squiffed? Me? Not on your life. I'm seein' all things in a clear white light. An' I see Bill there, my old friend Bill. An' I don't see two Bills. I see only one. Bill was never two-faced in his life. Bill, old man, when I look at you there in the married harness, I'm sorry--" He ceased abruptly and turned on Mary. "Now don't go up in the air, old girl. I'm onto my job. My grandfather was a state senator, and he could spiel graceful an' pleasin' till the cows come home. So can I.--Bill, when I look at you, I'm sorry. I repeat, I'm sorry. He glared challengingly at Mary. "For myself when I look at you an' know all the happiness you got a hammerlock on. Take it from me, you're a wise guy, bless the women. You've started well. Keep it up. Marry 'em all, bless 'em. Bill, here's to you. You're a Mohegan with a scalplock. An' you got a squaw that is some squaw, take it from me. Minnehaha, here's to you--to the two of you--an' to the papooses, too, gosh-dang them!"
+
+He drained the glass suddenly and collapsed in his chair, blinking his eyes across at the wedded couple while tears trickled unheeded down his cheeks. Mary's hand went out soothingly to his, completing his break-down.
+
+"By God, I got a right to cry," he sobbed. "I'm losin' my best friend, ain't I? It'll never be the same again never. When I think of the fun, an' scrapes, an' good times Bill an' me has had together, I could darn near hate you, Saxon, sittin' there with your hand in his."
+
+"Cheer up, Bert," she laughed gently. "Look at whose hand you are holding."
+
+"Aw, it's only one of his cryin' jags," Mary said, with a harshness that her free hand belied as it caressed his hair with soothing strokes. "Buck up, Bert. Everything's all right. And now it's up to Bill to say something after your dandy spiel."
+
+Bert recovered himself quickly with another glass of wine.
+
+"Kick in, Bill," he cried. "It's your turn now."
+
+"I'm no hotair artist," Billy grumbled. "What'll I say, Saxon? They ain't no use tellin' 'em how happy we are. They know that."
+
+"Tell them we're always going to he happy," she said. "And thank them for all their good wishes, and we both wish them the same. And we're always going to be together, like old times, the four of us. And tell them they're invited down to 507 Pine Street next Sunday for Sunday dinner.--And, Mary, if you want to come Saturday night you can sleep in the spare bedroom."
+
+"You've told'm yourself, better'n I could." Billy clapped his hands. "You did yourself proud, an' I guess they ain't much to add to it, but just the same I'm goin' to pass them a hot one."
+
+He stood up, his hand on his glass. His clear blue eyes under the dark brows and framed by the dark lashes, seemed a deeper blue, and accentuated the blondness of hair and skin. The smooth cheeks were rosy--not with wine, for it was only his second glass--but with health and joy. Saxon, looking up at him, thrilled with pride in him, he was so well-dressed, so strong, so handsome, so clean-looking--her man-boy. And she was aware of pride in herself, in her woman's desirableness that had won for her so wonderful a lover.
+
+"Well, Bert an' Mary, here you are at Saxon's and my wedding supper. We're just goin' to take all your good wishes to heart, we wish you the same back, and when we say it we mean more than you think we mean. Saxon an' I believe in tit for tat. So we're wishin' for the day when the table is turned clear around an' we're sittin' as guests at your weddin' supper. And then, when you come to Sunday dinner, you can both stop Saturday night in the spare bedroom. I guess I was wised up when I furnished it, eh?"
+
+"I never thought it of you, Billy!" Mary exclaimed. "You're every hit as raw as Bert. But just the same ... "
+
+There was a rush of moisture to her eyes. Her voice faltered and broke. She smiled through her tears at them, then turned to look at Bert, who put his arm around her and gathered her on to his knees.
+
+When they left the restaurant, the four walked to Eighth and Broadway, where they stopped beside the electric car. Bert and Billy were awkward and silent, oppressed by a strange aloofness. But Mary embraced Saxon with fond anxiousness.
+
+"It's all right, dear," Mary whispered. "Don't be scared. It's all right. Think of all the other women in the world."
+
+The conductor clanged the gong, and the two couples separated in a sudden hubbub of farewell.
+
+"Oh, you Mohegan!" Bert called after, as the car got under way. "Oh, you Minnehaha!"
+
+"Remember what I said," was Mary's parting to Saxon.
+
+The car stopped at Seventh and Pine, the terminus of the line. It was only a little over two blocks to the cottage. On the front steps Billy took the key from his pocket.
+
+"Funny, isn't it?" he said, as the key turned in tlie lock. "You an' me. Just you an' me."
+
+While he lighted the lamp in the parlor, Saxon was taking off her hat. He went into the bedroom and lighted the lamp there, then turned back and stood in the doorway. Saxon, still unaccountably fumbling with her hatpins, stole a glance at him. He held out his arms.
+
+"Now," he said.
+
+She came to him, and in his arms he could feel her trembling.

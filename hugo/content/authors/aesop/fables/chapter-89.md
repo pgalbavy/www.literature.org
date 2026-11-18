@@ -1,0 +1,7 @@
+---
+title: "The Two Pots"
+weight: 91
+url: "/authors/aesop/fables/chapter-89.html"
+---
+
+A RIVER carried down in its stream two Pots, one made of earthenware and the other of brass. The Earthen Pot said to the Brass Pot, "Pray keep at a distance and do not come near me, for if you touch me ever so slightly, I shall be broken in pieces, and besides, I by no means wish to come near you." Equals make the best friends.

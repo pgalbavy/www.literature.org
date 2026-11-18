@@ -1,0 +1,37 @@
+---
+title: "Chapter 8 - Spreading The News"
+weight: 8
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-08.html"
+---
+
+When Freddie Firefly reached the swamp he found that the singing party had already broken up. But luckily, Mr. Frog the tailor was the last one to leave. He was still poised on the bank of the sluggish stream, ready to plunge into the water and swim away, when Freddie Firefly dropped down upon a cat-tail and called him by name, flashing his light frantically so that Mr. Frog would be sure to notice him.
+
+"Wait a moment!" cried Freddie. "I've something to say to you!"
+
+"Out with it, then!" said Mr. Frog. "My time is valuable, you know. I ought to be back in my shop this moment; for I promised Paddy Muskrat I'd make him a policeman's uniform by to-morrow morning. And I haven't begun it yet."
+
+"Why not?" asked Freddie, forgetting--for the moment--his own errand.
+
+"He wants brass buttons," explained the tailor. "And I couldn't get any until to-night."
+
+"But couldn't you go ahead without them?" Freddie Firefly inquired.
+
+"Certainly not!" replied Mr. Frog. "I see you don't know much about making a policeman's suit. You start by laying the buttons in a row on the ground; and then you sew the cloth onto them.... That's my own invention--that method," he added with an air of pride. "And now, what was it you wanted to say to me?"
+
+"I don't believe there's any use of my telling you, after all," Freddie Firefly replied. "You're going to be so busy that you won't have time to do an errand for me. I wanted you to give Mr. Crow a message."
+
+"Yes--I'll be altogether too rushed to bother with it," said Mr. Frog. "I expect to be on the jump all night--and most of to-morrow, too."
+
+"This message," Freddie Firefly went on, "was something about Kiddie Katydid. I found out his secret to-night. And I thought Mr. Crow ought to know about it."
+
+Now, Mr. Frog was all ready to leap into the water. But when Freddie said that, the tailor promptly changed his mind.
+
+"Kiddie Katydid's secret!" he repeated in a tone of amazement. "You don't mean to say you've discovered what it was that Katy did?"
+
+"Never mind!" said Freddie. "I don't want to trouble you, Mr. Frog. I know you're too busy to bother your head with such things."
+
+"Tut, tut, young man!" Mr. Frog cried. "I see you have something important to tell me. And since that is the case, I'll manage somehow to deliver your message to Mr. Crow, even if I have to disappoint a customer. _Always oblige a friend!_ That's my motto!" said Mr. Frog.
+
+"Very well, then!" Freddie Firefly replied. "I'll say what I was going to; but it doesn't concern that Katy person you just mentioned."
+
+"Oh, it doesn't," the tailor echoed. "Then I don't know that I care to listen to you, after all. I thought you were going to explain about that mysterious lady that Kiddie's always singing about." He was sadly disappointed. And once more he turned toward the creek.

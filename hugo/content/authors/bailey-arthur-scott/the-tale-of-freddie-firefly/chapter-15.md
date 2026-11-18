@@ -1,0 +1,37 @@
+---
+title: "Chapter 15 - The Fat Lady's Secret"
+weight: 15
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-15.html"
+---
+
+Somehow, the longer Freddie Firefly talked with Jennie Junebug, the more he wished that he might fly off and leave her there in the meadow. But he had just the same as told her that he would be glad to fly with her. And he really didn't see how he could escape that unpleasant duty.
+
+"Well, we may as well move on," he said at last. "Where were you going when we ran into each other?"
+
+"Oh, nowhere in particular!" she answered. "Where were YOU going?"
+
+Freddie Firefly had to bite his lip to keep from telling her that he had been on his way to a family party in the hollow beyond the hill. He certainly didn't want to go there in the company of that strange fat lady.
+
+"I WAS going over the hill," he faltered at last. "But I'd rather stay here in the meadow with you."
+
+"How nice of you to say that!" Jennie Junebug murmured. "And now let's begin flying at once!" she said.
+
+So they rose into the air. But they hadn't flown more than a few feet when Jennie once more banged squarely into her companion.
+
+It was a terrific blow. And Freddie Firefly soon found himself lying flat on the ground. He was so nearly stunned that he scarcely knew what had happened.
+
+"What fun!" the fat lady gurgled right in his ear, with a horrible laugh. "Come! Let's do it again!"
+
+"Do it again!" Freddie Firefly repeated after her, as a sudden fear gripped him. "Do you mean to tell me that you ran into me ON PURPOSE?" "Why, certainly!" she replied. "Running into a light is more than half the fun of flying."
+
+Her terrible secret was out at last. If Freddie Firefly had been older and wiser he would have known, in the beginning, that his first collision with the fat lady was no accident. The whole Junebug family were alike in one respect: preferring to fly at night, whenever they saw a light anywhere they made straight for it as fast as they could fly. Sometimes they landed with a crash against one of the farmhouse windows. Sometimes they struck the lantern, if Farmer Green happened to be carrying it across the farmyard. It really made little difference to a Junebug what he--or she--hit, so long as it gleamed brightly out of the night.
+
+Well, Freddie Firefly saw at last that he was in a terrible fix. He knew now why Jennie Junebug had asked him to fly with her. It was on account of his flashing light! And the dreadful creature actually expected him to fly for her so that she might have the pleasure of bowling him over every time he rose into the air.
+
+Such a practice was disagreeable, to say the least. Indeed, Freddie Firefly thought it was positively dangerous, for him.
+
+"Come! Come!" Jennie Junebug urged him playfully, even while he lay on the ground trying to get his breath. "If you don't hurry and fly some more I shall knock you over right where you are!"
+
+Freddie Firefly answered her with a faint moan. He couldn't run away from her. So he thought of hiding. But he had promised to fly with her. And she was a lady.
+
+What could he do?

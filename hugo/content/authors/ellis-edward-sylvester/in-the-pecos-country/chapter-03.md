@@ -1,0 +1,67 @@
+---
+title: "Chapter 3 - Fred Goes On Guard"
+weight: 3
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-03.html"
+---
+
+Mickey O'Rooney, fully believing the warning of the hunter, could not but feel deeply anxious for the safety of himself and those around him. He was particularly concerned for his young friend, Fred Munson, who had been committed to his charge.
+
+"It's myself that is the only one he has to look after him, and if I does n't attend to my dooty, there's no telling what may become of it, and be the same towken, I can't say what'll become of him if I *does* attend to the same. Whisht! there."
+
+The last exclamation was uttered to Caleb Barnwell, whom he approached at that moment. The leader stepped aside a few minutes, and they conferred together. The Irishman impressed upon the leader the warning he had received from the hunter, and Barnwell admitted that there might be grounds for the fear, but he added that he was doing all he could to guard against it. At Mickey's suggestion, he sent two of his most trustworthy men to the woods to keep watch, while a third was stationed on some elevated ground beyond, where he commanded an extensive view of the surrounding prairie. As this was to be a permanent arrangement, it would seem that he had taken all reasonable precautions. Not a suspicious sign was seen through the day.
+
+When night came, the two men were called in, and Mickey O'Rooney, Fred Munson, and a man named Thompson went on duty. As two was the regular number at night, it will be seen that the boy was an extra.
+
+"We're to come in at one o'clock," he said, in reply to the remonstrance of his friend, "and I'm sure I can keep awake that long. I believe the Indians will be around to-night, and I won't be able to sleep if I go into the wagon."
+
+Mickey had not yet learned how to refuse the boy, and so he took him along.
+
+Thompson was a powerful, stalwart man, who had joined the party in Nebraska, and who was supposed to have considerable knowledge of the frontier and its ways. He had proved himself a good shot, and, on more than one occasion, had displayed such coolness and self-possession in critical moments, that he was counted one of the most valuable men in the entire company.
+
+The sentinels were stationed on the other side of the wood, Mickey at one corner, Thompson at another, with Fred about half way between, something like a hundred yards separating them from each other.
+
+It must be said that, so far as it was possible, Fred Munson was furnished with every advantage that he could require. He had a rifle suited to his size and strength, but it was one of the best ever made, and long-continued and careful practice had made him quite skillful in handling it. Besides this, both he and Mickey were provided each with the fleetest and most intelligent mustang that money could purchase, and when mounted and with a fair field before them, they had little to fear from the pursuit of the Apaches and Comanches.
+
+But it is the Indian's treacherous, cat-like nature that makes him so dangerous, and against his wonderful cunning all the precautions of the white men are frequently in vain.
+
+"Now, Fred," said Mickey, after they had left Thompson, as he was on the point of leaving the boy, "I don't feel exactly aisy 'bout laving you here, as me mother used to observe when she wint out from the house, while I remained behind with the vittles. If one of the spalpeens should slip up and find you asleep, he'd never let you wake up."
+
+"You need n't be afraid of my going to sleep," replied Fred, in a voice of self-confidence. "I know what the danger is too well."
+
+With a few more words they separated, and each took his station, the Irishman somewhat consoled by the fact that from where he stood he was able, he believed, to cover the position of the lad.
+
+The moon overhead was gibbous, and there were no clouds in the sky. Thompson's place was such that he was close to the river, which flowed on his right, and he had that stream and the prairie in his front at his command. Mickey O'Rooney, being upon the extreme left, was enabled to range his eye up the valley to the crest of the slope, so that he was confident he could detect any insidious approach from that direction. Down the valley, on the other side of the settlement, were placed a couple of other sentinels, so that New Boston, on that memorable night, was well guarded.
+
+The position of Fred Munson, it will be understood, was apparently the least important, as it was commanded by the other two, but the lad felt as if the lives of the entire company were placed in his hands.
+
+"Talk of my going to sleep," he repeated, as soon as he found himself alone. "I can stand or sit here till daylight, and wink less times than either Thompson or Mickey."
+
+As every boy feels this way a short time before going to sleep, no one who might have overheard Fred's boast would have been over-persuaded thereby. Before him stretched the sloping valley of the Rio Pecos. Glancing to the right, he could just catch the glimmer of the river as it flowed by in the moonlight, the banks being low and not wooded, while looking straight up the valley, his vision was bounded only by darkness itself. Carefully running his eye over the ground, he was confident that the slyest and most stealthy Indian that ever lived could not approach within a hundred feet of him without detection.
+
+"And the minute I'm certain its a red-skin, that minute I'll let him have it," he added, instinctively grasping his rifle. "A boy need n't be as old as I am to learn that it won't do to fool with such dogs as they are."
+
+The grove which was guarded in this manner, it will be understood, was nearly square in shape, reaching from the shore of the Rio Pecos on toward the left until the termination of the valley in that direction had been gained. It had been so plentifully drawn upon for logs and lumber that here and there were spaces from which, several trees having been cut, the moon's rays found unobstructed entrance. One of these oasis, as they may be termed, was directly in the rear of Fred, who noticed it while reconnoitering his position. The open space was some twenty feet square, and was bisected by the trunk of a large cottonwood, which had fallen directly across it.
+
+Being left entirely to himself, the boy now devoted himself to the somewhat dismal task of keeping watch, an occupation that cannot be classed as the most cheerful in which a man may engage. The excitement and apprehension that marked the first two or three hours prevented the time from hanging too heavily upon his hands, but as the night stole along and nothing was heard or seen to cause alarm, the fear grew less and less, until, like a boy, he began to suspect that all these precautions were useless.
+
+For the twentieth time he stood up and listened. The soft, musical murmur of the Rio Pecos was heard, as it flowed by on his right, and now and then the gentlest possible breath of night-wind disturbed the branches overhead; but nothing else caught his notice. To prevent the feeling of utter loneliness from gaining possession of him, Fred occasionally emitted a low, soft, tremulous whistle, which was instantly responded to from the direction of Mickey. It was the old familiar signal which they had used many a time when off on their little hunting expeditions, and either, hearing it, could not mistake its source. But this grew wearisome at last, and he leaned back against a tree, looking out upon the moonlit valley beyond, where nothing as yet had caught his eye that looked in the least suspicious, and where everything still appeared as silent as a graveyard.
+
+"I don't believe there are any Indians within fifty miles," he muttered, impatiently; "and yet we must have three or four men on the look-out till morning. Well, I s'pose it's the only safe thing to do, and I'm bound to stick it out till one o'clock. It must be near midnight now, and if Mickey should come around here, an hour from now, and find me asleep, I never would hear the last of it."
+
+He felt very much like sitting down upon the ground, but he knew if he did that he would be sure to fall asleep, while, as long as he kept his feet, he was sure to retain his senses. When disposed to become too drowsy, a sudden giving away at the knees recalled him so vigorously, that it was a considerable time before the drowsiness crept over him again.
+
+Thus the night advanced, until all at once, Fred aroused himself as if a sharp pin had been thrust in him.
+
+"By George! I heard something then!" he exclaimed, in an excited undertone, looking sharply about him; "but I don't know where it came from."
+
+His impression was that it came from some point directly before him out on the open space; but the most rigid scrutiny failed to reveal the cause. There was the level stretch of grass, unbroken by stone or shrub, but nothing that could be tortured into the remotest resemblance to a human figure.
+
+"It can't be there," he muttered; "or if it was, it do n't amount—"
+
+His senses were aroused to the highest pitch, and he was all attention.
+
+Just as the thoughts were running through his head, he caught the slightest possible rustle from some point behind him. He turned his head like lightning, and looked and listened. He could dimly discern the open moonlit space to which reference has already been made; but the intervening trees and undergrowth prevented anything like a satisfactory view.
+
+"There's where it seemed to come from," he said, to himself; "and yet I do n't see how an Indian could have got there without our finding it out. Maybe it was n't anything, after all."
+
+He waited and listened awhile longer, but no more. Anxious to learn what it all meant, he began a cautious movement toward the open space, for the purpose of finding out.

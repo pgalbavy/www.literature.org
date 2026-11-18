@@ -1,0 +1,73 @@
+---
+title: "Chapter 3 - A Genius"
+weight: 3
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-03.html"
+---
+
+*HAVING PROGRESSED* thus far in our story, or properly having began in the middle, it is now necessary that we should turn back to the proper starting point.
+
+Several years since a widow woman resided in the outskirts of St. Louis, whose name was Brainerd. Her husband had been a mechanic, noted for his ingenuity, but was killed some five years before by the explosion of a steam boiler. He left behind him a son, hump-backed, dwarfed, but with an amiable disposition that made him a favorite with all with whom he came in contact.
+
+If nature afflicts in one direction she frequently makes amends in another direction, and this dwarf, small and misshapen as he was, was gifted with a most wonderful mind. His mechanical ingenuity bordered on the marvelous. When he went to school, he was a general favorite with teachers and pupils. The former loved him for his sweetness of disposition, and his remarkable proficiency in all studies, while the latter based their affection chiefly upon the fact that he never refused to assist any of them at their tasks, while with the pocket-knife which he carried he constructed toys which were their delight. Some of these were so curious and amusing that, had they been securer by letters patent, they would have brought a competency to him and his widowed mother.
+
+But Johnny never thought of patenting them, although the principal support of himself and mother came from one or two patents, which his father had secured upon inventions, not near the equal of his.
+
+There seemed no limit to his inventive powers. He made a locomotive and then a steamboat, perfect in every part, even to the minutest, using nothing but his knife, hammer, and a small chisel. He constructed a clock with his jack-knife, which kept perfect time, and the articles which he made were wonderfully stared at at fairs, and in show windows, while Johnny modestly pegged away at some new idea. He became a master of the art of telegraphy without assistance from any one using merely a common school philosophy with which to acquire the alphabet. He then made a couple of batteries, ran a line from his window to a neighbor's, insulating it by means of the necks of some bottles, taught the other boy the alphabet, and thus they amused themselves sending messages back and forth.
+
+Thus matters progressed until he was fifteen years of age, when he came home one day, and lay down on the settee by his mother, and gave a great sigh.
+
+'What is the matter?' she inquired. 'I want to make something.'
+
+'Why, then, don't you make it?'
+
+'Because I don't know what it shall be; I've fixed up everything I can think of.'
+
+'And you are like Alexander, sighing for more worlds to conquer. Is that it?'
+
+'Not exactly, for there is plenty for one to do, if I could only find out what it is.'
+
+'Have you ever made a balloon?' The boy laughed.
+
+'You were asking for the cat the other day, and wondering what had become of her. I didn't tell you that the last I saw of her was through the telescope, she being about two miles up in the clouds, and going about fifty miles an hour.'
+
+'I thought you looked as though you knew something about her,' replied the mother, trying to speak reprovingly, and yet smiling in spite of herself.
+
+'Can't you tell me something to make?' finally asked the boy.
+
+'Yes; there is something I have often thought of, and wonder why it was not made long ago; but you are not smart enough to do it, Johnny.'
+
+'Maybe not; but tell me what it is.'
+
+'It is a man that shall go by steam!' The boy lay still several minutes without speaking a word and then sprung up. 'By George! I'll do it!' And he started out of the room, and was not seen again until night. His mother felt no anxiety. She was pleased; for, when her boy was at work, he was happy, and she knew that he had enough now, to keep him engaged for months to come.
+
+So it proved. He spent several weeks in thought, before he made the first effort toward constructing his greatest success of all. He then enlarged his workshop, and so arranged it, that he would not be in danger of being seen by any curious eyes. He wanted no disturbance while engaged upon this scheme.
+
+From a neighboring foundry, whose proprietor took great interest in the boy, he secured all that he needed. He was allowed full liberty to make what castings he chose, and to construct whatever he wished. And so he began his work.
+
+The great point was to obtain the peculiar motion of a man walking. This secured, the man himself could be easily made, and dressed up in any style required. Finally the boy believed that he had hit upon the true scheme.
+
+So he plied harder than ever, scarcely pausing to take his meals. Finally he got the machine together, fired up, and with feelings somewhat akin to those, of Sir Isaac Newton, when demonstrating the truth or falsity of some of his greatest discoveries, he watched the result.
+
+Soon the legs begin moving up and down, but never a step did they advance! The power was there, sufficient to run a saw-mill, every thing seemed to work, but the thing wouldn't go!
+
+The boy was not ready to despair. He seated himself on the bench beside the machine, and keeping up a moderate supply of steam, throwing in bits of wood, and letting in water, when necessary, he carefully watched the movement for several hours.
+
+Occasionally, Johnny walked slowly back and forth, and with his eyes upon the 'stately stepping,' endeavored to discover the precise nature of that which was lacking in his machine.
+
+At length it came to him. He saw from the first that it was not merely required that the steam man should lift up its feet and put them down again, but there must be a powerful forward impulse at the same moment. This was the single remaining difficulty to be overcome. It required two weeks before Johnny Brainerd succeeded. But it all came clear and unmistakable at last, and in this simple manner:
+
+(Ah! but we cannot be so unjust to the plodding genius as to divulge his secret. Our readers must be content to await the time when the young man sees fit to reveal it himself.)
+
+When the rough figure was fairly in working order, the inventor removed everything from around it, so that it stood alone in the center of his shop. Then he carefully let on steam.
+
+Before he could shut it off, the steam man walked clean through the side of his shop, and fetched up against the corner of the house, with a violence that shook it to its foundation. In considerable trepidation, the youngster dashed forward, shut off steam, and turned it round. As it was too cumbersome for him to manage in any other way, he very cautiously let on steam again, and persuaded it to walk back into the shop, passing through the same orifice through which it had emerged, and came very nigh going out on the opposite side again.
+
+The great thing was now accomplished, and the boy devoted himself to bringing it as near perfection as possible. The principal thing to be feared was its getting out of order, since the slightest disarrangement would be sufficient to stop the progress of the man.
+
+Johnny therefore made it of gigantic size, the body and limbs being no more than 'Shells,' used as a sort of screen to conceal the working of the engine. This was carefully painted in the manner mentioned in another place, and the machinery was made as strong and durable as it was possible for it to be. It was so constructed as to withstand the severe jolting to which it necessarily would be subjected, and finally was brought as nearly perfect as it was possible to bring a thing not possessing human intelligence.
+
+By suspending the machine so that Its feet were clear of the floor, Johnny Brainerd ascertained that under favorable circumstances It could run very nearly sixty miles an hour. It could easily do that, and draw a car connected to it on the railroad, while on a common road it could make thirty miles, the highest rate at which he believed it possible for a wagon to be drawn upon land with any degree of safety.
+
+It was the boy's intention to run at twenty miles an hour, while where everything was safe, he would demonstrate the power of the invention by occasionally making nearly double that.
+
+As it was, he rightly calculated that when it came forth, it would make a great sensation throughout the entire United States.

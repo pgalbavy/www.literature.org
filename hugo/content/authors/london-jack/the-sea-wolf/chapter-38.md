@@ -1,0 +1,101 @@
+---
+title: "Chapter 38"
+weight: 38
+url: "/authors/london-jack/the-sea-wolf/chapter-38.html"
+---
+
+"I think my left side is going," Wolf Larsen wrote, the morning after his attempt to fire the ship. "The numbness is growing. I can hardly move my hand. You will have to speak louder. The last lines are going down."
+
+"Are you in pain?" I asked.
+
+I was compelled to repeat my question loudly before he answered:
+
+"Not all the time."
+
+The left hand stumbled slowly and painfully across the paper, and it was with extreme difficulty that we deciphered the scrawl. It was like a "spirit message," such as are delivered at seances of spiritualists for a dollar admission.
+
+"But I am still here, all here," the hand scrawled more slowly and painfully than ever.
+
+The pencil dropped, and we had to replace it in the hand.
+
+"When there is no pain I have perfect peace and quiet. I have never thought so clearly. I can ponder life and death like a Hindoo sage."
+
+"And immortality?" Maud queried loudly in the ear.
+
+Three times the hand essayed to write but fumbled hopelessly. The pencil fell. In vain we tried to replace it. The fingers could not close on it. Then Maud pressed and held the fingers about the pencil with her own hand and the hand wrote, in large letters, and so slowly that the minutes ticked off to each letter:
+
+"B-O-S-H."
+
+It was Wolf Larsen's last word, "bosh," sceptical and invincible to the end. The arm and hand relaxed. The trunk of the body moved slightly. Then there was no movement. Maud released the hand. The fingers spread slightly, falling apart of their own weight, and the pencil rolled away.
+
+"Do you still hear?" I shouted, holding the fingers and waiting for the single pressure which would signify "Yes." There was no response. The hand was dead.
+
+"I noticed the lips slightly move," Maud said.
+
+I repeated the question. The lips moved. She placed the tips of her fingers on them. Again I repeated the question. "Yes," Maud announced. We looked at each other expectantly.
+
+"What good is it?" I asked. "What can we say now?"
+
+"Oh, ask him - "
+
+She hesitated.
+
+"Ask him something that requires no for an answer," I suggested. "Then we will know for certainty."
+
+"Are you hungry?" she cried.
+
+The lips moved under her fingers, and she answered, "Yes."
+
+"Will you have some beef?" was her next query.
+
+"No," she announced.
+
+"Beef-tea?"
+
+"Yes, he will have some beef-tea," she said, quietly, looking up at me. "Until his hearing goes we shall be able to communicate with him. And after that - "
+
+She looked at me queerly. I saw her lips trembling and the tears swimming up in her eyes. She swayed toward me and I caught her in my arms.
+
+"Oh, Humphrey," she sobbed, "when will it all end? I am so tired, so tired."
+
+She buried her head on my shoulder, her frail form shaken with a storm of weeping. She was like a feather in my arms, so slender, so ethereal. "She has broken down at last," I thought. "What can I do without her help?"
+
+But I soothed and comforted her, till she pulled herself bravely together and recuperated mentally as quickly as she was wont to do physically.
+
+"I ought to be ashamed of myself," she said. Then added, with the whimsical smile I adored, "but I am only one, small woman."
+
+That phrase, the "one small woman," startled me like an electric shock. It was my own phrase, my pet, secret phrase, my love phrase for her.
+
+"Where did you get that phrase?" I demanded, with an abruptness that in turn startled her.
+
+"What phrase?" she asked.
+
+"One small woman."
+
+"Is it yours?" she asked.
+
+"Yes," I answered. "Mine. I made it."
+
+"Then you must have talked in your sleep," she smiled.
+
+The dancing, tremulous light was in her eyes. Mine, I knew, were speaking beyond the will of my speech. I leaned toward her. Without volition I leaned toward her, as a tree is swayed by the wind. Ah, we were very close together in that moment. But she shook her head, as one might shake off sleep or a dream, saying:
+
+"I have known it all my life. It was my father's name for my mother."
+
+"It is my phrase too," I said stubbornly.
+
+"For your mother?"
+
+"No," I answered, and she questioned no further, though I could have sworn her eyes retained for some time a mocking, teasing expression.
+
+With the foremast in, the work now went on apace. Almost before I knew it, and without one serious hitch, I had the mainmast stepped. A derrick-boom, rigged to the foremast, had accomplished this; and several days more found all stays and shrouds in place, and everything set up taut. Topsails would be a nuisance and a danger for a crew of two, so I heaved the topmasts on deck and lashed them fast.
+
+Several more days were consumed in finishing the sails and putting them on. There were only three - the jib, foresail, and mainsail; and, patched, shortened, and distorted, they were a ridiculously ill-fitting suit for so trim a craft as the Ghost.
+
+"But they'll work!" Maud cried jubilantly. "We'll make them work, and trust our lives to them!"
+
+Certainly, among my many new trades, I shone least as a sail-maker. I could sail them better than make them, and I had no doubt of my power to bring the schooner to some northern port of Japan. In fact, I had crammed navigation from text-books aboard; and besides, there was Wolf Larsen's star-scale, so simple a device that a child could work it.
+
+As for its inventor, beyond an increasing deafness and the movement of the lips growing fainter and fainter, there had been little change in his condition for a week. But on the day we finished bending the schooner's sails, he heard his last, and the last movement of his lips died away - but not before I had asked him, "Are you all there?" and the lips had answered, "Yes."
+
+The last line was down. Somewhere within that tomb of the flesh still dwelt the soul of the man. Walled by the living clay, that fierce intelligence we had known burned on; but it burned on in silence and darkness. And it was disembodied. To that intelligence there could be no objective knowledge of a body. It knew no body. The very world was not. It knew only itself and the vastness and profundity of the quiet and the dark.

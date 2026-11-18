@@ -1,0 +1,77 @@
+---
+title: "Chapter 9 - Into British Territory"
+weight: 9
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-09.html"
+---
+
+All hurried to the side of Roswell, who was pointing to a place a short distance from the raft.
+
+It was the body of a man that they saw, floating face upward. His clothing was good, and the white features, partly hidden by a black beard, must have been pleasing in life. The feet and hands, dangling at the sides, were so low in the water that only when stirred by the waves did they show, but the face rose and fell, sometimes above, and never more than a few inches below, so that it was in view all the time.
+
+The group silently viewed the scene. The body drifted nearer and nearer and faintly touched the edge of the raft, as the wind carried it past. Then it continued dipping, and gradually floated away in the gathering gloom.
+
+"We ought to give it burial," said Frank to Jeff, who shook his head.
+
+"What's the use? We might tow it ashore, dig up a foot of the frozen earth, and set a wooden cross or heap of stones to mark the grave, but the lake is as good a burial-place as it could have."
+
+"I wonder who he could have been," said Roswell thoughtfully. "Some man, no doubt, who has come from his home in the States, thousands of miles away, and started to search for gold. He may have left wife and children behind, who will look longingly for his coming, but will never see his face again."
+
+"The world is full of such sad things," observed Tim McCabe, impressed, like all, with the melancholy incident, and then he expressed the thought that was in the mind of each: "There be five of us: will we all see home again?"
+
+There was no reply. Hardman had not spoken, and, as if the occasion was too oppressive, he sauntered to another part of the raft, while the rest gradually separated, each grave and saddened by what he had witnessed.
+
+It is well for us to turn aside from the hurly-burly of life and reflect upon the solemn fact of the inevitable end that awaits us all.
+
+But the long afternoon was drawing to a close, and the question to be considered was whether the raft should be allowed to drift or land, or they should continue forward, despite a certain degree of danger during the darkness. All were eager to improve the time, and Jeff, as the head of the expedition, said they would keep at it at least for a while longer.
+
+"As far as I can tell," he said, "there's no danger of running into anything that'll wreck us, and we must use our sail while we can. Besides," he added, after testing it, "the water is so deep that we can't reach bottom, and there isn't much chance to help ourselves."
+
+The wind which swept over the raft had risen almost to a gale, and brought with it a few scurrying flakes of snow. There was a perceptible fall in the temperature, and the chilly, penetrating air caused all to shiver, despite their thick clothing.
+
+Finally night closed in, and the raft was still drifting, the wind carrying it four or five miles an hour. The night was so short that the hope was general that the straightforward progress would continue until sunrise, though Tim, who was better acquainted with the region, expressed the belief that a storm of several days' duration had set in.
+
+Since there was nothing to do, the men and boys disposed of themselves as comfortably as possible on the lee side of the raft, beyond reach of the waves, though the spray now and then dashed against their rubber blankets which each had wrapped about his shoulders and body. After a time Jeff took his station at the bow, though an almost imperceptible change of wind caused the structure to drift partly sideways.
+
+Roswell and Frank, who were seated back to back and in an easy attitude, had sunk into a doze, when both were startled by a bump which swung them partly over. They straightened up and looked around in the gloom, wondering what it meant.
+
+"We've struck shore," called Jeff, who was the only one on watch. "The voyage is over for the time."
+
+There was hurrying to and fro, as all perceived that he had spoken the truth. The corner of the raft had impinged against some ice that was piled on the beach. The gloom was too deep for any one to see more than a few rods, so that Tim, who had traversed the sheet of water before, was unable to guess where they were.
+
+"Provided we've come over a straight coorse," said the Irishman, "we can't be far from the fut of the lake."
+
+"We'll know in the morning, which can't be far off," replied Jeff; "we'll make ourselves as comfortable as we can until then."
+
+Despite the wind, they managed to light several matches and examine their watches. To their surprise, the night was nearly gone, and it was decided not to attempt to put up their tent until daylight. Accordingly, they huddled together and spent the remaining hour of gloom in anything but comfort.
+
+At the earliest streakings of light all were astir. Springing from the ground, Tim McCabe hurriedly walked a short way to the northward. The others had risen to their feet and were watching him. As the gray light rapidly overspread the scene, they saw the lake, still tossing with whitecaps, stretching to the south and west, with the shore faintly visible. On the east, north, south, and west towered the snow-capped mountains, with Mount Lotne and other peaks piercing the very clouds. The sun was still hidden, with the air damp, cold, and penetrating.
+
+Tim McCabe was seen to stand motionless for some minutes, when he slowly turned about on his heels and attentively studied the landmarks. Then he suddenly flung his cap high in air, and, catching it as it came down, began dancing a jig with furious vigor. He acted as if he had bidden good-by to his senses.
+
+"Whoop! hurrah!" he shouted, as he replaced his cap and hurried to his friends. "We're at the fut of the lake!"
+
+[Illustration: "WE'RE AT *THE FUT OF THE LAKE," SHOUTED TIM*.]
+
+Such was the fact. A steamer guided by pilot and compass could not have come more directly to the termination of the sheet of water. Tim had cause for rejoicing, and all congratulated themselves upon their good fortune.
+
+"There's only one bad thing about the same," he added more seriously.
+
+"What's that?" asked Jeff.
+
+"We're no longer in the United States."
+
+"That's the fact," said Hardman, "we're in British Columbia."
+
+After all, this was a small matter. Inasmuch as the signs indicated a severe storm, it was decided to stay where they were until its chief fury was spent. The snow was shovelled aside to allow them to reach the frozen earth, into which the stakes were securely driven, and the tent set up, with the stove in position.
+
+Beyond Chilkoot Pass plenty of timber is to be found, consisting of pine, spruce, cottonwood, and birch. Thus far not the first sign of game had been seen. The whole country, after leaving Dyea, is mountainous.
+
+Most of the goods were left on the raft, where they were protected by the rubber sheathing and the secure manner in which they were packed and bound.
+
+Three dreary days of waiting followed, and the hours became so monotonous at times, especially after the hard, active toil that had preceded them, that in some respects it was the most trying period of the memorable journey of our friends from Dyea to Dawson City. The men found consolation in their pipes, which frequently made the air within the tent intolerable to the youngsters. Like most smokers, however, the men never suspected the annoyance they caused, and the boys were too considerate to hint anything of the kind. When their young limbs yearned for exercise, they bolted out of doors, in the face of the driving sleet and fine snow which cut the face like bird-shot. Locking arms, they wrestled and rolled and tumbled in the snow, washed each other's faces, flung the snow about—for it was too dry to admit of being wrought into balls—and when tired out, they came back panting and with red cheeks, showing that their lungs had been filled with the life-giving ozone.
+
+It was necessary now and then to cut fuel from the adjacent wood, and this was done by Tim and Jeff. The boys asked to be allowed to try their hand, but they were too unskilful in wielding an axe, and their request was denied. Now and then the howling gale drove the smoke back into the tent, where it was almost as bad as the odor from the pipes.
+
+The four slept at intervals through the day and most of the long night; but now and then the men laid aside their pipes, the stove "drew," and the atmosphere within was agreeable. The only books in the company were the two pocket Bibles furnished by the mothers of Roswell and Frank. Neither boy forgot his promise to read the volume whenever suitable opportunity presented. Seeing Frank reclining on his blanket, with his little Bible in hand, Jeff asked him to read it aloud, and the boy gladly complied. It was a striking sight, as the men inclined their heads and reverently listened to the impressive words from the Book of Life. There was no jesting or badinage, for that chord which the Creator has placed in every human heart was touched, and responded with sweet music. Many an hour was thus passed—let us hope with profit to every one of the little party.
+
+Finally the longed-for lull in the storm came, and the voyage was renewed. The trip through Caribou Crossing was made without mishap, the distance being about four miles, when they entered Marsh Lake, often known as Mud Lake, though no apparent cause exists for the title. No difficulty was experienced in making their way for the twenty-four miles of its length, at the end of which they debouched into Lynx River, where twenty-seven more miles were passed without incident or trouble worth recording.

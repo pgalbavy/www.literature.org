@@ -1,0 +1,7 @@
+---
+title: "The Wolf And The Horse"
+weight: 231
+url: "/authors/aesop/fables/chapter-229.html"
+---
+
+A WOLF coming out of a field of oats met a Horse and thus addressed him: "I would advise you to go into that field. It is full of fine oats, which I have left untouched for you, as you are a friend whom I would love to hear enjoying good eating." The Horse replied, "If oats had been the food of wolves, you would never have indulged your ears at the cost of your belly." Men of evil reputation, when they perform a good deed, fail to get credit for it.

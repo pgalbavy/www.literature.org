@@ -1,0 +1,189 @@
+---
+title: "Part 1 - Chapter 12 - The Fight In The Palace"
+weight: 12
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-12.html"
+---
+
+BARBARA HARDING heard the samurai in the room beyond her prison advancing toward the door that separated them from her. She pressed the point of the daimio's sword close to her heart. A heavy knock fell upon the door and at the same instant the girl was startled by a noise behind her--a noise at the little window at the far end of the room.
+
+Turning to face this new danger, she was startled into a little cry of surprise to see the head and shoulders of the mucker framed in the broken square of the half-demolished window.
+
+The girl did not know whether to feel renewed hope or utter despair. She could not forget the heroism of her rescue by this brutal fellow when the Halfmoon had gone to pieces the day before, nor could she banish from her mind his threats of violence toward her, or his brutal treatment of Mallory and Theriere. And the question arose in her mind as to whether she would be any better off in his power than in the clutches of the savage samurai.
+
+Billy Byrne had heard the knock upon the door before which the girl knelt. He had seen the corpses of the dead men at her feet. He had observed the telltale position of the sword which the girl held to her breast and he had read much of the story of the impending tragedy at a glance.
+
+“Cheer up, kid!” he whispered. “I'll be wid youse in a minute, an' Theriere's out here too, to help youse if I can't do it alone.”
+
+The girl turned toward the door again.
+
+“Wait,” she cried to the samurai upon the other side, “until I move the dead men, then you may come in, their bodies bar the door now.”
+
+All that kept the warriors out was the fear that possibly Oda Yorimoto might not be dead after all, and that should they force their way into the room without his permission some of them would suffer for their temerity. Naturally none of them was keen to lose his head for nothing, but the moment that the girl spoke of the dead “men” they knew that Oda Yorimoto had been slain, too, and with one accord they rushed the little door.
+
+The girl threw all her weight against her side, while the dead men, each to the extent of his own weight, aided the woman who had killed them in her effort to repulse their fellows; and behind the three Billy Byrne kicked and tore at the mud wall about the window in a frantic effort to enlarge the aperture sufficiently to permit his huge bulk to pass through into the little room.
+
+The mucker won to the girl's side first, and snatching Oda Yorimoto's long sword from the floor he threw his great weight against the door, and commanded the girl to make for the window and escape to the forest as quickly as she could.
+
+“Theriere is waiting dere,” he said. “He will see youse de moment yeh reach de window, and den youse will be safe.”
+
+“But you!” cried the girl. “What of you?”
+
+“Never yeh mind me,” commanded Billy Byrne. “Youse jes' do as I tells yeh, see? Now, beat it,” and he gave her a rough shove toward the window.
+
+And then, between the combined efforts of the samurai upon one side and Billy Byrne of Kelly's gang upon the other the frail door burst from its rotten hinges and fell to one side.
+
+The first of the samurai into the little room was cleft from crown to breast bone with the keen edge of the sword of the Lord of Yoka wielded by the mighty arm of the mucker. The second took the count with a left hook to the jaw, and then all that could crowd through the little door swarmed upon the husky bruiser from Grand Avenue.
+
+Barbara Harding took one look at the carnage behind her and then sprang to the window. At a short distance she saw the jungle and at its edge what she was sure was the figure of a man crouching in the long grass.
+
+“Mr. Theriere!” she cried. “Quick! They are killing Byrne,” and then she turned back into the room, and with the short sword which she still grasped in her hand sprang to the side of the mucker who was offering his life to save her.
+
+Byrne cast a horrified glance at the figure fighting by his side.
+
+“Fer de love o' Mike! Beat it!” he cried. “Duck! Git out o' here!”
+
+But the girl only smiled up bravely into his face and kept her place beside him. The mucker tried to push her behind him with one hand while he fought with the other, but she drew away from him to come up again a little farther from him.
+
+The samurai were pushing them closely now. Three men at a time were reaching for the mucker with their long swords. He was bleeding from numerous wounds, but at his feet lay two dead warriors, while a third crawled away with a mortal wound in his abdomen.
+
+Barbara Harding devoted her energies to thrusting and cutting at those who tried to press past the mucker, that they might take him from behind. The battle could not last long, so unequal were the odds. She saw the room beyond filled with surging warriors all trying to force their way within reach of the great white man who battled like some demigod of old in the close, dark, evil warren of the daimio.
+
+She shot a side glance at the man. He was wonderful! The fire of battle had transformed him. No longer was he the sullen, sulky, hulking brute she had first known upon the Halfmoon. Instead, huge, muscular, alert, he towered above his pygmy antagonists, his gray eyes gleaming, a half-smile upon his strong lips.
+
+She saw the long sword, wielded awkwardly in his unaccustomed hands, beat down the weapons of his skilled foemen by the very ferocity of its hurtling attack. She saw it pass through a man's shoulder, cleaving bone and muscle as if they had been cheese, until it stopped two-thirds across its victim's body, cutting him almost in two.
+
+She saw a samurai leap past her champion's guard in an attempt to close upon him with a dagger, and when she had rushed forward to thwart the fellow's design she had seen Byrne swing his mighty left to the warrior's face with a blow that might well have felled an ox. Then another leaped into closer quarters and she saw Byrne at the same instant bury his sword in the body of a dark-visaged devil who looked more Malay than Jap, and as the stricken man fell she saw the hilt of the mucker's blade wrenched from his grip by the dead body of his foe. The samurai who had closed upon Byrne at that instant found his enemy unarmed, and with a howl of delight he struck full at the broad chest with his long, thin dagger.
+
+But Billy Byrne was not to be dispatched so easily. With his left forearm he struck up the hand that wielded the menacing blade, and then catching the fellow by the shoulder swung him around, grasped him about the waist and lifting him above his head hurled him full in the faces of the swordsmen who were pressing through the narrow doorway.
+
+Almost simultaneously a spear shot through a tiny opening in the ranks before Billy Byrne, and with a little gasp of dismay the huge fellow pitched forward upon his face. At the same instant a shot rang out behind Barbara Harding, and Theriere leaped past her to stand across the body of the fallen mucker.
+
+With the sound of the shot a samurai sank to the floor, dead, and the others, unaccustomed to firearms, drew back in dismay. Again Theriere fired point-blank into the crowded room, and this time two men fell, struck by the same bullet. Once more the warriors retreated, and with an exultant yell Theriere followed up his advantage by charging menacingly upon them. They stood for a moment, then wavered, turned and fled from the hut.
+
+When Theriere turned back toward Barbara Harding he found her kneeling beside the mucker.
+
+“Is he dead?” asked the Frenchman.
+
+“No. Can we lift him together and get him through that window?”
+
+“It is the only way,” replied Theriere, “and we must try it.”
+
+They seized upon the huge body and dragged it to the far end of the room, but despite their best efforts the two were not able to lift the great, inert mass of flesh and bone and muscle and pass it through the tiny opening.
+
+“What shall we do?” cried Theriere.
+
+“We must stay here with him,” replied Barbara Harding. “I could never desert the man who has fought so noble a fight for me while a breath of life remained in him.”
+
+Theriere groaned.
+
+“Nor I,” he said; “but you--he has given his life to save yours. Should you render his sacrifice of no avail now?”
+
+“I cannot go alone,” she answered simply, “and I know that you will not leave him. There is no other way--we must stay.”
+
+At this juncture the mucker opened his eyes.
+
+“Who hit me?” he murmured. “Jes' show me de big stiff.” Theriere could not repress a smile. Barbara Harding again knelt beside the man.
+
+“No one hit you, Mr. Byrne,” she said. “You were struck by a spear and are badly wounded.”
+
+Billy Byrne opened his eyes a little wider, turning them until they rested on the beautiful face of the girl so close to his.
+
+“MR. Byrne!” he ejaculated in disgust. “Forget it. Wot do youse tink I am, one of dose paper-collar dudes?”
+
+Then he sat up. Blood was flowing from a wound in his chest, saturating his shirt, and running slowly to the earth floor. There were two flesh wounds upon his head--one above the right eye and the other extending entirely across the left cheek from below the eye to the lobe of the ear--but these he had received earlier in the fracas. From crown to heel the man was a mass of blood. Through his crimson mask he looked at the pile of bodies in the far end of the room, and a broad grin cracked the dried blood about his mouth.
+
+“Wot we done to dem Chinks was sure a plenty, kiddo,” he remarked to Miss Harding, and then he came to his feet, seemingly as strong as ever, shaking himself like a great bull. “But I guess it's lucky youse butted in when you did, old pot,” he added, turning toward Theriere; “dey jest about had me down fer de long count.”
+
+Barbara Harding was looking at the man in wide-eyed amazement. A moment before she had been expecting him, momentarily, to breathe his last--now he was standing before her talking as unconcernedly as though he had not received a scratch--he seemed totally unaware of his wounds. At least he was entirely indifferent to them.
+
+“You're pretty badly hurt, old man,” said Theriere. “Do you feel able to make the attempt to get to the jungle? The Japs will be back in a moment.”
+
+“Sure!” cried Billy Byrne. “Come ahead,” and he sprang for the window. “Pass de kid up to me. Quick! Dey're comin' from in back.”
+
+Theriere lifted Barbara Harding to the mucker who drew her through the opening. Then Billy extended a hand to the Frenchman, and a moment later the three stood together outside the hut.
+
+A dozen samurai were running toward them from around the end of the “Palace.” The jungle lay a hundred yards across the clearing. There was no time to be lost.
+
+“You go first with Miss Harding,” cried Theriere. “I'll cover our retreat with my revolver, following close behind you.”
+
+The mucker caught the girl in his arms, throwing her across his shoulder. The blood from his wounds smeared her hands and clothing.
+
+“Hang tight, kiddo,” he cried, and started at a brisk trot toward the forest.
+
+Theriere kept close behind the two, reserving his fire until it could be effectively delivered. With savage yells the samurai leaped after their escaping quarry. The natives all carried the long, sharp spears of the aboriginal head-hunters. Their swords swung in their harness, and their ancient armor clanked as they ran.
+
+It was a strange, weird picture that the oddly contrasted party presented as they raced across the clearing of this forgotten isle toward a jungle as primitive as when “the evening and the morning were the third day.” An American girl of the highest social caste borne in the arms of that most vicious of all social pariahs--the criminal mucker of the slums of a great city--and defending them with drawn revolver, a French count and soldier of fortune, while in their wake streamed a yelling pack of half-caste demons clothed in the habiliments of sixteenth century Japan, and wielding the barbarous spears of the savage head-hunting aborigines whose fierce blood coursed in their veins with that of the descendants of Taka-mi-musu-bi-no-kami.
+
+Three-quarters of the distance had been covered in safety before the samurai came within safe spear range of the trio. Theriere, seeing the danger to the girl, dropped back a few paces hoping to hold the brown warriors from her. The foremost of the pursuers raised his weapon aloft, carrying his spear hand back of his shoulder for the throw. Theriere's revolver spoke, and the man pitched forward, rolling over and over before he came to rest.
+
+A howl of rage went up from the samurai, and a half-dozen spears leaped at long range toward Theriere. One of the weapons transfixed his thigh, bringing him to earth. Byrne was at the forest's edge as the Frenchman fell--it was the girl, though, who witnessed the catastrophe.
+
+“Stop!” she cried. “Mr. Theriere is down.”
+
+The mucker halted, and turned his head in the direction of the Frenchman, who had raised himself to one elbow and was firing at the advancing enemy. He dropped the girl to her feet.
+
+“Wait here!” he commanded and sprang back toward Theriere.
+
+Before he reached him another spear had caught the man full in the chest, toppling him, unconscious, to the earth. The samurai were rushing rapidly upon the wounded officer--it was a question who would reach him first.
+
+Theriere had been nipped in the act of reloading his revolver. It lay beside him now, the cylinder full of fresh cartridges. The mucker was first to his side, and snatching the weapon from the ground fired coolly and rapidly at the advancing Japanese. Four of them went down before that deadly fusillade; but the mucker cursed beneath his breath because of his two misses.
+
+Byrne's stand checked the brown men momentarily, and in the succeeding lull the man lifted the unconscious Frenchman to his shoulder and bore him back to the forest. In the shelter of the jungle they laid him upon the ground. To the girl it seemed that the frightful wound in his chest must prove fatal within a few moments.
+
+Byrne, apparently unmoved by the seriousness of Theriere's condition, removed the man's cartridge belt and buckled it about his own waist, replacing the six empty shells in the revolver with six fresh ones. Presently he noticed the bound and gagged Oda Iseka lying in the brush behind them where he and Theriere had left him. The samurai were now sneaking cautiously toward their refuge. A sudden inspiration came to the mucker.
+
+“Didn't I hear youse chewin' de rag wit de Chinks wen I hit de dump over dere?” he asked of Barbara.
+
+The girl, oddly, understood him. She nodded her head, affirmatively.
+
+“Youse savvy deyre lingo den, eh?”
+
+“A little.”
+
+“Tell dis gazimbat to wise his pals to de fact dat I'll croak 'im, if dey don't beat it, an' let us make our get-away. Theriere says as how he's kink when his ole man croaks, an' his ole man was de guy youse put to sleep in de chicken coop,” explained the mucker lucidly; “so dis slob's kink hisself now.”
+
+Barbara Harding was quick to see the strength of the man's suggestion. Stepping to the edge of the clearing in full view of the advancing enemy, with the mucker at her side, revolver in hand, she called to them in the language of their forbears to listen to her message. Then she explained that they held the son of Oda Yorimoto prisoner, and that his life would be the price of any further attack upon them.
+
+The samurai conferred together for a moment, then one of them called out that they did not believe her, that Oda Iseka, son of Oda Yorimoto, was safe in the village.
+
+“Wait!” replied the girl. “We will show him to you,” and turning to Byrne she asked him to fetch the youth.
+
+When the white man returned with the boy in his arms, a wail of mingled anguish and rage rose from the natives.
+
+“If you molest us no further we shall not harm him,” cried Barbara, “and when we leave your island we shall set him free; but renew your attack upon us and this white man who holds him says that he will cut out his heart and feed it to the fox,” which was rather a bloodthirsty statement for so gentle a character as Barbara Harding; but she knew enough of the superstitious fears of the ancient Japanese to feel confident that this threat would have considerable weight with the subjects of the young Lord of Yoka.
+
+Again the natives conferred in whispers. Finally he who had acted as spokesman before turned toward the strangers.
+
+“We shall not harm you,” he said, “so long as you do not harm Oda Iseka; but we shall watch you always until you leave the island, and if harm befalls him then shall you never leave, for we shall kill you all.”
+
+Barbara translated the man's words to the mucker.
+
+“Do youse fall fer dat?” he asked.
+
+“I think they will be careful to make no open assault upon us,” replied the girl; “but never for an instant must we cease our watchfulness for at the first opportunity I am sure that they will murder us.”
+
+They turned back to Theriere now. The man still lay, unconscious and moaning, where Byrne had deposited him. The mucker removed the gag from Oda Iseka's mouth.
+
+“Which way is water? Ask him,” he said to Barbara.
+
+The girl put the question.
+
+“He says that straight up this ravine behind us there is a little spring,” translated the girl.
+
+Byrne lifted Theriere in his arms, after loosening Oda Iseka's feet and tethering him to his own belt with the same grass rope; then he motioned the youth up the ravine.
+
+“Walk beside me,” he said to Barbara Harding, “an' keep yer lamps peeled behind.”
+
+Thus, in silence, the party commenced the ascent of the trail which soon became rough and precipitous, while behind them, under cover of the brush, sneaked four trailing samurai.
+
+After half an hour of the most arduous climbing the mucker commenced to feel the effects of loss of blood from his many wounds. He coughed a little now from the exertion, and when he did the blood spurted anew from the fresh wound in his breast.
+
+Yet there was no wavering or weakness apparent to the girl who marched beside him, and she wondered at the physical endurance of the man. But when at last they came to a clear pool of water, half hidden by overhanging rocks and long masses of depending mosses, in the midst of a natural grotto of enchanting loveliness, and Oda Iseka signaled that their journey was at an end, Byrne laid Theriere gently upon the flower-starred sward, and with a little, choking gasp collapsed, unconscious, beside the Frenchman.
+
+Barbara Harding was horror-stricken. She suddenly realized that she had commenced to feel that this giant of the slums was invulnerable, and with the thought came another--that to him she had come to look more than to Theriere for eventual rescue; and now, here she found herself in the center of a savage island, surrounded as she felt confident she was by skulking murderers, with only two dying white men and a brown hostage as companions.
+
+And now Oda Iseka took in the situation, and with a grin of triumph raised his voice in a loud halloo.
+
+“Come quickly, my people!” he cried; “for both the white men are dying,” and from the jungle below them came an answering shout.
+
+“We come, Oda Iseka, Lord of Yoka! Your faithful samurai come!”

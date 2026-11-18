@@ -1,0 +1,53 @@
+---
+title: "Chapter 6 - A Significant Discovery"
+weight: 6
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-06.html"
+---
+
+Game is so scarce in the valley of the Upper Yukon and in the Klondike country that many gold-seekers take no firearms at all with them. Years ago the Indians showed occasional hostility toward the missions and trading-posts, but nothing now is to be feared from them. They are often hired to help carry loads through the passes, and with that aptitude for imitating the white man, they have speedily learned to charge high prices for their labor.
+
+Before leaving Juneau, Jeff Graham presented each of his little party with an excellent revolver, quoting the remark which a cowboy once made to a tenderfoot:
+
+"You may not want the weapon often, but when you do you'll want it mighty bad."
+
+Jeff took with him his own pistol which he had carried for years, besides which he was provided with a fine Winchester rifle. He knew he was not likely to find any use for it in shooting game, but he grimly observed that if a pistol should prove handy, the larger weapon was apt to prove much more so.
+
+The Indian who engaged to take them to the foot of Lake Lindeman was old, but wiry and tough, and understood his business. He could speak a few words of English, which were enough for his purposes. He raised a small soiled sail of canvas on the scow, and with the help of a long pole kept the heavily laden craft moving. Although the lake was open thus early in the season, the shores were lined with ice, much of it extending into the water for a number of rods. Huge cakes sometimes bumped against the scow, but they caused no damage, and did not interfere with its progress.
+
+The three men who had first engaged the boat looked as if they had come a long distance. Our friends had no recollection of having seen them on the steamer from Seattle or on the steam launch that connects Juneau with Dyea at the head of Lynn Canal. Where they came from, therefore, was a mystery, the probability being that they had been loitering about Dyea for a long time, waiting for the season to advance sufficiently to allow them to start for the Yukon. They seemed reserved to the point of sullenness, keeping by themselves and showing so much antipathy to any approach that they were let alone.
+
+But just before the foot of the lake, nearly six miles distant, was reached, Frank Mansley made an interesting discovery. The most ill-favored of the trio was an acquaintance of Ike Hardman. No one else noticed the significant fact, and it was partly through accident that the truth came to the lad.
+
+The two men acted as if strangers, not exchanging a word on the passage, and seemingly feeling no interest in each other. All of Frank's friends were near the bow of the boat, looking to where they were soon to touch shore. Two of the strangers were standing just back of and near them, while Hardman was in the middle of the boat, apparently watching the old Indian as he plied his paddle with untiring vigor.
+
+The third stranger was at the stern, seated on the gunwale, smoking a clay pipe and seemingly taking no note of anything about him. When Ike Hardman sauntered among the piles of luggage to the rear, Frank was impelled by an impulse for which he could not account to watch him. He had no well-defined suspicion, and least of all did he suspect what proved to be the truth.
+
+Hardman halted a few paces from the man sitting on the edge of the boat, and, so far as appearances went, did not pay any attention to him. A quick, furtive glance to the front put the lad on his guard, and he, too, turned his face toward land, but his position was such that he could look sideways at the two, while not seeming to do so.
+
+Suddenly Hardman, with his back partly toward the youth, made a sign with his hands, the meaning of which Frank could not catch, because the signal was not fully seen, but the fellow sitting down nodded his head, and taking his pipe from between his lips, said something in so guarded a voice that only the ears for which the words were intended could understand them.
+
+This brief interchange ought to have been enough, but Hardman did not appear to think so. He stepped somewhat closer, and he, too, spoke, still gesticulating with one of his hands. The man addressed was impatient. He nodded again in a jerky fashion, and made answer with less caution, as a consequence of which the eavesdropper caught the words, "Yes, yes, to-night; I understand."
+
+[Illustration: *SUDDENLY HARDMAN MADE A SIGN*.]
+
+Hardman was satisfied, and came back to the front of the boat, which was now approaching the shore. His friend smoked a few minutes until the scow bumped against the projection of ice, and, the old Indian leaping lightly out, carried the heavy stone anchor as far as the rope would permit. This held the boat in place, and the unloading began. The Indian offered to help for an extravagant price, but his offer was refused, and the respective parties busied themselves with their own work.
+
+The discovery made by Frank Mansley caused him considerable uneasiness. The dislike which he felt toward Hardman the first time he saw him had never abated, and it was the same with his cousin. Young as they were, they felt that a great mistake was made when Hardman was allowed to join the party, and they wondered that Jeff permitted it, but, as has been shown, they were too discreet to object.
+
+That Hardman, on his part, detested the youths was apparent, though he tried to conceal the feeling when he feared it might attract the attention of others. He had little to say to them or they to him. Frank decided to tell his chum of the discovery he had made, and they would consult as to whether they should take Jeff and Tim into their confidence.
+
+Meanwhile, the trio gathered their loads upon their backs and started northward without so much as calling good-by to those whom they left behind, and who were not sorry to part company with them.
+
+The gold-hunters had had a little lift on their journey, but it was not worth considering, in view of what remained before them. A mile advance with sleds and their packs took them to the head of Lake Bennet, where it may be said the navigation of the Yukon really begins. The lake is about twenty-eight miles long, contains a number of islands, and in going to the foot one passes from Alaska into British Columbia. Along its shores were scores of miners, busily engaged in building boats with which to make the rest of the journey. Sad to say, owing to their impatience and lack of skill, some of the boats were so flimsy and ill-constructed that they were certain to go to pieces in the fierce rapids below, and add their owners to the long list of victims whose bodies strew the pathway from Chilkoot to the Upper Yukon.
+
+Here, too, it became necessary for our friends to build a craft, and since it was comparatively early in the day, Jeff and Tim, each with an axe over his shoulder, went into the wood, already partly cut down, Hardman accompanying them, in order to bear his turn. The boys remained behind to guard the property, though their neighbors were so occupied with their own affairs that they gave them little heed. Frank took the opportunity to tell his companion what he had observed on the boat while crossing the lake.
+
+"Hardman has joined our company for some evil purpose," said Roswell, "and the other man is his partner in the plot."
+
+"But they are gone, and we may not see them again."
+
+"One of them, at least, has an understanding with Hardman, and will keep him within hailing distance."
+
+"We will say nothing to Jeff or Tim until to-morrow; I fear that we shall learn something to-night."
+
+The boy was right in his supposition.

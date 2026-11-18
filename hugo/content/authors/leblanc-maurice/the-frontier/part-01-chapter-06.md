@@ -1,0 +1,129 @@
+---
+title: "Part 1 - Chapter 6 - The Plaster Statue"
+weight: 6
+url: "/authors/leblanc-maurice/the-frontier/part-01-chapter-06.html"
+---
+
+There were several ways leading to Saint-Élophe. First of all, the high-road, which goes winding down a slope some two miles long; next, a few rather steep short cuts; and, lastly, further north, the forest-path, part of which skirts the ridge of the Vosges.
+
+"Let's go by the road, shall we?" said Morestal to his son.
+
+And, as soon as they had started, he took Philippe's arm and said, gleefully:
+
+"Only think, my boy, at the camp, just now, we met one of the lieutenants of the manoeuvring company. We talked about the Saboureux business and, this evening, he is going to introduce us to his captain, who happens to be a nephew of General Daspry, commanding the army-corps. So I shall tell him what I have done at the Old Mill, you see; he will report it to his uncle Daspry; and Fort Morestal will be listed at once...."
+
+He beamed with delight, held his head high and flung out his chest, while, with his free hand, he made warlike flourishes with his cane. Once he even halted and placed himself on guard and stamped his foot on the ground:
+
+"Three appels ... Engage ... Lunge! What do you say to that, Philippe, eh? Old Morestal is game yet!"
+
+Philippe, full of affection for the old man, smiled. Now that he was acting on Marthe's advice and delaying the painful explanation, life seemed better to him, quite simple and quite easy, and he surrendered himself to the pleasure of seeing his father again and the scenes which he loved and renewing the childhood memories that seemed to await him at every turn of the road and to rise up at his approach:
+
+"Do you remember, father? This is where I fell off my bicycle.... I was standing under that tree when it was struck by lightning...."
+
+They stopped, recalled all the circumstances of the event and set off again, arm in arm.
+
+And, a little further, Morestal took up the thread:
+
+"And over there, do you remember? That's where you killed your first rabbit ... with a catapult! Ah, even in those days you promised to be a good shot ... the best at Saint-Élophe, as I live!... But I was forgetting: you have given up your gun! A fellow of your build! Why, sport, my boy, is the great apprenticeship for war!..."
+
+Saint-Élophe-la-Côte, once a flourishing little town, had never quite recovered from the wounds earned by its heroism during the war. It stood crowding round an old ruined castle which became visible at the last turn in the road. Nevertheless, situated on the borders of the department, at twelve or thirteen miles from Noirmont, the sub-prefecture, it owed a certain importance to its position near the frontier, facing the German garrisons, whose increasing activity was becoming a subject of uneasiness and had led to Jorancé's appointment as special commissary.
+
+Jorancé, the first holder of this newly-created office, lived at the other end of the village and a little way outside it, in a low-storeyed house which had been greatly improved by Suzanne's good taste and fancy. It was surrounded by a garden with arbours and quaintly-clipped old trees and a clear, winding stream that flowed under the very doorstep.
+
+It was nearly dark when Morestal entered, accompanied by Philippe. Everything was ready for their reception: the table was laid in a room hung with bright stuffs; flowers were scattered over the cloth; two lamps shed a calm and even light; and Suzanne sat smiling, happy and charming.
+
+All this was very simple. And yet Philippe received the impression that special pains had been taken on his account. It was he who was expected; he was the master who was to be conquered and chained with invisible bonds. He felt sure of this; and Suzanne told him as much throughout dinner, with her fond glances, her attentive movements, her whole person bending towards him.
+
+"I ought not to have come," he thought. "No, I ought not to have."
+
+And, each time that he met Suzanne's eyes, he called to mind his wife's discreet manner and her thoughtful air.
+
+"How absorbed you are, Philippe!" cried Morestal, who had never ceased talking while eating. "And you, Suzanne, what are you thinking about? Your future husband?"
+
+"Not I!" she replied, without the least embarrassment. "I was thinking of those months I spent in Paris last winter. How good you were to me, Philippe! I remember the walks we used to take!..."
+
+They spoke of those walks; and, little by little, Philippe was surprised to realize the extent to which their lives had been mingled during that stay. Marthe, retained by her household duties, used to remain at home, while they two escaped, like a couple of free and careless play-fellows. They visited the museums and churches of Paris, the little towns and castles of the Ile-de-France. An intimacy sprang up between them. And now it confused him to find Suzanne at once so near to him and so far, so near as a friend, so far as a woman.
+
+When dinner was over, he moved round to his father. Morestal, eager to go and keep his appointment with Captain Daspry, stood up:
+
+"Are you coming with us, Philippe?"
+
+"Certainly."
+
+The three men took their hats and sticks; but, when they reached the hall-door, after a whispered colloquy with Jorancé, Morestal said to his son:
+
+"On second thoughts, it's better that we should go alone. The interview must remain as secret as possible; and we shall be less easy if there are three of us...."
+
+"Besides," added the special commissary, "you may just as well keep Suzanne company: it is her last evening. Good-bye for the present, children. You can be sure that the two conspirators will be back when the belfry-clock strikes ten, eh, Morestal?"
+
+They went off, leaving Philippe not a little perplexed.
+
+Suzanne burst out laughing:
+
+"My poor Philippe, you look very uncomfortable. Come, cheer up! I sha'n't eat you, I promise you!"
+
+"No, I don't expect you will," he said, laughing in his turn. "But, all the same, it's strange ..."
+
+"All the same, it's strange," she said, completing the sentence, "that we should take a walk round the garden together, as I asked you. You will have to make the best of a bad job. Here comes the harmless, necessary moonlight."
+
+The moon emerged slowly from the great clouds stacked around a mountain-crest; and its light cast the regular shadows of the yews and fir-trees on the lawns. The weather was heavy with approaching storms. A warm breeze wafted the perfumes of plants and grass.
+
+Three times, they followed the outer path, along a hedge and along a wall. They said nothing; and this silence, which he found it impossible to break, filled Philippe with remorse. At that moment, he experienced a feeling of aversion for that capricious and unreasonable little girl, who had brought about those compromising minutes between them. Unaccustomed to women and always rather shy in their company, he suspected her of some mysterious design.
+
+"Let's go over there," said Suzanne, pointing to the middle of the garden, where the shadows seemed to gather round a thick clump of shrubs and hornbeams.
+
+They made for the place through an arcade of verdure which brought them to a short flight of steps. It was a sunk amphitheatre, surrounded by a stone balustrade, with a small pond in the middle and, opposite, in a leafy frame, a female statue, with a moonbeam quivering upon it. A musty smell arose from this old-fashioned spot.
+
+"Venus or Minerva? Corinne perhaps?" said Philippe, joking to conceal his uneasiness. "I confess I can't quite make out. What is she wearing: a peplum or an Empire frock? And is that a helmet or a turban on her head?"
+
+"It depends," said Suzanne.
+
+"How do you mean? What upon?"
+
+"Yes, it depends upon my humour. When I'm good and sensible, she's Minerva. When I look at her with a yearning heart, she becomes Venus. And she is also, according to the mood of the moment, the goddess of madness ... and the goddess of tears ... and the goddess of death."
+
+She spoke with a playfulness that saddened Philippe. He asked:
+
+"And what is she the goddess of to-day?"
+
+"The goddess of farewell."
+
+"Of farewell?"
+
+"Yes, farewell to Suzanne Jorancé, to the girl who has come here every day, for the last five years, and who will never come here again."
+
+She leant against the statue:
+
+"My dear goddess, what dreams we two have had, you and I! We used to wait together. For whom? For the Blue Bird ... for Prince Charming. The prince was to arrive on horseback, one day, jump the garden-wall and carry me off, slung across his saddle. He was to slip through the trees, one evening, and go up the steps on his knees, sobbing. And all the vows I made to my dear goddess! Just think, Philippe: I promised her never to bring a man into her presence unless I loved him! And I kept my promise. You are the first, Philippe."
+
+He flushed red in the dark; and she continued, in a voice the gaiety of which rang false:
+
+"If you only knew how silly a girl is, dreaming and vowing things! Why, I even promised her that that man and I should exchange our first kiss before her. Isn't it ridiculous? Poor goddess! She will never see that kiss of love; for, after all, I don't suppose you intend to kiss me?"
+
+"Suzanne!"
+
+"Well, did you? There's no reason why you should; and the whole thing's absurd. So you will admit that this dear goddess has no sense and that she deserves to be punished."
+
+With a quick movement of the arm, she gave a push to the statue, which fell to the ground and broke into halves.
+
+"What are you doing?" he cried.
+
+"Leave me alone ... leave me alone," said Suzanne, in an angry voice.
+
+It was as though her action had loosed in her a long-contained fury and wicked instincts which she was no longer able to control. She rushed forwards and madly kicked and raged at the broken pieces of the statue.
+
+He tried to interfere and took her by the arm. She turned upon him:
+
+"I won't have you touch me!... It's your fault.... Let me go ... I hate you!... Yes, it's all your fault!..."
+
+And, releasing herself from his grasp, she fled towards the house.
+
+The scene had not lasted twenty seconds.
+
+"Hang it!" snarled Philippe, though he was not in the habit of swearing.
+
+His irritation was so great that, if the poor plaster goddess had not already been reduced to fragments, he would certainly have flung her from her pedestal. But, above all things, he was swayed by one idea: to go away, not to see Suzanne again and to have done with this nonsense, of which he felt all the hatefulness and absurdity.
+
+He also quickly made his way back to the house. Unfortunately, knowing no other outlet by which to escape, he went through the passage. The dining-room door was open. He saw the girl sitting huddled in a chair, with her head between her hands, sobbing.
+
+He did not know how artificial a woman's tears can be. Nor did he know the danger in those tears for him who is moved by the sight of their flowing. But, had he known it, he would just the same have stayed; for man's pity is infinite.

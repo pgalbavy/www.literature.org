@@ -1,0 +1,111 @@
+---
+title: "Chapter 6 - Night And Morning"
+weight: 6
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-06.html"
+---
+
+Deerfoot made known his purpose to take his friends across the Mississippi on the morrow in his canoe, after which he would keep them company for some distance along the trail, though he would be forced to leave them long before reaching their destination.
+
+Jack Carleton naturally felt a deep interest in the youthful warrior, and expected him to give some facts in his wonderful history, as well as an intimation of what his life was likely to be in the new country to which he had removed, but much to the young Kentuckian's disappointment, he carefully avoided all reference to himself. His conversation being of such a nature that it is hardly worth recording in this place.
+
+When the evening was well along, Otto threw more wood on the flames which crackled and gave out a cheerful glow. Deerfoot rose to his feet, and without a word passed out into the gloom. The hour for retiring was close at hand, and he preferred to make a reconnaissance before trusting themselves to slumber.
+
+He returned as noiselessly as he went, remarking as he resumed his seat that no danger whatever threatened them, and they could slumber in peace. While speaking, he drew from a pocket within the skirt of his bunting-shirt, the little Bible which had been presented to him months before by Mrs. Preston of Wild Oaks, after the other volume was destroyed by the bullet that was aimed at the heart of the youth, by the hostile chieftain.
+
+Adjusting himself in an easy posture on the ground, so that the ruddy fire-light came over his shoulders and fell upon the page with its minute letters, the young Shawanoe read for several minutes to himself. The others held their peace, impressed with the singular sight. Neither could doubt that he clearly comprehended every word of the sublime volume, and they felt that it was wrong to break in upon his meditation.
+
+All at once he raised his head and asked, "Would my brothers wish to hear Deerfoot read?"
+
+"We would, indeed," was the reply of Jack Carleton; "I never saw an Indian who could read from a, printed book, but I have been told that you can write an excellent hand."
+
+Deerfoot shook his head disparagingly.
+
+"My brother mistakes, but Deerfoot will try and read the words which the Great Spirit speaks to all his people, whether they are pale faces or red men."
+
+And then, in a low musical voice, tremulous with emotion and impressive beyond description, the Shawanoe read an entire chapter from the book of Revelations, his favorite portion of the blessed Book, the others listening spellbound. Even Otto Relstaub, who saw and heard little of genuine Christian teachings in his cheerless home, was touched as never before by the indescribably solemn story of the apocalyptic vision.
+
+The silence which succeeded lasted several minutes, when Jack said in a low voice:
+
+"Deerfoot, I wish you would speak some sentences from the Bible in your own tongue."
+
+"Does my brother wish to learn the Shawanoe language?"
+
+"I have heard Shawanoes, Hurons and Miamis talk, but I can't understand a word; I have a curiosity to know how it will sound to hear some parts of the Bible with which I am familiar tittered in an unknown tongue."
+
+"What part of the book can my brother repeat without reading the words?"
+
+"Well—that is —I don't know," replied Jack, confused by the question of Deerfoot, who fixed his eyes inquiringly upon him; "I mean any sentence."
+
+"Does my brother not read the Bible every day?" asked the Indian, in a grieved rather than a reproving voice; "he must know the Lord's Prayer—"
+
+"O yes, yes," replied Jack, desperately clutching at the single straw. "I meant to ask you to repeat that."
+
+In the same low, reverent voice he had used while reading, the warrior uttered the inspired petition, which shall last through all time. When he had finished, he said:
+
+"My brother would like to remember the words as Deerfoot has spoken them; Deerfoot will print them for him."
+
+And drawing a species of red chalk from the same pocket which held the Bible, he wrote for several minutes on one of the fly-leaves of the bock. When he had finished he glanced over the words, carefully tore out the leaf and handed it across to Jack.
+
+The latter examined the paper, and saw written in a fine, delicate hand the following words, which are preserved to this day, and which, when properly pronounced, constitute the Lord's Prayer as it has been uttered many a time by the dusky lips of the Shawanoe warrior, when his fiery nature was subdued by its blessed teachings:
+
+"Coe-thin-a, spim-i-key yea-taw-yan-ee, O wes-sa-yeg yey-sey-tho-yan-ae; Day-pale-i-tum-any-pay-itch tha-key, yea-issi-tay-hay-yon-ae, issi-nock-i-key, yoe-ma assis-key-kie pie-sey spin-I-key. Me-li-na-key oe noo-ki cos-si-kie ta-wa-it-ihin oe yea-wap-a-ki tuck-whan-a; puck-i-tum-I-wa-loo kne-won-ot-i-they-way. Yea-se-puck-I-tum-a-ma-chil-i-tow-e-ta thick-i na-chaw-ki tussy-neigh-puck-sin-a wa-pun-si-loo wau po won-ot-i-they ya key-la tay pale-i-tum-any way wis-sa kie was-si-sut-i-we-way thay-pay-wo-way."
+
+Jack studied the singular words several minutes, and then, with some hesitation, undertook to pronounce them. He did only fairly, even when corrected by Deerfoot, who added the rebuke:
+
+"Let my brother say them over many times in his own language, for the Great Spirit knows all tongues when he who speaks the words speaks them with his heart."
+
+The consciousness that these words were uttered by one who belonged to what is generally regarded its a pagan race, brought a blush to the face of the sturdy youth that had listened to the same appeal more than once from the lips of his mother.
+
+Under the assurance of Deerfoot, the boys stretched themselves on the leaves and branches and soon sunk into a refreshing slumber. Jack recalled that his last remembrance was of Deerfoot resting his head on his elbow, while he seemed absorbed in his book. He lay as motionless as a figure in bronze, but no matter how much he might be enchained by the words, he could not be insensible of what was going on around him.
+
+Both Jack and Otto slept until the light of morning was stealing through the woods. Then, when they arose to their feet, they saw the Shawanoe broiling a couple of whitefish which he had managed to coax from the Mississippi. He had almost finished before his friends suspected what was doing.
+
+After greeting the warrior, the others passed through the woods to the margin of the mighty river, where they bathed their faces and hands, took a slight swallow of the somewhat muddy water and then rejoined Deerfoot, who had their breakfast ready.
+
+"Did my brothers see any signs that frightened them?" asked Deerfoot, when the three had seated themselves on the ground and were partaking of their meal.
+
+"I took the best survey I could of the river," replied Jack, "but saw nothing of friend or foe. I don't suppose, as a rule, there are many Indians in this section."
+
+"The Shawanoes often hunt to the river, but do not cross; the Miamis come down from the north, and Deerfoot sees their footprints in the Woods."
+
+"What tribes are we likely to meet on the other side of the Mississippi?" asked the young Kentuckian, who naturally felt much interest in the land wherein he expected to make his home.
+
+"There are many red men, even to the mountains which stretch far beyond the rivers and prairies, and raise their heads among the clouds."
+
+Jack Carleton was surprised at this reference, which, he believed, was to the Rocky Mountains, of which little more than their simple existence was known to the rest of the Union at that day. But the words which followed astonished him still more:
+
+"Beyond the mountains opens the great sea, wider than that which the pale faces came across from the Old World; beyond that great sea lies the land where He died for you and me; all the way to the shore, of the great water you will find the red men; they are like the leaves in the woods, and Deerfoot and his friends will die without ever hearing their names."
+
+"But you have spent some time on the other side the Mississippi, and must know something of your race there."
+
+"Deerfoot has seen the Osages hunting among the mountains and in the forest; has seen the Miamis, and, to the northward, may be met the Sacs and Foxes. Far toward the ice of the North is the land of the Assiniboine and the Dacotah."
+
+"I should like to know where you gathered all that information?" remarked the amazed Jack Carleton; "the country beyond the Mississippi is greater than that on this side, and one of these days it will overflow with population, then what a country ours will be!" exclaimed the young patriot, with kindling eye. "But you and I, Deerfoot, can never live to see that time, which is for those that come after us."
+
+"Yaw," said Otto, seeming to feel it his duty to say something; "dere is enough land over dere, I 'spose, for that horse to hide a week before I don't catch him."
+
+Jack intimated that he was likely to find his search extended beyond that time, while Deerfoot smiled over the simplicity of the lad, whose information was so small compared with his opportunities.
+
+Conversing in this pleasant manner, the meal was soon finished, and they made ready to cross the river.
+
+When the three emerged from the woods they were close to the swiftly flowing current. Jack and Otto paused, while Deerfoot walked the few rods necessary to find the canoe that had been drawn up the bank.
+
+Both the boys could swim the Mississippi if necessary, though, with their rifles and clothing to take care of, it was anything but a light task. Had they been without any boat at command, they would have divested themselves of their garments and placed them and their "luggage" on it small float, while they swam behind and pushed it forward.
+
+When the emigrants moved westward they halted long enough on the bank to construct a raft, sufficient to carry everything in the course of several trips back and forth. Otto made preparation when he reached the river some days before on horseback, and, forcing the animal into the current, slipped back, grasped his tail and allowed himself to be towed across. He might have done the same on the preceding day had he been given a few minutes in which to make preparation, and had he not been unwilling to leave his friend behind.
+
+"But it will beat all that," remarked Jack Carleton, after they had discussed the different plans, "to be paddled over in the canoe of Deerfoot."
+
+"Yaw, but I dinks dot we should go across last, night."
+
+"What would we have gained by that?"
+
+"Then we wouldn't have to go ober agin dis mornings."
+
+"True, but there is no haste called for; if it was not that I am so anxious to see mother, I would as lief spend a week on the road."
+
+"Dot wouldn't do for me, for mine fader would be looking for me wid two big gads to him—"
+
+"Helloa! Here comes Deerfoot. What can be the matter? He is excited over something."
+
+Such was the fact, indeed, for the sagacious Shawanoe had made an annoying if not alarming discovery.

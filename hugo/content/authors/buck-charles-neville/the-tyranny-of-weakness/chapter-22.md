@@ -1,0 +1,129 @@
+---
+title: "Chapter 22"
+weight: 22
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-22.html"
+---
+
+As they took their seats at the table reserved for them, a conflict of emotions made difficulty of conversation for two members of the trio.
+
+Their prefatory talk ran along those lines of commonplace question and answer in which the wide gap between their last meeting and the present was bridged.
+
+This, reflected Eben, was a part of the play designed to create and foster the impression that they had really been as completely out of touch as they pretended.
+
+"And so you left us, an unknown, and return a celebrity!" Conscience's voice and eyes held a hint of raillery which made Stuart say to himself: "Thank God she has not let the fog make her colorless."--"When I saw you last you were starting up the ladder of the law toward the Supreme Court--and now you reappear, crowned with literary distinction."
+
+A thought of those days when he had closed his law books and his house in Virginia to begin looking out on the roofs and chimney pots of old Greenwich village, rose to the Virginian's mind. It had all been an effort to forget. But he smiled as he answered.
+
+"I'm afraid it's a little early to claim celebrity. To-morrow morning I may read in the Providence papers that I'm only notorious."
+
+"You must tell me all about the play. You feel confident, of course?" she eagerly demanded. "It seems incredible that you were having your première here to-night and that I knew nothing of it--until now."
+
+It not only seemed incredible, mused Eben: It was incredible. He was speculating upon what would have happened had he really been as blind as he was choosing to appear.
+
+"They say," smiled Stuart, "that every playwright is confident at his first opening--and never afterwards."
+
+It was hard for him to carry on a censored conversation, sitting here at the table with his thoughts falling into an insistent refrain. He had always known Conscience Williams and this was Conscience Tollman. He had told himself through years that he had succeeded ill in his determined effort of forgetting her; yet now he found her as truly a revelation in the vividness of her charm and the radiance of her beauty as though he had brought faint memories--or none--to the meeting. His blood was tingling in his arteries with a rediscovery which substituted for the old sense of loss a new and more poignant realization. It would have been better had he been brusque, even discourteous, replying to the morning's invitation that he was too busy to accept. But he had come and except for that first moment of astonishment Conscience had been gay and untroubled. She at least was safe from the perils which this reunion held for him. So, as he chatted, he kept before his thoughts like a standard seen fitfully through the smoke of battle the reminder, "She must feel, as she wishes to feel, that it has left me unscathed."
+
+"But, Stuart," exclaimed Conscience suddenly, "all these night-long rehearsals and frantic sessions of rewriting must be positive deadly. You look completely fagged out."
+
+Farquaharson nodded. His weariness, which excitement had momentarily mitigated had returned with a heavy sense of dreariness. He was being called upon now not to rehearse a company in the interpreting of his three-act comedy, but to act himself, without rehearsal, in a drama to which no last act could bring a happy ending.
+
+"I am tired," he admitted. "But to-night tells the story. Whichever way it goes I'll have done all I can do about it. Then I mean to run away somewhere and rest. After all fatigue is not fatal."
+
+But Mrs. Tollman was looking at the ringed and shadowed eyes and they challenged her ready sympathy. This was not the splendidly fit physical specimen she had known.
+
+"Yes, you must do that," she commanded gravely, then added in a lighter voice: "I'd always thought of the first night of a new play as a time of keen exhilaration and promise for both author and star."
+
+"Our star is probably indulging in plain and fancy hysterics at this moment," he said with a memory of the last glimpse he had had of that illustrious lady's face. "And as for the author, he is dreaming chiefly of some quiet spot where one can lie stretched on the beach whenever he isn't lying in his bed." He paused, then added irrelevently, "I was thinking this morning of the way the breakers roll in across the bay from Chatham."
+
+Eben had been the listener, a rôle into which he usually fell when conversation became general, but now he assumed a more active participation.
+
+"Chatham is quite a distance from us, Mr. Farquaharson," he suggested, "but it's only about two hundred yards from our terrace to the float in the cove. However, you know that cove yourself."
+
+Into Farquaharson's face came the light of keen remembrance. Yes, he knew that cove. He and Conscience had often been swimming there. He wondered if, on a clear day, one could still see the schools of tiny fishes twelve feet below in water translucently blue.
+
+"Yes," he acknowledged, "I haven't forgotten the cove. It opens through a narrow channel into the lesser bay and there used to be an eel pot near the opening. Is that eel pot still there?"
+
+Eben Tollman smiled. His manner was frankly gracious, while it escaped effusiveness.
+
+"Well, now, Mr. Farquaharson," he suggested, "I can't say as to that, but why don't you come and investigate for yourself? You can leave by the noon train to-morrow and be with us in a little over two hours--I wish we could wait and see your play this evening, but I'm afraid I must get back to-day."
+
+An instinctive sense of courtesy alone prevented Stuart's jaw from dropping in amazement. He remembered Eben Tollman as a dour and illiberal bigot whom the community called mean and whom no man called gracious. Had Conscience, by the sunlight of her spontaneity and love wrought this miracle of change? If so she was more wonderful than even he had admitted.
+
+"It's good of you, Mr. Tollman," he found himself murmuring, "but I'm afraid that's hardly possible."
+
+"Hardly possible? Nonsense!" Tollman laughed aloud this time. "Why, you've just been telling us that you were on the verge of running away somewhere to rest--and that the only undecided point was a choice of destination."
+
+Stuart glanced hurriedly toward Conscience as if for assistance, but her averted and tranquil face told him nothing. Yet under her unruffled composure swirled a whirlpool of agitation and apprehension, greater than his own.
+
+In a spirit of amazement, she had heard her husband tender his invitation.
+
+Now as Stuart sat across the table, she was rediscovering many little tricks of individuality which had endeared him as a lover, or perhaps been dear because he was her lover, and in the sum of these tremendous trifles lay a terrific danger which she did not underestimate. His presence would mean comparison; contrast between drab reality and rainbow longings.
+
+But how could she hint any of these things to the husband who, by his very invitation, was proving his complete trust, or the lover to whom she must seem the confidently happy wife?
+
+"I'm sure Conscience joins me in insisting that you come," went on Mr. Tollman persuasively. "You can wear a flannel shirt and do as you like because we are informal folk--and you would be a member of the family."
+
+That was rather a long speech for Eben Tollman, and as he finished Conscience felt the glances of both men upon her, awaiting her confirmation.
+
+She smiled and Stuart detected no flaw in the seeming genuineness of her cordiality.
+
+"We know he likes the place," she announced in tones of whimsical bantering, "and if he refuses it must mean that he doesn't think much of the people."
+
+Stuart was so entirely beguiled that his reply came with instant repudiation of such a construction.
+
+"When to-morrow's train arrives," he declared, "I will be a passenger, unless an indignant audience lynches me to-night."
+
+They had meant to meet surreptitiously, mused Eben Tollman, and being thwarted, they had juggled their conversation into an exaggeration of innocence. Conscience's face during that first unguarded moment in the dining-room had mirrored a terror which could have had no other origin than a guilty love. His own course of conduct was clear. He must, no matter how it tried his soul, conceal every intimation of suspicion. The geniality which had astonished them both must continue with a convincing semblance of genuineness. Out of a pathetic blindness of attitude he must see, eagle-eyed.
+
+But Conscience, as they drove homeward, was reflecting upon the frequent miscarriage of kindness. Her husband had planned for her a delightful surprise and his well-meaning gift had been--a crisis.
+
+Stuart sat that night in the gallery of the Garrick theater with emotions strangely confused.
+
+Below him and about him was such an audience as characterizes those towns which are frequently used as experimental stations for the drama. It regarded itself as sophisticated in matters theatrical and was keenly alive to the fact that it sat as a jury which must not be too provincially ready of praise.
+
+Yet the author, hiding there beyond reach of the genial Grady, and the possibility of a curtain call, was not thinking solely of his play. Stones had been rolled to-day from tombs in which he had sought to bury many ghosts of the past. With the resurrection came undeniable fears and equally undeniable flashes of instinctive elation. He was seeing Conscience, not across an interval of years but of hours--and to-morrow he was to see her again.
+
+When the first act ended the man who had written the comedy became conscious that he had followed its progress with an incomplete absorption, and when the curtain fell, to a flattering salvo of applause, he came, with a start, back from thoughts foreign to the theater.
+
+The conclusion of the second act, with its repeated curtain calls and its cries of "Author, Author!" assured him that his effort was not a failure, and when at last it was all over and he stood in the wings congratulating the members of his company, the wine of assured success tingled in his veins--and his thoughts were for the moment of that alone.
+
+"They don't hate us quite so much now," said Mr. Grady as he clapped a hand on Stuart's shoulder. "The thing is a hit--and for once I've got a piece that I can take into town without tearing it to pieces and doing it over."
+
+Yet in his room afterward he paced the floor restively for a long while before he sought his bed.
+
+He was balancing up the sheets of his life to date. On the credit side were such successes as most men would covet, but on the debit side stood one item which offset the gratification and left a heavy balance.
+
+This visit of to-morrow was a foolish thing. It might be wiser to telegraph Tollman that unexpected matters had developed, necessitating a change of plan.
+
+It is a rash courage which courts disaster. From the small writing desk near his bed he took a telegraph blank, but when he had written, torn up and rewritten the message he halted and stood dubiously considering the matter. The hand which had been lifted to ring for a bell-boy fell at his side.
+
+After all this was simply a running away from the forms of danger while the danger itself remained. Into such action Conscience must read his fear to trust himself near her--and he had undertaken to make her feel secure in her own contentment. It was too late to draw back now. He must go through with it--but he would make his stay brief and every moment must be guarded.
+
+At noon the next day he dropped, clad in flannels, from the train at the station. It had been a hot trip, but even with a cooler temperature he might not have escaped that slight moisture which excitement and doubt had brought to his temples and his palms.
+
+These miles of railway travel since he had reached the Cape had been so many separate reminders of the past and he had not arrived unshaken.
+
+But there on the platform stood Conscience Tollman, with a serene smile of welcome on her lips, and as the chauffeur took his bags she led him to the waiting car.
+
+"Come on," she said, as though there had been no lapse of years since they had stood here before, "there's just time to get into our bathing suits and have a swim before luncheon."
+
+The main street of the village with the shade of its elms and silver oaks, and the white of tidy houses, setting among flowers, was a page out of a book long closed; a book in which had been written the most unforgettable things of life. Besides well-remembered features, there were details which had been forgotten and which now set free currents of reminiscence--such as the battered figurehead of an old schooner raised on high over a front door and a wind-mill as antique of pattern as those to which Don Quixote gave battle.
+
+And when the winding street ran out into a sandy country road Stuart found himself amid surroundings that teemed with the spirit of the past.
+
+But over all the bruising comparisons of past and present, the peace of the sky was like a benediction, and his weariness yielded to its calming influence. He had been away and had come back tired, and for the present, it was better to ignore all the revolutionary changes that lay between then and now.
+
+They talked about trivial things, along the way, with a lightness of manner, which was none the less as delicately cautious as the footsteps of a cat walking on a shelf of fragile china. Each felt the challenge and response of natures keyed to the same pitch of life's tuning fork.
+
+"Why are all the Cape Cod wagons painted blue and all the barn doors green?" asked the man, and Conscience demanded in return, "Why does everything that man controls in New England follow a fixed color of thought?"
+
+When the car drew up before the house which he remembered as a miser's abode, his astonishment was freshly stirred. Here was a place transformed, with a dignified beauty of residence and grounds which could scarcely be bettered.
+
+"How did the play go?" demanded Tollman from the doorway, with an interest that seemed as surprising as that of a Trappist Abbot for a matter of worldliness. "The papers came on the train with you, so we haven't had the verdict, yet."
+
+And then while Stuart was answering Conscience enjoined him that, if they were to swim before lunch, time was scant and these amenities must wait.
+
+"Aren't you going in?" demanded the visitor and the host shook his head with an indulgent smile.
+
+"No," he answered. "That's for you youngsters. I may drop down to the float later, but, barring accident, I stay out of salt water."

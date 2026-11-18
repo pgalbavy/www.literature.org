@@ -1,0 +1,35 @@
+---
+title: "Chapter 33 - Driven To The Wall"
+weight: 33
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-33.html"
+---
+
+The discovery which checked Oscar Gleeson was the presence of nearly all the Comanches within a hundred feet of the warriors that were holding their conference with him. The signs could not be mistaken, and the Texan abandoned the hopeless scheme he had formed.
+
+The Texan thus found himself forced back upon the original proposition of Wygwind, which was the ransom of the wounded captain for twenty horses. The price under the circumstances was large, but it could not be questioned that the principal individual concerned would have paid far more, for "what will not a man give in exchange for his life?"
+
+It remained to decide upon the method of carrying out the agreement, and again the wily Wygwind displayed his shrewdness. When the Texan referred in his offhand manner to himself and friends as bringing forward the animals to be passed to these two representatives, the Comanche replied that no one but Gleeson himself must act in the transaction. His appearance on the crest of the ridge, with the string of horses, would be the signal for Wygwind and Richita to bring forward Captain Shirril and to release him simultaneously with the driving forward of the animals. The exchange, therefore, could be effected without either party gaining the upper hand.
+
+It was thus the Comanche stated the situation, and on the face of it, everything appeared equitable, but it was hard for the Texan to repress his chagrin, for he saw that every possible advantage remained with the red men. They would group themselves among the hills, so near that not only the prisoner, but Gleeson himself would be within range of their rifles, until the last act of the drama should be completed. There was no chance for any dash on the part of the cowboys, by which they could secure their leader and save their property. Had the Texan been allowed to bring his party with him, such an attempt would have followed with a fair prospect of success.
+
+But he had learned long before to accept the ills of life with grim philosophy, and he did not permit the diplomats to observe any evidence of his resentment at being overreached by them. While he was convinced that they would neglect no opportunity to break faith, he acted as if there was not a doubt in his mind.
+
+The agreement required him to return to camp to secure the animals, and he intimated that considerable time must elapse before the exchange could be effected. Wygwind assured him he would be on the watch for his appearance, and, whatever delay took place should not be chargeable to *him*. With this understanding, the Texan wheeled and galloped toward the ridge, beyond which he knew his comrades were awaiting his return and report.
+
+It was received as he expected; that is to say, the views of his friends were almost as numerous as themselves. Ward, Burrell, and Andy Wynwood, the cowboys from Arkansas, declared that there was but one thing to do, and that was to accept the terms offered. Gleeson was quite certain the Comanches would fulfil their part in spirit and letter, for they could not fail to know that any attempted trickery on their part would be followed by an attack so instant and fierce that they must suffer severely, even with the hill to serve them for refuge.
+
+Zach Collis took the opposite view, maintaining that the only result of the plan would be that the Comanches would secure twenty valuable ponies without benefiting Captain Shirril in the least. They were so villainous by nature that they would shoot him down, after he had left their lines, and more than likely would bring Gleeson himself from the saddle. The New Mexican favored a pretended compliance with the proposition. He wished all to ride to the ridge with the horses, where they would halt, while the Texan went forward with them. This would not violate the conditions imposed by Wygwind, and they could watch proceedings from the elevation. At the proper moment, when Gleeson saw the captain was out of range, he could give the signal and the company on the ridge would spur forward at headlong speed, with the certain result of making matters lively for a time.
+
+Joseph George Garland advocated a fair exchange through and through. He insisted what no one could dispute, that the red men had secured the upper hand, and it was fortunate that they were willing to restore the captain on any terms. If they complied with their pledge, honor required the whites to be equally scrupulous in fulfilling their agreement. When their leader rejoined them, the twenty horses became the rightful property of the Comanches, though he was willing to admit they were subject to reprisal.
+
+Antonio Nunez shrugged his shoulders and said he was willing to do whatever the others decided upon. He had no proposition of his own to make.
+
+"Where's Baby?" asked Gleeson, looking around with surprise, having missed him for the first time. "I would like to know what *he* thinks, since every pard has his own views."
+
+The enquiry developed the fact that Avon Burnet had not returned to camp since his departure with Captain Shirril and Shackaye. Had the others not been so busily occupied, immediately after their own return, in looking after the cattle, they would have noticed that he remained seated on his horse for some minutes on the crest of the ridge.
+
+"I know," said the Texan, after studying the "lay of the land" for some minutes. "He has ridden along the ridge on this side and got among the hills back of where I was talking with Wygwind."
+
+"What'll be the result of *that*?" asked Hauser Files, who had not yet expressed his views of the situation.
+
+"It will play the mischief with everything," was the truthful reply of the Texan, who added excitedly: "There he comes now as if old Nick was after him!"

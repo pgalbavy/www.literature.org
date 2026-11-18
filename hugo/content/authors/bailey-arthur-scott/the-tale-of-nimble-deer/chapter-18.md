@@ -1,0 +1,39 @@
+---
+title: "Chapter 18 - The Muley Cow"
+weight: 18
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-18.html"
+---
+
+Nimble Deer was a famous jumper. And so was the Muley Cow. In Farmer Green's herd there was no other that could match her.
+
+Living as he did in the pasture, Billy Woodchuck had often seen and admired the Muley Cow as she jumped the fence in order to get into the clover patch, or the cornfield, or the orchard.
+
+And Jimmy Rabbit, who lived in the woods, had come to believe--and even boast--that there wasn't anyone that could jump higher than Nimble Deer.
+
+So Billy Woodchuck and Jimmy Rabbit could never agree upon this question of the best jumper in Pleasant Valley. And there was only one way to settle their difference of opinion. Old Mr. Crow told them that.
+
+"You must have a contest," he declared.
+
+And everybody was willing. The Muley Cow said (when asked) that she would be delighted. And when Nimble Deer heard of the plan he ran all the way to the back pasture at once. For that was where Mr. Crow said the contest ought to take place.
+
+Nimble reached the back pasture just in time to see the Muley Cow arrive there. She leaped the fence. And at the same time she grazed the top rail.
+
+"Good morning, madam!" Nimble said to the Muley Cow. And while she was answering him Nimble jumped the fence into the pasture from which the Muley Cow had come; and then he jumped back again, into the back pasture. And he didn't touch the fence by so much as a single hair.
+
+Then Billy Woodchuck crawled under the fence and came hurrying up.
+
+"What are you doing?" he asked.
+
+"I'm just stretching my legs a bit," Nimble explained. At that answer Billy Woodchuck set up a loud clamor. "It's not fair!" he howled. "I expected the Muley Cow to win the contest. But if you're going to stretch your legs she'll certainly be beaten unless she stretches hers too."
+
+Now, old Mr. Crow was on hand to see the fun. And not being very friendly with the Muley Cow he didn't want her to win the contest. So he began to squall.
+
+"She mustn't stretch her legs any more than Nimble stretches his," he objected in his hoarse croak. "Nimble jumped the fence twice to stretch his legs. She has jumped once already. Let her jump the fence once more and then they'll be even and the real contest can begin."
+
+"That's fair enough," said Jimmy Rabbit. But Billy Woodchuck began to chatter and scold.
+
+"It's a trick--a trick of Mr. Crow's!" he cried. "If the Muley Cow jumps once more to stretch her legs she'll be on the wrong side of the fence. She won't be in the back pasture then. And how could she have the contest with Nimble Deer?"
+
+Old Mr. Crow gave a loud haw-haw. But he still insisted that the Muley Cow might have only one more leg-stretching jump, when Jimmy Rabbit hurried up to him and said something nobody else could hear. And Mr. Crow listened and then nodded his head.
+
+"It's all right," the old gentleman told Billy Woodchuck. "Let the Muley Cow stretch her legs all she likes."

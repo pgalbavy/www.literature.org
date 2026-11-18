@@ -1,0 +1,241 @@
+---
+title: "Chapter 17"
+weight: 17
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-17.html"
+---
+
+When, in accordance with Baird's instructions, Susan Chapman took the note to Miss Starkweather, she walked through the tree-shaded streets, feeling as if she had suddenly found herself in a foreign country. To the inhabitants of Janway's Mills, certain parts of Willowfield stood for wealth, luxury, and decorous splendour. The Mills, which lived within itself, was easily impressed. Its--occasionally resentful--respect for Willowfield was enormous. It did not behold it as a simple provincial town, whose business establishments were primitive, and whose frame houses, even when surrounded by square gardens with flower-beds adorning them, were merely comfortable middle-class abodes of domesticity. It was awed by the Willowfield Times, it revered the button factory, and bitterly envied the carriages driven and the occasional festivities held by the families of the representatives of these monopolies. The carriages were sober and middle-aged, and so were the parties, but to Janway's Mills they illustrated wealth and gaiety. People drove about in the vehicles and wore fine clothes and ate cakes and ice-cream at the parties--neither of which things had ever been possible or ever would become possible to Janway's.
+
+And Susan, who had been a Pariah and an outcast at the Mills, was walking through the best streets, carrying a note from the popular minister to the rich Miss Starkweather, who had an entire square white frame house and garden, which were her own property.
+
+The girl felt a little sullen and a little frightened. She did not know what would happen to her; she did not know how she would be expected to carry herself in a house so representative of wealth and accustomedness to the good things of life. Perhaps if she had not been desperate, and also, if she had not known that Miss Starkweather had been fond of Margery, she would have evaded going to her.
+
+"I wonder what she'll say to me," she thought. "They say she's queer."
+
+She still felt uncertain and resentful when she stood upon the threshold and rang the bell. She presented a stolid countenance to the maid servant who opened the door and received her message. When she was at last taken to Miss Amory, she went with an unresponding bearing, and, being led into a cheerful room where the old woman sat, stood before her waiting, as if she had really nothing to do with the situation.
+
+Miss Amory looked rather like some alert old hawk, less predatory by instinct than those of his species usually are.
+
+"You are Susan Chapman, and come from Mr. Baird," she said.
+
+Susan nodded.
+
+"He says he met you at Mr. Latimer's."
+
+"Yes. I went there to ask something. I couldn't bear not to know--no more than I did."
+
+"About----?" asked Miss Amory.
+
+"About Margery," her voice lowering unconsciously.
+
+"How much did you know?" Miss Amory asked again.
+
+"Nothin'," rather sullenly, "but that she was ill--an' went away an' died."
+
+"In Italy, they say," put in Miss Amory--"lying on a sofa before an open window--on a lovely day, when the sun was setting."
+
+Susan Chapman started a little, and her face changed. The unresponsiveness melted away. There was something like a glow of relief in her look. She became human and lost sight of Miss Amory's supposed grandeur.
+
+"Was it like that?" she exclaimed. "Was it? I'm thankful to you for telling me. Somehow I couldn't ask properly when I was face to face with her brother. You can't talk to him. I never knew where--or how--it was. I wanted to find out if--if it was all right with her. I wanted to know she hadn't suffered."
+
+"So did I," Miss Amory answered. "And that was what they told me."
+
+She passed her withered hand across her face.
+
+"I was fond of her," she said.
+
+"I'd reason to be," returned Susan. "She was only a delicate little young thing--but she came an' stayed by me when I was in hell an' no one else would give me a drop of water to cool my tongue."
+
+"I know something about that," said Miss Amory; "I have heard it talked of. Where's your child?"
+
+Susan did not redden, but the hard look came back to her face for a moment.
+
+"It didn't live but a few minutes," she answered.
+
+"What are you doing for your living?"
+
+A faint red showed itself on the girl's haggard cheeks, and she stared at her with indifferent blankness.
+
+"I worked in the mill till my health broke down for a spell, an' I had to give up. I'm better now, but I've not got a cent to live on, an' my place was filled up right away."
+
+"Where's the man?" Miss Amory demanded.
+
+"I don't know. I've never heard a word of him since he slid off to Chicago."
+
+"Humph!" said Miss Amory.
+
+For a moment or so she sat silent, thinking. She held her chin in her hand and pinched it. Presently she looked up.
+
+"Could you come and live with me for a month?" she enquired. "I believe we might try the experiment. I daresay you would rub me when I want rubbing, and go errands and help me up and down stairs and carry things for me. It just happens that my old Jane has been obliged to leave me because she's beginning to be as rheumatic as I am myself, and her daughter offers her a good home. Would you like to try? I don't promise to do more than make the experiment."
+
+The girl flushed hot this time, as she looked down on the floor.
+
+"You may guess whether I'm likely to say 'yes' or not," she said. "I ain't had a crust to-day. I believe I could learn to suit you. But I never expected anything as good as this to happen to me. Thank you, ma'am. May I--when must I come?"
+
+"Take off your bonnet and go and have your dinner, and stay now," answered Miss Amory.
+
+When John Baird called later in the day, Miss Amory was walking in the sun in her garden and Susan was with her, supporting her stiff steps. She had been fed, her dress had been changed for a neat print, and the dragged lines of her face seemed already to have relaxed. She no longer wore the look of a creature who is hungry and does not know how long her hunger may last and how much worse it may become.
+
+"I am much obliged to you, Miss Amory," Baird said when he joined her, and he said it almost impetuously. To-day he was in the state of mind when even vicarious good deeds are a support and a consolation. To have been a means of doing a good turn even to this stray creature was a comfort.
+
+Miss Amory removed her hand from Susan's arm and allowed Baird to place it on his own. The girl went away in obedience to a gesture.
+
+"She will do," said Miss Amory, "and it is a home for her. She's not stupid. If she fulfils the promise of her first day I may end by interesting myself in developing her brains. She has brains. The gray matter is there, but it has never moved much so far. It will be interesting to set it astir. But it was not that I thought of when I took her."
+
+"You took her out of the kindness of your heart," said Baird.
+
+"I took her for that poor, dead child's sake," returned Miss Amory.
+
+"For----" Baird began.
+
+"For Margery's sake," put in Miss Amory. "Margery Latimer. When Susan was in trouble the child was a tender little angel to her. Lord! what a pure little heart it was!"
+
+"As pure as young Eve's in the Garden of Eden--as pure as young Eve's," murmured Baird.
+
+"Just that!" said Miss Amory, rather sharply. "How do you know it?" And she turned and looked at him. "You have heard her brother say a good deal of her."
+
+"Yes, yes," Baird answered. "She seems to have been the life of him."
+
+"Well, well!" with emotional abruptness. "I took this girl for her sake. Her short life was not wasted if another's is built upon it. That's one of my fantastic fancies, I suppose. Stop a minute."
+
+The old woman paused a few moments on the garden walk and turned her face upward to look at the blue height and expanse of sky. There was a shade of desperate appeal or question on her uplifted, rugged countenance.
+
+"When the world gets too much for me," she said, "and I lose my patience with the senselessness of the tragedy of it, I get a sort of courage from looking up like this--into the height and the still, clear blueness. It sends no answer back to me--that my human brain can understand--but it makes me feel that perhaps there is no earth at all. I get out of it and away."
+
+"I know--I know--though I am not like you," Baird said, slowly.
+
+Miss Amory came back to earth with a curious look in her eyes.
+
+"Yes," she answered, "I should think that perhaps you are one of those who know. But one has to have been desperate before one turns to it as a resource. It's a last one--and the unmerciful powers only know why we should feel it a resource at all. As I said, it does not answer back. And we want answers--answers."
+
+Then they went on walking.
+
+"That poor thing has been a woman at least," said Miss Amory. "I have been a sort of feminine automaton. I have been respectable and she has not. All good women are not respectable and all respectable women are not good. That's a truism so absolute that it is a platitude, and yet there still exist people to whom it would appear a novel statement. That poor creature has loved and had her heart broken. She has suffered the whole gamut of things. She has been a wife without a name, a mother without a child. She is full of crude tragedy. And I have found out already that she is good--good."
+
+"What is goodness?" asked Baird.
+
+Miss Amory gave him another of her sharp looks.
+
+"You are drawing me out," she said. "I'm not really worth it. Goodness is quite different from respectability. Respectability is a strict keeping of the laws men have made to oblige other men to do or not to do the things they want done or left undone. The large meaning of the law is punishment. No law, no punishment; no punishment, no law. And man made both for man. If you keep man's law you will be respectable, but you may not be good. Jesus Christ was not respectable--no one will deny that. Goodness, after all, means doing all kindness to all creatures, and, above all, doing no wrong to any. That's all. Are you good?"
+
+"No," he answered, "I am not."
+
+"You would probably find it more difficult to be so than I should," she responded. "And I find it hard enough--without being handicapped by beauty and the pleasure-loving temperament. You were started well on the road to the devil when you were born. Your very charms and virtues were ready to turn out vices in disguise. But when such things happen----" and she shrugged her lean shoulders. "As we have no one else to dare to blame, we can only blame ourselves. In a scheme so vague every man must be his own brake."
+
+Baird drew a sharp breath. "If one only knew that early enough," he exclaimed.
+
+Miss Amory laughed harshly.
+
+"Yes," she said, "part of the vagueness of the scheme--if it is a scheme--is that it takes half a lifetime to find it out. Before that, we are always either telling ourselves that we are not going to do any harm, or that we are under the guidance of a merciful Providence."
+
+"That we are not going to do any harm," Baird repeated, "that we are not going to do any harm. And suddenly it's done."
+
+"And can't be undone," Miss Amory added. "That's it."
+
+The girl, Susan Chapman, was watching them from a window as they walked and talked. She bit her lips anxiously as she stood behind the curtain. She was trying to imagine what they might be saying to each other. Suppose it was something which told against her. And why should it not be so? What good could be said? Janway's Mills had borne in upon her the complete sense of her outcast state. While professing a republican independence of New England spirit, the place figuratively touched its forehead to the earth before Miss Starkweather. She lived on an income inherited from people who had owned mills instead of working them; who employed--and discharged--hands. She would have been regarded as an authority on any subject, social or moral. And yet it was she who had spoken the first lenient word to a transgressor of the unpardonable type. Susan had been dumfounded at first, and then she had begun to be afraid that the leniency arose from some mistake Miss Amory would presently discover.
+
+"Perhaps he's heard and he's telling her now," she said, breathlessly, as she looked into the garden. "Maybe she'll come in and order me out." She looked down at her clean dress, and a sob rose in her throat at the realisation of the mere physical comfort she had felt during the last hour or two--the comfort of being fed and clothed and enclosed within four walls. If she was to be cast back into outer darkness again it would be better to know at once.
+
+When Baird had gone away and Miss Amory was sitting by her window, Susan appeared before her again with an ashen complexion and a set look. She stood a moment, hesitating, her hands clasping her elbows behind her back.
+
+"You want to say something to me?" said Miss Amory.
+
+"Yes," the girl answered. "Yes, I do--an' I don't know how. Are you sure, ma'am, are you sure you know quite how bad I have been?"
+
+"No," said Miss Amory; "sit down and tell me, Susan."
+
+She said it with an impartiality so serenely free from condemnation that Susan's obedient sitting down was almost entirely the result of not being able to stand up. She, so to speak, fell into a chair and leaned forward, covering her face with her hands.
+
+"I don't believe you know," she whispered.
+
+"By experience I know next to nothing," Miss Amory answered, "but my imagination and my reason tell me a great deal. You were not married and you had a child. You lost your health and your work----"
+
+"I would have worked," said the girl from behind her hands, sobbingly, but without tears. "Oh, I would have worked till I dropped--I did work till I dropped. I kept fainting--Oh! I would have been glad and thankful and grateful----"
+
+"Yes," said Miss Amory, "life got worse and worse--they all treated you as if you were a dog. Those common virtuous people are like the torturers of the Inquisition. You were hungry and cold--cold and hungry----"
+
+"You don't know what it's like," Susan moaned. "You don't know. When you get sick and hollow and cramped, and stagger about in your bare room--and call out to yourself to ask what made you and where is it. And the wind's like ice--and you huddle in a heap----"
+
+"And there are lights in the streets," said Miss Amory, "and it seems as if there must be something there to be given to you by somebody--somebody. And you go out."
+
+Susan got up, panting, and stared at her.
+
+"You do know," she cried, almost with passion. "Somehow you've found out what it's like. I wanted you to know. I don't want you--not to understand and then of a sudden to send me away. I'm so afraid of you sending me away."
+
+"I shall not send you away for anything you have done in the past," said Miss Amory.
+
+"I don't know what I should have done in the future, if you hadn't taken me in," Susan said. "Perhaps I should have thrown myself under a train. But, oh!" with starting dampness in her skin, which she wiped off with a sick gesture, "I did hate to let myself think of it. It wasn't the being killed--that's nothing--but feeling yourself crushed and torn and twisted--I used to stand and shake all over thinking of it. And I couldn't have gone on. I hated myself--I hated everything--most of all I hated the Thing that made me. What right had it? I hadn't done nothing to it before I was born. Seemed like it had made me just for the fun of pushing me under them wheels and seeing them tear and grind me. Oh! how I hated it!"
+
+"So have I," said Miss Amory, her steady eyes looking more like a hawk's than ever.
+
+Susan stared more than before. "I suppose I ought to have hated Jack Williams," she went on, her throat evidently filling, "but I never did. I loved him. Seemed like I was just his wife, that it did. I believe it always will. That's the way girls get into trouble. Some man that's got an affectionate way makes 'em believe they're as good as married. An' then they find out it's all a lie."
+
+"Perhaps some day you may see Jack Williams again," said Miss Amory.
+
+"He wouldn't look at me," answered Susan.
+
+"Perhaps you wouldn't look at him," Miss Amory remarked, with speculative slowness.
+
+"Yes, I would," said Susan, "yes I would. I couldn't trust him same as I did before--'cause he's proved he ain't to be trusted. But if he wanted me to marry him I couldn't hold out, Miss Starkweather."
+
+"Couldn't you?" Miss Amory said, still speculative. "No--perhaps you couldn't."
+
+The girl wiped her eyes and added, slowly, almost as if she was thinking aloud:
+
+"I'm not one of the strong ones--I'm not one of the strong ones--no more than little Margery was."
+
+She said the last words with a kind of unconscious consciousness. While she uttered them her mind had evidently turned back to other times--not her own, but little Margery's.
+
+Miss Amory drew a deep breath. She took up her knitting. She asked a question.
+
+"You knew her very well--Margery?"
+
+Susan drew her chair closer and looked in the old face with uncertain eyes.
+
+"Miss Starkweather," she said, "do you think that a girl's being--like me--would make her evil-minded? Would it make her suspicion things, and be afraid of them--when there wasn't nothin'? I should think that it would," quite wistfully.
+
+"It might," answered Miss Amory, her knitting-needles flying; "but for God's sake don't call yourself evil-minded. You'd be evil-minded if you were glad to suspect--not if you were sorry and afraid."
+
+"Glad!" with a groan. "Oh, Lord, I guess not. But I might be all wrong all the same, mightn't I?"
+
+"Yes, you might."
+
+"I loved her--oh, Lord, I did love her! I'd reason to," the girl went on, and her manner had the effect of frightened haste. "I've suffered awful sometimes--thinkin' in the night and prayin' there wasn't nothin'. She was such a delicate, innocent little thing. It would have killed her."
+
+"What were you afraid of?"
+
+"Oh, I don't know," Susan answered, hysterically. "I don't. I only knew she couldn't bear nothin' like--like lyin' awake nights gaspin' an' fightin' with awful fear. She couldn't--she couldn't."
+
+"But there are girls--women, who have to bear it," said Miss Amory. "Good God, who have to!"
+
+"Yes--yes--yes," cried Susan. She drew her hand across her brow as if suddenly it felt damp, and for a moment her eyes looked wild with a memory of some awful thing. "I told her so," she said.
+
+Miss Amory Starkweather turned in her chair with something like a start.
+
+"You told her so," she exclaimed.
+
+Susan stared out of the window and her voice fell.
+
+"I didn't go to," she answered. "It was like this. That last time she came to see me--to tell me how ill she was and how Lucien was going to take her away--I'd been lookin' at the little clothes I'd got ready for--it." The tears began to roll fast down her cheeks. "Oh, Miss Starkweather! they was lyin' on the bed--an' she saw 'em an' turned as white as a sheet."
+
+"Ugh!" the sound broke from Miss Amory like a short, involuntary groan.
+
+"She said she didn't know how people could bear it," Susan hurried on, "an' I said--just like you did--that they had to bear it."
+
+She suddenly hid her face in her arms.
+
+"You were thinking of yourself," said Miss Amory. She felt and looked a little sick.
+
+"Yes," said Susan, "I was thinkin' of how it is when a girl's goin' to have a child an' can't get away from it--can't--can't. She's got to go through with it--an' no one can't save her. But I suppose it made her think of her death that was comin'--her death that I b'lieve she knowed she was struck for. When I'd said it she looked like some little hunted animal dogs was after--that had run till its breath was gone an' its eyes was startin' from its head. Her little chest went up an' down with pantin'. I didn't wonder when I heard after that she'd dropped in the street in a dead faint."
+
+"Was that the day I picked her up as she lay on the pavement?" Miss Amory asked.
+
+Susan nodded, her face still hidden.
+
+Old Miss Starkweather put out her hand and laid it on the girl's shoulder.
+
+"She has had time to forget," she said, rather as if she was out of breath--"forget and grow quiet. She is dust by now--peaceful dust. Let us--my good girl--let us remember that happy story of how she died."
+
+"Yes," answered Susan, "in Italy--lying before the open window--with the sunset all rosy in the sky."
+
+But her head rested on her folded arms upon her knee, and she sobbed a low, deep sob.

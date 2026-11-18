@@ -1,0 +1,33 @@
+---
+title: "Chapter 5 - Flying Feet"
+weight: 5
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-05.html"
+---
+
+When July brought hot, dry weather and the grass became short in the pasture Johnnie Green no longer turned Twinkleheels out to graze. He kept him in a stall in the barn and fed him oats and hay three times a day.
+
+It was at that time that Johnnie Green made an interesting discovery. A row of currant bushes grew behind the barn. And one day when Johnnie stripped off a few stems of the red fruit and stood in the back door of the barn, eating it, he happened to snap a currant at Twinkleheels.
+
+The result both pleased and surprised him. When the currant struck Twinkleheels he laid back his ears, dropped his head, and let fly with both hind feet.
+
+Johnnie Green promptly forgot that he had intended to eat those currants. One by one he threw them at Twinkleheels. It made no difference where they hit the pony. Whenever he felt one, he kicked. Sometimes he kicked only the air; sometimes his feet crashed against the side of his stall.
+
+Throwing currants at Twinkleheels became one of Johnnie Green's favorite sports. Whenever boys from neighboring farms came to play with him, Johnnie was sure to entertain them by taking them out behind the barn to show them how high he could make Twinkleheels kick.
+
+As a mark of special favor, Johnnie would sometimes let his friends flick a few currants at his pet. And sometimes they would even pelt the old horse Ebenezer, who stood in the stall next to Twinkleheels. There was little fun in that, however. Ebenezer refused to kick. The first currant generally brought him out of a doze, with a start. But after that he wouldn't budge, except perhaps to turn his head and look with a bored expression at the boys in the doorway.
+
+Johnnie Green and his friends were not alone in enjoying this sport. Old dog Spot joined them when he could. Unfortunately, when Twinkleheels kicked, old Spot always wanted to bark. And Johnnie didn't like noise at such times. He and his friends were always amazingly quiet when they were engaged in currant throwing behind the barn. And they were always peering about as if they didn't want to be caught there.
+
+"Run out to the barn and tell your father that dinner's almost ready," Mrs. Green said to Johnnie one day.
+
+"He's not in the barn," Johnnie answered.
+
+"Are you sure?" Mrs. Green asked. "I thought I heard him hammering out there a few minutes ago."
+
+"No!" Johnnie murmured. "Father's in the hayfield."
+
+"That's queer," said his mother. "I was sure I heard hammering.... Well, blow the horn, then! I don't want dinner to spoil."
+
+So Johnnie Green blew several loud blasts on the horn. And he was glad to do it, for it gave him an excuse for having a red face.
+
+He threw no more currants at Twinkleheels that day. Somehow it didn't seem just the wisest thing to do. But the next morning he made Twinkleheels kick a few times. "It's really good for him," Johnnie tried to make himself believe. "He needs the exercise."

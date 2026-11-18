@@ -1,0 +1,113 @@
+---
+title: "Chapter 21 - Cleared Skies"
+weight: 21
+url: "/authors/ostrander-isabel/the-crevice/chapter-21.html"
+---
+
+Just as in autumn, the period of Indian summer brings a reminiscent warmth and sunshine, so sometimes in late winter a day will come now and then which is a harbinger of the not far-distant springtide, like a promise, during present storm and stress, of better things to come.
+
+Such a day, balmy and gloriously bright, found four people seated together in the spacious, sunny morning-room of a great house on Belleair Avenue. A young man, pale and wan as from a long illness, but with a new steadiness and clarity born of suffering in his eyes; a girl, slender and black-robed, her delicate face flushing with an exquisite, spring-like color, her eyes soft and misty and spring-like, too, in their starry fulfillment of love that has been tried and found all-sufficing; another sable-clad figure, but clerically frocked and portly; and the last, a keen-faced, kindly-eyed man approaching middle-age--a man with sandy hair and a mustache just slightly tinged with gray. He might, from his appearance and bearing, have been a great teacher, a great philanthropist, a great statesman. But he was none of these--or rather, let us say, he was all, and more. He was the greatest factor for good which the age had produced, because he was the greatest instrument of justice, the crime-detector of the century.
+
+The pale young man moved a little in his chair, and the girl laid her hand caressingly upon his blue-veined one. She was seated close to him--in fact, Anita was never willing, in these later days, to be so far from Ramon that she could not reach out and touch him, as if to assure herself that he was there, that he was safe from the enemies who had encompassed them both, and that her ministering care might shield him.
+
+Doctor Franklin noted the movement, slight as it was, and cleared his throat, importantly.
+
+"Of course, my dear children," he began, impressively, "if it is your earnest desire, I will perform the marriage ceremony for you here in this room at noon to-morrow. But I trust you have both given the matter careful thought--not, of course, as to the suitability of your union, but the--I may say, the manner of it! A ceremony without a social function, without the customary observances which, although worldly and filled with pomp and vanity, nevertheless are befitted by usage, in these mundane days, to those of your station in life, seems slightly unconventional, almost--er--unseemly."
+
+"But we don't care for the pomp and vanity, and the social observances, and all the rest of it, do we, Ramon?" the girl asked.
+
+Ramon Hamilton smiled, and his eyes met and held hers.
+
+"We only want each other," he said quietly.
+
+"But it seems so very precipitate!" the clergyman urged, turning as if for moral support to the impassive figure of Henry Blaine. "So soon after the shadow of tragedy has crossed this threshold! What will people say?"
+
+A little vagrant breeze, like a lost, unseasonable butterfly, came in at the open window and stirred the filmy curtain, bearing on its soft breath the odor of narcissus from the bloom-laden window-box.
+
+"Oh, Doctor Franklin!" cried the girl, impulsively. "Don't talk of tragedy just now! Spring is so near, and we love each other so! If he--my dear, dead father--can hear, he will understand, and wish it to be so!"
+
+"As you will." The minister rose. "I gave you your name, Anita. I consecrated your father's soul to Heaven, and his body to the dust, and I will give his daughter in marriage to the man he chose for her protector, whenever it is your will. But, Mr. Blaine, what do you say? You seem to have more influence over Miss Lawton than I, although I can scarcely understand it. Don't you agree with me that the world will talk?"
+
+"I do!" responded Henry Blaine fervently. "And I say--let it! It can say of these two children only what I do--bless you, both! Sorrow and suffering and tragedy have taken their quota of these young lives--now let a little happiness and joy and sunshine and love in upon the circumspect gloom you would still cast about them! You ministers are steeped in the spiritual misery of the world, the doctors in the physical; but we crime-specialists are forced to drink of it to its dregs, physical, mental, moral, spiritual! And there is so much in this tainted, sin-ridden world of ours that is beautiful and pure and happy and holy, if we will but give it a chance!"
+
+Doctor Franklin coughed, in a severely condemnatory fashion.
+
+"Now that I have learned your opinion, in a broad, general way, Mr. Blaine, I can understand your point of view in regard to that young criminal, Charles Pennold, when at the time of the trial you used your influence to have him paroled in your custody, instead of being sent to prison, where he belonged."
+
+"Exactly." Blaine's tone was dry. "I firmly believe that there are many more young boys and men in our prisons, who should in reality be in hospitals, or in sheltering, uplifting, sympathetic hands, than there are criminals unpunished. And you, with your broadly, professionally charitable point of view, Doctor," he added with keen enjoyment, "will, I am convinced, be delighted to know that Charley Pennold is doing splendidly. He will develop in time into one of my most trusted, capable operatives, I have no doubt. He has the instinct, the real nose, for crime, but circumstances from his birth and even before that, forced him on the wrong side of the fence. He was, if you will pardon the vernacular, on the outside, looking in. Now he's on the inside, looking out!"
+
+"I sincerely trust so!" the minister responded frigidly and turned to the others. "I will leave you now. If it is your irrevocable desire to have the ceremony at noon to-morrow, I will make all the necessary arrangements. In fact, I will telephone you later, when everything is settled."
+
+"Oh, thank you, Dr. Franklin! I knew you wouldn't fail us!" Anita murmured. "Don't forget to tell Mrs. Franklin that she will hear from me. She must surely come, you know!"
+
+When the door had closed on the minister's broad, retreating back, Ramon Hamilton turned with a suspicion of a flush in his wan cheeks, to the detective.
+
+"If I'd gone to any Sunday school he presided over, when I was a kiddie, I'd have been a train-robber now!" he observed darkly. "I'm glad you lit into him about young Pennold, Mr. Blaine. He started it!"
+
+"But think of the others!" Anita Lawton turned her face for a moment to the spring-like day outside. "Mr. Mallowe dead in his cell from apoplexy, Mr. Carlis imprisoned for life, Mac Alarney and all the rest facing long years behind gray walls and iron bars--oh, I know it is just; I remember what they did to my father and to me; and yet somehow in this glorious sunshine and with all the ages and ages just as bright, spreading before me, I can find charity and mercy in my heart for all the world!"
+
+"Charity and mercy," repeated Ramon soberly. "Yes, dearest. But not liberty to continue their crimes--to do to others what they did to us!"
+
+A spasm of pain crossed his face, and she bent over him solicitously.
+
+"Oh, what is it, Ramon? Speak to me!"
+
+"Nothing, dear, it's all right now. Just a twinge of the old pain."
+
+"Those murdering fiends, who made you suffer so!" she cried, and added with feminine illogicality: "I'm not sorry, after all, that they're in prison! I'm glad they've got their just deserts. Oh, Ramon, I've been afraid to distress you by asking you, but did you tell the truth at the trial--all the truth, I mean? Was that really all you remember?"
+
+"Yes, dear," he replied a trifle wearily. "When I left Mr. Blaine's office that day, I was hurrying along Dalrymple Street, when just outside the Colossus Building, a boy about fifteen--that one who is in the reformatory now--collided with me. Then he looked up into my face, and grasped my arm.
+
+"'You're Mr. Hamilton, aren't you?' he gasped. 'Oh, come quick, sir! Mr. Ferrand's had a stroke or something, and I was just running to get help. You don't remember me, I guess. I'm Mr. Ferrand's new office-boy, Frankie Allen. You was in to see him about ten days ago, don't you remember?'
+
+"Well, as I told you, 'Nita dearest, old Mr. Ferrand was one of my father's best friends. His offices were in the Colossus Building, and I had been in to see him about ten days before--so in spite of Mr. Blaine's warning, I was perfectly unsuspecting. Of course, I didn't remember his office-boy from Adam, but that fact never occurred to me, then. I went right along with the boy, and he talked so volubly that I didn't notice we had gotten into the wrong elevator--the express--until its first stop, seven floors above Mr. Ferrand's. They must have staged the whole thing pretty well--Carlis and Paddington and their crew--for when I stepped out of the express elevator, there was no one in sight that I remember but the boy who was with me. I pressed the button of the local, which was just beside the express--there was a buzz and whirring hum as if the elevator had ascended, and the door opened. As I stepped over its threshold, I felt a violent blow and terrific pain on the back of my head, and seemed to fall into limitless space. That was all I knew until I woke up in the hospital where Mr. Blaine had taken me after discovering and rescuing me, to see your dear face bending over mine!"
+
+"One of Paddington's men was waiting, and hit you on the head with a window-pole, as you stepped into the open elevator shaft," Blaine supplemented. "It was all a plant, of course. You only fell to the roof of the elevator, which was on a level with the floor below. There they carried you into the office of a fake company, kept you until closing time, and got you out of the building as a drunkard, conveying you to Mac Alarney's retreat in his own machine. Nobody employed in the building was in their pay but the elevator man, and he's got his, along with the rest! Paddington's scheme wasn't bad; if he'd only been on the square, he might have made a very brilliant detective!"
+
+"How terrible his death was!" Anita shuddered. "And how unexplainable! No one ever found out who stabbed him, there in the park, did they?"
+
+Blaine did not reply. He knew that on the day following the discovery of the murdered man, one Franchette Durand, otherwise Fifine Déchaussée, had sailed for Havre on the ill-fated La Tourette, which had gone to the bottom in mid-ocean, with all on board. He knew also that an hour before the French girl's last tragic interview with Paddington, she had discovered the existence of his wife, for he himself had seen to it that the knowledge was imparted to her. Further than that, he preferred not to conjecture. The Madonna-faced girl had taken her secret with her to her swiftly retributive grave in the deep.
+
+Blaine rose, somewhat reluctantly. Work called him, and yet he loved to be near them in the rose-tinted high noon of their happiness.
+
+"I'll be on hand to-morrow, indeed I will!" he promised heartily, in response to their eager request.
+
+"To-morrow! Just think!" Anita buried her glowing face in her lover's shoulder for an instant, and then looked up with misty eyes. "Just think, if it hadn't been for you, Mr. Blaine, there wouldn't be any to-morrow! I don't mean about your getting my father's money all back for me--I'm grateful, of course, but it doesn't count beside the greater thing you have given us! But for you, there would never have been any--to-morrow."
+
+"That's true!" The young man's arm encircled the girl's slender waist as they stood together in the glowing sunlight, but his other hand gripped the detective's. "We owe life, our happiness, the future, everything to you!"
+
+And so Henry Blaine left them.
+
+At the door he turned and glanced back, and the sight his eyes beheld was a goodly one for him to carry away with him into the world--a sight as old as the ages, as new as the hour, as prescient as the hours and ages to come. Just a man and a maid, sunshine and happiness, youth and love!--that, and the light of undying gratitude in the eyes they bent upon him.
+
+Transcriber's note:
+
+Archaic and variable spelling, as well as inconsistency in hyphenation, has been preserved as printed in the original book except as indicated in the list below.
+
+Missing and extra quote marks, along with minor punctuation irregularities, were silently corrected. However, punctuation has not been changed to comply with modern conventions.
+
+A List of Illustrations was added and illustrations have been moved, when necessary, so that they are not in the middle of a paragraph.
+
+The following changes were made to the text:
+
+Page 33: Was "insignficant" in the original text (keep me
+
+Page 48: Was "rococco" in the original text (where the
+
+Page 96: Was "Déchausée" in the original text (When the
+
+Page 96: Was "Déchausée" in the original text (If he makes
+
+Page 171: Was "d' you" in the original text (What =d'you=
+
+s'pose brought him back?)
+
+Page 205: Was "Lawnot" in the original text (he took the
+
+Page 233: Was "offce" in the original text (three men came
+
+Page 261: Was "busines" in the original text (There is no
+
+Page 279: Was "in loco parentis" in the original text
+
+Page 314: Was "MacAlarney's" in the original text (and got

@@ -1,0 +1,7 @@
+---
+title: "The Dog And The Hare"
+weight: 179
+url: "/authors/aesop/fables/chapter-177.html"
+---
+
+A HOUND having started a Hare on the hillside pursued her for some distance, at one time biting her with his teeth as if he would take her life, and at another fawning upon her, as if in play with another dog. The Hare said to him, "I wish you would act sincerely by me, and show yourself in your true colors. If you are a friend, why do you bite me so hard? If an enemy, why do you fawn on me?' No one can be a friend if you know not whether to trust or distrust him.

@@ -1,0 +1,109 @@
+---
+title: "Chapter 4"
+weight: 4
+url: "/authors/cather-willa/alexanders-bridge/chapter-04.html"
+---
+
+On Sunday afternoon Alexander remembered Miss Burgoyne’s invitation and called at her apartment. He found it a delightful little place and he met charming people there. Hilda lived alone, attended by a very pretty and competent French servant who answered the door and brought in the tea. Alexander arrived early, and some twenty-odd people dropped in during the course of the afternoon. Hugh MacConnell came with his sister, and stood about, managing his tea-cup awkwardly and watching every one out of his deep-set, faded eyes. He seemed to have made a resolute effort at tidiness of attire, and his sister, a robust, florid woman with a splendid joviality about her, kept eyeing his freshly creased clothes apprehensively. It was not very long, indeed, before his coat hung with a discouraged sag from his gaunt shoulders and his hair and beard were rumpled as if he had been out in a gale. His dry humor went under a cloud of absent-minded kindliness which, Mainhall explained, always overtook him here. He was never so witty or so sharp here as elsewhere, and Alexander thought he behaved as if he were an elderly relative come in to a young girl’s party.
+
+The editor of a monthly review came with his wife, and Lady Kildare, the Irish philanthropist, brought her young nephew, Robert Owen, who had come up from Oxford, and who was visibly excited and gratified by his first introduction to Miss Burgoyne. Hilda was very nice to him, and he sat on the edge of his chair, flushed with his conversational efforts and moving his chin about nervously over his high collar. Sarah Frost, the novelist, came with her husband, a very genial and placid old scholar who had become slightly deranged upon the subject of the fourth dimension. On other matters he was perfectly rational and he was easy and pleasing in conversation. He looked very much like Agassiz, and his wife, in her old-fashioned black silk dress, overskirted and tight-sleeved, reminded Alexander of the early pictures of Mrs. Browning. Hilda seemed particularly fond of this quaint couple, and Bartley himself was so pleased with their mild and thoughtful converse that he took his leave when they did, and walked with them over to Oxford Street, where they waited for their ‘bus. They asked him to come to see them in Chelsea, and they spoke very tenderly of Hilda. “She’s a dear, unworldly little thing,” said the philosopher absently; “more like the stage people of my young days--folk of simple manners. There aren’t many such left. American tours have spoiled them, I’m afraid. They have all grown very smart. Lamb wouldn’t care a great deal about many of them, I fancy.”
+
+Alexander went back to Bedford Square a second Sunday afternoon. He had a long talk with MacConnell, but he got no word with Hilda alone, and he left in a discontented state of mind. For the rest of the week he was nervous and unsettled, and kept rushing his work as if he were preparing for immediate departure. On Thursday afternoon he cut short a committee meeting, jumped into a hansom, and drove to Bedford Square. He sent up his card, but it came back to him with a message scribbled across the front.
+
+When Bartley arrived at Bedford Square on Sunday evening, Marie, the pretty little French girl, met him at the door and conducted him upstairs. Hilda was writing in her living-room, under the light of a tall desk lamp. Bartley recognized the primrose satin gown she had worn that first evening at Lady Walford’s.
+
+“I’m so pleased that you think me worth that yellow dress, you know,” he said, taking her hand and looking her over admiringly from the toes of her canary slippers to her smoothly parted brown hair. “Yes, it’s very, very pretty. Every one at Lady Walford’s was looking at it.”
+
+Hilda curtsied. “Is that why you think it pretty? I’ve no need for fine clothes in Mac’s play this time, so I can afford a few duddies for myself. It’s owing to that same chance, by the way, that I am able to ask you to dinner. I don’t need Marie to dress me this season, so she keeps house for me, and my little Galway girl has gone home for a visit. I should never have asked you if Molly had been here, for I remember you don’t like English cookery.”
+
+Alexander walked about the room, looking at everything.
+
+“I haven’t had a chance yet to tell you what a jolly little place I think this is. Where did you get those etchings? They’re quite unusual, aren’t they?”
+
+“Lady Westmere sent them to me from Rome last Christmas. She is very much interested in the American artist who did them. They are all sketches made about the Villa d’Este, you see. He painted that group of cypresses for the Salon, and it was bought for the Luxembourg.”
+
+Alexander walked over to the bookcases. “It’s the air of the whole place here that I like. You haven’t got anything that doesn’t belong. Seems to me it looks particularly well to-night. And you have so many flowers. I like these little yellow irises.”
+
+“Rooms always look better by lamplight--in London, at least. Though Marie is clean--really clean, as the French are. Why do you look at the flowers so critically? Marie got them all fresh in Covent Garden market yesterday morning.”
+
+“I’m glad,” said Alexander simply. “I can’t tell you how glad I am to have you so pretty and comfortable here, and to hear every one saying such nice things about you. You’ve got awfully nice friends,” he added humbly, picking up a little jade elephant from her desk. “Those fellows are all very loyal, even Mainhall. They don’t talk of any one else as they do of you.”
+
+Hilda sat down on the couch and said seriously: “I’ve a neat little sum in the bank, too, now, and I own a mite of a hut in Galway. It’s not worth much, but I love it. I’ve managed to save something every year, and that with helping my three sisters now and then, and tiding poor Cousin Mike over bad seasons. He’s that gifted, you know, but he will drink and loses more good engagements than other fellows ever get. And I’ve traveled a bit, too.”
+
+Marie opened the door and smilingly announced that dinner was served.
+
+“My dining-room,” Hilda explained, as she led the way, “is the tiniest place you have ever seen.”
+
+It was a tiny room, hung all round with French prints, above which ran a shelf full of china. Hilda saw Alexander look up at it.
+
+“It’s not particularly rare,” she said, “but some of it was my mother’s. Heaven knows how she managed to keep it whole, through all our wanderings, or in what baskets and bundles and theatre trunks it hasn’t been stowed away. We always had our tea out of those blue cups when I was a little girl, sometimes in the queerest lodgings, and sometimes on a trunk at the theatre--queer theatres, for that matter.”
+
+It was a wonderful little dinner. There was watercress soup, and sole, and a delightful omelette stuffed with mushrooms and truffles, and two small rare ducklings, and artichokes, and a dry yellow Rhone wine of which Bartley had always been very fond. He drank it appreciatively and remarked that there was still no other he liked so well.
+
+“I have some champagne for you, too. I don’t drink it myself, but I like to see it behave when it’s poured. There is nothing else that looks so jolly.”
+
+“Thank you. But I don’t like it so well as this.” Bartley held the yellow wine against the light and squinted into it as he turned the glass slowly about. “You have traveled, you say. Have you been in Paris much these late years?”
+
+Hilda lowered one of the candle-shades carefully. “Oh, yes, I go over to Paris often. There are few changes in the old Quarter. Dear old Madame Anger is dead--but perhaps you don’t remember her?”
+
+“Don’t I, though! I’m so sorry to hear it. How did her son turn out? I remember how she saved and scraped for him, and how he always lay abed till ten o’clock. He was the laziest fellow at the Beaux Arts; and that’s saying a good deal.”
+
+“Well, he is still clever and lazy. They say he is a good architect when he will work. He’s a big, handsome creature, and he hates Americans as much as ever. But Angel--do you remember Angel?”
+
+“Perfectly. Did she ever get back to Brittany and her bains de mer?”
+
+“Ah, no. Poor Angel! She got tired of cooking and scouring the coppers in Madame Anger’s little kitchen, so she ran away with a soldier, and then with another soldier. Too bad! She still lives about the Quarter, and, though there is always a soldat, she has become a blanchisseuse de fin. She did my blouses beautifully the last time I was there, and was so delighted to see me again. I gave her all my old clothes, even my old hats, though she always wears her Breton headdress. Her hair is still like flax, and her blue eyes are just like a baby’s, and she has the same three freckles on her little nose, and talks about going back to her bains de mer.”
+
+Bartley looked at Hilda across the yellow light of the candles and broke into a low, happy laugh. “How jolly it was being young, Hilda! Do you remember that first walk we took together in Paris? We walked down to the Place Saint-Michel to buy some lilacs. Do you remember how sweet they smelled?”
+
+“Indeed I do. Come, we’ll have our coffee in the other room, and you can smoke.”
+
+Hilda rose quickly, as if she wished to change the drift of their talk, but Bartley found it pleasant to continue it.
+
+“What a warm, soft spring evening that was,” he went on, as they sat down in the study with the coffee on a little table between them; “and the sky, over the bridges, was just the color of the lilacs. We walked on down by the river, didn’t we?”
+
+Hilda laughed and looked at him questioningly. He saw a gleam in her eyes that he remembered even better than the episode he was recalling.
+
+“I think we did,” she answered demurely. “It was on the Quai we met that woman who was crying so bitterly. I gave her a spray of lilac, I remember, and you gave her a franc. I was frightened at your prodigality.”
+
+“I expect it was the last franc I had. What a strong brown face she had, and very tragic. She looked at us with such despair and longing, out from under her black shawl. What she wanted from us was neither our flowers nor our francs, but just our youth. I remember it touched me so. I would have given her some of mine off my back, if I could. I had enough and to spare then,” Bartley mused, and looked thoughtfully at his cigar.
+
+They were both remembering what the woman had said when she took the money: “God give you a happy love!” It was not in the ingratiating tone of the habitual beggar: it had come out of the depths of the poor creature’s sorrow, vibrating with pity for their youth and despair at the terribleness of human life; it had the anguish of a voice of prophecy. Until she spoke, Bartley had not realized that he was in love. The strange woman, and her passionate sentence that rang out so sharply, had frightened them both. They went home sadly with the lilacs, back to the Rue Saint-Jacques, walking very slowly, arm in arm. When they reached the house where Hilda lodged, Bartley went across the court with her, and up the dark old stairs to the third landing; and there he had kissed her for the first time. He had shut his eyes to give him the courage, he remembered, and she had trembled so--
+
+Bartley started when Hilda rang the little bell beside her. “Dear me, why did you do that? I had quite forgotten--I was back there. It was very jolly,” he murmured lazily, as Marie came in to take away the coffee.
+
+Hilda laughed and went over to the piano. “Well, we are neither of us twenty now, you know. Have I told you about my new play? Mac is writing one; really for me this time. You see, I’m coming on.”
+
+“I’ve seen nothing else. What kind of a part is it? Shall you wear yellow gowns? I hope so.”
+
+He was looking at her round slender figure, as she stood by the piano, turning over a pile of music, and he felt the energy in every line of it.
+
+“No, it isn’t a dress-up part. He doesn’t seem to fancy me in fine feathers. He says I ought to be minding the pigs at home, and I suppose I ought. But he’s given me some good Irish songs. Listen.”
+
+She sat down at the piano and sang. When she finished, Alexander shook himself out of a reverie.
+
+“Sing 'The Harp That Once,’ Hilda. You used to sing it so well.”
+
+“Nonsense. Of course I can’t really sing, except the way my mother and grandmother did before me. Most actresses nowadays learn to sing properly, so I tried a master; but he confused me, just!”
+
+Alexander laughed. “All the same, sing it, Hilda.”
+
+Hilda started up from the stool and moved restlessly toward the window. “It’s really too warm in this room to sing. Don’t you feel it?”
+
+Alexander went over and opened the window for her. “Aren’t you afraid to let the wind low like that on your neck? Can’t I get a scarf or something?”
+
+“Ask a theatre lady if she’s afraid of drafts!” Hilda laughed. “But perhaps, as I’m so warm--give me your handkerchief. There, just in front.” He slipped the corners carefully under her shoulder-straps. “There, that will do. It looks like a bib.” She pushed his hand away quickly and stood looking out into the deserted square. “Isn’t London a tomb on Sunday night?”
+
+Alexander caught the agitation in her voice. He stood a little behind her, and tried to steady himself as he said: “It’s soft and misty. See how white the stars are.”
+
+For a long time neither Hilda nor Bartley spoke. They stood close together, looking out into the wan, watery sky, breathing always more quickly and lightly, and it seemed as if all the clocks in the world had stopped. Suddenly he moved the clenched hand he held behind him and dropped it violently at his side. He felt a tremor run through the slender yellow figure in front of him.
+
+She caught his handkerchief from her throat and thrust it at him without turning round. “Here, take it. You must go now, Bartley. Good-night.”
+
+Bartley leaned over her shoulder, without touching her, and whispered in her ear: “You are giving me a chance?”
+
+“Yes. Take it and go. This isn’t fair, you know. Good-night.”
+
+Alexander unclenched the two hands at his sides. With one he threw down the window and with the other--still standing behind her--he drew her back against him.
+
+She uttered a little cry, threw her arms over her head, and drew his face down to hers. “Are you going to let me love you a little, Bartley?” she whispered.

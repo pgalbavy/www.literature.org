@@ -1,0 +1,55 @@
+---
+title: "Chapter 20 - The Tracks In The Snow"
+weight: 20
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-20.html"
+---
+
+One fine winter's day Fatty Coon came upon the queerest tracks in the snow. They were huge--a great deal bigger, even, than bear-tracks, which Fatty had sometimes seen, for once in a while, before the weather grew too cold, and he fell into his winter's sleep, a bear would come down into the valley from his home on Blue Mountain.
+
+But these were six times as big as bear tracks. And Fatty felt a shiver of fear run up and down his back.
+
+He followed the trail a little way. But he was very careful. He was always ready to scramble up a tree, in case he should suddenly see the strange animal--or rather, in case the strange animal should see HIM.
+
+The great tracks led straight toward Farmer Green's house. And Fatty did not want to go there. So he hurried home to ask his mother what he had found. Mrs. Coon listened to Fatty's story.
+
+"I think it must be the monster that almost caught me in the road last summer," said Fatty, meaning the automobile that had given him a great fright. "Maybe he's come back again to catch Farmer Green and his family ... Do you suppose he's eaten them up?"
+
+Mrs. Coon was puzzled. And she was somewhat alarmed, too. She wanted to see those strange tracks herself. So she told her other children not to step a foot out of the house until she came back. And then she asked Fatty to run along and show her where he had come upon the monster's trail.
+
+Fatty Coon felt very important, as he led the way across the swamp and into the woods. It was not often that he could show his mother anything. And he was so proud that he almost forgot his fright.
+
+"I guess you're glad I have sharp eyes," he said, as they hurried along.
+
+"If the tracks are as big as you say they are, your eyes wouldn't have to be very sharp to see them," his mother told him. Mrs. Coon never liked to hear her children boast. She knew that boasting is one of the most unpleasant things anyone can do.
+
+"Well--maybe you don't think I saw the monster's tracks at all," said Fatty. "Maybe you don't think I heard him screech--"
+
+"When did you hear him screech?" Mrs. Coon asked. "This is the first you've said about SCREECHING. When was it?"
+
+"Last summer," Fatty answered.
+
+Mrs. Coon didn't smile. Perhaps she was too worried for that.
+
+"It may not be the same monster," she said. "It may not be a monster at all."
+
+But by this time Fatty was sure he was right. He was sure he knew more than his mother.
+
+"Why can't we go right over to Farmer Green's and take some of his chickens?" he asked. "The monster has probably eaten him by this time, and all his family, too."
+
+But Mrs. Coon would do no such thing.
+
+"Show me the tracks," she said firmly. And so they went on into the woods.
+
+"There they are!" Fatty cried, a few minutes later. "See, Mother! They're even bigger than I said." He heard a funny noise behind him, then. And when Fatty Coon looked around he saw that his mother was actually holding her sides, she was laughing so hard.
+
+"Those are Farmer Green's tracks," she said, as soon as she could stop laughing long enough to speak.
+
+"What--as big as that?" Fatty pointed at the huge prints in the snow.
+
+"Snowshoes!" Mrs. Coon said. "He was wearing snowshoes--great frames made of thongs and sticks, to keep him from sinking into the snow."
+
+So that was all there was to Fatty's monster. Somehow, he was disappointed. But he was very glad he had said nothing to Jasper Jay about his strange animal. For if he had, he knew he would never have heard the last of it.
+
+And Fatty was glad about another thing, too. He felt very happy that his mother had not let him go after Farmer Green's chickens.
+
+THE END

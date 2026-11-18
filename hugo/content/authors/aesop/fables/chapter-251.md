@@ -1,0 +1,9 @@
+---
+title: "The Fox And The Crane"
+weight: 253
+url: "/authors/aesop/fables/chapter-251.html"
+---
+
+A FOX invited a Crane to supper and provided nothing for his entertainment but some soup made of pulse, which was poured out into a broad flat stone dish. The soup fell out of the long bill of the Crane at every mouthful, and his vexation at not being able to eat afforded the Fox much amusement. The Crane, in his turn, asked the Fox to sup with him, and set before her a flagon with a long narrow mouth, so that he could easily insert his neck and enjoy its contents at his leisure. The Fox, unable even to taste it, met with a fitting requital, after the fashion of her own hospitality.
+
+Jupiter, Neptune, Minerva, and Momus ACCORDING to an ancient legend, the first man was made by Jupiter, the first bull by Neptune, and the first house by Minerva. On the completion of their labors, a dispute arose as to which had made the most perfect work. They agreed to appoint Momus as judge, and to abide by his decision. Momus, however, being very envious of the handicraft of each, found fault with all. He first blamed the work of Neptune because he had not made the horns of the bull below his eyes, so he might better see where to strike. He then condemned the work of Jupiter, because he had not placed the heart of man on the outside, that everyone might read the thoughts of the evil disposed and take precautions against the intended mischief. And, lastly, he inveighed against Minerva because she had not contrived iron wheels in the foundation of her house, so its inhabitants might more easily remove if a neighbor proved unpleasant. Jupiter, indignant at such inveterate faultfinding, drove him from his office of judge, and expelled him from the mansions of Olympus.

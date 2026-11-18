@@ -1,0 +1,85 @@
+---
+title: "Chapter 23 - A Serious Question"
+weight: 23
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-23.html"
+---
+
+Larry Murphy was in no mood for trifling. He had spared Arqu-wao twice, and he did not mean to do it again.
+
+He noticed his suspicious action, and raising the hammer of his rifle, he held the weapon half lifted to his shoulder, while he kept his threatening gaze fixed upon the guide, who was equally intent in watching him.
+
+The Irish youth understood what he must do in order to discharge the arrow, and all he was waiting for was to detect the first preliminary movement on the part of the singular being.
+
+"Drink away, Whart," he replied; "he won't fool me."
+
+With no fear, the younger lad knelt down and drank deep from the cool, refreshing brook. Then he rose to his feet, replaced his cap, and picked up his gun.
+
+"I don't think he'll fool me either," he quietly remarked, imitating the attitude of his companion.
+
+"I believe he's up to some mischief," remarked Larry, who, nevertheless, fully slaked his thirst before rising to his feet.
+
+The few moments thus occupied were trying to Wharton Edwards, who was suspicious of the Indian. He could not explain his peculiar position on any theory other than that he was seeking a chance to use his bow against them. He believed that if he once removed his gaze from the Indian, that instant he would drive an arrow through his body, and then launch another at Larry before he could rise or bring his gun to bear.
+
+Needless to say, therefore, he closely watched the Shawanoe until Larry stood at his side.
+
+"Lead on," said Wharton, with a wave of his hand, "and don't walk quite so fast."
+
+"Me walk just so," replied Arqu-wao, accommodating his gait to that of his captors.
+
+"I don't know what to make of him," remarked Wharton, when the advance was resumed. "I have half a mind to take his bow away from him."
+
+"Ye haven't observed him doing anything wrong yet," was the response of Larry.
+
+"What of his manner just now?"
+
+"It looked bad, but we ain't sartin that it meant anything at all."
+
+"We would be more certain if he had no weapon."
+
+"Hold on a bit; if we stop for dinner or anything else, we won't give him a chance. I think, between ourselves, we can watch him so sharp that he won't do any harrum."
+
+Wharton consented to this arrangement, though he could not free himself of a strong misgiving in doing so.
+
+Arqu-wao continued his guidance as though no thought of anything but the strictest loyalty to his captors had ever entered his brain, all awry with its unimaginable fancies.
+
+Perhaps there had not. The truth must become known before the set of sun.
+
+At intervals the guide turned his head far enough to glance back, but this was so evidently for the purpose of learning whether his pace was satisfactory that no suspicion was excited. His conduct could not have been more satisfactory, so far as appearances went.
+
+The party were abroad in the woods, and the youths had only a very general idea of where they were. They had made many windings and turnings, and at last had forsaken the only reliable guide—the gorge—by which to find their way back to the trail.
+
+This, as we have shown, was a matter of no moment, provided the Shawanoe was not meditating treachery against them; but how easy for him, if he chose, to lead them into a trap.
+
+"Halloo, what's up now?" asked Wharton.
+
+"Hold your gun ready!"
+
+The Indian had come to a sudden stop, and, looking back, raised one hand, which the lads accepted as a request for them also to halt. They obeyed him.
+
+Standing thus, with his body as rigid as iron, Arqu-wao slowly turned his head so as to look at each point of the compass in turn. Those behind him did the same, not forgetting to use their hearing as best they could, but with no result.
+
+The Shawanoe next knelt down and applied his ear to the ground, as his people do when suspecting the nearness of an enemy whom their eyes fail to detect. It was possible, of course, that this pantomime was part of a carefully laid plan to put them off their guard. If so, though cleverly done, it failed to succeed.
+
+The result of the guide's test seemed to be satisfactory, for he quietly assumed the perpendicular again and resumed his walk. He did not look back, evidently concluding that they knew enough to follow without any direction from him.
+
+"Larry," whispered his friend, "let's fall a little more to the rear, so that, if he tries any of his tricks, we'll have a better chance for ourselves."
+
+"I was thinking of the same thing," said the other, acting at once upon the suggestion.
+
+They doubled the space heretofore separating them from the guide, who took no notice, apparently, of the change in their relative situations.
+
+The thought in the minds of the boys was that, if Arqu-wao should attempt to take them into a camp of their enemies, or to reveal them to a war party, or, in fact, to attempt any form of betrayal, they would have a much better chance of saving themselves by a rapid retreat. They might well doubt whether the prospect of their guide benefiting them was worth all their mental disquiet. It is probable that, had they taken more time to consider the matter at the beginning, they would have disarmed the Shawanoe and allowed him to go in peace.
+
+All at once he made a sharp turn to the left. As he did so, he looked around, so that his face was in full view, and to the amazement of the lads they saw a distinct grin upon it.
+
+"That's the first time he has tried to smile," remarked Larry, "and I'm afeered of it."
+
+"Don't you understand what it means?" asked his friend a minute later.
+
+"No, do you?"
+
+"There it is."
+
+As Wharton spoke he pointed to the ground in front. Larry at once saw the significance of the words. They were following a distinctly marked trail.
+
+"But is it the right one?" whispered Wharton.

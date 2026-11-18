@@ -1,0 +1,7 @@
+---
+title: "The Ant And The Dove"
+weight: 288
+url: "/authors/aesop/fables/chapter-286.html"
+---
+
+AN ANT went to the bank of a river to quench its thirst, and being carried away by the rush of the stream, was on the point of drowning. A Dove sitting on a tree overhanging the water plucked a leaf and let it fall into the stream close to her. The Ant climbed onto it and floated in safety to the bank. Shortly afterwards a birdcatcher came and stood under the tree, and laid his lime-twigs for the Dove, which sat in the branches. The Ant, perceiving his design, stung him in the foot. In pain the birdcatcher threw down the twigs, and the noise made the Dove take wing.

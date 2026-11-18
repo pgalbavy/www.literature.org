@@ -1,0 +1,57 @@
+---
+title: "Chapter 21 - \"Lay Low!\""
+weight: 21
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-21.html"
+---
+
+The clock in the tower of the City Hall solemnly boomed the hour of midnight. Damietta lay wrapped in slumber—that is, so far as the majority of her citizens were concerned. Her guardians of the peace, as a rule, were wide awake, and the dozens stationed within the vicinity of her three national banks were particularly so.
+
+Ben Mayberry counted the strokes of the iron tongue, and reflected that Thursday was gone, and Friday had begun. As yet nothing had been seen or heard to indicate that anything unlawful was contemplated in this immediate neighborhood. More than once he was so well convinced that my view of the case was correct, that he was on the point of starting homeward, but he checked himself and stayed.
+
+At such a time the minutes drag with exceeding slowness, and it seemed to Ben that fully a couple of hours had gone by, when the huge clock struck one. During the interval a number of pedestrians had passed, and a party of roystering youths rode by in a carriage, each one singing independently of the other, and in a loud, unsteady voice, but nothing yet had occurred on which to hang a suspicion.
+
+The peculiar, ringing, wave-like tones, which are heard a few minutes after the striking of a large bell, were still lingering in the air and gradually dying out, when one of the policemen gave a guarded whistle, which was a signal for the others to "lay low," or in better English, to keep themselves unusually wide awake.
+
+A minute after two men were heard approaching, and became dimly visible in the partial illumination of the street. It so happened that they walked directly by where Ben was standing. They did not notice him, though he plainly saw them. They were of large frame, and walked with a slight unsteadiness, as though under the influence of liquor.
+
+"There's the bank," said one, in an undertone, as though he was imparting a momentous secret to the other.
+
+"That's so; if we could only get in, knock the watchman on the head, and kick in the door of the safe, we would make a good haul."
+
+"Suppose we try it, Jack⸺"
+
+For more than two hours a burly watchman had been hidden close at hand, without Ben suspecting his presence. The last sentence was in the mouth of the speaker when this policeman sprang upon the amazed strangers, who were discussing the burglary of the bank.
+
+He must have been surcharged with faithfulness, for, instead of waiting until an overt act was committed, as all had been instructed to do, he rushed upon the men in a burst of enthusiasm which knew no restraint and passed all bounds.
+
+"Yes, you'll rob the bank, will you?" he shouted, swinging his club aloft and bringing it down on the heads of the others. "I'll show you—we've been watching you. We know you. You're a fine set of cracksmen. You think Damietta is a country town, but you'll learn different⸺"
+
+These vigorous observations were punctuated with equally vigorous whacks of the club, which it seemed must crack the skulls of the men, and in all probability would have done so had they not risen to the exigencies of the case and turned upon the policeman with remarkable promptitude.
+
+Both of them were powerful, and finding themselves assailed in this fashion, one knocked the officer half-way across the street, wrenched his club from his grasp, and began laying it over his head. The stricken guardian of the peace shouted for help, and tried desperately to draw his revolver. Finally he got it out, but before he could use it that also was taken from him, and it looked as though little would be left of him.
+
+[Illustration: *THE POLICEMAN BROUGHT HIS CLUB DOWN ON THE HEADS OF THE OTHERS. &*mdash;P. 144.]
+
+But the other policemen came running up, and took a hand in the fracas. While some went for the one who was belaboring the representative of the law, others made for the second burglar. But he was more muscular, if possible, than his friend, and he laid about him with such vigor that three officers were prostrated before he could be secured. Calling to his friend, the two gave themselves up, demanding to know why peaceable citizens should be clubbed when quietly walking along the street.
+
+"We had not uttered a disrespectful word," said the first, "but were joking together, when that brass-buttoned idiot pounced upon us. We simply defended ourselves, as every man has a right to do, and we don't propose to let the matter rest here."
+
+"He lies!" shouted the officer who had fared so ill, as he came forward, his hat off, and his clothing covered with dust; "he was arranging to rob the bank; they are the burglars that we've been watching for days; I know 'em all right."
+
+"We shall have to take you along," said the chief, who saw that matters were considerably mixed.
+
+At this point Ben thought it was his duty to interfere.
+
+"If you will permit me, I am satisfied that some mistake has been made. These gentlemen did nothing⸺"
+
+"He's one of 'em," broke in the first officer, whose wrath could not be appeased; "he's been their dummy; he was on the lookout to give 'em warning; run him in, too."
+
+Despite Ben Mayberry's protests, he was forced to go with the prisoners; but on the way to the lock-up he was recognized by several officers, including the chief, who ordered his release, Ben promising to appear in the morning at the hearing.
+
+On the morrow several important facts came to light. The two individuals who had been so roughly used were honest countrymen, whose references to the robbery of the bank were purely in jest—such a project as burglary never entering their thoughts.
+
+The policeman who assailed them made a humble apology, and they agreed to let the matter drop.
+
+Another fact that was established was that the policemen of Damietta were very much like those of other cities.
+
+The third truth was, that no burglary took place on Thursday night or Friday morning, and everything was as quiet as the surface of a summer mill-pond, with the single exception of the incident just narrated.

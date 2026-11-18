@@ -1,0 +1,39 @@
+---
+title: "Chapter 20 - Bound To Be Different"
+weight: 20
+url: "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-20.html"
+---
+
+Nothing ever surprised Chirpy Cricket more than what Kiddie Katydid told him. He had thought it was thunder that he had just heard. But it was Mr. Nighthawk, making that odd, booming sound of his. It was ever so much louder than Chirpy had supposed it could be. He had never heard it so near before.
+
+For a moment Chirpy thought that perhaps Kiddie Katydid didn't know what he was talking about. But no! There was Mr. Nighthawk's well-known call, _Peent! Peent!_ There was no denying that it was his voice. He always talked through his nose--or so it sounded. And one couldn't mistake it.
+
+Chirpy Cricket began to think that after all he would rather not have a talk with Mr. Nighthawk. He certainly sounded terrible!
+
+Meanwhile Mr. Nighthawk alighted in a tree right over Chirpy's head, and settled himself lengthwise along a limb. He was, indeed, an odd person. He liked to be different from other folk. And just because other birds sat crosswise on a perch, Mr. Nighthawk had to sit in exactly the opposite fashion. No doubt if he could have, he would have hung underneath the limb by his heels, like Benjamin Bat. Only he would have wanted to hang by his nose instead of his heels, in order to be different.
+
+"Has anybody seen Chirpy Cricket?" Mr. Nighthawk sang out.
+
+"He's on the ground, under that tree you're in," Kiddie Katydid informed him. Kiddie never moved as he spoke, but clung closely to a twig in the bush where he was hiding. Being green himself, he hardly thought that Mr. Nighthawk would be able to discover him amongst shrubbery of the same color.
+
+Chirpy Cricket wished that Kiddie Katydid hadn't replied to Mr. Nighthawk at all. But how could Kiddie know that Chirpy had changed his mind? And now Mr. Nighthawk spoke to Chirpy.
+
+"I can't see you very well, Mr. Cricket," he said. "Won't you leap into the air a few times, so I can get a good look at you? I've heard that you've been wanting to meet me. And I've come all the way from the woods just to please you."
+
+Luckily Chirpy Cricket did not forget Kiddie Katydid's advice. Kiddie had explained to him how Mr. Nighthawk caught his meals on the wing.
+
+"You'll have to excuse me," Chirpy told Mr. Nighthawk. "I'd rather not do any jumping for you. That wasn't why I wanted to meet you."
+
+"Ha!" said Mr. Nighthawk. "Then why--pray--did you wish to see me?"
+
+"I thought"--Chirpy Cricket replied--"I thought that perhaps you'd like me to help you with your music. I've often heard your booming at a distance. And it has seemed to me that you have the making of a good musician, if you have a good teacher."
+
+Mr. Nighthawk sniffed. It must be remembered that he was not very gentlemanly.
+
+"I've had plenty of training," he said. "I didn't come all the way from the woods to be told that I don't know my own business. I practice every night. And I flatter myself that I'm a perfect performer."
+
+"Then," said Chirpy Cricket, "perhaps you need a new fiddle. For there's no doubt that your booming would sound much better if it were shriller."
+
+Mr. Nighthawk gave a rude laugh.
+
+"I don't make that sound with a fiddle," he sneered. "Don't you know a wind instrument when you hear it?"

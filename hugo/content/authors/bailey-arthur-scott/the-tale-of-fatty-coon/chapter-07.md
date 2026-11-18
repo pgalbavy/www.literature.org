@@ -1,0 +1,21 @@
+---
+title: "Chapter 7 - Johnnie Green Is Disappointed"
+weight: 7
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-07.html"
+---
+
+It made Fatty Coon feel sad, just to think that there was that field full of corn, and that he could never eat all of it. But Fatty made up his mind that he would do the best he could. He would visit the cornfield every night and feast on those sweet, tender kernels.
+
+The very next night Fatty set out toward Farmer Green's. It was hardly dark. But Fatty could not wait any longer. He could not even wait for his mother and his sisters and his brother. He hurried away alone. And when he came in sight of the cornfield he felt better. He had been the least bit afraid that the corn might be gone. He thought that maybe Farmer Green had picked it, or that some of the forest people had eaten it all. But there it was--a forest of corn, waving and rustling in the moonlight as the breeze touched it. Fatty felt very happy as he slipped through the rail-fence.
+
+I wouldn't dare say how many ears of corn Fatty ate that night. And he would have eaten more, too, if it hadn't been for just one thing. A dog barked. And that spoiled Fatty's fun. For the dog was altogether too near for Fatty to feel safe. He even dropped the ear of corn he was gnawing and hurried toward the woods.
+
+It was lucky for Fatty that he started when he did. For that dog was close behind him in no time. There was only one thing to do: Fatty knew that he must climb a tree at once. So he made for the nearest tree in sight--a big, spreading oak, which stood all alone just beyond the fence. And as Fatty crouched on a limb he felt safe enough, though the dog barked and whined, and leaped against the tree, and made a great fuss.
+
+Fatty looked down at the dog and scolded a little. He was not afraid. But it made him cross to be driven out of the cornfield. And he wished the dog would go away. But the dog--it was Farmer Green's Spot--the dog had no idea of leaving. He stayed right there and barked so loudly that it was not long before Farmer Green and his hired man came in sight. And with them was Johnnie Green and a little, young dog that had just been given to him.
+
+When Farmer Green saw Fatty he seemed disappointed. "He's too young to bother with," he said. "His skin's not worth much. We'll go 'long and see what we can find."
+
+But Johnnie Green stayed behind. He wanted that young coon. And he intended to have him, too. Leaving the young dog to watch Fatty Coon, Johnnie went back to the farmhouse. After a while he appeared again with an axe over his shoulder. And when he began to chop away at the big oak, Fatty Coon felt very uneasy. Whenever Johnnie drove his axe into the tree, both the tree and Fatty shivered together. And Fatty began to wish he had stayed away from the cornfield. But not for long, because Johnnie Green soon gave up the idea of chopping down the big oak. The wood was so hard to cut, and the tree was so big, that Johnnie had not chopped long before he saw that it would take him all night to cut through it. He looked up longingly at Fatty Coon. And Johnnie started to climb the tree himself. But the higher he climbed, the higher Fatty climbed. And Johnnie knew that he could never catch that plump young coon in that way.
+
+At last Johnnie Green started off, calling his dog after him. And then Fatty Coon came down. But he did not go back to the cornfield. He decided that he had had adventures enough for one night. But Fatty had learned something--at least he thought he had. For he made up his mind that once he climbed a tree, no man could reach him. TREES COULD NOT BE CHOPPED DOWN! That was what Fatty believed. Perhaps you will know, later, whether Fatty ever found out that he was mistaken.

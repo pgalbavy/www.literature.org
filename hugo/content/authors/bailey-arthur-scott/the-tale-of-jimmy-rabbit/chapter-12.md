@@ -1,0 +1,43 @@
+---
+title: "Chapter 12 - The Strange Man"
+weight: 12
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-12.html"
+---
+
+A strange man had come to stay at Farmer Green's house. It was Jasper Jay who brought the news into the woods.
+
+"He doesn't seem to work with Farmer Green, or the hired man, either," said Jasper. "When I first saw him he was sitting on the bank of the river, under a great, brown umbrella. But what he was doing I couldn't make out."
+
+When Jimmy Rabbit heard that, he knew at once that he wouldn't be able to sleep a wink that night unless he found out exactly what the strange man was about. So he went off toward Swift River with a skip and a hop. He was always like that. Whenever there was a new sight to be seen, Jimmy Rabbit was sure to be among the first to see it.
+
+He had no trouble in finding what he was looking for. There on the river bank was a huge umbrella. Jimmy was sure it was the biggest one in the world. And under the umbrella sat the strange man. In one hand he grasped a queerly shaped board, and a number of sticks; and in the other he held one of the sticks, with which he kept dabbing at a big, flat thing that stood in front of him.
+
+Jimmy Rabbit was puzzled. He stole nearer. And at last he had crept so close that when he stood on his hind legs he could see what the man was working at.
+
+To his great surprise, he discovered that Swift River was rushing and tumbling across the big, flat object which was propped upright in front of the stranger.
+
+Jimmy couldn't understand it. Was the man fishing? he wondered. And how had he managed to get Swift River out of its banks like that?
+
+Jimmy Rabbit began to think that the strange man had used magic. Why, he wasn't even wet!
+
+And Jimmy turned and ran back home. If he hadn't happened to meet Mr. Crow, probably he would never have known to this day what that man was doing.
+
+But Mr. Crow knew right away.
+
+"That wasn't really Swift River that you saw in front of him. It was just something that looked like it.... Haven't you ever seen a picture?" Mr. Crow asked.
+
+Jimmy Rabbit had to admit that he had never had that pleasure.
+
+"Well!" said Mr. Crow. "I can tell you where you can see better pictures than that man can make. He only paints rivers and mountains, and lakes. But down at Farmer Green's, all over the front of the barn, you'll find the most beautiful pictures anyone could ask for. You'll see ladies riding on horses--standing up, mind you! And you'll see men perched one on top of another until they reach the clouds. And animals! There are the oddest looking animals--different from anything you ever saw in these woods."
+
+"I'm going right down there," Jimmy Rabbit said. "I'm very glad to have met you, Mr. Crow. And thank you, very much!" It was not often that Jimmy was so polite.
+
+He was almost afraid that Mr. Crow was playing some trick on him. But it was all just as Mr. Crow had said--only ten times more wonderful. And Jimmy Rabbit made up his mind, before he came away from Farmer Green's barn, that he wanted to make pictures himself.
+
+Mr. Crow had said that the strange man, who made the picture of Swift River, was an artist. Well, Jimmy intended to begin to be an artist the very next day. And he was so grateful to Mr. Crow for explaining everything to him that he decided he would do something specially nice for the old gentleman.
+
+And all at once a happy thought came into Jimmy's head. He would make a picture of Mr. Crow!
+
+[Illustration]
+
+[Illustration: 13 Mr. Crow's Picture]

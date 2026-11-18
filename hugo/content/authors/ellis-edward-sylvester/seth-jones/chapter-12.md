@@ -1,0 +1,119 @@
+---
+title: "Chapter 12 - Pencilings By The Way"
+weight: 12
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-12.html"
+---
+
+We have said the hunter was right. By the accidental turning of the hunting knife, he had not only been saved his life, but his efforts had been turned in the right direction.
+
+It must be confessed that Haverland himself had some misgivings about the course which they were taking. He could not believe that the savages were short-sighted enough to place a captive which was secure in their possession, into the hands of one or two of their number, when they were conscious they were pursued. But the decision of the hunting knife could not be appealed from, and in a moody silence he followed in the footsteps of the hunter.
+
+It was now getting far along in the afternoon, and the pursued savages could be at no great distance. Their trail was plain, as no efforts had been made to conceal it; but, although Haldidge strove his utmost to detect signs of Ina’s delicate moccasin, he failed entirely; and was compelled, in spite of the assurance which he manifested at the start, to take some misgivings to himself.
+
+The hunter, notwithstanding the consummate cunning and skill he had shown thus far in tracing up the savages, had made one sad mistake. He had been misled altogether in the number of the smaller party. Instead of three or four Indians, there were six; and, as their trails became visible at intervals, he began to think he had undertaken a more difficult matter than he anticipated. Still, it was no time for halting or faltering, and he strode resolutely forward.
+
+"Ah—some more signs," exclaimed he, stopping suddenly.
+
+"What are they?" queried his companions eagerly.
+
+"Just notice this bush, if you please, and tell me what you make of it."
+
+The two friends did so, and saw that one of the branches of some sprouts of chestnut, growing round a stump, had been broken short off, and lay pointing toward the trail.
+
+"I make it favorable. Ina has done this to guide us," said Haverland.
+
+"My opinion exactly," added Graham.
+
+"You are mistaken about one thing. *Ina did not do it.*"
+
+"Did not do it?" exclaimed the others; "and who did then?"
+
+"That’s the question. I’m of the opinion that that white man you have told me about, has done it."
+
+"But it can not be that he is with them, too."
+
+"Surely it is impossible that the Indians would allow *both* of their captives to be in charge of two or three of their number at the same time."
+
+"As for two or three, there are six painted Mohawks ahead of us for that matter. I haven’t detected the trail of the gal yet, but have discovered several times pretty convincing evidence that a white man is among them. If you will look at that stick again, you will see that it is not likely your gal broke it. In the first place I don’t believe she is able; for notice how thick it is; and, if she could have done it, it would have taken so much time, that she would have been prevented."
+
+"Very probably Seth is among them, although it is singular to say the least. Some unaccountable whim has taken possession of the Indians."
+
+"But you say you discern nothing of Ina’s trail?" asked Graham.
+
+"Not as yet."
+
+"Do you think she is among them?"
+
+"I do."
+
+"Where is her trail then?"
+
+"Somewhere on the ground, I suppose."
+
+"Well, why have we not seen it, then?"
+
+"I suppose, because it has escaped our eyes."
+
+"A good explanation," smiled Graham, "but if we have failed altogether thus far to detect it, is it probable that she is among them?"
+
+"I think so. You must remember that these half dozen Mohawks are walking promiscuously and not in Indian file, as is generally their custom. It is very probable that the gal is in front, and what tracks her little moccasins might make would be entirely covered up with the big feet of the Ingins."
+
+"I hope you are not mistaken," remarked Haverland, in such a tone as to show that he still had his lingering doubts.
+
+"That matter can not be decided until we get a peep of the dusky cowards, and the only course is for us to push ahead."
+
+"It strikes me that they can be at no great distance, and if we are going to come upon their camp-fire to-night, we have got to do it pretty soon."
+
+"Come on, then."
+
+With this, the hunter again strode forward, but with more stealth and caution than before. He saw in the different signs around them unmistakable proof that the Indians were at no great distance.
+
+Just as the sun was setting, the triumvirate reached a small stream which dashed and foamed directly across the trail. They halted a moment to slake their thirst, and the hunter arose and moved forward again. But Graham made it a point to search at every halting place for guiding signs, and he called out to his companions to wait a moment.
+
+"Time is too precious," replied he, "and you won’t find any thing here."
+
+"Won’t find any thing here, eh? Just come and look at this."
+
+The hunter stepped back over the stones in the brook, and with Haverland approached Graham. The latter pointed to a broad, flat stone at his feet. Upon it was scratched, with some softer stone, the following words:—
+
+*"Hurry forward. There are six Indians, and they have got Ina with them. They don’t suspect you are following them, and are hurrying up for the village. I think we will camp two or three miles from here. Make the noise of the whipporwil when you want to do the business, and I will understand.*
+
+*Yours, respectfully*, *SETH JONES*."
+
+"If I warn’t afraid the imps would hear it, I would vote three cheers for that Jones," exclaimed Haldidge, "he’s a trump whoever he is."
+
+"You may depend upon that," added Graham, "for what little I saw of him was sufficient to show me that."
+
+"Let me see," repeated the hunter, again reading the writing upon the stone, "he says they will encamp two or three miles from here. The sun has now set, but we shall have light for over an hour yet, sufficient to guide us. It’s best for us to be moving forward, as there is no time to spare."
+
+"It beats my time how that Jones got into this crowd," said Graham, half to himself, as the three again moved forward.
+
+"He’s *there*, we know, and that is enough for the present; when we have the time to spare, we may speculate upon the matter. All ready."
+
+"Yes,—but a moment. Haldidge, let us have some arrangement about the manner in which we are going to travel. Double caution is now necessary."
+
+"I will keep my eyes upon the trail, as I have done all along, and see that we don’t walk into a hornet’s nest, with our eyes shut. You can help keep a look-out, while you, Graham, who have been so lucky thus far in stumbling upon what neither of us saw, will watch for more signs. Just as like as not, that Jones has been clever enough to give us some more good directions."
+
+Each understanding his duty, now prepared to fulfil it. The progress was necessarily slow, from the extreme caution exercised.
+
+The hunter had proceeded but a short distance, when he noticed his shadow was cast upon the ground; and, looking up, saw to his regret, that the full moon was in the heavens. This was unfortunate for them; for, although it discovered the trail with as much certainty as in the day, and thus assisted them in the pursuit; yet the chances of their approach being made known to the Indians, was almost certain.
+
+"Hist!" suddenly called Graham, in a whisper.
+
+"What’s up now?" asked the hunter, turning stealthily around.
+
+"Some more writing from Seth."
+
+Haverland and Haldidge approached. Graham was stooping beside a flat stone, endeavoring to decipher some character upon it. The light of the moon, although quite strong, was hardly sufficient. By dint of patience and perseverance, they succeeded in reading the following:
+
+"*Be* *VERY* *careful. The imps begin to suspect; they have seen me making signs, and are suspicious. They keep a close watch on the gal. Remember the signal, when you come up with us. Yours, in haste, but nevertheless with great respect.*
+
+*SETH JONES, ESQ*."
+
+It was now evident that they were in close proximity to the savages. After a moment’s hurried debate, it was decided that Haldidge should walk at a greater distance ahead than heretofore, and communicate instantly with his companions, upon discovering the camp.
+
+Slowly, silently, and cautiously the three moved forward. A half-hour later, Graham touched the shoulder of Haverland, and pointing meaningly ahead. A red reflection was seen in the branches overhead; and, as they stood in silence, the glimmer of a light was seen through the trees. The next instant, the hunter stood beside them.
+
+"We’ve come on to them at last;" he whispered, "see that your priming is all right, and make up your mind for hot work."
+
+They had already done this, and were anxious for the contest to be decided. Their hearts beat high, as they realized how near the deadly conflict was, and even the hunter’s breath was short and hurried. But there was no faltering or wavering, and they moved stealthily forward.

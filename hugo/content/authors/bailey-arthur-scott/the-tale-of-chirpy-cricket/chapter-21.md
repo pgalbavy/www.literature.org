@@ -1,0 +1,33 @@
+---
+title: "Chapter 21 - Mr. Nighthawk Explains"
+weight: 21
+url: "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-21.html"
+---
+
+Mr. Nighthawk appeared to think it a great joke on Chirpy Cricket, because Chirpy had thought he played the fiddle. He laughed in a most disagreeable fashion. And he kept repeating that people who didn't know a wind instrument when they heard it couldn't know much about music.
+
+As for Chirpy, he didn't know just what to say. But at last he managed to stammer that he hoped he hadn't offended Mr. Nighthawk.
+
+"Not at all!" Mr. Nighthawk told him. "This is the funniest thing I've heard for a long time. It was worth coming all the way from the woods to enjoy a laugh over it."
+
+Of course it was very rude for Mr. Nighthawk to speak in such a way. But he was never polite to any of the smaller field-people, unless he happened to be coaxing them to jump, so that he might grab them when they were in the air. You may be sure he was as meek as he could be if he happened to meet Solomon Owl. But at that moment Solomon was far off in the hemlock woods. Only a short time before Mr. Nighthawk had heard his rolling call in the distance. So he felt quite safe in bullying so gentle a creature as Chirpy Cricket.
+
+Thinking that he ought to be polite to his caller, rude as he was, Chirpy asked Mr. Nighthawk if he wouldn't kindly play something.
+
+"I don't care if I do," said Mr. Nighthawk--meaning that he did care, and that he would play something. But it was not because he wanted to oblige anybody. He was proud of his booming. And he was only too glad of a chance to show Chirpy Cricket how loud he could make it sound.
+
+"Stay right there in that tree, if you will!" Chirpy said. "I won't move. I'll sit here and listen."
+
+"Ha, ha!" Mr. Nighthawk laughed. "I knew you didn't know anything about wind instruments. When I make that booming sound I'm always on the wing. I'm going to take a flight now. And when I come back you'll hear a noise that is a noise--and not a squeaky chirp."
+
+Then Mr. Nighthawk left his perch and climbed up into the sky. And when he had risen high enough to suit him he dropped like a stone. It seemed to Chirpy Cricket that he had never heard anything so loud as the boom that broke not far above his head soon afterward. At the very moment when it looked as if Mr. Nighthawk must dash himself to pieces upon the ground, right where Chirpy Cricket crouched and trembled, he had spread his wings and checked his fall. It was the air, rushing through his wing-feathers with great force, that made the queer, hollow sound. That was why Mr. Nighthawk claimed that he made the booming on a wind instrument.
+
+"There!" he said, when he had settled himself in the tree once more. "If you think you can teach me to perform better, just try that trick yourself!"
+
+But Chirpy Cricket said that he was sure Mr. Nighthawk's performance couldn't be bettered by anybody. And he remarked that the noise reminded him of a high wind coming on top of a thunder storm.
+
+That pleased Mr. Nighthawk.
+
+"It's the greatest praise I've ever had!" he declared. And before Chirpy Cricket knew what had happened, Mr. Nighthawk had flown away.
+
+Chirpy often wondered why he left so suddenly. The truth was that Mr. Nighthawk had hurried back to the woods to tell his wife what Chirpy Cricket had said to him. And ever afterward he was fond of repeating Chirpy's remark, in a boasting way, until his neighbors were heartily tired of hearing it.

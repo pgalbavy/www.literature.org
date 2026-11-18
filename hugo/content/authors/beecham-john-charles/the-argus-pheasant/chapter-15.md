@@ -1,0 +1,105 @@
+---
+title: "Chapter 15 - The Council"
+weight: 16
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-15.html"
+---
+
+The council of the chiefs was assembling. From every part of Bulungan residency they came, the Rajahs and the Gustis, the Datu Bandars or governors of the Malay villages, and the Orang Kayas and Kapala Kampongs, the Dyak village heads. Their coming was in answer to the call of Peter Gross, resident, for messengers had been sent to every part of the province to announce that a great bitchara (talk) was to be held in Bulungan town.
+
+They came in various ways. The Malay Datu Bandars of the coast towns, where the Malays were largely in the ascendent, voyaged in royal sailing proas, some of which were covered with canopies of silk. Each had twenty men or more, armed to the teeth, in his cortège. The inland Rajahs traveled in even greater state. Relays of slaves carried them in sedan chairs, and fifty gleaming krisses marched before and fifty after. The humbler Orang Kayas and Kapala Kampongs came on foot, with not more than ten attendants in their trains, for a village head, regardless of the number of buffaloes in his herd, must not aspire to the same state as a Rajah, or even a Gusti. The Rajah Wobanguli received each arrival with a stately dignity befitting the ruler of the largest town in the residency, and assigned him and his people the necessary number of houses to shelter them.
+
+But these were not the only strangers in Bulungan. From all the country round, and from every village along the coast, Dyaks, Malays, Chinese, and Bugis, and the Bajau sea-wanderers, streamed into the town. The usually commodious market-place seemed to shrink and dwindle as the crowd of traders expanded, and the raucous cries of the venders rang about the street to a late hour at night.
+
+In every second house a cock-fight was in progress. Sweating, steaming bodies crushed each other in the narrow streets and threatened ruin to the thatched houses. Malays scowled at Dyaks, and Dyaks glared vindictively at Malays. Shrewd, bland Chinese intermingled with the crowd and raked in the silver and copper coins that seemed to flow toward them by a magnetic attraction. Fierce, piratical Bugis cast amorous glances at the Dyak belles who, although they shrank timidly into their fathers' huts, were not altogether displeased at having their charms noticed.
+
+There was hardly a moment without its bickering and fierce words, and there were frequent brawls when women fled shrieking, for hill Dyak and coast Dyak and Malay and Bugi could not meet at such close quarters without the feuds of untold generations breaking out.
+
+Foremost in the minds and on the lips of every individual in that reeking press of humanity was the question: "What will the orang blanda (white man) want?" Speculation ran riot, rumor winged upon rumor, and no tale was too fantastical to lack ready repetition and credulous listeners. Mynheer would exact heavy penalties for every act of piracy and killing traced back to Bulungan, so the stories ran; mynheer would confiscate all the next rice crop; mynheer would establish great plantations and every village would be required to furnish its quota of forced labor; mynheer would demand the three handsomest youths from each village as hostages for future good behavior. Thus long before the council assembled, the tide was setting against Peter Gross.
+
+Bulungan was ripe and ready for revolt. It chafed under the fetters of a white man's administration, lightly as those fetters sat. Wildest of Borneo's residencies, it was the last refuge of the adventurous spirits of the Malay archipelago who found life in the established provinces of Java, Sumatra, and Celebes all too tame.
+
+They had tasted freedom for two years under Muller's innocuous administration and did not intend to permit the old order to be changed. Diverse as their opinions on other matters might be, bitter as their feuds might be, hill Dyak and coast Dyak, Malay, Chinese, Bugi, and Bajau were united on this point. So for the first time in Bulungan's history a feeling of unanimity pervaded a conclave of such mongrel elements as were now gathered in old "Rotterdam" town. This feeling was magnified by a report--originating, no one knew where, and spreading like wildfire--that the great Datu, the chief of all the pirates of the island seas, the mysterious and silent head of the great confederation, was in Bulungan and would advise the chiefs how to answer their new white governor.
+
+Peter Gross was not wholly ignorant of public sentiment in the town. One of Captain Carver's first acts on coming to Bulungan was to establish the nucleus of a secret service to keep him informed on public sentiment among the natives. A Dyak lad named Inchi, whom Carver had first hired to help with the coarsest camp work, and who had formed an immediate attachment for his soldierly white baas, was the first recruit in this service and brought in daily reports.
+
+"Inchi tells me that the chiefs have decided they will pay no more tax to the government," Carver announced to Peter Gross on the morning of the council. The resident and he were on the drill-ground where they could talk undisturbed. Peter Gross's lips tightened.
+
+"I expected opposition," he replied non-committally.
+
+"Too bad we haven't the Prins Lodewyk here," Carver remarked. "A few shells around their ears might bring them to their senses."
+
+"We don't need such an extreme measure yet," Peter Gross deprecated gently.
+
+"I hardly know whether it's safe for us to venture into the town," Carver observed. "Couldn't you arrange to have the meeting here, away from all that mob? There must be thirty thousand people down below."
+
+"I would rather meet them on their own ground."
+
+"It's a big risk. If there should be an attack, we couldn't hold them."
+
+"Thirty thousand against twenty-five would be rather long odds," Peter Gross assented, smiling.
+
+"You're going to use the fort garrison, too, aren't you?" Carver asked quickly.
+
+"I shall take just two people with me," Peter Gross announced.
+
+"My God, Mr. Gross! You'll never get back!" Carver's face was tense with anxiety.
+
+"Three people will be just as effective as twenty-six, captain," Peter Gross declared mildly. "The victory we must gain to-day is a moral victory--we must show the natives that we are not afraid."
+
+"But they're bound to break loose. A show of military force would restrain them--"
+
+"I think it would be more a provocation than a restraint, captain. They would see our helplessness. If I go alone they will reason that we are stronger than they think we are. Our confidence will beget uncertainty among them."
+
+Carver had long since learned the futility of trying to dissuade his chief from a course once adopted. He merely remarked:
+
+"Of course I'll go?"
+
+"I'm sorry, captain--" Peter Gross's face expressed sincere regret. "Nothing would please me more than to have you with me, but I can't spare you here."
+
+Carver realized that himself. He swallowed his disappointment.
+
+"Whom were you planning on taking?" he asked abruptly.
+
+"Inchi--"
+
+Carver nodded approval.
+
+--"And Paddy Rouse."
+
+"Paddy?" the captain exclaimed. "Of what use--I beg your pardon, Mr. Gross."
+
+Peter Gross smiled. "It does seem a peculiar mission to take that youngster on," he said. "But Paddy's going to be rarely useful to me to-day, useful in a way every man couldn't be. These natives have a superstitious reverence for red hair."
+
+An understanding smile broke upon Carver's face.
+
+"Of course. A mighty good idea. Bluff and superstition are two almighty-powerful weapons against savages."
+
+"I also hope that we shall have another ally there," Peter Gross said.
+
+"Who is that?"
+
+"The Juffrouw Koyala."
+
+Carver frowned. "Mr. Gross," he said, "I don't trust that woman. She's Dyak, and that's the most treacherous breed that was ever spawned. We've got to look out for her. She's an actress, and mighty clever in playing her little part, but she can't hide the hate in her heart. She'll keep us on the string and pretend she's won over, but the first chance she gets to strike, she'll do it. I've met that kind of woman in the Philippines."
+
+"I think you are wholly mistaken," Peter Gross replied decisively.
+
+Carver glanced at him quickly, searchingly. "She's a damn pretty woman," he remarked musingly, and shot another quick glance at the resident.
+
+"That has nothing to do with the matter," Peter Gross replied sternly.
+
+Abruptly dropping the topic, Carver asked:
+
+"At what hour does the council meet?"
+
+"Four o'clock."
+
+"You'll be back by sundown?"
+
+"I am afraid not. I shall probably spend the night with Wobanguli."
+
+Carver groaned. "Send Inchi if things look as though they were going wrong," he said. "Might I suggest that you let him go to the village right away, and keep away from you altogether?"
+
+"If you'll instruct him so, please. In case there is trouble, throw your men into the fort." He took a package of papers from his pocket and gave them to Carver. "Here are some documents which I want you to take care of for me. They are all addressed. One of them is for you; it appoints you military commandant of Bulungan in case something should happen to me down below. Don't use it otherwise. If Van Slyck should make a fuss you will know how to handle him."
+
+"I understand," Carver replied shortly, and pocketed the envelope. He strode back to his shelter with a heavy heart.

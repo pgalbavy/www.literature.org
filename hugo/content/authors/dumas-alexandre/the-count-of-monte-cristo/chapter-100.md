@@ -1,0 +1,85 @@
+---
+title: "Chapter 100 - The Apparition"
+weight: 100
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-100.html"
+---
+
+As the procureur had told Madame Danglars, Valentine was not yet recovered. Bowed down with fatigue, she was indeed confined to her bed; and it was in her own room, and from the lips of Madame de Villefort, that she heard all the strange events we have related, - we mean the flight of Eugenie and the arrest of Andrea Cavalcanti, or rather Benedetto, together with the accusation of murder pronounced against him. But Valentine was so weak that this recital scarcely produced the same effect it would have done had she been in her usual state of health. Indeed, her brain was only the seat of vague ideas, and confused forms, mingled with strange fancies, alone presented themselves before her eyes.
+
+During the daytime Valentine's perceptions remained tolerably clear, owing to the constant presence of M. Noirtier, who caused himself to be carried to his granddaughter's room, and watched her with his paternal tenderness; Villefort also, on his return from the law courts, frequently passed an hour or two with his father and child. At six o'clock Villefort retired to his study, at eight M. d'Avrigny himself arrived, bringing the night draught prepared for the young girl, and then M. Noirtier was carried away. A nurse of the doctor's choice succeeded them, and never left till about ten or eleven o'clock, when Valentine was asleep. As she went down-stairs she gave the keys of Valentine's room to M. de Villefort, so that no one could reach the sick-room excepting through that of Madame de Villefort and little Edward.
+
+Every morning Morrel called on Noirtier to receive news of Valentine, and, extraordinary as it seemed, each day found him less uneasy. Certainly, though Valentine still labored under dreadful nervous excitement, she was better; and moreover, Monte Cristo had told him when, half distracted, he had rushed to the count's house, that if she were not dead in two hours she would be saved. Now four days had elapsed, and Valentine still lived.
+
+The nervous excitement of which we speak pursued Valentine even in her sleep, or rather in that state of somnolence which succeeded her waking hours; it was then, in the silence of night, in the dim light shed from the alabaster lamp on the chimney-piece, that she saw the shadows pass and repass which hover over the bed of sickness, and fan the fever with their trembling wings. First she fancied she saw her stepmother threatening her, then Morrel stretched his arms towards her; sometimes mere strangers, like the Count of Monte Cristo came to visit her; even the very furniture, in these moments of delirium, seemed to move, and this state lasted till about three o'clock in the morning, when a deep, heavy slumber overcame the young girl, from which she did not awake till daylight. On the evening of the day on which Valentine had learned of the flight of Eugenie and the arrest of Benedetto, - Villefort having retired as well as Noirtier and d'Avrigny, - her thoughts wandered in a confused maze, alternately reviewing her own situation and the events she had just heard.
+
+Eleven o'clock had struck. The nurse, having placed the beverage prepared by the doctor within reach of the patient, and locked the door, was listening with terror to the comments of the servants in the kitchen, and storing her memory with all the horrible stories which had for some months past amused the occupants of the ante-chambers in the house of the king's attorney. Meanwhile an unexpected scene was passing in the room which had been so carefully locked. Ten minutes had elapsed since the nurse had left; Valentine, who for the last hour had been suffering from the fever which returned nightly, incapable of controlling her ideas, was forced to yield to the excitement which exhausted itself in producing and reproducing a succession and recurrence of the same fancies and images. The night-lamp threw out countless rays, each resolving itself into some strange form to her disordered imagination, when suddenly by its flickering light Valentine thought she saw the door of her library, which was in the recess by the chimney-piece, open slowly, though she in vain listened for the sound of the hinges on which it turned.
+
+At any other time Valentine would have seized the silken bell-pull and summoned assistance, but nothing astonished her in her present situation. Her reason told her that all the visions she beheld were but the children of her imagination, and the conviction was strengthened by the fact that in the morning no traces remained of the nocturnal phantoms, who disappeared with the coming of daylight. From behind the door a human figure appeared, but the girl was too familiar with such apparitions to be alarmed, and therefore only stared, hoping to recognize Morrel. The figure advanced towards the bed and appeared to listen with profound attention. At this moment a ray of light glanced across the face of the midnight visitor.
+
+"It is not he," she murmured, and waited, in the assurance that this was but a dream, for the man to disappear or assume some other form. Still, she felt her pulse, and finding it throb violently she remembered that the best method of dispelling such illusions was to drink, for a draught of the beverage prepared by the doctor to allay her fever seemed to cause a reaction of the brain, and for a short time she suffered less. Valentine therefore reached her hand towards the glass, but as soon as her trembling arm left the bed the apparition advanced more quickly towards her, and approached the young girl so closely that she fancied she heard his breath, and felt the pressure of his hand.
+
+This time the illusion, or rather the reality, surpassed anything Valentine had before experienced; she began to believe herself really alive and awake, and the belief that her reason was this time not deceived made her shudder. The pressure she felt was evidently intended to arrest her arm, and she slowly withdrew it. Then the figure, from whom she could not detach her eyes, and who appeared more protecting than menacing, took the glass, and walking towards the night-light held it up, as if to test its transparency. This did not seem sufficient; the man, or rather the ghost - for he trod so softly that no sound was heard - then poured out about a spoonful into the glass, and drank it. Valentine witnessed this scene with a sentiment of stupefaction. Every minute she had expected that it would vanish and give place to another vision; but the man, instead of dissolving like a shadow, again approached her, and said in an agitated voice, "Now you may drink."
+
+Valentine shuddered. It was the first time one of these visions had ever addressed her in a living voice, and she was about to utter an exclamation. The man placed his finger on her lips. "The Count of Monte Cristo!" she murmured.
+
+It was easy to see that no doubt now remained in the young girl's mind as to the reality of the scene; her eyes started with terror, her hands trembled, and she rapidly drew the bedclothes closer to her. Still, the presence of Monte Cristo at such an hour, his mysterious, fanciful, and extraordinary entrance into her room through the wall, might well seem impossibilities to her shattered reason. "Do not call any one - do not be alarmed," said the Count; "do not let a shade of suspicion or uneasiness remain in your breast; the man standing before you, Valentine (for this time it is no ghost), is nothing more than the tenderest father and the most respectful friend you could dream of."
+
+Valentine could not reply; the voice which indicated the real presence of a being in the room, alarmed her so much that she feared to utter a syllable; still the expression of her eyes seemed to inquire, "If your intentions are pure, why are you here?" The count's marvellous sagacity understood all that was passing in the young girl's mind.
+
+"Listen to me," he said, "or, rather, look upon me; look at my face, paler even than usual, and my eyes, red with weariness - for four days I have not closed them, for I have been constantly watching you, to protect and preserve you for Maximilian." The blood mounted rapidly to the cheeks of Valentine, for the name just announced by the count dispelled all the fear with which his presence had inspired her. "Maximilian!" she exclaimed, and so sweet did the sound appear to her, that she repeated it - "Maximilian! - has he then owned all to you?"
+
+"Everything. He told me your life was his, and I have promised him that you shall live."
+
+"You have promised him that I shall live?"
+
+"Yes."
+
+"But, sir, you spoke of vigilance and protection. Are you a doctor?"
+
+"Yes; the best you could have at the present time, believe me."
+
+"But you say you have watched?" said Valentine uneasily; "where have you been? - I have not seen you." The count extended his hand towards the library. "I was hidden behind that door," he said, "which leads into the next house, which I have rented." Valentine turned her eyes away, and, with an indignant expression of pride and modest fear, exclaimed: "Sir, I think you have been guilty of an unparalleled intrusion, and that what you call protection is more like an insult."
+
+"Valentine," he answered, "during my long watch over you, all I have observed has been what people visited you, what nourishment was prepared, and what beverage was served; then, when the latter appeared dangerous to me, I entered, as I have now done, and substituted, in the place of the poison, a healthful draught; which, instead of producing the death intended, caused life to circulate in your veins."
+
+"Poison - death!" exclaimed Valentine, half believing herself under the influence of some feverish hallucination; "what are you saying, sir?"
+
+"Hush, my child," said Monte Cristo, again placing his finger upon her lips, "I did say poison and death. But drink some of this;" and the count took a bottle from his pocket, containing a red liquid, of which he poured a few drops into the glass. "Drink this, and then take nothing more to-night." Valentine stretched out her hand, but scarcely had she touched the glass when she drew back in fear. Monte Cristo took the glass, drank half its contents, and then presented it to Valentine, who smiled and swallowed the rest. "Oh, yes," she exclaimed, "I recognize the flavor of my nocturnal beverage which refreshed me so much, and seemed to ease my aching brain. Thank you, sir, thank you!"
+
+"This is how you have lived during the last four nights, Valentine," said the count. "But, oh, how I passed that time! Oh, the wretched hours I have endured - the torture to which I have submitted when I saw the deadly poison poured into your glass, and how I trembled lest you should drink it before I could find time to throw it away!"
+
+"Sir," said Valentine, at the height of her terror, "you say you endured tortures when you saw the deadly poison poured into my glass; but if you saw this, you must also have seen the person who poured it?"
+
+"Yes." Valentine raised herself in bed, and drew over her chest, which appeared whiter than snow, the embroidered cambric, still moist with the cold dews of delirium, to which were now added those of terror. "You saw the person?" repeated the young girl. "Yes," repeated the count.
+
+"What you tell me is horrible, sir. You wish to make me believe something too dreadful. What? - attempt to murder me in my father's house, in my room, on my bed of sickness? Oh, leave me, sir; you are tempting me - you make me doubt the goodness of providence - it is impossible, it cannot be!"
+
+"Are you the first that this hand has stricken? Have you not seen M. de Saint-Meran, Madame de Saint-Meran, Barrois, all fall? would not M. Noirtier also have fallen a victim, had not the treatment he has been pursuing for the last three years neutralized the effects of the poison?"
+
+"Oh, heaven," said Valentine; "is this the reason why grandpapa has made me share all his beverages during the last month?"
+
+"And have they all tasted of a slightly bitter flavor, like that of dried orange-peel?"
+
+"Oh, yes, yes!"
+
+"Then that explains all," said Monte Cristo. "Your grandfather knows, then, that a poisoner lives here; perhaps he even suspects the person. He has been fortifying you, his beloved child, against the fatal effects of the poison, which has failed because your system was already impregnated with it. But even this would have availed little against a more deadly medium of death employed four days ago, which is generally but too fatal."
+
+"But who, then, is this assassin, this murderer?"
+
+"Let me also ask you a question. Have you never seen any one enter your room at night?"
+
+"Oh, yes; I have frequently seen shadows pass close to me, approach, and disappear; but I took them for visions raised by my feverish imagination, and indeed when you entered I thought I was under the influence of delirium."
+
+"Then you do not know who it is that attempts your life?"
+
+"No," said Valentine; "who could desire my death?"
+
+"You shall know it now, then," said Monte Cristo, listening.
+
+"How do you mean?" said Valentine, looking anxiously around.
+
+"Because you are not feverish or delirious to-night, but thoroughly awake; midnight is striking, which is the hour murderers choose."
+
+"Oh, heavens," exclaimed Valentine, wiping off the drops which ran down her forehead. Midnight struck slowly and sadly; every hour seemed to strike with leaden weight upon the heart of the poor girl. "Valentine," said the count, "summon up all your courage; still the beatings of your heart; do not let a sound escape you, and feign to be asleep; then you will see." Valentine seized the count's hand. "I think I hear a noise," she said; "leave me."
+
+"Good-by, for the present," replied the count, walking upon tiptoe towards the library door, and smiling with an expression so sad and paternal that the young girl's heart was filled with gratitude. Before closing the door he turned around once more, and said, "Not a movement - not a word; let them think you asleep, or perhaps you may be killed before I have the power of helping you." And with this fearful injunction the count disappeared through the door, which noiselessly closed after him.

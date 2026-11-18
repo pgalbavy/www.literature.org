@@ -1,0 +1,105 @@
+---
+title: "Chapter 16 - The Repulse"
+weight: 16
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-16.html"
+---
+
+A *FEW* minutes more satisfied the trapper that he was right. Gradually out from the darkness the approaching figure resolved itself into the steam man.
+
+Johnny Brainerd, after leaving the huge trapper so neatly, continued wandering aimlessly over the prairie at a moderate speed, so as to guard against the insidious approach of the Indians, or the hunter who had threatened to confiscate his property in so unjustifiable a manner.
+
+Fortunately he did not see Baldy until the latter cautiously hailed him, otherwise he would have fled before ascertaining his identity; but the moment he recognized his voice he hastened toward him, no less surprised than pleased at meeting him so unexpectedly.
+
+'Where are Mickey and Ethan?' he inquired, as he leaped alongside of him.
+
+'In the cave.'
+
+'How is it you are here?'
+
+The trapper briefly explained that he had crept out to hunt him up; but as there seemed no imminent danger, he deemed it best to leave his companions there, as if the Indians once gained possession of the golden ravine, it would be difficult, if not impossible, to displace them.
+
+Besides, in order to carry out the scheme which he had formed, it was necessary that two at least should remain in the cave, while the others were on the outside.
+
+Under the direction of the trapper, the steam man slowly approached the ravine, keeping at a respectful distance, but so near that if any sudden emergency should arise, they would be able to render assistance to their friends.
+
+The boy gave several whistles so as to inform the Irishman and Yankee of their whereabouts. A few seconds after, and while the noise of the instrument was echoing over the prairie, a fainter whistle reached their ears.
+
+'That's the long-legged Yankee!' instantly remarked the trapper; 'he knows how to make my kind of noise.'
+
+'What does it mean?'
+
+'It means that all is right.'
+
+'Where are the Indians?'
+
+'They ain't fur off. I wish they war further, fur ef it warn't fur them, we'd had half the yaller metal out of thar by this time.'
+
+Young Brainerd had the reputation of possessing a remarkably keen vision; but, peer as much as he might, he could detect nothing unusual. The trapper, however, affirmed that numerous forms could be seen creeping along-the edge of the prairie, and that these same forms were more nor less than so many red-skins.
+
+'What are they trying to do?'
+
+'Duono.'
+
+'Hadn't we better withdraw?' inquired Johnny, showing a little nervousness.
+
+'Not till we know they're after us,' was the quiet reply.
+
+By and by the boy himself was able to get an occasional glimpse of the shadowy figures moving to and fro.
+
+'I think they are going to surround us,' he added, 'and I feel as though we ought to get out while we can do so.'
+
+The only reply to this, was by the trapper suddenly bringing his gun to his shoulder and firing. An agonizing screech, as the savage threw himself in the air, showed that the shot had not been in vain.
+
+Rather curiously at the same moment the report of a gun in the ravine reached their ears, followed by the same death-shriek.
+
+'They ain't sleepin' very powerful down thar,' was the pleased remark of the trapper, as he leisurely reloaded his piece, while the boy remained in that nervous state, awaiting the permission of Baldy to go spinning away over the prairie at a rate that would very quickly carry him beyond all danger.
+
+But the trapper was in no hurry to give the ardently desired permission. He seemed to have a lingering affection for the place, which prevented his 'tearing himself away.'
+
+The boy's timidity was not in the least diminished, when several return shots were fired, the bullets pinging all around them.
+
+'My gracious, Baldy, let's get out of this!' he instantly pleaded,' starting the man himself.
+
+'Go about fifty feet,' was the reply, 'but not any further.'
+
+It may be said that the steam man fairly leaped over this space, and somewhat further, like a frightened kangaroo, and even then it would not have halted had not the trapper given peremptory orders for it to do so.
+
+The sky was now clear and the moon, riding high and nearly full, illumined the prairie for a considerable distance, and there was no fear but that they could detect the approach of the most treacherous savage, let him come in whatever disguise he chose.
+
+The night wore gradually away, without any particular demonstration upon the part of either the Indians or white men, although dropping shots were occasionally exchanged, without any particular result on either side.
+
+Now and then a red-skin, creeping cautiously along, made his appearance on the edge of the ravine; but there was too much light for him to expose himself to the deadly rifle of the trapper, who took a kind of savage pleasure in sending his leaden messengers after the aborigines.
+
+This species of sport was not without its attendant excitement and danger; for the last creature to take a shot quietly is an American Indian; and they kept popping away at the steam man and its train whenever a good opportunity offered.
+
+Owing to the size and peculiar appearance of the steamer, he was a fair target for his enemies; and, indeed, so uncomfortably close did some of the bullets come, that the boy almost continually kept his head lowered, so as to be protected by the sides of the wagon.
+
+Finally morning came, greatly to the relief of all our friends. As soon as it was fairly light the Irishman and Yankee were notified that a move was about to be made, by means of the steam-whistle. An answering signal coming back to them, the steam man at once advanced to the very edge of the ravine.
+
+The trapper peering cautiously down the gulch, caught sight of several red-skins crouching near the cave, and, directing young Brainerd to discharge his piece at a certain one, the two fired nearly together. Scarce five seconds had elapsed, when both Ethan and Mickey did the same. All four, or rather three, as the boy gave his principal attention to the engine, began loading and firing as rapidly as possible.
+
+The red-skins returned a few scattering shots; but they were taken at such disadvantage, that they immediately began a precipitate retreat down the ravine.
+
+Ere they had withdrawn a hundred yards, Ethan and Mickey emerged from the cave, shouting and excited, firing at every red-skin they could see, the Irishman occasionally swinging his gun over his head, and daring the savages to a hand-to-hand encounter.
+
+While the two were thus engaged, the trapper was not idle. The steam man maintained his place but a short distance behind the enemies, and his deadly rifle scarcely ever failed of its mark.
+
+The moment an Indian was killed or helplessly wounded, his companions caught and dragged him away, there being a great fear upon the part of all that some of their number might fall into the hands of their enemies, and suffer the ineffaceable disgrace of being scalped.
+
+The savages were followed a long distance, until their number had diminished down to a fraction of what it was originally, and the survivors had all they could do in 'taking care of their disabled comrades.
+
+Never was victory more complete. The Indians were thoroughly discomfited, and only too glad to get away after being so severely punished. During this singular running fight the steam man kept up a constant shrieking, which doubtless contributed in no slight degree to the rout of the red-skins. They fired continually at the fearful-looking monster, and, finding their shots produced no effect, invested the thing with a portion of the supernatural power which they had given it at first sight.
+
+When the last glimpse of the retreating Indians was seen, the trapper turned triumphantly toward the boy.
+
+'Warn't that purty well done, younker?'
+
+'It was indeed.'
+
+'They'll now stay away awhile.'
+
+'We would have failed if we had waited any longer.'
+
+'Why so, boy?'
+
+'Because the last stick is burned, and the steam man couldn't be made to run a mile further without more fuel.'

@@ -1,0 +1,7 @@
+---
+title: "The Oak And The Woodcutters"
+weight: 165
+url: "/authors/aesop/fables/chapter-163.html"
+---
+
+THE WOODCUTTER cut down a Mountain Oak and split it in pieces, making wedges of its own branches for dividing the trunk. The Oak said with a sigh, "I do not care about the blows of the axe aimed at my roots, but I do grieve at being torn in pieces by these wedges made from my own branches." Misfortunes springing from ourselves are the hardest to bear.

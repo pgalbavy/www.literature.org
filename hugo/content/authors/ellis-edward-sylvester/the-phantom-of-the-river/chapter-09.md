@@ -1,0 +1,97 @@
+---
+title: "Chapter 9 - The \"Accident\""
+weight: 9
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-09.html"
+---
+
+It would seem that the pioneers had more than enough to occupy their minds on this eventful journey through the woods, without coming in contact with such a frightful thing as a rattlesnake, but here was one of the hardy members of the escort apparently stricken unto death by the huge reptile that he had just slain.
+
+By the time the poor fellow had collapsed and fallen to the earth, almost the entire party were gathered around him. That section of the Union, even in those early days, was not wholly lacking in whiskey. There may not have been a great deal of it manufactured in the territory, but those who made their homes in that favored land did not often suffer for lack of it.
+
+Flasks there were in plenty, but it was noticeable that not one of the rangers who had come from the fort made haste to bring forth a supply and place it at the lips of their collapsed companion.
+
+It was Mr. Altman who was quick to kneel beside the man and apply the vessel to his mouth, as he raised him to a sitting position.
+
+"Don't you remember, George," said Agnes, "that Mr. Kenton said we must meet with some accident that would prevent our reaching Rattlesnake Gulch until night was fully come?"
+
+"I do."
+
+"Well, that's the accident we have met."
+
+A light flashed upon young Ashbridge. The amused expression on the faces of the escort was explained. James Deane had not been harmed by the rattlesnake which he had pounded to death. As is said, all this was done for effect.
+
+The most real thing about the business was that Jim was procuring a prodigious supply of excellent whiskey without any expense to himself, and without any cause existing for such an over-dose.
+
+Seeing the actual danger that threatened their friend, Hastings touched the shoulder of Mr. Altman, who looked up inquiringly at him.
+
+"I wouldn't give him any more."
+
+"It will be safer to fill him up with it, so as to counteract the poison."
+
+"Yesh—fill him up," added Jim, thickly, reaching out his hand vaguely for the bottle; "fill him up—coun'act—hic—p'son—fill him up so he runs over."
+
+"I think, Tom, he's running over now," suggested Mr. Ashbridge, who understood matters.
+
+The words and the expressions on the countenances of the others caused the truth to flash upon the good Samaritan. He rose to his feet with a disgusted look. Then he shook his glass flask, and held it up between him and the sunlight.
+
+"If I had suspected, he shouldn't have had a drop; he has drank enough to make three men drunk."
+
+"And he's as drunk as three men can get," replied Ashbridge.
+
+"Fetch on your rattler—hic," stuttered Jim, who was about to add some more remarks when he gave it up and toppled over on the ground, deferring all such observations to a more convenient season.
+
+It assumed an almost grotesque phase, and sounds incredible when it is stated that this pretended rattlesnake bite was solely for the purpose of deceiving the members of the Shawanoe war party that were swarming through the woods, yet not only was such the fact, but the scheme, singular as it was, met the approval of Daniel Boone and Simon Kenton, whose judgment in such matters all will admit should be accepted as final.
+
+Meanwhile, Hastings was anxiously consulting with Ashbridge, Altman, and his own men.
+
+The situation was grave to the last degree, and the crisis could not be far off.
+
+"We don't need to wait here more'n half an hour," said he, "and may be not that long; then, when we start, night'll be fully here afore we reach the gulch."
+
+"And the Indians have been deceived as to our purpose?" was the inquiring remark of Mr. Ashbridge.
+
+"There's no sartinty of that, but it looks that way."
+
+"But the most alarming feature of this business, as it seems to me," continued the pioneer, "is this: the time must soon come when these Shawanoes will learn we do not mean to pass through that valley of death."
+
+Hastings nodded his head. He had thought of all this, as well as of the complications that were likely to follow.
+
+"How long after we make our pause will they suspect the truth?"
+
+"Inside of ten minutes; but," added the ranger, "they may think we've decided to wait till morning afore we pass through."
+
+"Is that probable?" asked young Ashbridge.
+
+"No; there isn't one chance in a thousand that they'll think anything of the kind, and yet there is that one chance."
+
+Mr. Ashbridge again took up the exchange of views with the leader of the scouts, the others listening with the closest attention and interest.
+
+"Suppose the Shawanoes believe we have merely postponed our passage through the gulch until morning, and that we are certain to attempt it then—what will they do?"
+
+"Wait where they are till daylight, or for a week, if they were sure the thing would be tried; but," was the significant remark of Hastings, "don't build any hopes on any such idea as that."
+
+"I am sure it would be foolish to do so, but we are getting down to bed-rock facts now. The Indians must soon learn that we have no intention of walking into their trap. What they will then do is not clear to you."
+
+"No; but I don't think they'll make an attack till the night is purty well nigh gone. They always spend a good deal of time in figgering and man[oe]uverin' round. It's that time between the beginning of darkness and sun-up that's got to be used by us for the benefit of your folks, or it will not be used at all."
+
+"Mr. Kenton seems to have taken wise steps, as he always does under such circumstances, for the safety of our families. He counts upon securing that canoe which was left with the flatboat, and has hope of finding another near the gulch. Suppose he fails in both instances—what then?"
+
+"Only Kenton himself can answer that question; I believe he's as likely to fail as to win, but he'll soon be on hand; he won't keep us waiting long. Boone will be purty sure to jine us, and atween' em they'll do the right thing."
+
+"There can be no doubt of that, but, if you will pardon me, Mr. Hastings, it seems to me that there is something for us to do. My solicitude for the dear ones around us, who cannot help themselves, must excuse my presumption."
+
+"It's no presumption, sir; we are all glad to hear what you have to say."
+
+"Accidents are liable to occur at any time, even though some of them are bogus," qualified Ashbridge, with a glance at the unconscious figure of Jim Deane a few rods away. "Boone and Kenton have placed themselves in great peril. One of them may be killed; it is impossible that both will fall. We are fortunate in having such good friends as you to stand by us, but the wisest man is he who provides, as far as he can, for every contingency. Suppose we see nothing of Boone or Kenton again?"
+
+"I can't think such a thing as both of 'em going under at the same time can happen. One of 'em is sartin to turn up purty soon."
+
+"But Kenton may fail to bring the canoe, upon which so much depends. Now, to come down to the point, when we halt near the gulch will our position be such that we can make a good defence against an attack?"
+
+"I don't know," was the frank reply of the ranger; "we've only one man with us who knows all about Rattlesnake Gulch, and the ins and outs of the place."
+
+"Who is that man?"
+
+For reply, Hastings pointed to Jim Deane, sunk in a helpless stupor.
+
+"Humph!" remarked the pioneer, "he is of no more account than a dead man, and won't be for some hours to come."

@@ -1,0 +1,63 @@
+---
+title: "Chapter 10 - The Flying Boys Continue Their Journey"
+weight: 10
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-10.html"
+---
+
+The morning dawned clear, mild and bright. Harvey and Bohunkus were astir at an early hour and filled the tank with gasoline and replenished the supply of oil. An examination of the aeroplane was made and every wire, brace, lever and appurtenance found, so far as could be judged, in perfect condition. The two went back to the house where an excellent meal was awaiting them. Harvey slipped so liberal a fee into the hands of the woman that she was delighted and showed it to her husband, who grinned appreciatively. It may be said that he earned the extra pay through a valuable suggestion to the aviator,—one that was effective and so simple that it was strange it had not been thought of before.
+
+"You tell me," said Abisha, "that when one of them things is ready to start on its flight, you hold it until the propeller has got its grip and then let it go with a jump."
+
+"Something like that is the practice."
+
+"When there’s only two of you, how do you manage it?"
+
+"The only way is to start the thing, with Bunk in his seat; I run alongside for a few steps and spring into my seat."
+
+"You might slip and let the aeroplane get away from you. Then Bunk would be thrown out on his head."
+
+"He wouldn’t be hurt if he landed that way," replied Harvey with a laugh, "but he might alight on his shins and that would be bad."
+
+"Let me show you a better plan."
+
+Abisha strode to the woodpile and came back with a long, strong stick. He set one end in the ground, with the upper inclined against the footboard. The prop thus gained held the biplane immovable before a strong push.
+
+"Let her shove all she wants to," explained the man, "and when you’re ready, kick the stick aside."
+
+"The scheme could not be better," said Harvey admiringly, as he made sure that the point in contact with the machine could not injure it. He seated himself and Abisha swung the propeller around; the engine instantly responded with its deafening roar and a powerful thrust was exerted against the prop. In a few minutes, the youth leaned over, grasped the stick and swung it aside. The machine made a bound like a runner starting on a race, spun over the ground for a hundred feet or more, and then in obedience to the upturned rudder in front, leaped clear of the ground. She was off.
+
+Harvey glanced back. In the door was the smiling housewife, with her husband on the spot where he stood when the flight began. He waved his hand in salutation and the two aviators responded.
+
+This is a good place in which to give the explanation that must be made in order to understand how it came about that these two youths were so far from home, and engaged upon the outing that was destined to prove the most memorable in the life at least of one of them.
+
+Harvey Hamilton was the son of a wealthy merchant, whose business took him to New York every week-day morning. The youth was preparing to enter Princeton University, and his elder brother Dick was a student in Yale. In the beginning of the summer the family separated, each member indulging his or her taste in the way of vacation, with the parent glad to pay the bills. The mother and daughter Mildred went to the White Mountains, Dick to the Adirondacks with a party of students, while Harvey and his father took a jaunt through a part of Europe, sailing home from Naples on the *Duca degli Abruzzi*. Wife and daughter, knowing when they were due, were at home to meet them. Dick was still in the mountains, from which he wrote the most glowing accounts of his life in camp and conquests of the gamy trout that are still to be found in the cool streams.
+
+On the homeward passage, Harvey and his father were lucky enough to meet the noted German aviator, Ostrom Sperbeck, of whom we have heard already.
+
+Mr. Hamilton explained to the Professor that his son Harvey with the assistance of the colored youth, who was "bound out" to a neighbor, were at work on an aeroplane with which they hoped to fly, but the Professor warned them against it.
+
+"It is too dangerous; some of the best aviators have lost their lives and you know that one of the Wright brothers came within a hair of being killed. Encourage your son, if you wish, in the sport, for those who are boys to-day are the ones that will make the greatest discoveries and advances in aviation, but do not let him take any risks that can be avoided. Buy him a first-class machine and forbid him to use any other."
+
+Mr. Hamilton was impressed with the advice and acted upon it.
+
+Bohunkus Johnson was as ardent as his young friend, but, lacking his mental brightness, was not given charge of the aeroplane, though promised a chance of trying his hand later on.
+
+So much having been told, it will be understood how on a pleasant summer day, Harvey and Bohunkus started on their outing, with permission to be gone several weeks, though their expectation was to return in the course of ten days or so.
+
+Several facts will be borne in mind. Nothing not deemed absolutely necessary was taken with the aviators. Inasmuch as they could not stay more than two hours in the air, without replenishing their supply of fuel, they carried no food, nor were any weapons taken along, for it was not probable they would ever need anything of the kind. Although Harvey headed toward a spur of the Alleghany Mountains, with the object of relieving what promised to become a monotonous experience at times, it did not seem possible that they would ever run into personal danger from that cause. He carried a pair of binoculars held by a strap over one shoulder, for such an instrument was likely to prove useful in their voyages through the air.
+
+Harvey ascended for a fourth of a mile, and Bohunkus shuddered at the thought of plunging again into the arctic regions, but his friend lowered the front rudder and they skimmed away on a level. The view was as entrancing as ever, with cities, towns, villages, scattered houses, stretches of wood and cultivated country, winding streams, puffing engines pulling trains that looked like insignificant toys, and the gleam of what seemed to be a lake of several miles area in the distance. The wanderer through the finest picture galleries in Europe can become sated with the numberless master-pieces, and wonderful as was the unfolding panorama, the youths grew tired of its splendid sameness. When they gazed at the earth it was without any clear impression of what they saw.
+
+Far to the westward loomed a mountain, the outlines showing a dim blue haze against the summer sky. Harvey had fixed the elevation in his mind before leaving home and, it was his intention to sail over the summit into the more unsettled country beyond. As near as he could judge the range was about twenty miles distant.
+
+"I can easily make it in an hour," he reflected, "and not hurry."
+
+He was traveling at a moderate pace, for he did not like to impose a strain upon the machine by pressing it to the limit. There was no call for hurry, and after clearing the elevation he could land at some town and buy what gasoline he needed. He shifted the course of the aeroplane slightly, and descended until within two or three hundred feet of the earth. There were no tall buildings to be avoided, and none of the trees that showed were lofty enough to interfere. Bohunkus sat in his usual seat, idly grasping the supports, for the progress was so smooth that he might have folded his arms without risk, always provided the aeroplane did not collide with any of the fierce aerial gyrations, which are so dangerous to aviators, because being invisible, no precaution can be taken against them.
+
+Harvey slackened his speed still more, and coursed easily forward, crossed a winding creek, and was skimming toward a moderate stretch of woods, when he noticed a man standing on the margin and watching the aeroplane. The fact that he held a gun in one hand did not concern the youth, who, prompted by the spirit of mischief natural in one of his years, dropped still lower and headed for the man, as if he meant to crash into him.
+
+The stranger, instead of turning about and dashing into the wood where he would have been safe from pursuit, suddenly raised his double-barreled shot gun and let fly with both charges. Nothing of the kind had been dreamed of, either by Harvey or his companion, and they were startled indeed when they heard the shot rattle through the wires and framework of the machine. One of the pellets nipped the cheek of Harvey and Bohunkus yelled,
+
+"I’m shot all to pieces, Harv!"
+
+Harvey turned his head in affright, but saw no evidence that the other had been harmed in the least. The man, seeing that his hasty aim had been ineffective, began hastily to reload his weapon with the evident purpose of doing execution next time.

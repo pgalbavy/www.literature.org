@@ -1,0 +1,131 @@
+---
+title: "Chapter 24 - Conclusion"
+weight: 24
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-24.html"
+---
+
+“You’re sure that’s a dog in the cavern?” demanded Ben as the three crossed the summit and entered the gully, after leaving their machine on the shelf to the east.
+
+“Sure it’s a dog in the cavern!” insisted Terry. “And look here,” he went on, glancing keenly about, “there’s two fellows hanging around here somewhere. They’re the chaps who set me to watching the Englishman early last night. They claim to be connected with the business men who are hunting over on the other side of the valley, but I guess they are just plain mountain hoboes who have been hired to do the dirty work for the sportsmen.”
+
+“I don’t see them anywhere around!” Ben suggested.
+
+“I don’t think they’re here, don’t you know!” DuBois put in, looking far down the gully. “You see,” he continued, “the camp-fire has gone out, and there hasn’t been any breakfast cooked here this morning.”
+
+“They probably made a sneak after you got away,” Ben replied. “They knew they wouldn’t get any money for what they did after that, so they probably took to their heels.”
+
+“They may be watching around, don’t you know,” the Englishman insisted. “I don’t like the idea of hanging around here without knowing whether they are watching us from some of these bloody rocks.”
+
+The three hunted faithfully for a long time, notwithstanding the fact that Terry was constantly complaining that the dog would be almost starved to death. At last, however, they gave over the quest and moved on to the entrance to the cavern.
+
+Just before they entered, Ben caught the Englishman by the shoulder and faced him around toward the valley.
+
+“Look who’s here!” he said.
+
+What they both saw was the Ann and a strange aeroplane moving swiftly in their direction.
+
+“I guess Mr. Havens is moving the whole camp over!” Ben suggested. “And I haven’t got a word to say against it if he is! It’s rotten the way we’ve left him alone.”
+
+“I think that’s Mr. Havens in the Ann!” declared Jimmie handing the field-glass to Ben. “And I think that’s Carl with him!”
+
+Ben inspected the approaching flying machines through the glass and declared that Mr. Havens and Carl were on board the Ann, and that Dick Sherman and two unknown men were on the strange machine.
+
+“I’d like to know what they’re coming here for!” Jimmie exclaimed. “Just as we get the thing all ready to make a home run, and get a hungry dog out of a hole in a wall, they come butting in to split the glory!”
+
+“And the reward!” added Ben with a grin.
+
+“I don’t know where the machines can land, don’t you know!” suggested DuBois.
+
+The aviators, however, found landing-places. Mr. Havens lighting on the shelf where the fire had been, and Dick Sherman coming to earth close beside the machine Ben had brought.
+
+In a short time the two parties met almost directly in front of the cavern. To the surprise of the other members of the party, Dick Sherman called the Englishman aside and spoke to him earnestly for a few moments. At the conclusion of the conversation, the Englishman’s face fairly beamed with good nature.
+
+“I’d like to know what’s coming off here!” cried Jimmie.
+
+“That’s what I’d like to know,” put in Terry tipsily. “Here we’ve got a perfectly good breakfast in this basket getting cold, and I don’t know what that dog’ll say when we give him a frosty meal! I wish now that I’d gone and fed him while you boys were hunting for those two outlaws you didn’t find!”
+
+“What do you think, Mr. DuBois,” Carl broke in. “Dick Sherman arrested Neil Howell and Chubby over there at the hunters’ camp and left them handcuffed and tied up in one of our tents.”
+
+“Yes, he was just telling me about that, don’t you know,” replied the Englishman.
+
+“Well, how the old scratch did he get any information against them?” demanded Ben. “If he’s got them under arrest for complicity in the abduction of inspector Colleton, why doesn’t he say so?”
+
+“Suppose they are implicated in the abduction case,” demanded Carl, “how did Officer Sherman come to know anything about it? He hasn’t been working on the case.”
+
+Ben broke into a shout of laughter, and Terry, who was beginning to think the breakfast never would be needed, turned hastily into the cavern.
+
+“Look here,” Ben said in a moment, “I didn’t tell you boys everything that took place at Field last night. After I got done telegraphing, Mr. DuBois took the wire and held a long conversation with Officer Sherman. How he found Sherman I don’t know, but the operator seemed to help a lot, after Mr. DuBois gave him a roll of bills that would choke a cow, and in the end they routed out the officer, and the arrest of Howell and Chubby is the result of that conference.”
+
+“Oh, come, don’t you know!” pleaded the Englishman. “I only told Mr. Sherman what I suspected. You see this man Howell appeared to recognize that bag, and his manner showed me that he was in cahoots with the man in brown who was killed in the race.”
+
+“Come on, come on!” yelled Terry. “I’ve got a patient in here starving to death!”
+
+“We really ought to hurry,” advised Ben. “I’m afraid we’ve been too full of our own schemes to appreciate the exact situation.”
+
+“Come along, then,” advised Terry.
+
+The whole party, save Mr. Havens, trooped into the cavern and turned to the left when they came to the rock which split the subterranean place into two chambers. Keeping straight on, illuminating the cavern with their searchlights as they went, they came to an opening in the south wall which had been temporarily barricaded with rocks and timbers.
+
+When Ben held the searchlight to the small opening between the top timber and the roof of the chamber a pale and frightened face looked out.
+
+“Hello, Colleton!” exclaimed Ben.
+
+“Thank God!” was all the imprisoned man said.
+
+In a short time the barricade was down and the inspector, safe and sound, was out in the open air, talking earnestly with Mr. Havens who, of course, had not entered the cavern.
+
+“I never expected to see the light of day again!” the inspector said in a trembling voice.
+
+“Now, don’t begin to tell us the story of your life,” warned old Terry, advancing with the basket of provisions. “You eat this good breakfast!”
+
+“But, look here, Terry,” Jimmie grinned. “You said you wanted that breakfast for a dog!”
+
+“Sure!” exclaimed the old crook. “I forgot all about the dog!”
+
+He raced back into the cavern and soon returned carrying a little puppy in his arms.
+
+“He was asleep when you brought me out!” Colleton explained. “I forgot all about him. He’s been a great deal of comfort to me!”
+
+“Do you mean to say, Terry, that you ordered all that breakfast for that little puppy?” demanded Jimmie.
+
+“Well,” replied the old crook, “I really wanted the breakfast for the dog, but I didn’t know but the man might eat part of it! You see,” he continued, “I promised the outlaws that I wouldn’t tell where this man,” pointing to Colleton, “was, and I promised that I wouldn’t lead any one to him, so I had to keep my word, don’t you see?”
+
+“But you did tell us where he was and you did lead us to him!” laughed Jimmie.
+
+“No, I didn’t,” argued Terry, “I told you where there was a hungry little puppy, and I took you to where he was. Of course, if you discovered the man when we went to feed the puppy, I’m not to blame for that.”
+
+“You’re an old fraud, Terry!” cried Jimmie.
+
+“Yes, he’s an old fraud,” laughed Dick Sherman, “but I’m going to see that he gets out of this little scrape and leads a decent life. He’ll be all right if he only quits the booze act.”
+
+“I’ve quit now!” insisted Terry. “I’ve limited myself to two pint bottles a day!”
+
+“Well,” Mr. Havens said, “so far as I can see, the case is closed. The man who abducted Colleton is dead. Two of the men who assisted in his abduction are under arrest, and the proof which points to the Kuro mail-order company as the principal in the crime is complete. All that remains for us to do is to see that the prisoners get to Washington and that the proof is placed before the grand jury. That will close the case so far as we are concerned.”
+
+“Then,” said Jimmie with a sly grin, “I move we stay in the mountains a couple of weeks and have a little fun before we go to Washington.”
+
+“That would please me!” replied Dick Sherman, “but I’ve got to get busy getting this whiskey out, and looking up proof against the smugglers now under arrest.”
+
+All the others returned to the old camp, from which the prisoners were taken that night by the officer, and a great feast was spread in honor of the victory which had been gained.
+
+The boys hunted game, fished in the clear mountain streams, and sailed over valley and mountain in their aeroplanes for two glorious weeks and then returned to New York.
+
+When they reached the big city, the Colleton case was entirely disposed of. Howell and Chubby had pleaded guilty and received long sentences, and the members of the fraudulent mail-order company had been convicted and sentenced to ten years each.
+
+The large reward which had been offered for the discovery of Colleton and the arrest of the perpetrators of the outrage was paid to Mr. Havens, according to his previous bargain with the secret service department. In time, of course, the most of the cash found its way into the hands of the three boys.
+
+When Colleton came to relate the story of his abduction it was discovered that Ben and Jimmie had actually reasoned out the events practically as they had taken place. The inspector had been drugged in his office by a cigar, disguised there, forced to open the safe and desk and bring out the papers, and had been taken across the continent in a Pullman stateroom as stated. He remembered little or nothing after opening the safe in his own office in Washington until he found himself in the smugglers’ cavern, having been kept under the influence of opiates during all that time. To this day Colleton occasionally asks Jimmie if every one of the excerpts from his “dream-book” come true.
+
+The Englishman remained for some months in New York, the guest of Mr. Havens at the hangar on Long Island, and on many occasions he was asked to tell the story of the mysterious hand-bag bought of the porter on the Pullman train, and to relate in full the adventures of the bag and its contents until the day the disguise and the documents it had contained landed a prominent and wealthy mail-order firm in the penitentiary, and Mr. Havens was often called upon to relate the events leading up to the Capture in the Air.
+
+THE END.
+
+Transcriber’s Notes:
+
+Italicized phrases are presented by surrounding the text with underscores. Small capitals have been rendered in full capitals.
+
+Punctuation has been standardized. Minor spelling and typographic errors have been corrected silently, except as noted below.
+
+On page 24, the line "All right, go it!" has been left as is, although it is possible it should be "All right, got it".
+
+On "The Boy Scout Series" ad page, the last two lines have been reformatted to match the other ad pages.

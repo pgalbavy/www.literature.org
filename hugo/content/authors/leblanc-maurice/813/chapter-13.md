@@ -1,0 +1,667 @@
+---
+title: "Chapter 13 - The Seven Scoundrels"
+weight: 14
+url: "/authors/leblanc-maurice/813/chapter-13.html"
+---
+
+"Will you see this gentleman, ma'am?"
+
+Dolores Kesselbach took the card from the footman and read:
+
+"André Beauny. . . . No," she said, "I don't know him."
+
+"The gentleman seems very anxious to see you, ma'am. He says that you are expecting him."
+
+"Oh . . . possibly. . . . Yes, bring him here."
+
+Since the events which had upset her life and pursued her with relentless animosity, Dolores, after staying at the Hôtel Bristol had taken up her abode in a quiet house in the Rue des Vignes, down at Passy. A pretty garden lay at the back of the house and was surrounded by other leafy gardens. On days when attacks more painful than usual did not keep her from morning till night behind the closed shutters of her bedroom, she made her servants carry her under the trees, where she lay stretched at full length, a victim to melancholy, incapable of fighting against her hard fate.
+
+Footsteps sounded on the gravel-path and the footman returned, followed by a young man, smart in appearance and very simply dressed, in the rather out-of-date fashion adopted by some of our painters, with a turn-down collar and a flowing necktie of white spots on a blue ground.
+
+The footman withdrew.
+
+"Your name is André Beauny, I believe?" said Dolores.
+
+"Yes, madame."
+
+"I have not the honor . . ."
+
+"I beg your pardon, madame. Knowing that I was a friend of Mme. Ernemont, Geneviève's grandmother, you wrote to her, at Garches, saying that you wished to speak to me. I have come."
+
+Dolores rose in her seat, very excitedly:
+
+"Oh, you are . . ."
+
+"Yes."
+
+She stammered:
+
+"Really? . . . Is it you? . . . I do not recognize you."
+
+"You don't recognize Prince Paul Sernine?"
+
+"No . . . everything is different . . . the forehead . . . the eyes. . . . And that is not how the . . ."
+
+"How the newspapers represented the prisoner at the Santé?" he said, with a smile. "And yet it is I, really."
+
+A long silence followed, during which they remained embarrassed and ill at ease.
+
+At last, he asked:
+
+"May I know the reason . . . ?"
+
+"Did not Geneviève tell you? . . ."
+
+"I have not seen her . . . but her grandmother seemed to think that you required my services . . ."
+
+"That's right . . . that's right. . . ."
+
+"And in what way . . . ? I am so pleased . . ."
+
+She hesitated a second and then whispered:
+
+"I am afraid."
+
+"Afraid?" he cried.
+
+"Yes," she said, speaking in a low voice, "I am afraid, afraid of everything, afraid of to-day and of to-morrow . . . and of the day after . . . afraid of life. I have suffered so much. . . . I can bear no more."
+
+He looked at her with great pity in his eyes. The vague feeling that had always drawn him to this woman took a more precise character now that she was asking for his protection. He felt an eager need to devote himself to her, wholly, without hope of reward.
+
+She continued:
+
+"I am alone now, quite alone, with servants whom I have picked up on chance, and I am afraid. . . . I feel that people are moving about me."
+
+"But with what object?"
+
+"I do not know. But the enemy is hovering around and coming closer."
+
+"Have you seen him? Have you noticed anything?"
+
+"Yes, the other day two men passed several times in the street and stopped in front of the house."
+
+"Can you describe them?"
+
+"I saw one of them better than the other. He was tall and powerful, clean-shaven and wore a little black cloth jacket, cut quite short."
+
+"A waiter at a café, perhaps?"
+
+"Yes, a head-waiter. I had him followed by one of my servants. He went down the Rue de la Pompe and entered a common-looking house. The ground-floor is occupied by a wine-shop: it is the first house in the street, on the left. Then, a night or two ago, I saw a shadow in the garden from my bedroom window."
+
+"Is that all?"
+
+"Yes."
+
+He thought and then made a suggestion:
+
+"Would you allow two of my men to sleep downstairs, in one of the ground-floor rooms?"
+
+"Two of your men? . . ."
+
+"Oh, you need not be afraid! They are decent men, old Charolais and his son,[9] and they don't look in the least like what they are. . . . You will be quite safe with them. . . . As for me . . ."
+
+[Footnote 9: See Arsène Lupin, by Edgar Jepson and Maurice Leblanc.]
+
+He hesitated. He was waiting for her to ask him to come again. As she was silent, he said:
+
+"As for me, it is better that I should not be seen here. . . . Yes, it is better . . . for your sake. My men will let me know how things go on. . . ."
+
+He would have liked to say more and to remain and to sit down beside her and comfort her. But he had a feeling that they had said all that they had to say and that a single word more, on his side, would be an insult.
+
+Then he made her a very low bow and went away.
+
+He went up the garden, walking quickly, in his haste to be outside and master his emotion. The footman was waiting for him at the hall-door. As he passed out into the street, somebody rang, a young woman.
+
+He gave a start:
+
+"Geneviève!"
+
+She fixed a pair of astonished eyes upon him and at once recognized him, although bewildered by the extreme youthfulness of his appearance; and this gave her such a shock that she staggered and had to lean against the door for support. He had taken off his hat and was looking at her without daring to put out his hand. Would she put out hers? He was no longer Prince Sernine: he was Arsène Lupin. And she knew that he was Arsène Lupin and that he had just come out of prison.
+
+It was raining outside. She gave her umbrella to the footman and said:
+
+"Please open it and put it somewhere to dry."
+
+Then she walked straight in.
+
+"My poor old chap!" said Lupin to himself, as he walked away. "What a series of blows for a sensitive and highly-strung creature like yourself! You must keep a watch on your heart or . . . Ah, what next? Here are my eyes beginning to water now! That's a bad sign. M. Lupin: you're growing old!"
+
+He gave a tap on the shoulder to a young man who was crossing the Chaussee de la Muette and going toward the Rue des Vignes. The young man stopped, stared at him and said:
+
+"I beg your pardon, monsieur, but I don't think I have the honor . . ."
+
+"Think again, my dear M. Leduc. Or has your memory quite gone? Don't you remember Versailles? And the little room at the Hôtel des Trois-Empereurs?"
+
+The young man bounded backwards:
+
+"You!"
+
+"Why, yes, I! Prince Sernine, or rather Lupin, since you know my real name! Did you think that Lupin had departed this life? . . . Oh, yes, I see, prison. . . . You were hoping . . . Get out, you baby!" He patted him gently on the shoulder. "There, there, young fellow, don't be frightened: you have still a few nice quiet days left to write your poems in. The time has not yet come. Write your verses . . . poet!"
+
+Then he gripped Leduc's arm violently and, looking him full in the face, said:
+
+"But the time is drawing near . . . poet! Don't forget that you belong to me, body and soul. And prepare to play your part. It will be a hard and magnificent part. And, as I live, I believe you're the man to play it!"
+
+He burst out laughing, turned on one foot and left young Leduc astounded.
+
+A little further, at the corner of the Rue de la Pompe, stood the wine-shop of which Mrs. Kesselbach had spoken to him. He went in and had a long talk with the proprietor.
+
+Then he took a taxi and drove to the Grand Hotel, where he was staying under the name of André Beauny, and found the brothers Doudeville waiting for him.
+
+Lupin, though used to that sort of pleasure, nevertheless enjoyed the marks of admiration and devotion with which his friends overwhelmed him:
+
+"But, governor, tell us . . . what happened? We're accustomed to all sorts of wonders with you; but still, there are limits. . . . So you are free? And here you are, in the heart of Paris, scarcely disguised. . . . !"
+
+"Have a cigar," said Lupin.
+
+"Thank you, no."
+
+"You're wrong, Doudeville. These are worth smoking. I have them from a great connoisseur, who is good enough to call himself my friend."
+
+"Oh, may one ask . . . ?"
+
+"The Kaiser! Come, don't look so flabbergasted, the two of you! And tell me things: I haven't seen the papers. What effect did my escape have on the public?"
+
+"Tremendous, governor!"
+
+"What was the police version?"
+
+"Your flight took place at Garches, during an attempt to reënact the murder of Altenheim. Unfortunately, the journalists have proved that it was impossible."
+
+"After that?"
+
+"After that, a general fluster. People wondering, laughing and enjoying themselves like mad."
+
+"Weber?"
+
+"Weber is badly let in."
+
+"Apart from that, no news at the detective-office? Nothing discovered about the murderer? No clue to help us to establish Altenheim's identity?"
+
+"No."
+
+"What fools they are! And to think that we pay millions a year to keep those people. If this sort of thing goes on, I shall refuse to pay my rates. Take a seat and a pen. I will dictate a letter which you must hand in to the Grand Journal this evening. The world has been waiting for news of me long enough. It must be gasping with impatience. Write."
+
+He dictated:
+
+"To the Editor of the Grand Journal:
+
+"SIR,
+
+At eight o'clock in the evening, Arsène Lupin and Jean Doudeville walked into Caillard's, the fashionable restaurant, Lupin in evening-clothes, but dressed like an artist, with rather wide trousers and a rather loose tie, and Doudeville in a frock-coat, with the serious air and appearance of a magistrate.
+
+They sat down in that part of the restaurant which is set back and divided from the big room by two columns.
+
+A head-waiter, perfectly dressed and supercilious in manner, came to take their orders, note-book in hand. Lupin selected the dinner with the nice thought of an accomplished epicure:
+
+"Certainly," he said, "the prison ordinary was quite acceptable; but, all the same, it is nice to have a carefully-ordered meal."
+
+He ate with a good appetite and silently, contenting himself with uttering, from time to time, a short sentence that marked his train of thought:
+
+"Of course, I shall manage . . . but it will be a hard job. . . . Such an adversary! . . . What staggers me is that, after six months' fighting, I don't even know what he wants! . . . His chief accomplice is dead, we are near the end of the battle and yet, even now, I can't understand his game. . . . What is the wretch after? . . . My own plan is quite clear: to lay hands on the grand-duchy, to shove a grand-duke of my own making on the throne, to give him Geneviève for a wife . . . and to reign. That is what I call lucid, honest and fair. But he, the low fellow, the ghost in the dark: what is he aiming at?"
+
+He called:
+
+"Waiter!"
+
+The head-waiter came up:
+
+"Yes, sir?"
+
+"Cigars."
+
+The head-waiter stalked away, returned and opened a number of boxes.
+
+"Which do you recommend?"
+
+"These Upmanns are very good, sir."
+
+Lupin gave Doudeville an Upmann, took one for himself and cut it. The head-waiter struck a match and held if for him. With a sudden movement, Lupin caught him by the wrist:
+
+"Not a word. . . . I know you. . . . Your real name is Dominique Lecas!"
+
+The man, who was big and strong, tried to struggle away. He stifled a cry of pain: Lupin had twisted his wrist.
+
+"Your name is Dominique . . . you live in the Rue de la Pompe, on the fourth floor, where you retired with a small fortune acquired in the service--listen to me, you fool, will you, or I'll break every bone in your body!--acquired in the service of Baron Altenheim, at whose house you were butler."
+
+The other stood motionless, his face pallid with fear. Around them, the small room was empty. In the restaurant beside it, three gentlemen sat smoking and two couples were chatting over their liquors.
+
+"You see, we are quiet . . . we can talk."
+
+"Who are you? Who are you?"
+
+"Don't you recollect me? Why, think of that famous luncheon in the Villa Dupont! . . . You yourself, you old flunkey, handed me the plate of cakes . . . and such cakes!"
+
+"Prince. . . . Prince. . . ." stammered the other.
+
+"Yes, yes, Prince Arsène, Prince Lupin in person. . . . Aha, you breathe again! . . . You're saying to yourself that you have nothing to fear from Lupin, isn't that it? Well, you're wrong, old chap, you have everything to fear." He took a card from his pocket and showed it to him. "There, look, I belong to the police now. Can't be helped: that's what we all come to in the end, all of us robber-kings and emperors of crime."
+
+"Well?" said the head-waiter, still greatly alarmed.
+
+"Well, go to that customer over there, who's calling you, get him what he wants and come back to me. And no nonsense, mind you: don't go trying to get away. I have ten men outside, with orders to keep their eyes on you. Be off."
+
+The head-waiter obeyed. Five minutes after, he returned and, standing in front of the table, with his back to the restaurant, as though discussing the quality of the cigars with his customers, he said:
+
+"Well? What is it?"
+
+Lupin laid a number of hundred-franc notes in a row on the table:
+
+"One note for each definite answer to my questions."
+
+"Done!"
+
+"Now then. How many of you were there with Baron Altenheim?"
+
+"Seven, without counting myself."
+
+"No more?"
+
+"No. Once only, we picked up some workmen in Italy to make the underground passage from the Villa des Glycines, at Garches."
+
+"Were there two underground passages?"
+
+"Yes, one led to the Pavillon Hortense and the other branched off from the first and ran under Mrs. Kesselbach's house."
+
+"What was the object?"
+
+"To carry off Mrs. Kesselbach."
+
+"Were the two maids, Suzanne and Gertrude, accomplices?"
+
+"Yes."
+
+"Where are they?"
+
+"Abroad."
+
+"And your seven pals, those of the Altenheim gang?"
+
+"I have left them. They are still going on."
+
+"Where can I find them?"
+
+Dominique hesitated. Lupin unfolded two notes of a thousand francs each and said:
+
+"Your scruples do you honor, Dominique. There's nothing for it but to swallow them like a man and answer."
+
+Dominique replied:
+
+"You will find them at No. 3, Route de la Revolte, Neuilly. One of them is called the Broker."
+
+"Capital. And now the name, the real name of Altenheim. Do you know it?"
+
+"Yes, Ribeira."
+
+"Dominique, Dominique, you're asking for trouble. Ribeira was only an assumed name. I asked you the real name."
+
+"Parbury."
+
+"That's another assumed name."
+
+The head-waiter hesitated. Lupin unfolded three hundred franc notes.
+
+"Pshaw, what do I care!" said the man. "After all, he's dead, isn't he? Quite dead."
+
+"His name," said Lupin.
+
+"His name? The Chevalier de Malreich."
+
+Lupin gave a jump in his chair:
+
+"What? What do you say? The Chevalier--say it again--the Chevalier . . . ?"
+
+"Raoul de Malreich."
+
+A long pause. Lupin, with his eyes fixed before him, thought of the mad girl at Veldenz, who had died by poison: Isilda bore the same name, Malreich. And it was the name borne by the small French noble who came to the court of Veldenz in the eighteenth century.
+
+He resumed his questions:
+
+"What country did this Malreich belong to?"
+
+"He was of French origin, but born in Germany . . . I saw some papers once . . . that was how I came to know his name. . . . Oh, if he had found it out, he would have wrung my neck, I believe!"
+
+Lupin reflected and said:
+
+"Did he command the lot of you?"
+
+"Yes."
+
+"But he had an accomplice, a partner?"
+
+"Oh hush . . . hush . . . !"
+
+The head-waiter's face suddenly expressed the most intense alarm. Lupin noticed the same sort of terror and repulsion which he himself felt when he thought of the murderer.
+
+"Who is he? Have you seen him?"
+
+"Oh, don't let us talk of that one . . . it doesn't do to talk of him."
+
+"Who is he, I'm asking you."
+
+"He is the master . . . the chief. . . . Nobody knows him."
+
+"But you've seen him, you. Answer me. Have you seen him?"
+
+"Sometimes, in the dark . . . at night. Never by daylight. His orders come on little scraps of paper . . . or by telephone."
+
+"His name?"
+
+"I don't know it. We never used to speak of him. It was unlucky."
+
+"He dresses in black, doesn't he?"
+
+"Yes, in black. He is short and slender . . . with fair hair. . . ."
+
+"And he kills, doesn't he?"
+
+"Yes, he kills . . . he kills where another might steal a bit of bread."
+
+His voice shook. He entreated:
+
+"Let us stop this . . . it won't do to talk of him. . . . I tell you . . . it's unlucky."
+
+Lupin was silent, impressed, in spite of himself, by the man's anguish. He sat long thinking and then rose and said to the head-waiter:
+
+"Here, here's your money; but, if you want to live in peace, you will do well not to breathe a word of our conversation to anybody."
+
+He left the restaurant with Doudeville and walked to the Porte Saint-Denis without speaking, absorbed in all that he had heard. At last, he seized his companion's arm and said:
+
+"Listen to me, Doudeville, carefully. Go to the Gare du Nord. You will get there in time to catch the Luxemburg express. Go to Veldenz, the capital of the grand-duchy of Zweibrucken-Veldenz. At the town-hall, you will easily obtain the birth-certificate of the Chevalier de Malreich and further information about the family. You will be back on the day after to-morrow: that will be Saturday."
+
+"Am I to let them know at the detective-office?"
+
+"I'll see to that. I shall telephone that you are ill. Oh, one word more: on Saturday, meet me at twelve o'clock in a little café on the Route de la Revolte, called the Restaurant Buffalo. Come dressed as a workman."
+
+The next day, Lupin, wearing a short smock and a cap, went down to Neuilly and began his investigations at No. 3, Route de la Revolte. A gateway opened into an outer yard; and here he found a huge block of workmen's dwellings, a whole series of passages and workshops, with a swarming population of artisans, women and brats. In a few minutes, he had won the good-will of the portress, with whom he chatted for an hour on the most varied topics. During this hour, he saw three men pass, one after the other, whose manner struck him:
+
+"That's game," he thought, "and gamy game at that! . . . They follow one another by scent! . . . Look quite respectable, of course, but with the eye of the hunted deer which knows that the enemy is all around and that every tuft, every blade of grass may conceal an ambush."
+
+That afternoon and on the Saturday morning, he pursued his inquiries and made certain that Altenheim's seven accomplices all lived on the premises. Four of them openly followed the trade of second-hand clothes-dealers. Two of the others sold newspapers; and the third described himself as a broker and was nicknamed accordingly.
+
+They went in and out, one after the other, without appearing to know one another. But, in the evening, Lupin discovered that they met in a sort of coach-house situated right at the back of the last of the yards, a place in which the Broker kept his wares piled up: old iron, broken kitchen-ranges, rusty stove-pipes . . . and also, no doubt, the best part of the stolen goods.
+
+"Come," he said, "the work is shaping nicely. I asked my cousin of Germany for a month and I believe a fortnight will be enough for my purpose. And what I like about it is that I shall start operations with the scoundrels who made me take a header in the Seine. My poor old Gourel, I shall revenge you at last. And high time too!"
+
+At twelve o'clock on Saturday, he went to the Restaurant Buffalo, a little low-ceilinged room to which brick-layers and cab-drivers resorted for their mid-day meal. Some one came and sat down beside him:
+
+"It's done, governor."
+
+"Ah, is it you, Doudeville? That's right! I'm dying to know. Have you the particulars? The birth-certificate? Quick, tell me."
+
+"Well, it's like this: Altenheim's father and mother died abroad."
+
+"Never mind about them."
+
+"They left three children."
+
+"Three?"
+
+"Yes. The eldest would have been thirty years old by now. His name was Raoul de Malreich."
+
+"That's our man, Altenheim. Next?"
+
+"The youngest of the children was a girl, Isilda. The register has an entry, in fresh ink, 'Deceased.'"
+
+"Isilda. . . . Isilda," repeated Lupin. "That's just what I thought: Isilda was Altenheim's sister. . . . I saw a look in her face which I seemed to recognize. . . . So that was the link between them. . . . But the other, the third child, or rather the second?"
+
+"A son. He would be twenty-six by now."
+
+"His name?"
+
+"Louis de Malreich."
+
+Lupin gave a little start:
+
+"That's it! Louis de Malreich. . . . The initials L. M. . . . The awful and terrifying signature! . . . The murderer's name is Louis de Malreich. . . . He was the brother of Altenheim and the brother of Isilda and he killed both of them for fear of what they might reveal."
+
+Lupin sat long, silent and gloomy, under the obsession, no doubt, of the mysterious being.
+
+Doudeville objected:
+
+"What had he to fear from his sister Isilda? She was mad, they told me."
+
+"Mad, yes, but capable of remembering certain details of her childhood. She must have recognized the brother with whom she grew up . . . and that recollection cost her her life." And he added, "Mad! But all those people were mad. . . . The mother was mad. . . . The father a dipsomaniac. . . . Altenheim a regular brute beast. . . . Isilda, a poor innocent . . . . As for the other, the murderer, he is the monster, the crazy lunatic. . . ."
+
+"Crazy? Do you think so, governor?"
+
+"Yes, crazy! With flashes of genius, of devilish cunning and intuition, but a crack-brained fool, a madman, like all that Malreich family. Only madmen kill and especially madmen of his stamp. For, after all . . ."
+
+He interrupted himself; and his face underwent so great a change that Doudeville was struck by it:
+
+"What's the matter, governor?"
+
+"Look."
+
+A man had entered and hung his hat--a soft, black felt hat--on a peg. He sat down at a little table, examined the bill of fare which a waiter brought him, gave his order and waited motionless, with his body stiff and erect and his two arms crossed over the table-cloth.
+
+And Lupin saw him full-face.
+
+He had a lean, hard visage, absolutely smooth and pierced with two sockets in the depths of which appeared a pair of steel-gray eyes. The skin seemed stretched from bone to bone, like a sheet of parchment, so stiff and so thick that not a hair could have penetrated through it.
+
+And the face was dismal and dull. No expression enlivened it. No thought seemed to abide under that ivory forehead; and the eye-lids, entirely devoid of lashes, never flickered, which gave the eyes the fixed look of the eyes in a statue.
+
+Lupin beckoned to one of the waiters:
+
+"Who is that gentleman?"
+
+"The one eating his lunch over there?"
+
+"Yes."
+
+"He is a customer. He comes here two or three times a week."
+
+"Can you tell me his name?"
+
+"Why, yes . . . Leon Massier."
+
+"Oh!" blurted Lupin, very excitedly. "L. M. . . . the same two letters . . . could it be Louis de Malreich?"
+
+He watched him eagerly. Indeed, the man's appearance agreed with Lupin's conjectures, with what he knew of him and of his hideous mode of existence. But what puzzled him was that look of death about him: where he anticipated life and fire, where he would have expected to find the torment, the disorder, the violent facial distortion of the great accursed, he beheld sheer impassiveness.
+
+He asked the waiter:
+
+"What does he do?"
+
+"I really can't say. He's a rum cove . . . He's always quite alone. . . . He never talks to anybody . . . We here don't even know the sound of his voice. . . . He points his finger at the dishes on the bill of fare which he wants. . . . He has finished in twenty minutes; then he pays and goes. . . ."
+
+"And he comes back again?"
+
+"Every three or four days. He's not regular."
+
+"It's he, it cannot be any one else," said Lupin to himself. "It's Malreich. There he is . . . breathing . . . at four steps from me. There are the hands that kill. There is the brain that gloats upon the smell of blood. There is the monster, the vampire! . . ."
+
+And, yet, was it possible? Lupin had ended by looking upon Malreich as so fantastic a being that he was disconcerted at seeing him in the flesh, coming, going, moving. He could not explain to himself how the man could eat bread and meat like other men, drink beer like any one else: this man whom he had pictured as a foul beast, feeding on live flesh and sucking the blood of his victims.
+
+"Come away, Doudeville."
+
+"What's the matter with you, governor? You look quite white!"
+
+"I want air. Come out."
+
+Outside, he drew a deep breath, wiped the perspiration from his forehead and muttered:
+
+"That's better. I was stifling." And, mastering himself, he added, "Now we must play our game cautiously and not lose sight of his tracks."
+
+"Hadn't we better separate, governor? Our man saw us together. He will take less notice of us singly."
+
+"Did he see us?" said Lupin, pensively. "He seems to me to see nothing, to hear nothing and to look at nothing. What a bewildering specimen!"
+
+And, in fact, ten minutes later, Leon Massier appeared and walked away, without even looking to see if he was followed. He had lit a cigarette and smoked, with one of his hands behind his back, strolling along like a saunterer enjoying the sunshine and the fresh air and never suspecting that his movements could possibly be watched.
+
+He passed through the toll-gates, skirted the fortifications, went out again through the Porte Champerret and retraced his steps along the Route de la Revolte.
+
+Would he enter the buildings at No. 3? Lupin eagerly hoped that he would, for that would have been a certain proof of his complicity with the Altenheim gang; but the man turned round and made for the Rue Delaizement, which he followed until he passed the Velodrome Buffalo.
+
+On the left, opposite the cycling-track, between the public tennis-court and the booths that line the Rue Delaizement, stood a small detached villa, surrounded by a scanty garden. Leon Massier stopped, took out his keys, opened first the gate of the garden and then the door of the house and disappeared.
+
+Lupin crept forward cautiously. He at once noticed that the block in the Route de la Revolte stretched back as far as the garden-wall. Coming still nearer, he saw that the wall was very high and that a coach-house rested against it at the bottom of the garden. The position of the buildings was such as to give him the certainty that his coach-house stood back to back with the coach-house in the inner yard of No. 3, which served as a lumber-room for the Broker.
+
+Leon Massier, therefore, occupied a house adjoining the place in which the seven members of the Altenheim gang held their meetings. Consequently, Leon Massier was, in point of fact, the supreme leader who commanded that gang; and there was evidently a passage between the two coach-houses through which he communicated with his followers.
+
+"I was right," said Lupin. "Leon Massier and Louis de Malreich are one and the same man. The situation is much simpler than it was."
+
+"There is no doubt about that," said Doudeville, "and everything will be settled in a few days."
+
+"That is to say, I shall have been stabbed in the throat."
+
+"What are you saying, governor? There's an idea!"
+
+"Pooh, who knows? I have always had a presentiment that that monster would bring me ill-luck."
+
+Thenceforth it became a matter of watching Malreich's life in such a way that none of his movements went unobserved. This life was of the oddest, if one could believe the people of the neighborhood whom Doudeville questioned. "The bloke from the villa," as they called him, had been living there for a few months only. He saw and received nobody. He was not known to keep a servant of any kind. And the windows, though they were left wide open, even at night, always remained dark and were never lit with the glow of a lamp or candle.
+
+Moreover, Leon Massier most often went out at the close of day and did not come in again until very late . . . at dawn, said people who had come upon him at sunrise.
+
+"And does any one know what he does?" asked Lupin of his companion, when they next met.
+
+"No, he leads an absolutely irregular existence. He sometimes disappears for several days together . . . or, rather, he remains indoors. When all is said, nobody knows anything."
+
+"Well, we shall know; and that soon."
+
+He was wrong. After a week of continuous efforts and investigations, he had learnt no more than before about that strange individual. The extraordinary thing that constantly happened was this, that, suddenly, while Lupin was following him, the man, who was ambling with short steps along the streets, without ever turning round or ever stopping, the man would vanish as if by a miracle. True, he sometimes went through houses with two entrances. But, at other times, he seemed to fade away in the midst of the crowd, like a ghost. And Lupin was left behind, petrified, astounded, filled with rage and confusion.
+
+He at once hurried to the Rue Delaizement and stood on guard outside the villa. Minutes followed upon minutes, half-hour upon half-hour. A part of the night slipped away. Then, suddenly, the mysterious man hove in sight. What could he have been doing?
+
+"An express message for you, governor," said Doudeville, at eight o'clock one evening, as he joined him in the Rue Delaizement.
+
+Lupin opened the envelope. Mrs. Kesselbach implored him to come to her aid. It appeared that two men had taken up their stand under her windows, at night, and one of them had said:
+
+"What luck, we've dazzled them completely this time! So it's understood; we shall strike the blow to-night."
+
+Mrs. Kesselbach thereupon went downstairs and discovered that the shutter in the pantry did not fasten, or, at least, that it could be opened from the outside.
+
+"At last," said Lupin, "it's the enemy himself who offers to give battle. That's a good thing! I am tired of marching up and down under Malreich's windows."
+
+"Is he there at this moment?"
+
+"No, he played me one of his tricks again in Paris, just as I was about to play him one of mine. But, first of all, listen to me, Doudeville. Go and collect ten of our men and bring them to the Rue des Vignes. Look here, bring Marco and Jérôme, the messenger. I have given them a holiday since the business at the Palace Hotel: let them come this time. Daddy Charolais and his son ought to be mounting guard by now. Make your arrangements with them, and at half-past eleven, come and join me at the corner of the Rue des Vignes and the Rue Raynouard. From there we will watch the house."
+
+Doudeville went away. Lupin waited for an hour longer, until that quiet thoroughfare, the Rue Delaizement, was quite deserted, and then, seeing that Leon Massier did not return, he made up his mind and went up to the villa.
+
+There was no one in sight. . . . He took a run and jumped on the stone ledge that supported the railings of the garden. A few minutes later, he was inside.
+
+His plan was to force the door of the house and search the rooms in order to find the Emperor's letters which Malreich had stolen from Veldenz. But he thought a visit to the coach-house of more immediate importance.
+
+He was much surprised to see that it was open and, next, to find, by the light of his electric lantern, that it was absolutely empty and that there was no door in the back wall. He hunted about for a long time, but met with no more success. Outside, however, he saw a ladder standing against the coach-house and obviously serving as a means of reaching a sort of loft contrived under the slate roof.
+
+The loft was blocked with old packing-cases, trusses of straw and gardener's frames, or rather it seemed to be blocked, for he very soon discovered a gangway that took him to the wall. Here, he knocked up against a cucumber-frame, which he tried to move. Failing to effect his purpose, he examined the frame more closely and found, first, that it was fixed to the wall and, secondly, that one of the panes was missing. He passed his arm through and encountered space. He cast the bright light of the lantern through the aperture and saw a big shed, a coach-house larger than that of the villa and filled with old iron-work and objects of every kind.
+
+"That's it," said Lupin to himself. "This window has been contrived in the Broker's lumber-room, right up at the top, and from here Louis de Malreich sees, hears and watches his accomplices, without being seen or heard by them. I now understand how it is that they do not know their leader."
+
+Having found out what he wanted, he put out his light and was on the point of leaving, when a door opened opposite him, down below. Some one came in and lit a lamp. He recognized the Broker. He thereupon resolved to stay where he was, since the expedition, after all, could not be done so long as that man was there.
+
+The Broker took two revolvers from his pocket. He tested the triggers and changed the cartridges, whistling a music-hall tune as he did so.
+
+An hour elapsed in this way. Lupin was beginning to grow restless, without, however, making up his mind to go.
+
+More minutes passed, half an hour, an hour. . . .
+
+At last, the man said aloud:
+
+"Come in."
+
+One of the scoundrels slipped into the shed; and, one after the other, a third arrived and a fourth. . . .
+
+"We are all here," said the Broker. "Dieudonne and Chubby will meet us down there. Come, we've no time to lose. . . . Are you armed?"
+
+"To the teeth."
+
+"That's all right. It'll be hot work."
+
+"How do you know, Broker?"
+
+"I've seen the chief. . . . When I say that I've seen him, no . . . but he spoke to me. . . ."
+
+"Yes," said one of the men, "in the dark, at a street-corner, as usual. Ah, Altenheim's ways were better than that. At least, one knew what one was doing."
+
+"And don't you know?" retorted the Broker. "We're breaking in at the Kesselbach woman's."
+
+"And what about the two watchers? The two coves whom Lupin posted there?"
+
+"That's their look-out: there's seven of us. They had better give us as little trouble as possible."
+
+"What about the Kesselbach?"
+
+"Gag her first, then bind her and bring her here. . . . There, on that old sofa. . . . And then wait for orders."
+
+"Is the job well paid?"
+
+"The Kesselbach's jewels to begin with."
+
+"Yes, if it comes off . . . but I'm speaking of the certainty."
+
+"Three hundred-franc notes apiece, beforehand, and twice as much again afterwards."
+
+"Have you the money?"
+
+"Yes."
+
+"That's all right. You can say what you like, but, as far as paying goes, there's no one to equal that bloke." And, in a voice so low that Lupin could hardly hear, "I say, Broker, if we're obliged to use the knife, is there a reward?"
+
+"The same as usual, two thousand."
+
+"If it's Lupin?"
+
+"Three thousand."
+
+"Oh, if we could only get him!"
+
+One after the other, they left the lumber-room. Lupin heard the Broker's parting words:
+
+"This is the plan of attack. We divide into three lots. A whistle; and every one runs forward. . . ."
+
+Lupin hurriedly left his hiding-place, went down the ladder, ran round the house, without going in, and climbed back over the railings:
+
+"The Broker's right; it'll be hot work. . . . Ah, it's my skin they're after! A reward for Lupin! The rascals!"
+
+He passed through the toll-gate and jumped into a taxi:
+
+"Rue Raynouard."
+
+He stopped the cab at two hundred yards from the Rue des Vignes and walked to the corner of the two streets. To his great surprise, Doudeville was not there.
+
+"That's funny," said Lupin. "It's past twelve. . . . This business looks suspicious to me."
+
+He waited ten minutes, twenty minutes. At half-past twelve, nobody had arrived. Further delay was dangerous. After all, if Doudeville and his men were prevented from coming, Charolais, his son and he, Lupin, himself were enough to repel the attack, without counting the assistance of the servants.
+
+He therefore went ahead. But he caught sight of two men who tried to hide in the shadow of a corner wall.
+
+"Hang it!" he said. "That's the vanguard of the gang, Dieudonne and Chubby. I've allowed myself to be out-distanced, like a fool."
+
+Here he lost more time. Should he go straight up to them, disable them and then climb into the house through the pantry-window, which he knew to be unlocked? That would be the most prudent course and would enable him, moreover, to take Mrs. Kesselbach away at once and to remove her to a place of safety.
+
+Yes, but it also meant the failure of his plan; it meant missing this glorious opportunity of trapping the whole gang, including Louis de Malreich himself, without doubt.
+
+Suddenly a whistle sounded from somewhere on the other side of the house. Was it the rest of the gang, so soon? And was an offensive movement to be made from the garden?
+
+But, at the preconcerted signal, the two men climbed through the window and disappeared from view.
+
+Lupin scaled the balcony at a bound and jumped into the pantry. By the sound of their footsteps, he judged that the assailants had gone into the garden; and the sound was so distinct that he felt easy in his mind: Charolais and his son could not fail to hear the noise.
+
+He therefore went upstairs. Mrs. Kesselbach's bedroom was on the first landing. He walked in without knocking.
+
+A night-light was burning in the room; and he saw Dolores, on a sofa, fainting. He ran up to her, lifted her and, in a voice of command, forcing her to answer:
+
+"Listen. . . . Charolais? His son . . . Where are they?"
+
+She stammered:
+
+"Why, what do you mean? . . . They're gone, of course! . . ."
+
+"What, gone?"
+
+"You sent me word . . . an hour ago . . . a telephone-message. . . ."
+
+He picked up a piece of blue paper lying beside her and read:
+
+"Thunder! And you believed it? . . . But your servants?"
+
+"Gone."
+
+He went up to the window. Outside, three men were coming from the other end of the garden.
+
+From the window in the next room, which looked out on the street, he saw two others, on the pavement.
+
+And he thought of Dieudonne, of Chubby, of Louis de Malreich, above all, who must now be prowling around, invisible and formidable.
+
+"Hang it!" he muttered. "I half believe they've done me this time!"

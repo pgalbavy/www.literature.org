@@ -1,0 +1,187 @@
+---
+title: "Chapter 3"
+weight: 4
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-03.html"
+---
+
+Kiki turned around and saw a queer old man standing near. He didn't stand straight, for he was crooked. He had a fat body and thin legs and arms. He had a big, round face with bushy, white whiskers that came to a point below his waist, and white hair that came to a point on top of his head. He wore dull-gray clothes that were tight fitting, and his pockets were all bunched out as if stuffed full of something.
+
+"I didn't know you were here," said Kiki.
+
+"I didn't come until after you did," said the queer old man.
+
+"Who are you?" asked Kiki.
+
+"My name's Ruggedo. I used to be the Nome King; but I got kicked out of my country, and now I'm a wanderer."
+
+"What made them kick you out?" inquired the Hyup boy.
+
+"Well, it's the fashion to kick kings nowadays. I was a pretty good King--to myself--but those dreadful Oz people wouldn't let me alone. So I had to abdicate."
+
+"What does that mean?"
+
+"It means to be kicked out. But let's talk about something pleasant. Who are you and where did you come from?"
+
+"I'm called Kiki Aru. I used to live on Mount Munch in the Land of Oz, but now I'm a wanderer like yourself."
+
+The Nome King gave him a shrewd look.
+
+"I heard that bird say that you transformed yourself into a magpie and back again. Is that true?"
+
+Kiki hesitated, but saw no reason to deny it. He felt that it would make him appear more important.
+
+"Well--yes," he said.
+
+"Then you're a wizard?"
+
+"No; I only understand transformations," he admitted.
+
+"Well, that's pretty good magic, anyhow," declared old Ruggedo. "I used to have some very fine magic, myself, but my enemies took it all away from me. Where are you going now?"
+
+"I'm going into the inn, to get some supper and a bed," said Kiki.
+
+"Have you the money to pay for it?" asked the Nome.
+
+"I have one gold piece."
+
+"Which you stole. Very good. And you're glad that you're wicked. Better yet. I like you, young man, and I'll go to the inn with you if you'll promise not to eat eggs for supper."
+
+"Don't you like eggs?" asked Kiki.
+
+"I'm afraid of 'em; they're dangerous!" said Ruggedo, with a shudder.
+
+"All right," agreed Kiki; "I won't ask for eggs."
+
+"Then come along," said the Nome.
+
+When they entered the inn, the landlord scowled at Kiki and said:
+
+"I told you I would not feed you unless you had money."
+
+Kiki showed him the gold piece.
+
+"And how about you?" asked the landlord, turning to Ruggedo. "Have you money?"
+
+"I've something better," answered the old Nome, and taking a bag from one of his pockets he poured from it upon the table a mass of glittering gems--diamonds, rubies and emeralds.
+
+The landlord was very polite to the strangers after that. He served them an excellent supper, and while they ate it, the Hyup boy asked his companion:
+
+"Where did you get so many jewels?"
+
+"Well, I'll tell you," answered the Nome. "When those Oz people took my kingdom away from me--just because it was my kingdom and I wanted to run it to suit myself-- they said I could take as many precious stones as I could carry. So I had a lot of pockets made in my clothes and loaded them all up. Jewels are fine things to have with you when you travel; you can trade them for anything."
+
+"Are they better than gold pieces?" asked Kiki.
+
+"The smallest of these jewels is worth a hundred gold pieces such as you stole from the old man."
+
+"Don't talk so loud," begged Kiki, uneasily. "Some one else might hear what you are saying."
+
+After supper they took a walk together, and the former Nome King said:
+
+"Do you know the Shaggy Man, and the Scarecrow, and the Tin Woodman, and Dorothy, and Ozma and all the other Oz people?"
+
+"No," replied the boy, "I have never been away from Mount Munch until I flew over the Deadly Desert the other day in the shape of a hawk."
+
+"Then you've never seen the Emerald City of Oz?"
+
+"Never."
+
+"Well," said the Nome, "I knew all the Oz people, and you can guess I do not love them. All during my wanderings I have brooded on how I can be revenged on them. Now that I've met you I can see a way to conquer the Land of Oz and be King there myself, which is better than being King of the Nomes."
+
+"How can you do that?" inquired Kiki Aru, wonderingly.
+
+"Never mind how. In the first place, I'll make a bargain with you. Tell me the secret of how to perform transformations and I will give you a pocketful of jewels, the biggest and finest that I possess."
+
+"No," said Kiki, who realized that to share his power with another would be dangerous to himself.
+
+"I'll give you TWO pocketsful of jewels," said the Nome.
+
+"No," answered Kiki.
+
+"I'll give you every jewel I possess."
+
+"No, no, no!" said Kiki, who was beginning to be frightened.
+
+"Then," said the Nome, with a wicked look at the boy, "I'll tell the inn-keeper that you stole that gold piece and he will have you put in prison."
+
+Kiki laughed at the threat.
+
+"Before he can do that," said he, "I will transform myself into a lion and tear him to pieces, or into a bear and eat him up, or into a fly and fly away where he could not find me."
+
+"Can you really do such wonderful transformations?" asked the old Nome, looking at him curiously.
+
+"Of course," declared Kiki. I can transform you into a stick of wood, in a flash, or into a stone, and leave you here by the roadside."
+
+"The wicked Nome shivered a little when he heard that, but it made him long more than ever to possess the great secret. After a while he said:
+
+"I'll tell you what I'll do. If you will help me to conquer Oz and to transform the Oz people, who are my enemies, into sticks or stones, by telling me your secret, I'll agree to make YOU the Ruler of all Oz, and I will be your Prime Minister and see that your orders are obeyed."
+
+"I'll help do that," said Kiki, "but I won't tell you my secret."
+
+The Nome was so furious at this refusal that he jumped up and down with rage and spluttered and choked for a long time before he could control his passion. But the boy was not at all frightened. He laughed at the wicked old Nome, which made him more furious than ever.
+
+"Let's give up the idea," he proposed, when Ruggedo had quieted somewhat. "I don't know the Oz people you mention and so they are not my enemies. If they've kicked you out of your kingdom, that's your affair--not mine."
+
+"Wouldn't you like to be king of that splendid fairyland?" asked Ruggedo.
+
+"Yes, I would," replied Kiki Aru; "but you want to be king yourself, and we would quarrel over it."
+
+"No," said the Nome, trying to deceive him. "I don't care to be King of Oz, come to think it over. I don't even care to live in that country. What I want first is revenge. If we can conquer Oz, I'll get enough magic then to conquer my own Kingdom of the Nomes, and I'll go back and live in my underground caverns, which are more home-like than the top of the earth. So here's my proposition: Help me conquer Oz and get revenge, and help me get the magic away from Glinda and the Wizard, and I'll let you be King of Oz forever afterward."
+
+"I'll think it over," answered Kiki, and that is all he would say that evening.
+
+In the night when all in the Inn were asleep but himself, old Ruggedo the Nome rose softly from his couch and went into the room of Kiki Aru the Hyup, and searched everywhere for the magic tool that performed his transformations. Of course, there was no such tool, and although Ruggedo searched in all the boy's pockets, he found nothing magical whatever. So he went back to his bed and began to doubt that Kiki could perform transformations.
+
+Next morning he said:
+
+"Which way do you travel to-day?"
+
+"I think I shall visit the Rose Kingdom," answered the boy.
+
+"That is a long journey," declared the Nome.
+
+"I shall transform myself into a bird," said Kiki, "and so fly to the Rose Kingdom in an hour."
+
+"Then transform me, also, into a bird, and I will go with you," suggested Ruggedo. "But, in that case, let us fly together to the Land of Oz, and see what it looks like."
+
+Kiki thought this over. Pleasant as were the countries he had visited, he heard everywhere that the Land of Oz was more beautiful and delightful. The Land of Oz was his own country, too, and if there was any possibility of his becoming its King, he must know something about it.
+
+While Kiki the Hyup thought, Ruggedo the Nome was also thinking. This boy possessed a marvelous power, and although very simple in some ways, he was determined not to part with his secret. However, if Ruggedo could get him to transport the wily old Nome to Oz, which he could reach in no other way, he might then induce the boy to follow his advice and enter into the plot for revenge, which he had already planned in his wicked heart.
+
+"There are wizards and magicians in Oz," remarked Kiki, after a time. "They might discover us, in spite of our transformations."
+
+"Not if we are careful," Ruggedo assured him. "Ozma has a Magic Picture, in which she can see whatever she wishes to see; but Ozma will know nothing of our going to Oz, and so she will not command her Magic Picture to show where we are or what we are doing. Glinda the Good has a Great Book called the Book of Records, in which is magically written everything that people do in the Land of Oz, just the instant they do it."
+
+"Then," said Kiki, "there is no use our attempting to conquer the country, for Glinda would read in her book all that we do, and as her magic is greater than mine, she would soon put a stop to our plans."
+
+"I said 'people,' didn't I?" retorted the Nome. "The book doesn't make a record of what birds do, or beasts. It only tells the doings of people. So, if we fly into the country as birds, Glinda won't know anything about it."
+
+"Two birds couldn't conquer the Land of Oz," asserted the boy, scornfully.
+
+"No; that's true," admitted Ruggedo, and then he rubbed his forehead and stroked his long pointed beard and thought some more.
+
+"Ah, now I have the idea!" he declared. "I suppose you can transform us into beasts as well as birds?"
+
+"Of course."
+
+"And can you make a bird a beast, and a beast a bird again, without taking a human form in between?"
+
+"Certainly," said Kiki. "I can transform myself or others into anything that can talk. There's a magic word that must be spoken in connection with the transformations, and as beasts and birds and dragons and fishes can talk in Oz, we may become any of these we desire to. However, if I transformed myself into a tree, I would always remain a tree, because then I could not utter the magic word to change the transformation."
+
+"I see; I see," said Ruggedo, nodding his bushy, white head until the point of his hair waved back and forth like a pendulum. "That fits in with my idea, exactly. Now, listen, and I'll explain to you my plan. We'll fly to Oz as birds and settle in one of the thick forests in the Gillikin Country. There you will transform us into powerful beasts, and as Glinda doesn't keep any track of the doings of beasts we can act without being discovered."
+
+"But how can two beasts raise an army to conquer the powerful people of Oz?" inquired Kiki.
+
+"That's easy. But not an army of PEOPLE, mind you. That would be quickly discovered. And while we are in Oz you and I will never resume our human forms until we've conquered the country and destroyed Glinda, and Ozma, and the Wizard, and Dorothy, and all the rest, and so have nothing more to fear from them."
+
+"It is impossible to kill anyone in the Land of Oz," declared Kiki.
+
+"It isn't necessary to kill the Oz people," rejoined Ruggedo.
+
+"I'm afraid I don't understand you," objected the boy. "What will happen to the Oz people, and what sort of an army could we get together, except of people?"
+
+"I'll tell you. The forests of Oz are full of beasts. Some of them, in the far-away places, are savage and cruel, and would gladly follow a leader as savage as themselves. They have never troubled the Oz people much, because they had no leader to urge them on, but we will tell them to help us conquer Oz and as a reward we will transform all the beasts into men and women, and let them live in the houses and enjoy all the good things; and we will transform all the people of Oz into beasts of various sorts, and send them to live in the forests and the jungles. That is a splendid idea, you must admit, and it's so easy that we won't have any trouble at all to carry it through to success."
+
+"Will the beasts consent, do you think?" asked the boy.
+
+"To be sure they will. We can get every beast in Oz on our side--except a few who live in Ozma's palace, and they won't count."

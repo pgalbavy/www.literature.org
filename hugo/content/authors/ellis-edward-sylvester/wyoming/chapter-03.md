@@ -1,0 +1,65 @@
+---
+title: "Chapter 3"
+weight: 3
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-03.html"
+---
+
+Fred Godfrey did not stop to reload his pistol. He had another ready for use, and he unshipped his rifle in a twinkling, and hurried for the point where he hoped to gain some tidings of his loved ones. Everything was in a swirl, and of his own knowledge he could not tell the proper course to take.
+
+He ran through the wood toward the point for which he was making at the moment the Seneca Indian shot his horse, but, short as was the distance, all sounds of conflict were over by the time he reached his destination.
+
+Among the parties dashing hither and thither, in the blind effort to escape the Tories and Indians, who seemed to be everywhere, Fred recognized several friends and neighbors. Indeed, since Wyoming was his native place, it may be said that nearly all the fugitives were known to him.
+
+"Why ain't you with your folks?" suddenly asked a middle-aged farmer, who stopped for a moment in his panting flight to exchange a few words and to gain breath.
+
+"Can you tell me where they are?" asked Fred in turn.
+
+"They're well on their way across the Susquehanna by this time, if they haven't reached the other shore."
+
+"How do you know that?" asked Fred, his heart bounding with hope at the news which he was afraid could not be true.
+
+"I saw them go down to the river bank before the fighting begun: Gravity told me that just as soon as he saw how things were going he meant to run to where they were waiting and take them over in his scow."
+
+"How do you know that he has done so?"
+
+"I don't know it of a certainty, but I saw Gravity making for the river bank a while ago, and I've no doubt he did what he set out to do."
+
+This news was not quite so good as Fred supposed from the first remark of his friend, but it was encouraging. Before he could ask anything more, the other made a break and was gone.
+
+"Oh, if they only *did* get across the river," muttered Fred, making haste thither; "it is their only hope."
+
+And now it is time that you were told something about those in whom the young patriot felt such painful interest.
+
+They were Maggie Brainerd, whose father, a leading settler from Connecticut, had gone out with the company to fight the invaders of Wyoming; Eva, her eight-year-old sister, and Aunt Peggy Carey, the sister of the dead parent, and who had been the best of mothers to the children for the last three years. Maggie and Eva were the half-sisters of Fred Godfrey, between whom existed the sweetest affection.
+
+Maggie was a year younger than Fred, and Aunt Peggy was a peppery lady in middle life, who detested Tories as much as she did the father of all evil himself. When Mr. Brainerd bade each an affectionate good-bye and hurried away with the others to take part in the disastrous fight, they huddled close to the river bank, hoping he would soon return to them with the news that the invaders had been routed and driven away.
+
+Side by side with the patriotic father marched the servant of the family —Gravity Gimp, an enormous African, powerful, good-natured, and so devoted to every member of his household that he gladly risked his life for them.
+
+Gravity went into the battle with his gun on his shoulder and with the resolve to do his part like a man. He loaded and fired many times, but at the first sign of panic he broke and made for the river side, determined to save the women folks there, or die in the attempt. He lost sight of his master, whom he left loading and firing with the coolness of a veteran. It did not occur to Gravity that he might do good service by giving some attention to the head of the family, who had not half the strength and endurance of himself.
+
+Aunt Peggy, Maggie, and Eva waited on the river bank, with throbbing hearts, the issue of the battle. When it became certain that the patriots had suffered a check, they hoped that it was only for a brief time, and that they would speedily regain the lost ground.
+
+While they waited, the smoke from blazing Fort Wintermoot was wafted down the valley, and became perceptible to the taste as well as to the sight. The fugitives were seen to be taking to the river, fields, and woods, and the painted Iroquois were rushing hither and thither, gathering in their fearful harvest of death.
+
+"Aunt," said Maggie, taking the hand of Eva, "it won't do to wait another minute."
+
+"But what will become of your father and Gravity?"
+
+"They are in the hands of God," was the reverential reply of the courageous girl, who had asked herself the same question.
+
+When her loved parent had kissed her good-bye he made her promise that on the very moment she became assured of the defeat of the patriots she would lose no time in getting as far away as possible. She would have felt justified in breaking that pledge could she have believed there was any hope of helping her father, but she knew there was none.
+
+Eva was in sore distress, for now that she understood, in her vague way, the whole peril, her heart went out to the absent ones.
+
+"Where's papa and Gravity?" she asked, holding back, with the tears running down her cheeks.
+
+"They are doing their best to keep the bad Indians away," replied Maggie, restraining by a great effort her own feelings.
+
+"I don't want to go till papa comes," pleaded the broken-hearted little one.
+
+"But he wants us to go; he told me so, Eva."
+
+"Did he? Then I'll go with you, but I feel dreadful bad."
+
+And she ran forward, now that she knew she was doing what her father wished her to do.

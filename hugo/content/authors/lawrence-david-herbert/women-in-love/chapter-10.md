@@ -1,0 +1,85 @@
+---
+title: "chapter 10"
+weight: 999
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-10.html"
+---
+
+One morning the sisters were sketching by the side of Willey Water, at the remote end of the lake. Gudrun had waded out to a gravelly shoal, and was seated like a Buddhist, staring fixedly at the water-plants that rose succulent from the mud of the low shores. What she could see was mud, soft, oozy, watery mud, and from its festering chill, water-plants rose up, thick and cool and fleshy, very straight and turgid, thrusting out their leaves at right angles, and having dark lurid colours, dark green and blotches of black-purple and bronze. But she could feel their turgid fleshy structure as in a sensuous vision, she KNEW how they rose out of the mud, she KNEW how they thrust out from themselves, how they stood stiff and succulent against the air.
+
+Ursula was watching the butterflies, of which there were dozens near the water, little blue ones suddenly snapping out of nothingness into a jewel-life, a large black-and-red one standing upon a flower and breathing with his soft wings, intoxicatingly, breathing pure, ethereal sunshine; two white ones wrestling in the low air; there was a halo round them; ah, when they came tumbling nearer they were orangetips, and it was the orange that had made the halo. Ursula rose and drifted away, unconscious like the butterflies.
+
+Gudrun, absorbed in a stupor of apprehension of surging water-plants, sat crouched on the shoal, drawing, not looking up for a long time, and then staring unconsciously, absorbedly at the rigid, naked, succulent stems. Her feet were bare, her hat lay on the bank opposite.
+
+She started out of her trance, hearing the knocking of oars. She looked round. There was a boat with a gaudy Japanese parasol, and a man in white, rowing. The woman was Hermione, and the man was Gerald. She knew it instantly. And instantly she perished in the keen FRISSON of anticipation, an electric vibration in her veins, intense, much more intense than that which was always humming low in the atmosphere of Beldover.
+
+Gerald was her escape from the heavy slough of the pale, underworld, automatic colliers. He started out of the mud. He was master. She saw his back, the movement of his white loins. But not that - it was the whiteness he seemed to enclose as he bent forwards, rowing. He seemed to stoop to something. His glistening, whitish hair seemed like the electricity of the sky.
+
+'There's Gudrun,' came Hermione's voice floating distinct over the water. 'We will go and speak to her. Do you mind?'
+
+Gerald looked round and saw the girl standing by the water's edge, looking at him. He pulled the boat towards her, magnetically, without thinking of her. In his world, his conscious world, she was still nobody. He knew that Hermione had a curious pleasure in treading down all the social differences, at least apparently, and he left it to her.
+
+'How do you do, Gudrun?' sang Hermione, using the Christian name in the fashionable manner. 'What are you doing?'
+
+'How do you do, Hermione? I WAS sketching.'
+
+'Were you?' The boat drifted nearer, till the keel ground on the bank. 'May we see? I should like to SO much.'
+
+It was no use resisting Hermione's deliberate intention.
+
+'Well - ' said Gudrun reluctantly, for she always hated to have her unfinished work exposed - 'there's nothing in the least interesting.'
+
+'Isn't there? But let me see, will you?'
+
+Gudrun reached out the sketch-book, Gerald stretched from the boat to take it. And as he did so, he remembered Gudrun's last words to him, and her face lifted up to him as he sat on the swerving horse. An intensification of pride went over his nerves, because he felt, in some way she was compelled by him. The exchange of feeling between them was strong and apart from their consciousness.
+
+And as if in a spell, Gudrun was aware of his body, stretching and surging like the marsh-fire, stretching towards her, his hand coming straight forward like a stem. Her voluptuous, acute apprehension of him made the blood faint in her veins, her mind went dim and unconscious. And he rocked on the water perfectly, like the rocking of phosphorescence. He looked round at the boat. It was drifting off a little. He lifted the oar to bring it back. And the exquisite pleasure of slowly arresting the boat, in the heavy-soft water, was complete as a swoon.
+
+'THAT'S what you have done,' said Hermione, looking searchingly at the plants on the shore, and comparing with Gudrun's drawing. Gudrun looked round in the direction of Hermione's long, pointing finger. 'That is it, isn't it?' repeated Hermione, needing confirmation.
+
+'Yes,' said Gudrun automatically, taking no real heed.
+
+'Let me look,' said Gerald, reaching forward for the book. But Hermione ignored him, he must not presume, before she had finished. But he, his will as unthwarted and as unflinching as hers, stretched forward till he touched the book. A little shock, a storm of revulsion against him, shook Hermione unconsciously. She released the book when he had not properly got it, and it tumbled against the side of the boat and bounced into the water.
+
+'There!' sang Hermione, with a strange ring of malevolent victory. 'I'm so sorry, so awfully sorry. Can't you get it, Gerald?'
+
+This last was said in a note of anxious sneering that made Gerald's veins tingle with fine hate for her. He leaned far out of the boat, reaching down into the water. He could feel his position was ridiculous, his loins exposed behind him.
+
+'It is of no importance,' came the strong, clanging voice of Gudrun. She seemed to touch him. But he reached further, the boat swayed violently. Hermione, however, remained unperturbed. He grasped the book, under the water, and brought it up, dripping.
+
+'I'm so dreadfully sorry - dreadfully sorry,' repeated Hermione. 'I'm afraid it was all my fault.'
+
+'It's of no importance - really, I assure you - it doesn't matter in the least,' said Gudrun loudly, with emphasis, her face flushed scarlet. And she held out her hand impatiently for the wet book, to have done with the scene. Gerald gave it to her. He was not quite himself.
+
+'I'm so dreadfully sorry,' repeated Hermione, till both Gerald and Gudrun were exasperated. 'Is there nothing that can be done?'
+
+'In what way?' asked Gudrun, with cool irony.
+
+'Can't we save the drawings?'
+
+There was a moment's pause, wherein Gudrun made evident all her refutation of Hermione's persistence.
+
+'I assure you,' said Gudrun, with cutting distinctness, 'the drawings are quite as good as ever they were, for my purpose. I want them only for reference.'
+
+'But can't I give you a new book? I wish you'd let me do that. I feel so truly sorry. I feel it was all my fault.'
+
+'As far as I saw,' said Gudrun, 'it wasn't your fault at all. If there was any FAULT, it was Mr Crich's. But the whole thing is ENTIRELY trivial, and it really is ridiculous to take any notice of it.'
+
+Gerald watched Gudrun closely, whilst she repulsed Hermione. There was a body of cold power in her. He watched her with an insight that amounted to clairvoyance. He saw her a dangerous, hostile spirit, that could stand undiminished and unabated. It was so finished, and of such perfect gesture, moreover.
+
+'I'm awfully glad if it doesn't matter,' he said; 'if there's no real harm done.'
+
+She looked back at him, with her fine blue eyes, and signalled full into his spirit, as she said, her voice ringing with intimacy almost caressive now it was addressed to him:
+
+'Of course, it doesn't matter in the LEAST.'
+
+The bond was established between them, in that look, in her tone. In her tone, she made the understanding clear - they were of the same kind, he and she, a sort of diabolic freemasonry subsisted between them. Henceforward, she knew, she had her power over him. Wherever they met, they would be secretly associated. And he would be helpless in the association with her. Her soul exulted.
+
+'Good-bye! I'm so glad you forgive me. Gooood-bye!'
+
+Hermione sang her farewell, and waved her hand. Gerald automatically took the oar and pushed off. But he was looking all the time, with a glimmering, subtly-smiling admiration in his eyes, at Gudrun, who stood on the shoal shaking the wet book in her hand. She turned away and ignored the receding boat. But Gerald looked back as he rowed, beholding her, forgetting what he was doing.
+
+'Aren't we going too much to the left?' sang Hermione, as she sat ignored under her coloured parasol.
+
+Gerald looked round without replying, the oars balanced and glancing in the sun.
+
+'I think it's all right,' he said good-humouredly, beginning to row again without thinking of what he was doing. And Hermione disliked him extremely for his good-humoured obliviousness, she was nullified, she could not regain ascendancy.

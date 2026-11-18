@@ -1,0 +1,47 @@
+---
+title: "Chapter 17 - A Terrible Mix-Up"
+weight: 17
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-17.html"
+---
+
+There was a terrible mix-up. Some sheep were trying to cross the stone wall in one direction. Some were trying to cross it in the other. And in the midst of the fleecy tangle Snowball struggled in vain. He found himself face to face with Aunt Nancy Ewe, who was so huge that he couldn't budge her. He pushed and shoved until she cried out, "Where are your manners, young man?"
+
+"I--I don't know," Snowball stammered. "Maybe I left them in the berry bushes, with the bear."
+
+[Illustration: Snowball Gave A Frantic Blat.
+
+The Tale of Snowball Lamb. Page 87]
+
+Well, the moment she heard the word bear Aunt Nancy blatted at the top of her lungs. With a mighty heave she turned about on the top of the wall, sweeping Snowball off it as if he were nothing but a fly.
+
+He fell backwards among the raspberry bushes, fully expecting to be eaten by the bear. He shut his eyes and held his breath, and lay with his feet in the air, waiting for the bear to seize him.
+
+"Oh, dear!" he groaned. "I wonder if he'll begin with my head or my tail!"
+
+Just then he felt a terrible nip at the end of his tail.
+
+"He's begun! The bear has begun to eat me!" Snowball thought.
+
+As for the bear, he didn't say a single word. And that seemed odd. Somehow Snowball didn't quite like it because the bear didn't exclaim how nice and tender he was. His tail was still held fast. And that was as much as Snowball knew.
+
+At last he slowly opened his eyes. To his astonishment he saw no bear. In fact he saw nobody at all. For the last of Farmer Green's flock of sheep had vanished. And Snowball noticed, resting on the tip of his tail, a stone. Though he did not know it, the last sheep to leave had kicked it down upon him purely by accident.
+
+Snowball gave a baa of surprise and relief. With a little effort he managed to jerk his tail from under the stone. Then he sprang to his feet. And since there was no knowing where the bear was, Snowball made all haste to get on the other side of the stone wall and join the flock of sheep once more.
+
+When Aunt Nancy saw him she did not act half as pleased as he had expected she would.
+
+"You got us into a pickle, young man!" she greeted him.
+
+"It seems to me," he replied, "that you are the one that made all the trouble. If you hadn't made me jump the wall----"
+
+"If _I_ hadn't made you----" Aunt Nancy interrupted. And turning to her companions she cried, "Did you ever hear anything like that in all your days?"
+
+And everybody said, "No!"
+
+And then somebody asked, "Where's the bear?"
+
+But nobody could answer that question.
+
+The only one that could have answered it was Cuffy Bear himself. And he was way up under the mountain--and still running.
+
+There wasn't a sheep in the flock that had been more frightened than he.

@@ -1,0 +1,39 @@
+---
+title: "Chapter 17 - Mr. Crow Scolds"
+weight: 17
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-17.html"
+---
+
+OLD Mr. Crow was angry with Grandfather Mole.
+
+Now, there was nothing strange about that, because Mr. Crow was always losing his temper. And his neighbors had long since learned not to pay much heed to his scolding. They knew that loud talk never really hurt any one. And generally Mr. Crow forgot a grievance quickly, because he was sure to get angry with somebody else.
+
+There was one matter upon which Mr. Crow was especially touchy. That was corn. If anybody talked about corn-robbers, or even said much about corn as a food, Mr. Crow always lost his temper. And if anybody showed much liking for corn, or meddled in the cornfield, then old Mr. Crow would get so angry that he couldn't speak a pleasant word for days and days.
+
+And now he was enraged because he had reason to believe that Grandfather Mole was eating the corn that Farmer Green had planted.
+
+"He's eating it out of the hills," Mr. Crow told his neighbors.
+
+"Farmer Green sometimes places scarecrows in the cornfield," Jimmy Rabbit remarked. "So why wouldn't it be a good idea to get him to set up a few scaremoles?"
+
+"That wouldn't help any," Mr. Crow said gloomily. Usually the merest mention of a scarecrow sent him into a rage. But now he was too angry with Grandfather Mole to pick a quarrel with any one else. "Grandfather Mole couldn't see a scaremole if he ran head first into it," Mr. Crow continued. "And besides, even if he had eyes to see with, he's working underground. Grandfather Mole has dug galleries that run under the cornfield. And he can get right inside a hill of corn and gobble the seed corn without being seen."
+
+"Then how do you know what Grandfather Mole is doing, when you can't see him?" Jimmy Rabbit inquired.
+
+"The corn isn't coming up as it should," Mr. Crow told him. "So I scratched open a hill myself, to find out what was the matter."
+
+"You didn't find Grandfather Mole, did you?" Jimmy Rabbit cried.
+
+"No!" said Mr. Crow. "And I found no corn, either. But there was one of Grandfather Mole's galleries leading up to the center of the hill. So it's easy to guess where the corn goes."
+
+Since news always travels fast in Pleasant Valley and tales such as Mr. Crow told spread more rapidly than any other, it wasn't long before Mrs. Robin repeated Mr. Crow's remarks in Grandfather Mole's hearing.
+
+"What's that?" he called. "Please say that again!"
+
+"Old Mr. Crow claims that you are eating Farmer Green's seed corn out of the hills," Mrs. Robin said. And she had the grace to grow somewhat red in the face, because it was hardly the sort of thing to say to an old gentleman like Grandfather Mole.
+
+For a few moments Grandfather Mole was silent. He couldn't say a word for himself. And Mrs. Robin whispered to some of her friends that it certainly looked as if Grandfather Mole was guilty.
+
+At last he managed to speak. But it was a most peculiar question that he asked; so far as Mrs. Robin could see, it had absolutely nothing to do with the case:
+
+"If you happen to see Mr. Meadow Mouse, will you tell him that I'd like to have a talk with him?"

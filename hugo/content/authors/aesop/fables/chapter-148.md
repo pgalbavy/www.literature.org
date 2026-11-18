@@ -1,0 +1,7 @@
+---
+title: "The Lion And The Hare"
+weight: 150
+url: "/authors/aesop/fables/chapter-148.html"
+---
+
+A LION came across a Hare, who was fast asleep. He was just in the act of seizing her, when a fine young Hart trotted by, and he left the Hare to follow him. The Hare, scared by the noise, awoke and scudded away. The Lion was unable after a long chase to catch the Hart, and returned to feed upon the Hare. On finding that the Hare also had run off, he said, "I am rightly served, for having let go of the food that I had in my hand for the chance of obtaining more."

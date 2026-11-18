@@ -1,0 +1,7 @@
+---
+title: "The Fox And The Lion"
+weight: 244
+url: "/authors/aesop/fables/chapter-242.html"
+---
+
+A FOX saw a Lion confined in a cage, and standing near him, bitterly reviled him. The Lion said to the Fox, "It is not thou who revilest me; but this mischance which has befallen me."

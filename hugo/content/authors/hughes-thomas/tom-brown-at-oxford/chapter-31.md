@@ -1,0 +1,233 @@
+---
+title: "Chapter 31 - Behind The Scenes"
+weight: 33
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-31.html"
+---
+
+Mr. and Mrs. Brown had a long way to drive home that evening, including some eight miles of very indifferent chalky road over the downs, which separate the Vale of Kennet from the Vale of White Horse. Mr. Brown was an early man, and careful of his horses, who responded to his care by being always well up to much more work than they were ever put to. The drive to Barton Manor and back in a day was a rare event in their lives. Their master, taking this fact into consideration, was bent on giving them plenty of time for the return journey, and had ordered his groom to be ready to start by eight o'clock. But, that they might not disturb the rest, by their early departure, he had sent the carriage to the village inn, instead of to the Porter's stables.
+
+At the appointed time, therefore, and when the evening's amusements were just beginning at the manor house, Mr. Brown sought out his wife; and, after a few words of leave-taking to their host and hostess, the two slipped quietly away; and walked down the village. The carriage was standing before the inn all ready for them, with the hostler and Mr. Brown's groom at the horses' heads. The carriage was a high phaeton having a roomy front seat with a hood to it, specially devised by Mr. Brown with a view to his wife's comfort, and that he might with a good conscience enjoy at the same time the pleasures of her society and of driving his own horses. When once in her place, Mrs. Brown was as comfortable as she would have been in the most luxurious barouche with C springs, but the ascent was certainly rather a drawback. The pleasure of sitting by her husband and of receiving his assiduous help in the preliminary climb, however, more than compensated to Mrs. Brown for this little inconvenience.
+
+Mr. Brown helped her up as usual, and arranged a plaid carefully over her knees, the weather being too hot for the apron. He then proceeded to walk round the horses, patting them, examining the bits, and making inquiries as to how they had fed. Having satisfied himself on these points, and fee'd the hostler, he took the reins, seated himself by his wife, and started at a steady pace towards the hills at the back of Barton village.
+
+For a minute or two neither of them spoke, Mr. Brown being engrossed with his horses and she with her thoughts. Presently, however, he turned to her, and, having ascertained that she was quite comfortable, went on—
+
+"Well, my dear, what do you think of them?"
+
+"Oh, I think they are agreeable people," answered Mrs. Brown; "but one can scarcely judge from seeing them to-day. It is too far for a drive; we shall not be home till midnight."
+
+"But I am very glad we came. After all, they are connexions through poor Robert, and he seems anxious that they should start well in the county. Why, he has actually written twice, you know, about our coming up to-day. We must try to show them some civility."
+
+"It is impossible to come so far often," Mrs. Brown persisted.
+
+"It is too far for ordinary visiting. What do you say to asking them to come and spend a day or two with us?"
+
+"Certainly, my dear, if you wish it," answered Mrs. Brown, but without much cordiality in her voice.
+
+"Yes, I should like it; and it will please Robert so much. We might have him and Katie over to meet them, don't you think?"
+
+"Let me see," said Mrs. Brown, with much more alacrity, "Mr. and Mrs. Porter will have the best bed-room and dressing-room; Robert must have the south room, and Katie the chintz. Yes, that will do; I can manage it very well."
+
+"And their daughter; you have forgotten her."
+
+"Well, you see, dear, there is no more room."
+
+"Why; there is the dressing-room, next to the south room, with a bed in it. I'm sure nobody can want a better room."
+
+"You know, John, that Robert cannot sleep if there is the least noise. I could never put any-one into his dressing-room; there is only a single door between the rooms, and even if they made no noise, the fancy that some one was sleeping there would keep him awake all night."
+
+"Plague take his fancies! Robert has given way to them till he is fit for nothing. But you can put him in the chintz room, and give the two girls the south bed room and dressing-room."
+
+"What, put Robert in a room which looks north? My dear John; what can you be thinking about?"
+
+Mr. Brown uttered an impatient grunt, and, as a vent to his feelings more decorous on the whole than abusing his brother-in-law, drew his whip more smartly than usual across the backs of his horses. The exertion of muscle necessary to reduce those astonished animals to their accustomed steady trot restored his temper, and he returned to the charge—
+
+"I suppose we must manage it on the second floor, then, unless you could get a bed run up in the school-room."
+
+"No, dear; I really should not like to do that—it would be so very inconvenient. We are always wanting the room for workwomen or servants; besides, I keep my account books and other things there."
+
+"Then I'm afraid it must be on the second floor. Some of the children must be moved. The girl seems a nice girl with no nonsense about her, and won't mind sleeping up there. Or, why not put Katie upstairs?"
+
+"Indeed, I should not think of it. Katie is a dear good girl, and I will not put anyone over her head."
+
+"Nor I, dear. On the contrary, I was asking you to put her over another person's head," said Mr. Brown, laughing at his own joke, This unusual reluctance on the part of his wife to assist in carrying out any hospitable plans of his began to strike him; so, not being an adept at concealing his thoughts, or gaining his point by any attack except a direct one, after driving on for a minute in silence, he turned suddenly on his wife, and said,—
+
+"Why, Lizzie, you seem not to want to ask the girl?"
+
+"Well, John, I do not see the need of it at all."
+
+"No, and you don't want to ask her?"
+
+"If you must know, then, I do not."
+
+"Don't you like her?"
+
+"I do not know her well enough either to like or dislike."
+
+"Then, why not ask her, and see what she is like? But the truth is, Lizzie, you have taken a prejudice against her?"
+
+"Well, John, I think she is a thoughtless girl, and extravagant; not the sort of girl, in fact, that I should wish to be much with us."
+
+"Thoughtless and extravagant!" said Mr. Brown, looking grave; "how you women can be so sharp on one another! Her dress seemed to me simple and pretty, and her manners very lady-like and pleasing."
+
+"You seem to have quite forgotten about Tom's hat," said Mrs. Brown.
+
+"Tom's white hat—so I had," said Mr. Brown, and he relapsed into a low laugh at the remembrance of the scene. "I call that *his* extravagance, and not hers."
+
+"It was a new hat, and a very expensive one, which he had bought for the vacation, and it is quite spoilt."
+
+"Well, my dear; really, if Tom will let girls shoot at his hats, he must take the consequences. He must wear it with the holes, or buy another."
+
+"How can he afford another, John? you know how poor he is."
+
+Mr. Brown drove on now for several minutes without speaking. He knew perfectly well what his wife was coming to now, and, after weighing in his mind the alternatives of accepting battle or making sail and changing the subject altogether, said,—
+
+"You know, my dear, he has brought it on himself. A headlong, generous sort of youngster, like Tom, must be taught early that he can't have his cake and eat his cake. If he likes to lend his money, he must find out that he hasn't it to spend."
+
+"Yes, dear, I quite agree with you. But 50L a year is a great deal to make him pay."
+
+"Not a bit too much, Lizzie. His allowance is quite enough without it to keep him like a gentleman. Besides, after all, he gets it in meal or in malt; I have just paid 25L for his gun."
+
+"I know how kind and liberal you are to him; only I am so afraid of his getting into debt."
+
+"I wonder what men would do, if they hadn't some soft-hearted woman always ready to take their parts and pull them out of scrapes," said Mr. Brown. "Well, dear, how much do you want to give the boy!"
+
+"Twenty-five pounds, just for this year. But out of my own allowance, John."
+
+"Nonsense!" replied Mr. Brown; "you want your allowance for yourself and the children."
+
+"Indeed, dear John, I would sooner not do it at all, then, if I may not do it out of my own money."
+
+"Well, have it your own way. I believe you would always look well-dressed, if you never bought another gown. Then, to go back to what we were talking about just now—you will find a room for the girl somehow?"
+
+"Yes, dear, certainly, as I see you are bent on it."
+
+"I think it would be scarcely civil not to ask her, especially if Katie comes. And I own I think her very pretty, and have taken a great fancy to her."
+
+"Isn't it odd that Tom should never have said anything about her to us? He has talked of all the rest till I knew them quite well before I went there."
+
+"No; it seems to me the most natural thing in the world."
+
+"Yes, dear, very natural. But I can't help wishing he had talked about her more; I should think it less dangerous."
+
+"Oh, you think Master Tom is in love with her, eh?" said Mr. Brown, laughing.
+
+"More unlikely things have happened. You take it very easily, John."
+
+"Well, we have all been boys and girls, Lizzie. The world hasn't altered much, I suppose, since I used to get up at five on winter mornings, to ride some twenty miles to cover, on the chance of meeting a young lady on a grey pony. I remember how my poor dear old father used to wonder at it, when our hounds met close by in a better country. I'm afraid I forgot to tell him what a pretty creature 'Gipsy' was, and how well she was ridden."
+
+"But Tom is only twenty, and he must go into a profession."
+
+"Yes, yes; much to young, I know—too young for anything serious. We had better see them together and then if there is anything in it, we can keep them apart. There cannot be much the matter yet."
+
+"Well, dear, if you are satisfied, I am sure I am."
+
+And so the conversation turned on other subjects, and Mr. and Mrs. Brown enjoyed their moonlight drive home through the delicious summer night, and were quite sorry when the groom got down from the hind-seat to open their own gates, at half-past twelve.
+
+About the same time the festivities at Barton Manor were coming to a close. There had been cold dinner in the tent at six, after the great match of the day; and, after dinner, the announcement of the scores, and the distribution of prizes to the winners. A certain amount of toasts and speechifying followed, which the ladies sat through with the most exemplary appearance of being amused. When their healths had been proposed and acknowledged they retired, and were soon followed by the younger portion of the male sex; and, while the J. P.'s and clergymen sat quietly at their wine, which Mr. Porter took care should be remarkably good, and their wives went to look over the house and have tea, their sons and daughters split up into groups, and some shot handicaps, and some walked about and flirted, and some played at bowls and lawn billiards. And soon the band appeared again from the servants' hall, mightily refreshed; and dancing began on the grass, and in due time was transferred to the tent, when the grass got damp with the night dew; and then to the hall of the house, when the lighting of the tent began to fail. And then there came a supper, extemporized out of the remains of the dinner; after which, papas and mammas began to look at their watches, and remonstrate with daughters, coming up with sparkling eyes and hair a little shaken out of place, and pleading for "just one more dance."
+
+"You have been going on ever since one o'clock," remonstrate the parents; "And are ready to go on till one to-morrow," replied the children. By degrees, however, the frequent sound of wheels was heard, and the dancers got thinner and thinner, till, for the last half hour, some half-dozen couples of young people danced at interminable reel, while Mr. and Mrs. Porter, and a few of the most good-natured matrons of the neighborhood looked on. Soon after midnight the band struck; no amount of negus could get anything more out of them but "God save the Queen," which they accordingly played and departed; and then came the final cloaking and driving off of the last guests. Tom and Mary saw the last of them into their carriage at the hall-door, and lingered a moment in the porch.
+
+"What a lovely night!" said Mary. "How I hate going to bed!"
+
+"It is a dreadful bore," answered Tom; "but here is the butler waiting to shut up; we must go in."
+
+"I wonder where papa and mama are."
+
+"Oh, they are only seeing things put a little to rights. Let us sit here till they come; they must pass by to get to their rooms."
+
+So the two sat down on some hall chairs.
+
+"Oh dear! I wish it were all coming over again to-morrow," said Tom, leaning back, and looking up at the ceiling. "By the way, remember I owe you a pair of gloves; what color shall they be?"
+
+"Any color you like. I can't bear to think of it. I felt so dreadfully ashamed when they all came up, and your mother looked so grave; I am sure she was very angry."
+
+"Poor mother! she was thinking of my hat with three arrow-holes in it."
+
+"Well, I am very sorry, because I wanted them to like me."
+
+"And so they will; I should like to know who can help it."
+
+"Now, I won't have any of your nonsensical compliments. Do you think they enjoyed the day?"
+
+"Yes, I am sure they did. My father said he had never liked an archery meeting so much."
+
+"But they went away so early."
+
+"They had a very long drive, you know. Let me see," he said, feeling in his breast-pocket, "mother left me a note, and I have never looked at it till now." He took a slip of paper out and read it, and his face fell.
+
+"What is it?" said Mary leaning forward.
+
+"Oh, nothing; only I must go to-morrow morning."
+
+"There, I was sure she was angry."
+
+"No, no; it was written this morning before she came here. I can tell by the paper."
+
+"But she will not let you stay here a day, you see."
+
+"I have been here a good deal, considering all things. I should like never to go away."
+
+"Perhaps papa might find a place for you, if you asked him. Which should you like,—to be tutor to the boys or gamekeeper?"
+
+"On the whole, I should prefer the tutorship at present; you take so much interest in the boys."
+
+"Yes, because they have no one to look after them now in the holidays. But, when you come as tutor, I shall wash my hands of them."
+
+"Then I shall decline the situation."
+
+"How are you going home to-morrow?"
+
+"I shall ride round by Englebourn. They wish me to go round and see Katie and Uncle Robert. You talked about riding over there yourself this morning."
+
+"I should like it so much. But how can we manage it? I can't ride back again by myself."
+
+"Couldn't you stay and sleep there?"
+
+"I will ask mamma. No, I'm afraid it can hardly be managed;" and so saying, Mary leant back in her chair and began to pull to pieces some flowers she held in her hand.
+
+"Don't pull them to pieces; give them to me," said Tom. "I have kept the rosebud you gave me at Oxford folded up in"—
+
+"Which you took, you mean to say. No, I won't give you any of them—or, let me see—yes, here is a sprig of lavender; you may have that."
+
+"Thank you. But, why lavender?"
+
+"Lavender stands for sincerity. It will remind you of the lecture you gave me."
+
+"I wish you would forget that. But you know what flowers mean, then? Do give me a lecture; you owe me one. What do those flowers mean which you will not give me,—the piece of heather for instance?"
+
+"Heather signifies constancy."
+
+"And the carnations?"
+
+"Jealousy."
+
+"And the heliotrope?"
+
+"Oh, never mind the heliotrope."
+
+"But it is such a favorite of mine. Do tell me what it means?"
+
+"*Je vous aime*," said Mary with a laugh, and a slight blush; "it is all nonsense. Oh, here's mamma at last," and she jumped up and went to meet her mother, who came out of the drawing-room, candle in hand.
+
+"My dear Mary, I thought you were gone to bed," said Mrs. Porter, looking from one to the other seriously.
+
+"Oh, I'm not the least tired, and I couldn't go without wishing you and papa good night, and thanking you for all the trouble you have taken."
+
+"Indeed we ought all to thank you," said Tom; "everybody said it was the pleasantest party they had ever been at."
+
+"I am very glad it went off so well," said Mrs. Porter, gravely; "and now, Mary, you must go to bed."
+
+"I am afraid I must leave you to-morrow morning," said Tom.
+
+"Yes; Mrs. Brown said they expect you at home tomorrow."
+
+"I am to ride round by Uncle Robert's; would you like one of the boys to go with me?"
+
+"Oh, dear mamma, could not Charley and I ride over to Englebourn? I do so long to see Katie."
+
+"No, dear; it is much too far for you. We will drive over in a few days' time."
+
+And so saying, Mrs. Porter wished Tom good night, and led off her daughter.
+
+Tom went slowly up stairs to his room, and, after packing his portmanteau for the carrier to take in the morning, threw up his window and leant out into the night, and watched the light clouds swimming over the moon, and the silver mist folding the water-meadows and willows in its soft cool mantle. His thoughts were such as will occur to any reader who has passed the witching age of twenty; and the scent of the heliotrope-bed in the flower-garden below, seemed to rise very strongly on the night air.

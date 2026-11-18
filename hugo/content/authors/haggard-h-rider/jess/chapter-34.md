@@ -1,0 +1,111 @@
+---
+title: "Chapter 34 - Tanta Coetzee To The Rescue"
+weight: 34
+url: "/authors/haggard-h-rider/jess/chapter-34.html"
+---
+
+After Jess had been set free by the Boers outside Hans Coetzee’s place, John was sharply ordered to dismount and off-saddle his horse. This he did with the best grace that he could muster, and the horse was knee-haltered and let loose to feed. It was then indicated to him that he was to enter the house, and this he also did, closely attended by two of the Boers. The room into which he was conducted was the same that he had first become acquainted with, on the occasion of the buck hunt that had so nearly ended in his murder. There was the Buckenhout table, and there were the stools and couches made of stinkwood. Also, in the biggest chair at the other end of the room, a moderate-sized slop-basin full of coffee by her side, sat Tanta Coetzee, still actively employed in doing absolutely nothing. There, too, were the showily dressed maidens, there was the sardonic lover of one of them, and all the posse of young men with rifles. The sit-kammer and its characteristics were quite unchanged, and on entering it John felt inclined to rub his eyes and wonder whether the events of the last few months had been nothing but a dream.
+
+The only thing that had changed was his welcome. Evidently he was not expected to shake hands all round on the present occasion. Fallen indeed would that Boer have been considered who, within a few days of Majuba, offered to shake hands with a wretched English rooibaatje, picked up like a lame buck on the veldt. At the least he would have kept the ceremony for private celebration, if only out of respect to the feelings of others. On this occasion John’s entry was received in icy silence. The old woman did not deign to look up, the young ones shrugged their shoulders and turned their backs, as though they had suddenly seen something that was not nice. Only the countenance of the sardonic lover softened to a grin.
+
+John walked to the end of the room where there was a vacant chair and stood by it.
+
+“Have I your permission to sit down, ma’am?” he said at last in a loud tone, addressing the old lady.
+
+“Dear Lord!” said the old lady to the man next to her, “what a voice the poor creature has! it is like a bull’s. What does he say?”
+
+The man explained.
+
+“The floor is the right place for Englishmen and Kafirs,” said the old lady, “but after all he is a man, and perhaps sore with riding. Englishmen always get sore when they try to ride.” Then with startling energy she shouted out:
+
+“_Sit!_”
+
+“I will show the rooibaatje that he is not the only one with a voice,” she added by way of explanation.
+
+A subdued sniggle followed this sally of wit, during which John took his seat with such native grace as he could command, which at the moment was not much.
+
+“Dear me!” she went on presently, for she was a bit of a humorist, “he looks very dirty and pale, doesn’t he? I suppose the poor thing has been hiding in the ant-bear holes with nothing to eat. I am told that up in the Drakensberg yonder the ant-bear holes are full of Englishmen. They had rather starve in them than come out, for fear lest they should meet a Boer.”
+
+This provoked another snigger, and then the young ladies took up the ball.
+
+“Are you hungry, rooibaatje?” asked one in English.
+
+John was boiling with fury, but he was also starving, so he answered that he was.
+
+“Tie his hands behind him, and let us see if he can catch in his mouth, like a dog,” suggested a gentle youth.
+
+“No, no; make him eat pap with a wooden spoon, like a Kafir,” said another. “I will feed him--if you have a very long spoon.”
+
+Here again was legitimate cause for merriment, but in the end matters were compromised by a lump of biltong and a piece of bread being thrown to John from the other end of the room. He caught them and began to eat, trying to conceal his ravenous hunger as much as possible from the circle of onlookers who clustered round to watch the operation.
+
+“Carolus,” said the old lady to the sardonic affianced of her daughter, “there are three thousand men in the British army.”
+
+“Yes, my aunt.”
+
+“There are three thousand men in the British army,” she repeated, looking round angrily as though somebody had questioned the truth of her statement. “I tell you that my grandfather’s brother was at Cape Town in the time of Governor Smith, and he counted the whole British army, and there were three thousand of them.”
+
+“That is so, my aunt,” answered Carolus.
+
+“Then why did you contradict me, Carolus?”
+
+“I did not intend to, my aunt.”
+
+“I should hope not, Carolus; it would vex the dear Lord to see a boy with a squint” (Carolus was slightly afflicted in this way) “contradict his future mother-in-law. Tell me how many Englishmen were killed at Laing’s Nek?”
+
+“Nine hundred,” replied Carolus promptly.
+
+“And at Ingogo?”
+
+“Six hundred and twenty.”
+
+“And at Majuba?”
+
+“One thousand.”
+
+“Then that makes two thousand five hundred men; yes, and the rest were finished at Bronker’s Spruit. Nephews, that rooibaatje there,” pointing to John, “is one of the last men left in the British army.”
+
+Most of her audience appeared to accept this argument as conclusive, but some mischievous spirit put it into the breast of the saturnine Carolus to contradict her, notwithstanding the lesson he had just received.
+
+“That is not so, my aunt; there are many damned Englishmen still sneaking about the Nek, and also at Pretoria and Wakkerstroom.”
+
+“I tell you it is a lie,” said the old lady, raising her voice, “they are only Kafirs and camp-followers. There were three thousand men in the British army, and now they are all killed except that rooibaatje. How dare you contradict your future mother-in-law, you dirty squint-eyed, yellow-faced monkey? There, take that!” and before the unfortunate Carolus knew where he was, he received the slop-basin with its contents full in the face. The bowl broke upon the bridge of his nose, and the coffee flew all about him, into his eyes and hair, down his throat and over his body, making such a spectacle of him as must have been seen to be appreciated.
+
+“Ah!” went on the old lady, much soothed and gratified by the eminent and startling success of her shot, “never you say again that I don’t know how to throw a basin of coffee. I haven’t practised at my man Hans for thirty years for nothing, I can tell you. Now you, Carolus, I have taught you not to contradict; go and wash your face and we will have supper.”
+
+Carolus ventured no reply, and was led away by his betrothed half blinded and utterly subdued, while her sister set the table for the evening meal. When it was ready the men sat down to meat and the women waited on them. John was not asked to join them, but one of the girls threw him a boiled mealiecob, for which, being still very hungry, he was duly grateful, and afterwards he managed to secure a mutton bone and another bit of bread.
+
+When supper was over, some bottles of peach brandy were produced, and the Boers began to drink freely, and then it was that matters commenced to look dangerous for the Englishman. Suddenly one of the men remembered about the young fellow whom John had thrown backwards off the horse, and who was lying very sick in the next room, and suggested that measures of retaliation should be taken, which would undoubtedly have been done if the elderly Boer who had commanded the party had not interposed. This man was getting drunk like the others, but fortunately for John he grew amiably drunk.
+
+“Let him alone,” he said, “let him alone. We will send him to the commandant to-morrow. Frank Muller will know how to deal with him.”
+
+John thought to himself that he certainly would.
+
+“Now, for myself,” the man went on with a hiccough, “I bear no malice. We have thrashed the British and they have given up the country, so let bygones be bygones, I say. Almighty, yes! I am not proud, not I. If an Englishman takes off his hat to me I shall acknowledge it.”
+
+This staved the fellows off for a while, but presently John’s protector went away, and then the others became playful. They took their rifles and amused themselves with levelling them at him, and making sham bets as to where they would hit him. John, seeing the emergency, backed his chair well into the corner of the wall and drew his revolver, which fortunately for himself he still had.
+
+“If any man interferes with me, by God, I’ll shoot him!” he said in good English, which they did not fail to understand. Undoubtedly as the evening went on it was only the possession of this revolver and his evident determination to use it that saved his life.
+
+At last things grew very bad indeed, so bad that John found it absolutely necessary to keep his eyes continually fixed, now on one and now on another, to prevent their putting a bullet through him unawares. He had twice appealed to the old woman, but she sat in her big chair with a sweet smile upon her fat face and refused to interfere. It is not every day that a Boer frau has the chance of seeing a real live English rooibaatje baited like an ant-bear on the flat.
+
+Presently, just as John in desperation was making up his mind to begin shooting right and left, and take his chance of cutting his way out, the saturnine Carolus, whose temper had never recovered the bowl of coffee, and who was besides very drunk, rushed forward with an oath and dealt a tremendous blow at him with the butt-end of his rifle. John dodged the blow, which fell upon the back of the chair and smashed it to bits, and in another second Carolus’s gentle soul would have departed to a better sphere, had not the old frau, seeing that the game had gone beyond a joke, waddled down the room with marvellous activity and thrown herself between them.
+
+“There, there,” she said, cuffing right and left with her fat fists, “be off with you, every one. I can’t have this noise going on here. Come, off you all go, and get the horses into the stable; they will be right away by morning if you trust them to the Kafirs.”
+
+Carolus collapsed, and the other men also hesitated and drew back, whereupon, following up her advantage, the old woman, to John’s astonishment and relief, bundled the whole tribe of them bodily out of the front door.
+
+“Now then, rooibaatje,” said the old lady briskly when they had gone, “I like you because you are a brave man, and were not afraid when they mobbed you. Also, I don’t want to have a mess made upon my floor here, or any noise or shooting. If those men come back and find you here they will first get rather drunker and then kill you, so you had better be off while you have the chance,” and she pointed to the door.
+
+“I really am much obliged to you, my aunt,” said John, utterly astonished to find that she possessed a heart at all, and more or less had been playing a part throughout the evening.
+
+“Oh, as to that,” she said drily, “it would be a great pity to kill the last English rooibaatje in the whole British army; they ought to keep you as a curiosity. Here, take a tot of brandy before you go; it is a wet night, and sometimes when you are clear of the Transvaal and remember this business, remember, too, that you owe your life to Tanta Coetzee. But I would not have saved you, not I, if you had not been so plucky. I like a man to be a man, and not like that miserable monkey Carolus. There, be off!”
+
+John poured out and swallowed half a tumblerful of the brandy, and in another moment he was outside the house and had slipped off into the night. It was very dark and wet, for the rain-clouds had covered up the moon, and he soon learned that any attempt to look for his horse would end in failure and probably in his recapture. The only thing to do was to get away on foot in the direction of Mooifontein as quickly as he could; so off he went down the track across the veldt as fast as his stiff legs would take him. He had a ten miles trudge before him, and with that cheerful acquiescence in circumstances over which he had no control which was one of his characteristics, he set to work to make the best of it. For the first hour or so all went well, then to his intense disgust he discovered that he was off the track, a fact at which anybody who has ever had the pleasure of wandering along a so-called road on the African veldt on a dark night will scarcely be surprised.
+
+After wasting a quarter of an hour or more in a vain attempt to find the path, John struck out boldly for a dim mass that loomed in the distance, and which he took to be Mooifontein Hill. And so it was, only instead of keeping to the left, where he would have arrived at the house, or rather where the house had stood, unwittingly he bore to the right, and thus went half round the hill before he found out his mistake. Nor would he have discovered it then had he not chanced in the mist and darkness to turn into the mouth of the great gorge known as Leeuwen Kloof, where once, months ago, he had had an interesting talk with Jess just before she went to Pretoria. It was whilst he was blundering and stumbling up this gorge that at length the rain ceased and the moon revealed herself, it being then nearly midnight. Her very first rays lit upon one of the extraordinary pillars of balanced boulders, and by it he recognised the locality. As may be imagined, strong man though he was, by this time John was quite exhausted. For nearly a week he had been travelling incessantly, and for the last two nights he had not only not slept, but also had endured much mental excitement and bodily peril. Were it not for the brandy that Tanta Coetzee gave him he could never have tramped the fifteen miles or so of ground which he had covered. Now he was quite broken down, and felt that the only thing which he could do, wet through as he was, would be to lie down somewhere, and sleep or die as the case might be. Then it was that he remembered the little cave near the top of the Kloof, the same from which Jess had watched the thunder-storm. He had visited it once with Bessie after their engagement, and she had told him that it was one of her sister’s favourite haunts.
+
+If he could but reach the cave at any rate he would find shelter and a dry place to lie in. It could not be more than three hundred yards away. So he struggled on bravely through the wet grass and over the scattered boulders, till at last he came to the base of the huge column that had been shattered by the lightning before Jess’s eyes.
+
+Thirty paces more and John was in the cave.
+
+With a sigh of utter exhaustion he flung himself down upon the rocky floor, and almost instantly was buried in a profound sleep.

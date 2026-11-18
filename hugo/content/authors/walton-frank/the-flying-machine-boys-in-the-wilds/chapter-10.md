@@ -1,0 +1,171 @@
+---
+title: "Chapter 10 - Where The Trouble Began"
+weight: 10
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-10.html"
+---
+
+“When Redfern disappeared,” Mr. Havens went on, “we employed the best detective talent in America to discover his whereabouts and bring him back. The best detective talent in America failed.”
+
+“That ain’t the way they put it in stories!” Carl cut in.
+
+“We spent over a hundred thousand dollars trying to bring the thief to punishment, and all we had to show for this expenditure at the end of the year was a badly spelled letter written—at least mailed—on the lower East Side in New York, conveying the information that Redfern was hiding somewhere in the mountains of Peru.”
+
+“There you go!” exclaimed Ben. “The last time we went out on a little excursion through the atmosphere, we got mixed up with a New York murder case, and also with Chinese smugglers, and now it seems that we’ve got an embezzlement case to handle.”
+
+“Embezzlement case looks good to me!” shouted Jimmie.
+
+“Hiding in the mountains of Peru?” repeated Sam. “Now I wonder if a man hiding in the mountains of Peru has loyal friends or well-paid agents in the city of Quito.”
+
+“There!” exclaimed Mr. Havens. “Sam has hit the nail on the head the first crack. I never even told the boys when they left New York that they were bound for Peru on a mission in which I was greatly interested. I thought that perhaps they would get along better and have a merrier time if they were not loaded down with official business.”
+
+“That wouldn’t have made any difference!” announced Carl. “We’d have gone right along having as much fun as if we were in our right minds!”
+
+“When I started away from the hangar in the Ann,” Mr. Havens continued, with a smile at the interruption, “I soon saw that some one in New York was interested in my remaining away from Peru.”
+
+“Redfern’s friends of course!” suggested Mellen.
+
+“Exactly!” replied the millionaire.
+
+“And Redfern’s friends appeared on the scene last night, too,” Jimmie decided. “And they managed to make quite a hit on their first appearance, too,” he continued. “And this man Doran is at present ready for another engagement if you please. He’s a foxy chap!”
+
+“I’m sorry he got away!” Mellen observed.
+
+“Yes, it’s too bad,” Mr. Havens agreed, “but, in any event, we couldn’t have kept him in prison here isolated from his friends.”
+
+“There’s one good thing about it,” Ben observed, “and that is that we’ve already set a trap to catch him.”
+
+“How’s that?” asked the millionaire.
+
+“Mr. Mellen has employed a detective to follow Doran’s companion on the theory that sometime, somewhere, the two will get together again.”
+
+“That’s a very good idea!” Mr. Havens declared.
+
+“Now about this man Redfern,” Mr. Mellen went on. “Is he believed to be still in the mountains of Peru?”
+
+“I have at least one very good reason for supposing so,” answered the millionaire. “Yes, I think he is still there.”
+
+“Give us the good reason!” exclaimed Carl. “I guess we want to know how to size things up as we go along!”
+
+“The very good reason is this,” replied Mr. Havens with a smile, “the minute we started in our airships for the mountains of Peru, obstacles began to gather in our way. The friends or accomplices of Redfern began to flutter the instant we headed toward Peru.”
+
+“That strikes me as being a good and sufficient reason for believing that he is still there!” Mellen commented.
+
+“Yes, I think it is!” replied the millionaire. “And it is an especially good reason,” he went on, “when you understand that all our previous plans and schemes for Redfern’s capture have never evoked the slightest resistance.”
+
+“Then the embezzler is in Peru, all right, all right!” laughed Carl.
+
+“But Peru is a very large country,” suggested Mr. Havens.
+
+“There’s a good deal of land in the country,” agreed Jimmie. “When you come to measure the soil that stands up on end, I guess you’d find Peru about as large as the United States of America!”
+
+“What are the prospects?” asked Mellen. “What I mean,” he continued, “is this: Can you put your finger on any one spot on the map of Peru and say—look there first for Redfern.”
+
+“Yes,” replied Mr. Havens, “I think I can. If you ask me to do it, I’ll just cover Lake Titicaca with my thumb and tell you to pull Redfern out of the water as soon as you get to that part of old Incaland!”
+
+“Je-rusalem!” exclaimed Jimmie. “And that takes us right down to the haunted temple!”
+
+“What kind of a lake is this Titicaca?” asked Glenn.
+
+“Don’t you ever read anything except base-ball stories and police court records?” asked Ben, turning to his friend. “Before I was seven years old I knew that Lake Titicaca is larger than Lake Erie; that it is five inches higher in the summer than in the winter, and that the longer you keep a piece of iron or steel in it the brighter it will become.”
+
+“Is it a fact that the waters of this lake do not rust metal?” asked Mellen. “That seems to me to be a peculiar circumstance.”
+
+“I have often heard it stated as a fact,” replied Mr. Havens.
+
+“Ask any one who knows, if you won’t believe me,” Ben went on with a provoking smile. “It is said that Lake Titicaca represents the oldest civilization in the world. There are temples built of stones larger than those used in the pyramids of Egypt. The stones have remained in position after a century because of the nicety with which they are fitted together. It is said to be impossible to drive the finest needle between the seams of the walls composed of granite rocks.”
+
+“But what did they want to build such temples and fortresses for?” demanded Jimmie. “Why didn’t they spend more time playing base-ball?”
+
+“You’re a nut on base-ball!” laughed Ben.
+
+“The temples which exist to-day were there when the Incas settled the country,” the boy continued. “They knew no more of their origin than we do at this time!”
+
+“They may be a million years old!” exclaimed Carl.
+
+“Perhaps that’s as good a guess as any,” replied Ben. “We don’t know how old they are, and never shall know.”
+
+“Isn’t it a little remarkable,” said Mellen, “that an act of embezzlement committed in New York City more than two years ago should lead to a visit to ruined temples in Peru?”
+
+“Now about this Lake Titicaca, about which Ben has given us a bit of history,” Mr. Havens said, after replying briefly to Mellen’s question. “We have every reason to believe that Redfern has been living in some of the ancient structures bordering the lake.”
+
+“Did you ever try to unearth the East Side person who wrote the letter you have just referred to?” asked Ben.
+
+“We have spent thousands of dollars in quest of that person,” replied the millionaire, “and all to no purpose.”
+
+“And what do we do to-morrow?” asked Jimmie, breaking into the conversation in true boy-fashion.
+
+“Why, we’re going to start for Peru!” cried Carl.
+
+“And the haunted temples!” laughed Ben. “Honest, boys,” he went on, “I don’t believe there’s anything in this haunted temple yarn. There may be temples which are being guarded from the ravages of the superstitious by interested persons who occasionally play the ghost, but so far as any supernatural manifestations are concerned the idea is ridiculous.”
+
+“Don’t you ever say anything like that in the vicinity of Lake Titicaca,” Mellen suggested. “If you do, the natives will suddenly discover that you are robbers, bent on plunder, and some night, your bodies may find a resting-place at the bottom of the lake.”
+
+“Do they really believe the temples to be haunted?” asked Glenn.
+
+“There are people in whose interest the superstition is kept up,” replied Ben. “These interested people would doubtless gladly perform the stunt just suggested by Mellen.”
+
+“I think I’ve got the combination now!” Jimmie laughed. “See if I’m right. The temples still hold stores of gold, and those searching for the treasure are keeping adventurous people away by making the ghost walk.”
+
+“That’s the idea!” Ben replied.
+
+“And, look here!” Sam broke in. “Why shouldn’t this man Redfern have a choice collection of ghosts of his own?”
+
+“That’s an idea, too,” Mr. Havens remarked.
+
+“I’ll bet he has!” Jimmie insisted.
+
+“Then we’ll examine the homes of the ghosts first,” grinned Jimmie. “We’ll walk up to the portal and say: ‘Mr. Ghost, if you’ll materialize Redfern, we’ll give you half of the reward offered for him by the trust company.’ That ought to bring him, don’t you think?”
+
+“And here’s another idea,” Sam interrupted. “If Redfern has ghosts in the temple in which he is hiding—if he really is hiding in a Peruvian temple—his ghosts will be the most active ghosts on the job. In other words, we’ll hear more about his haunted temple than any other haunted temple in all Peru. His ghosts will be in a constant state of eruption!”
+
+“And that’s another good idea,” suggested Mr. Havens.
+
+“Oh, Sam is wise all right,” Jimmie went on. “I knew that the minute he told me about unearthing the provisions in the tent before he knew whether the savages were coming back!”
+
+“Gentlemen,” began Sam, with one of his smooth smiles, “I was so hungry that I didn’t much care whether the savages came back or not. It appeared to me then that the last morsel of food that had passed my lips had exhausted itself at a period farther away than the birth of Adam!”
+
+“You must have been good and hungry!” laughed Mellen.
+
+“What did you wander off into that country for?” asked Jimmie. “You might have known better.”
+
+“I couldn’t remain in the Canal Zone,” replied Sam, “because no one would give me a job. Everybody seemed to want to talk to me for my own good. Even the chief in charge of the Gatun dam contract told me——”
+
+“Do you know the chief in charge of the Gatun dam contract?” asked Havens, casually. “You spoke of him a moment ago as if you had met him personally.”
+
+“Well, you see,” Sam went on, hesitatingly, “you see I just happened to——”
+
+The confusion of the young man was so great that no further questions were asked of him at that time, but all understood that he had inadvertently lifted a curtain which revealed previous acquaintance with men like the chief in charge of the Gatun dam. The boy certainly was a mystery, and they all decided to learn the truth about him before parting company.
+
+“Well,” Mr. Havens said, breaking a rather oppressive silence, “are we all ready for the roof of the world to-morrow?”
+
+“You bet we’re all ready!” cried Jimmie.
+
+“I’m ready right now!” exclaimed Carl.
+
+“Will you go with us, Sam?” asked Mr. Havens.
+
+“I should be glad to!” was the reply.
+
+No more was said on the subject at that time, yet all saw by the expression on the tramp’s face how grateful he was for this new chance in life which Mr. Havens had given him.
+
+“Jerusalem!” exclaimed Jimmie in a moment, jumping to his feet and rushing toward the door. “I’ve forgotten something!”
+
+“Something important?” asked Ben.
+
+“Important? I should say so!” replied Jimmie. “I forgot to eat my dinner, and I haven’t had any supper yet!”
+
+“How did you come to do it?” asked Mellen.
+
+“I didn’t wake up!” was the reply. “And now,” the boy went on, “you see I’ve got to go and eat two meals all at once.”
+
+“I’ll eat one of them for you,” suggested Sam.
+
+“And I’ll eat the other!” volunteered Ben.
+
+“Yes you will,” grinned Jimmie. “I don’t need any help when it comes to supplying the region under my belt with provisions.”
+
+The boys hustled away to the dining-room, it being then about seven o’clock, while Mr. Havens and Mellen hastened back to the manager’s office.
+
+Passing through the public lobby, the manager entered his private room and opened a sheaf of telegrams lying on the table.
+
+One of the messages was for Mr. Havens. He read it carefully, twice over, and then turned a startled face toward the manager.

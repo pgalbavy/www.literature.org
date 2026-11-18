@@ -1,0 +1,121 @@
+---
+title: "Chapter 22"
+weight: 23
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-22.html"
+---
+
+I got home in time to get a good supper, though mebbe I ortn't to say it.
+
+Sure enough, Josiah Allen had killed a hen, and dressed it ready for me to brile, but it wuz young and tender, and I knew it wouldn't take long, so I didn't care.
+
+Good land! I love to humor him, and he knows it. Casper Keeler come in jest as I wuz a-gettin' supper and I thought like as not he would stay to supper; I laid out to ask him. But I didn't take no more pains on his account. No, I do jest as well by Josiah Allen from day to day, as if he wuz company, or lay out to.
+
+Casper came over on a errent about that buzz saw mill. He wuz in dretful good spirits, though he looked kinder peaked.
+
+He had jest got home from the city.
+
+It happened dretful curius, but jest at this time Casper Keeler had had to go to New York on business. He had to sign some papers that nobody else couldn't sign.
+
+[Illustration: CASPER KEELER.]
+
+His mother had hearn of a investment there that promised to pay dretful well, so she had took a lot of stock in it, and it had riz right up powerful. Why the money had increased fourfold, and more too, and Casper bein' jest come of age, had to go and sign suthin' or other.
+
+Wall, he went round and see lots of sights in New York. His ma's money that she had left him made him fairly luxurius as to comfort, and he had plenty of money to go sight seein' as much as he wanted to.
+
+He went to all the theatres, and operas, and shows of all kinds, and museums, and the Brooklyn Bridge, and circuses, and receptions, and et cetery, et cetery.
+
+He wuz a-tellin' me how much money he spent while he wuz there, kinder boastin' on it; he had went to one of the biggest, highest taverns in the hull village of New York, where the price wuz higher than the very highest pinakle on the top of it, fur higher.
+
+And I sez, "Did you go to the Wimmen's Exchange and the Workin' Wimmen's Association, that wuz held there while you wuz there?"
+
+And he acted real scorfin'.
+
+"Wimmen's work!" sez he. "No, indeed! I had too much on my hands, and too much comfort to take in higher circles, than to take in any such little trifles as wimmen's work."
+
+Sez I, "Young man, it is a precious little you would take in in life if it hadn't been for wimmen's work. Who earned and left you the money you are a-usin'?" sez I, "who educated you and made your life easy before you?"
+
+And then bein' fairly drove into a corner, he owned up that his mother wuz a good woman.
+
+But his nose wuz kinder lifted up the hull of the time he wuz a-sayin' it, as if he hated to own it up, hated to like a dog.
+
+But he got real happified up and excited afterwards, in talkin' over with Josiah what he see to the Conference.' He stayed to supper; I wuz a seasonin' my chicken and mashed potatoes, and garnishin' 'em for the table. I wuz out to one side a little, but I listened with one side of my brain while the other wuz fixed on pepper, ketchup, parsley, etc., etc.
+
+[Illustration: "HE SEEMED TO HAVE A HORROW OF WOMAN A-RAISIN' OUT OF HER SPEAR."]
+
+Sez Casper, "It wuz the proudest, greatest hour of my life," sez he, "when I see a nigger delegate git up and give his views on wimmen keepin' down in their place. When I see a black nigger stand up there in that Conference and state so clearly, so logically and so powerfully the reasons why poor weak wimmen should not be admitted into that sacred enclosure -
+
+"When I see even a nigger a-standin' there and a-knowin' so well what wimmen's place wuz, my heart beat with about the proudest emotions I have ever experienced. Why, he said," sez Casper, "that if wimmen wuz allowed to stand up in the Conference, they wouldn't be satisfied. The next thing they would want to do would be to preach. It wuz a masterly argument," sez Casper.
+
+"It must have been," sez my Josiah.
+
+"He seemed to have such a borrow of a weak-minded, helpless woman a-raisin' herself up out of her lower spear."
+
+"Well he might," sez Josiah, "well he might."
+
+Truly, there are times when women can't, seeminly, stand no more. This wuz one on 'em, and I jest waded right into the argiment. I sez, real solemn like, a-holdin' the sprig of parsley some like a septer, only more sort o' riz up like and mysteriouser. Yes, I held that green sprig some as the dove did when it couldn't find no rest for the soles of its feet - no foundation under it and it sailed about seekin' some mount of truth it could settle down on. Oh how wobblin' and onsubstantial and curius I felt hearin' their talk.
+
+"And," sez I, "nobody is tickleder than I be to think a colored man has had the right gin him to stand up in a Conference or anywhere else. I have probable experienced more emotions in his behalf," sez I, "deep and earnest, than any other female, ancient or modern. I have bore his burdens for him, trembled under his lashes, agonized with him in his unexampled griefs and wrongs and indignities, and I have rejoiced at the very depths of my soul at his freedom.
+
+"But," sez I, "when he uses that freedom to enchain another and as deservin' a race, my feelin's are hurt and my indignations are riz up.
+
+"Yes," sez I, a-wavin' that sprig some like a warlike banner, as my emotions swelled up under my bask waste,
+
+"When that negro stands there a-advocatin' the slavery of another race, and a-sayin' that women ortn't to say her soul is her own, and wimmen are too weak and foolish to lift up their right hands, much less preach, I'd love to ask him where he and his race wuz twenty-five years ago, and where they would be to-day if it wuzn't for a woman usin' her right hand and her big heart and brain in his behalf, and preachin' for him all over the world and in almost every language under the sun. Everybody says that 'Uncle Tom's Cabin' wuz the searchin' harrow that loosened the old, hard ground of slavery so the rich seed of justice could be planted and bring forth freedom.
+
+"If it hadn't been for that woman's preachin', that negro exhauster would to-day most likely be a hoin' cotton with a overseer a-lashin' him up to his duties, and his wife and children and himself a-bein' bought and sold, and borrowed and lent and mortgaged and drove like so many animals. And I'd like to have riz right up in that Conference and told him so."
+
+"Oh, no," sez Josiah, lookin' some meachin', "no, you wouldn't."
+
+"Yes, I would," sez I. "And I'd 've enjoyed it richly" sez I, es I turned and put my sprig round the edge of the platter.
+
+[Illustration: SAMANTHA EXPRESSES HER VIEWS.]
+
+Casper wuz demute for as much as half a minute, and Josiah Allen looked machin' for about the same length of time.
+
+But, good land! how soon they got over it. They wuz as chipper as ever, a-runnin' down the idee of women settin', before they got half through dinner.
+
+After hard and arjuous work we got the scrapin' done, and the scrubbin' done, and then we proceeded to make a move towards puttin' on the paper.
+
+But the very day before we wuz to put on our first breadth, Sister Bobbet, our dependence and best paperer, fell down on a apple parin' and hurt her ankle jint, so's she couldn't stand on a barell for more'n several days.
+
+And we felt dretful cast down about it, for we all felt as if the work must stop till Sister Bobbet could be present and attend to it.
+
+But, as it turned out, it wuz perfectly providential, so fur as I wuz concerned, for on goin' home that night fearfully deprested on account of Sister Sylvester Bobbet, lo and behold! I found a letter there on my own mantletry piece that completely turned round my own plans. It come entirely onexpected to me, and contained the startlin' intelligence that my own cousin, on my mother's own side, had come home to Loontown to his sister's, and wuz very sick with nervous prostration, neuralgia, rheumatism, etc., and expected paralasys every minute, and heart failure, and such.
+
+[Illustration: "SISTER BOBBET, OUR DEPENDENCE, FELL DOWN ON A APPLE PARIN'".]
+
+And his sister, Miss Timson, who wrote the letter, beset me to come over and see him. She said, Jane Ann did (Miss Timson'ses name is Jane Ann), and sez she in Post scriptum remark to me, sez she -
+
+"Samantha, I know well your knowledge of sickness and your powers of takin' care of the sick. Do come and help me take care of Ralph, for it seems as if I can't let him go. Poor boy, he has worked so hard, and now I wuz in hopes that he wuz goin' to take some comfort in life, unbeknown to him. Do come and help him for my sake, and for Rosy's sake." Rosy wuz Ralph's only child, a pretty girl, but one ruther wild, and needin' jest now a father's strong hand.
+
+Rosy's mother died when she wuz a babe, and Ralph, who had always been dretful religius, felt it to be his duty to go and preach to the savages. So Miss Timson took the baby and Ralph left all his property with Miss Timson to use for her, and then he girded up his lions, took his Bible and him book and went out West and tackled the savages.
+
+Tackled 'em in a perfectly religius way, and done sights of good, sights and sights. For all he wuz so mild and gentle and religius, he got the upper hand of them savages in some way, and he brung 'em into the church by droves, and they jest worshipped him.
+
+Wall, he worked so hard a-tryin' to do good and save souls that wuz lost - a-tryin' single-handed to overthrow barberus beliefs and habits, and set up the pure and peaceful doctrines of the Master.
+
+[Illustration: RALPH SMITH ROBINSON.]
+
+He loved and followed, that his health gin out after a time - he felt weak and mauger.
+
+And jest about this time his sister wrote to him that Rosy havin' got in with gay companions, wuz a gettin' beyond her influence, and she needed a father's control and firm hand to guide her right, or else she would be liable to go to the wrong, and draw lots of others with her, for she wuz a born leader amongst her mates, jest as her father wuz - so wouldn't Ralph come home.
+
+Wall, Ralph come. His sister and girl jest worshipped him, and looked and longed for his comin', as only tender-hearted wimmen can love and worship a hero. For if there wuz ever a hero it wuz Ralph Smith Robinson.
+
+Wall, Ralph had been in the unbroken silences of nature so long, that the clack, and crash, and clamor of what we call civilized life almost crazed him.
+
+He had been where his Maker almost seemed to come down and walk with him through the sweet, unbroken stillnesses of mornin' and evenin'. The world seemed so fur off to him, and the Eternal Verities of life so near, that truly, it sometimes seemed to him as if, like one of old, "he walked with God." Of course the savages war-whooped some, but they wuz still a good deal of the time, which is more than you can say for Yankees.
+
+And Loontown when he got home was rent to its very twain with a Presidential election.
+
+Ralph suffered.
+
+But above all his other sufferin's, he suffered from church bells.
+
+Miss Timson lived, as it wuz her wish, and often her boast, right under the droppin's of the sanctuary.
+
+She lotted on it when she bought the place. The Baptist steeple towered up right by the side of her house. Her spare bed wuz immegietly under the steeple.
+
+Wall, comin' as he did from a place where he wuz called to worship by the voice of his soul and his good silver watch - this volume of clamor, this rushin' Niagara of sound a-pourin' down into his ears, wuz perfectly intolerable and onbeerable. He would lay awake till mornin' dreadin' the sound, and then colapse under it, till it run along and he come down with nervous fever.
+
+He wuz worn out no doubt by his labors before he come, and any way he wuz took bed-sick, and couldn't be moved so's the doctor said, and he bein' outside of his own head, delerius, couldn't of course advance no idees of his own, so he lay and suffered.

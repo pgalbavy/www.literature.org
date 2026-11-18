@@ -1,0 +1,185 @@
+---
+title: "Chapter 3 - The White Man's Way"
+weight: 3
+url: "/authors/london-jack/love-of-life/chapter-03.html"
+---
+
+"TO cook by your fire and to sleep under your roof for the night," I had announced on entering old Ebbits's cabin; and he had looked at me blear-eyed and vacuous, while Zilla had favored me with a sour face and a contemptuous grunt. Zilla was his wife, and no more bitter-tongued, implacable old squaw dwelt on the Yukon. Nor would I have stopped there had my dogs been less tired or had the rest of the village been inhabited. But this cabin alone had I found occupied, and in this cabin, perforce, I took my shelter.
+
+Old Ebbits now and again pulled his tangled wits together, and hints and sparkles of intelligence came and went in his eyes. Several times during the preparation of my supper he even essayed hospitable inquiries about my health, the condition and number of my dogs, and the distance I had travelled that day. And each time Zilla had looked sourer than ever and grunted more contemptuously.
+
+Yet I confess that there was no particular call for cheerfulness on their part. There they crouched by the fire, the pair of them, at the end of their days, old and withered and helpless, racked by rheumatism, bitten by hunger, and tantalized by the frying-odors of my abundance of meat. They rocked back and forth in a slow and hopeless way, and regularly, once every five minutes, Ebbits emitted a low groan. It was not so much a groan of pain, as of pain-weariness. He was oppressed by the weight and the torment of this thing called life, and still more was he oppressed by the fear of death. His was that eternal tragedy of the aged, with whom the joy of life has departed and the instinct for death has not come.
+
+When my moose-meat spluttered rowdily in the frying-pan, I noticed old Ebbits's nostrils twitch and distend as he caught the food- scent. He ceased rocking for a space and forgot to groan, while a look of intelligence seemed to come into his face.
+
+Zilla, on the other hand, rocked more rapidly, and for the first time, in sharp little yelps, voiced her pain. It came to me that their behavior was like that of hungry dogs, and in the fitness of things I should not have been astonished had Zilla suddenly developed a tail and thumped it on the floor in right doggish fashion. Ebbits drooled a little and stopped his rocking very frequently to lean forward and thrust his tremulous nose nearer to the source of gustatory excitement.
+
+When I passed them each a plate of the fried meat, they ate greedily, making loud mouth-noises - champings of worn teeth and sucking intakes of the breath, accompanied by a continuous spluttering and mumbling. After that, when I gave them each a mug of scalding tea, the noises ceased. Easement and content came into their faces. Zilla relaxed her sour mouth long enough to sigh her satisfaction. Neither rocked any more, and they seemed to have fallen into placid meditation. Then a dampness came into Ebbits's eyes, and I knew that the sorrow of self-pity was his. The search required to find their pipes told plainly that they had been without tobacco a long time, and the old man's eagerness for the narcotic rendered him helpless, so that I was compelled to light his pipe for him.
+
+"Why are you all alone in the village?" I asked. "Is everybody dead? Has there been a great sickness? Are you alone left of the living?"
+
+Old Ebbits shook his head, saying: "Nay, there has been no great sickness. The village has gone away to hunt meat. We be too old, our legs are not strong, nor can our backs carry the burdens of camp and trail. Wherefore we remain here and wonder when the young men will return with meat."
+
+"What if the young men do return with meat?" Zilla demanded harshly.
+
+"They may return with much meat," he quavered hopefully.
+
+"Even so, with much meat," she continued, more harshly than before. "But of what worth to you and me? A few bones to gnaw in our toothless old age. But the back-fat, the kidneys, and the tongues - these shall go into other mouths than thine and mine, old man."
+
+Ebbits nodded his head and wept silently.
+
+"There be no one to hunt meat for us," she cried, turning fiercely upon me.
+
+There was accusation in her manner, and I shrugged my shoulders in token that I was not guilty of the unknown crime imputed to me.
+
+"Know, O White Man, that it is because of thy kind, because of all white men, that my man and I have no meat in our old age and sit without tobacco in the cold."
+
+"Nay," Ebbits said gravely, with a stricter sense of justice. "Wrong has been done us, it be true; but the white men did not mean the wrong."
+
+"Where be Moklan?" she demanded. "Where be thy strong son, Moklan, and the fish he was ever willing to bring that you might eat?"
+
+The old man shook his head.
+
+"And where be Bidarshik, thy strong son? Ever was he a mighty hunter, and ever did he bring thee the good back-fat and the sweet dried tongues of the moose and the caribou. I see no back-fat and no sweet dried tongues. Your stomach is full with emptiness through the days, and it is for a man of a very miserable and lying people to give you to eat."
+
+"Nay," old Ebbits interposed in kindliness, "the white man's is not a lying people. The white man speaks true. Always does the white man speak true." He paused, casting about him for words wherewith to temper the severity of what he was about to say. "But the white man speaks true in different ways. To-day he speaks true one way, to-morrow he speaks true another way, and there is no understanding him nor his way."
+
+"To-day speak true one way, to-morrow speak true another way, which is to lie," was Zilla's dictum.
+
+"There is no understanding the white man," Ebbits went on doggedly.
+
+The meat, and the tea, and the tobacco seemed to have brought him back to life, and he gripped tighter hold of the idea behind his age-bleared eyes. He straightened up somewhat. His voice lost its querulous and whimpering note, and became strong and positive. He turned upon me with dignity, and addressed me as equal addresses equal.
+
+"The white man's eyes are not shut," he began. "The white man sees all things, and thinks greatly, and is very wise. But the white man of one day is not the white man of next day, and there is no understanding him. He does not do things always in the same way. And what way his next way is to be, one cannot know. Always does the Indian do the one thing in the one way. Always does the moose come down from the high mountains when the winter is here. Always does the salmon come in the spring when the ice has gone out of the river. Always does everything do all things in the same way, and the Indian knows and understands. But the white man does not do all things in the same way, and the Indian does not know nor understand.
+
+"Tobacco be very good. It be food to the hungry man. It makes the strong man stronger, and the angry man to forget that he is angry. Also is tobacco of value. It is of very great value. The Indian gives one large salmon for one leaf of tobacco, and he chews the tobacco for a long time. It is the juice of the tobacco that is good. When it runs down his throat it makes him feel good inside. But the white man! When his mouth is full with the juice, what does he do? That juice, that juice of great value, he spits it out in the snow and it is lost. Does the white man like tobacco? I do not know. But if he likes tobacco, why does he spit out its value and lose it in the snow? It is a great foolishness and without understanding."
+
+He ceased, puffed at the pipe, found that it was out, and passed it over to Zilla, who took the sneer at the white man off her lips in order to pucker them about the pipe-stem. Ebbits seemed sinking back into his senility with the tale untold, and I demanded:
+
+"What of thy sons, Moklan and Bidarshik? And why is it that you and your old woman are without meat at the end of your years?"
+
+He roused himself as from sleep, and straightened up with an effort.
+
+"It is not good to steal," he said. "When the dog takes your meat you beat the dog with a club. Such is the law. It is the law the man gave to the dog, and the dog must live to the law, else will it suffer the pain of the club. When man takes your meat, or your canoe, or your wife, you kill that man. That is the law, and it is a good law. It is not good to steal, wherefore it is the law that the man who steals must die. Whoso breaks the law must suffer hurt. It is a great hurt to die."
+
+"But if you kill the man, why do you not kill the dog?" I asked.
+
+Old Ebbits looked at me in childlike wonder, while Zilla sneered openly at the absurdity of my question.
+
+"It is the way of the white man," Ebbits mumbled with an air of resignation.
+
+"It is the foolishness of the white man," snapped Zilla.
+
+"Then let old Ebbits teach the white man wisdom," I said softly.
+
+"The dog is not killed, because it must pull the sled of the man. No man pulls another man's sled, wherefore the man is killed."
+
+"Oh," I murmured.
+
+"That is the law," old Ebbits went on. "Now listen, O White Man, and I will tell you of a great foolishness. There is an Indian. His name is Mobits. From white man he steals two pounds of flour. What does the white man do? Does he beat Mobits? No. Does he kill Mobits? No. What does he do to Mobits? I will tell you, O White Man. He has a house. He puts Mobits in that house. The roof is good. The walls are thick. He makes a fire that Mobits may be warm. He gives Mobits plenty grub to eat. It is good grub. Never in his all days does Mobits eat so good grub. There is bacon, and bread, and beans without end. Mobits have very good time.
+
+"There is a big lock on door so that Mobits does not run away. This also is a great foolishness. Mobits will not run away. All the time is there plenty grub in that place, and warm blankets, and a big fire. Very foolish to run away. Mobits is not foolish. Three months Mobits stop in that place. He steal two pounds of flour. For that, white man take plenty good care of him. Mobits eat many pounds of flour, many pounds of sugar, of bacon, of beans without end. Also, Mobits drink much tea. After three months white man open door and tell Mobits he must go. Mobits does not want to go. He is like dog that is fed long time in one place. He want to stay in that place, and the white man must drive Mobits away. So Mobits come back to this village, and he is very fat. That is the white man's way, and there is no understanding it. It is a foolishness, a great foolishness."
+
+"But thy sons?" I insisted. "Thy very strong sons and thine old- age hunger?"
+
+"There was Moklan," Ebbits began.
+
+"A strong man," interrupted the mother. "He could dip paddle all of a day and night and never stop for the need of rest. He was wise in the way of the salmon and in the way of the water. He was very wise."
+
+"There was Moklan," Ebbits repeated, ignoring the interruption. "In the spring, he went down the Yukon with the young men to trade at Cambell Fort. There is a post there, filled with the goods of the white man, and a trader whose name is Jones. Likewise is there a white man's medicine man, what you call missionary. Also is there bad water at Cambell Fort, where the Yukon goes slim like a maiden, and the water is fast, and the currents rush this way and that and come together, and there are whirls and sucks, and always are the currents changing and the face of the water changing, so at any two times it is never the same. Moklan is my son, wherefore he is brave man - "
+
+"Was not my father brave man?" Zilla demanded.
+
+"Thy father was brave man," Ebbits acknowledged, with the air of one who will keep peace in the house at any cost. "Moklan is thy son and mine, wherefore he is brave. Mayhap, because of thy very brave father, Moklan is too brave. It is like when too much water is put in the pot it spills over. So too much bravery is put into Moklan, and the bravery spills over.
+
+"The young men are much afraid of the bad water at Cambell Fort. But Moklan is not afraid. He laughs strong, Ho! ho! and he goes forth into the bad water. But where the currents come together the canoe is turned over. A whirl takes Moklan by the legs, and he goes around and around, and down and down, and is seen no more."
+
+"Ai! ai!" wailed Zilla. "Crafty and wise was he, and my first- born!"
+
+"I am the father of Moklan," Ebbits said, having patiently given the woman space for her noise. "I get into canoe and journey down to Cambell Fort to collect the debt!"
+
+"Debt!" interrupted. "What debt?"
+
+"The debt of Jones, who is chief trader," came the answer. "Such is the law of travel in a strange country."
+
+I shook my head in token of my ignorance, and Ebbits looked compassion at me, while Zilla snorted her customary contempt.
+
+"Look you, O White Man," he said. "In thy camp is a dog that bites. When the dog bites a man, you give that man a present because you are sorry and because it is thy dog. You make payment. Is it not so? Also, if you have in thy country bad hunting, or bad water, you must make payment. It is just. It is the law. Did not my father's brother go over into the Tanana Country and get killed by a bear? And did not the Tanana tribe pay my father many blankets and fine furs? It was just. It was bad hunting, and the Tanana people made payment for the bad hunting.
+
+"So I, Ebbits, journeyed down to Cambell Fort to collect the debt. Jones, who is chief trader, looked at me, and he laughed. He made great laughter, and would not give payment. I went to the medicine-man, what you call missionary, and had large talk about the bad water and the payment that should be mine. And the missionary made talk about other things. He talk about where Moklan has gone, now he is dead. There be large fires in that place, and if missionary make true talk, I know that Moklan will be cold no more. Also the missionary talk about where I shall go when I am dead. And he say bad things. He say that I am blind. Which is a lie. He say that I am in great darkness. Which is a lie. And I say that the day come and the night come for everybody just the same, and that in my village it is no more dark than at Cambell Fort. Also, I say that darkness and light and where we go when we die be different things from the matter of payment of just debt for bad water. Then the missionary make large anger, and call me bad names of darkness, and tell me to go away. And so I come back from Cambell Fort, and no payment has been made, and Moklan is dead, and in my old age I am without fish and meat."
+
+"Because of the white man," said Zilla.
+
+"Because of the white man," Ebbits concurred. "And other things because of the white man. There was Bidarshik. One way did the white man deal with him; and yet another way for the same thing did the white man deal with Yamikan. And first must I tell you of Yamikan, who was a young man of this village and who chanced to kill a white man. It is not good to kill a man of another people. Always is there great trouble. It was not the fault of Yamikan that he killed the white man. Yamikan spoke always soft words and ran away from wrath as a dog from a stick. But this white man drank much whiskey, and in the night-time came to Yamikan's house and made much fight. Yamikan cannot run away, and the white man tries to kill him. Yamikan does not like to die, so he kills the white man.
+
+"Then is all the village in great trouble. We are much afraid that we must make large payment to the white man's people, and we hide our blankets, and our furs, and all our wealth, so that it will seem that we are poor people and can make only small payment. After long time white men come. They are soldier white men, and they take Yamikan away with them. His mother make great noise and throw ashes in her hair, for she knows Yamikan is dead. And all the village knows that Yamikan is dead, and is glad that no payment is asked.
+
+"That is in the spring when the ice has gone out of the river. One year go by, two years go by. It is spring-time again, and the ice has gone out of the river. And then Yamikan, who is dead, comes back to us, and he is not dead, but very fat, and we know that he has slept warm and had plenty grub to eat. He has much fine clothes and is all the same white man, and he has gathered large wisdom so that he is very quick head man in the village.
+
+"And he has strange things to tell of the way of the white man, for he has seen much of the white man and done a great travel into the white man's country. First place, soldier white men take him down the river long way. All the way do they take him down the river to the end, where it runs into a lake which is larger than all the land and large as the sky. I do not know the Yukon is so big river, but Yamikan has seen with his own eyes. I do not think there is a lake larger than all the land and large as the sky, but Yamikan has seen. Also, he has told me that the waters of this lake be salt, which is a strange thing and beyond understanding.
+
+"But the White Man knows all these marvels for himself, so I shall not weary him with the telling of them. Only will I tell him what happened to Yamikan. The white man give Yamikan much fine grub. All the time does Yamikan eat, and all the time is there plenty more grub. The white man lives under the sun, so said Yamikan, where there be much warmth, and animals have only hair and no fur, and the green things grow large and strong and become flour, and beans, and potatoes. And under the sun there is never famine. Always is there plenty grub. I do not know. Yamikan has said.
+
+"And here is a strange thing that befell Yamikan. Never did the white man hurt him. Only did they give him warm bed at night and plenty fine grub. They take him across the salt lake which is big as the sky. He is on white man's fire-boat, what you call steamboat, only he is on boat maybe twenty times bigger than steamboat on Yukon. Also, it is made of iron, this boat, and yet does it not sink. This I do not understand, but Yamikan has said, 'I have journeyed far on the iron boat; behold! I am still alive.' It is a white man's soldier-boat with many soldier men upon it.
+
+"After many sleeps of travel, a long, long time, Yamikan comes to a land where there is no snow. I cannot believe this. It is not in the nature of things that when winter comes there shall be no snow. But Yamikan has seen. Also have I asked the white men, and they have said yes, there is no snow in that country. But I cannot believe, and now I ask you if snow never come in that country. Also, I would hear the name of that country. I have heard the name before, but I would hear it again, if it be the same - thus will I know if I have heard lies or true talk."
+
+Old Ebbits regarded me with a wistful face. He would have the truth at any cost, though it was his desire to retain his faith in the marvel he had never seen.
+
+"Yes," I answered, "it is true talk that you have heard. There is no snow in that country, and its name is California."
+
+"Cal-ee-forn-ee-yeh," he mumbled twice and thrice, listening intently to the sound of the syllables as they fell from his lips. He nodded his head in confirmation. "Yes, it is the same country of which Yamikan made talk."
+
+I recognized the adventure of Yamikan as one likely to occur in the early days when Alaska first passed into the possession of the United States. Such a murder case, occurring before the instalment of territorial law and officials, might well have been taken down to the United States for trial before a Federal court.
+
+"When Yamikan is in this country where there is no snow," old Ebbits continued, "he is taken to large house where many men make much talk. Long time men talk. Also many questions do they ask Yamikan. By and by they tell Yamikan he have no more trouble. Yamikan does not understand, for never has he had any trouble. All the time have they given him warm place to sleep and plenty grub.
+
+"But after that they give him much better grub, and they give him money, and they take him many places in white man's country, and he see many strange things which are beyond the understanding of Ebbits, who is an old man and has not journeyed far. After two years, Yamikan comes back to this village, and he is head man, and very wise until he dies.
+
+"But before he dies, many times does he sit by my fire and make talk of the strange things he has seen. And Bidarshik, who is my son, sits by the fire and listens; and his eyes are very wide and large because of the things he hears. One night, after Yamikan has gone home, Bidarshik stands up, so, very tall, and he strikes his chest with his fist, and says, 'When I am a man, I shall journey in far places, even to the land where there is no snow, and see things for myself.'"
+
+"Always did Bidarshik journey in far places," Zilla interrupted proudly.
+
+"It be true," Ebbits assented gravely. "And always did he return to sit by the fire and hunger for yet other and unknown far places."
+
+"And always did he remember the salt lake as big as the sky and the country under the sun where there is no snow," quoth Zilla.
+
+"And always did he say, 'When I have the full strength of a man, I will go and see for myself if the talk of Yamikan be true talk,'" said Ebbits.
+
+"But there was no way to go to the white man's country," said Zilla.
+
+"Did he not go down to the salt lake that is big as the sky?" Ebbits demanded.
+
+"And there was no way for him across the salt lake," said Zilla.
+
+"Save in the white man's fire-boat which is of iron and is bigger than twenty steamboats on the Yukon," said Ebbits. He scowled at Zilla, whose withered lips were again writhing into speech, and compelled her to silence. "But the white man would not let him cross the salt lake in the fire-boat, and he returned to sit by the fire and hunger for the country under the sun where there is no snow.'"
+
+"Yet on the salt lake had he seen the fire-boat of iron that did not sink," cried out Zilla the irrepressible.
+
+"Ay," said Ebbits, "and he saw that Yamikan had made true talk of the things he had seen. But there was no way for Bidarshik to journey to the white man's land under the sun, and he grew sick and weary like an old man and moved not away from the fire. No longer did he go forth to kill meat - "
+
+"And no longer did he eat the meat placed before him," Zilla broke in. "He would shake his head and say, 'Only do I care to eat the grub of the white man and grow fat after the manner of Yamikan.'"
+
+"And he did not eat the meat," Ebbits went on. "And the sickness of Bidarshik grew into a great sickness until I thought he would die. It was not a sickness of the body, but of the head. It was a sickness of desire. I, Ebbits, who am his father, make a great think. I have no more sons and I do not want Bidarshik to die. It is a head-sickness, and there is but one way to make it well. Bidarshik must journey across the lake as large as the sky to the land where there is no snow, else will he die. I make a very great think, and then I see the way for Bidarshik to go.
+
+"So, one night when he sits by the fire, very sick, his head hanging down, I say, 'My son, I have learned the way for you to go to the white man's land.' He looks at me, and his face is glad. 'Go,' I say, 'even as Yamikan went.' But Bidarshik is sick and does not understand. 'Go forth,' I say, 'and find a white man, and, even as Yamikan, do you kill that white man. Then will the soldier white men come and get you, and even as they took Yamikan will they take you across the salt lake to the white man's land. And then, even as Yamikan, will you return very fat, your eyes full of the things you have seen, your head filled with wisdom.'
+
+"And Bidarshik stands up very quick, and his hand is reaching out for his gun. 'Where do you go?' I ask. 'To kill the white man,' he says. And I see that my words have been good in the ears of Bidarshik and that he will grow well again. Also do I know that my words have been wise.
+
+"There is a white man come to this village. He does not seek after gold in the ground, nor after furs in the forest. All the time does he seek after bugs and flies. He does not eat the bugs and flies, then why does he seek after them? I do not know. Only do I know that he is a funny white man. Also does he seek after the eggs of birds. He does not eat the eggs. All that is inside he takes out, and only does he keep the shell. Eggshell is not good to eat. Nor does he eat the eggshells, but puts them away in soft boxes where they will not break. He catch many small birds. But he does not eat the birds. He takes only the skins and puts them away in boxes. Also does he like bones. Bones are not good to eat. And this strange white man likes best the bones of long time ago which he digs out of the ground.
+
+"But he is not a fierce white man, and I know he will die very easy; so I say to Bidarshik, 'My son, there is the white man for you to kill.' And Bidarshik says that my words be wise. So he goes to a place he knows where are many bones in the ground. He digs up very many of these bones and brings them to the strange white man's camp. The white man is made very glad. His face shines like the sun, and he smiles with much gladness as he looks at the bones. He bends his head over, so, to look well at the bones, and then Bidarshik strikes him hard on the head, with axe, once, so, and the strange white man kicks and is dead.
+
+"'Now,' I say to Bidarshik, 'will the white soldier men come and take you away to the land under the sun, where you will eat much and grow fat.' Bidarshik is happy. Already has his sickness gone from him, and he sits by the fire and waits for the coming of the white soldier men.
+
+"How was I to know the way of the white man is never twice the same?" the old man demanded, whirling upon me fiercely. "How was I to know that what the white man does yesterday he will not do to- day, and that what he does to-day he will not do to-morrow?" Ebbits shook his head sadly. "There is no understanding the white man. Yesterday he takes Yamikan to the land under the sun and makes him fat with much grub. To-day he takes Bidarshik and - what does he do with Bidarshik? Let me tell you what he does with Bidarshik.
+
+"I, Ebbits, his father, will tell you. He takes Bidarshik to Cambell Fort, and he ties a rope around his neck, so, and, when his feet are no more on the ground, he dies."
+
+"Ai! ai!" wailed Zilla. "And never does he cross the lake large as the sky, nor see the land under the sun where there is no snow."
+
+"Wherefore," old Ebbits said with grave dignity, "there be no one to hunt meat for me in my old age, and I sit hungry by my fire and tell my story to the White Man who has given me grub, and strong tea, and tobacco for my pipe."
+
+"Because of the lying and very miserable white people," Zilla proclaimed shrilly.
+
+"Nay," answered the old man with gentle positiveness. "Because of the way of the white man, which is without understanding and never twice the same."

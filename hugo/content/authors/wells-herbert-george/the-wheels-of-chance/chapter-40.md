@@ -1,0 +1,33 @@
+---
+title: "Chapter 40"
+weight: 40
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-40.html"
+---
+
+At first Jessie Milton and Mr. Hoopdriver walked away from the hotel in silence. He heard a catching in her breath and glanced at her and saw her ips pressed tight and a tear on her cheek. Her face was hot and bright. She was looking straight before her. He could think of nothing to say, and thrust his hands in his pockets and looked away from her intentionally. After a while she began to talk. They dealt disjointedly with scenery first, and then with the means of self-education. She took his address at Antrobus's and promised to send him some books. But even with that it was spiritless, aching talk, Hoopdriver felt, for the fighting mood was over. She seemed, to him, preoccupied with the memories of her late battle, and that appearance hurt him.
+
+"It's the end," he whispered to himself. "It's the end."
+
+They went into a hollow and up a gentle wooded slope, and came at last to a high and open space overlooking a wide expanse of country. There, by a common impulse, they stopped. She looked at her watch--a little ostentatiously. They stared at the billows of forest rolling away beneath them, crest beyond crest, of leafy trees, fading at last into blue.
+
+"The end" ran through his mind, to the exclusion of all speakable thoughts.
+
+"And so," she said, presently, breaking the silence, "it comes to good-bye."
+
+For half a minute he did not answer. Then he gathered his resolution. "There is one thing I MUST say."
+
+"Well?" she said, surprised and abruptly forgetting the recent argument. "I ask no return. But--"
+
+Then he stopped. "I won't say it. It's no good. It would be rot from me--now. I wasn't going to say anything. Good-bye."
+
+She looked at him with a startled expression in her eyes. "No," she said. "But don't forget you are going to work. Remember, brother Chris, you are my friend. You will work. You are not a very strong man, you know, now--you will forgive me--nor do you know all you should. But what will you be in six years' time?"
+
+He stared hard in front of him still, and the lines about his weak mouth seemed to strengthen. He knew she understood what he could not say.
+
+"I'll work," he said, concisely. They stood side by side for a moment. Then he said, with a motion of his head, "I won't come back to THEM. Do you mind? Going back alone?"
+
+She took ten seconds to think. "No." she said, and held out her hand, biting her nether lip. "GOOD-BYE," she whispered.
+
+He turned, with a white face, looked into her eyes, took her hand limply, and then with a sudden impulse, lifted it to his lips. She would have snatched it away, but his grip tightened to her movement. She felt the touch of his lips, and then he had dropped her fingers and turned from her and was striding down the slope. A dozen paces away his foot turned in the lip of a rabbit hole, and he stumbled forward and almost fell. He recovered his balance and went on, not looking back. He never once looked back. She stared at his receding figure until it was small and far below her, and then, the tears running over her eyelids now, turned slowly, and walked with her hands gripped hard together behind her, towards Stoney Cross again.
+
+"I did not know," she whispered to herself. "I did not understand. Even now--No, I do not understand."

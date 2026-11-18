@@ -1,0 +1,7 @@
+---
+title: "The Rivers And The Sea"
+weight: 114
+url: "/authors/aesop/fables/chapter-112.html"
+---
+
+THE RIVERS joined together to complain to the Sea, saying, "Why is it that when we flow into your tides so potable and sweet, you work in us such a change, and make us salty and unfit to drink?" The Sea, perceiving that they intended to throw the blame on him, said, "Pray cease to flow into me, and then you will not be made briny."

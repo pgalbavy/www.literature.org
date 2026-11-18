@@ -1,0 +1,39 @@
+---
+title: "Chapter 7 - Two In A Tree"
+weight: 7
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-07.html"
+---
+
+WHEN Miss Kitty Cat dashed out of the woodshed Frisky Squirrel was two jumps ahead of her. That was really a better lead than it sounds. Frisky was always a good jumper. And the more scared he was, the further he could leap. Anybody that knew him well would have known then--just to see him--that something had given him a great fright.
+
+First he had noticed a strange smell. Next he had seen a strange nose come stealing out of the woodshed door. And not knowing who was going to follow that nose, Frisky Squirrel felt that the sooner he climbed a tree the better it would be for him. So he made for a tall elm that wasn't too far away.
+
+Though Miss Kitty Cat was a fast runner, Frisky reached the foot of the tree ahead of her. And he was half way to the lowest branches before he took a real look at his pursuer.
+
+To his dismay he saw that the creature hadn't stopped at the foot of the tree. The monster had already begun climbing after him. Frisky had never seen any one just like this fierce person. One look was enough for him. He pushed higher and higher into the tree-top and crept far out on a drooping limb, which swayed beneath his weight as he clung to it.
+
+There he paused, while he watched to see what the stranger would do. And as he stared at the creature he remembered suddenly what Mr. Crow had told him. "There's a cat at the farmhouse," the old gentleman had said.
+
+"This must be the cat," Frisky thought. And to her he called, "If you're the cat, don't come any nearer, madam! You might get hurt." For he remembered, too, that he had told Mr. Crow that he wouldn't harm the cat.
+
+"It is the cat," he said to himself presently, "for she has stopped."
+
+Miss Kitty Cat did not quite dare follow Frisky Squirrel to the tip where he swung. She crouched upon the branch a little way from him, where it was safer for her, and with switching tail and bristling whiskers waited to see what he would do next.
+
+"It makes me uneasy to see you swaying so," she told Frisky. "Besides, you're shaking this limb. And I don't like it."
+
+"She's a fussy creature--this cat!" Frisky said to himself. "I promised Mr. Crow I wouldn't hurt her; but I didn't promise him that I wouldn't tease her." So he bobbed up and down with all his might.
+
+"Stop!" cried Miss Kitty Cat. "That's a very reckless thing to do. It's like rocking the boat."
+
+"I think it's the finest sport in the world," Frisky chuckled.
+
+"I know a finer," Miss Kitty snarled.
+
+"What that?" he asked her.
+
+"If I could get my claws on you I'd soon show you," she told him grimly.
+
+Somehow there was something about her remark that startled Frisky Squirrel--something that made him shiver. And when he shivered he lost his hold. Down he dropped, slipping and floundering from one branch to another.
+
+And down Miss Kitty Cat followed him.

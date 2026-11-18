@@ -1,0 +1,44 @@
+---
+title: "Chapter 22 - In Which The Catastrophe Which Appears On The Point Of Being Explained, Grows Yet More Inexplicable"
+weight: 23
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-22.html"
+---
+
+So far I have only given the simplest plan of the line that I might get the basis of the affair as clear as possible. That plan is not quite complete, for though there was only this one line joining the stations A and B there was a short side-line, H I, which led to a sand-pit which had supplied a glass-factory. But since the glass-factory had failed, they no longer worked the sand-pit; and the side-line was practically abandoned. Here is the complete plan:
+
+Station A       D    C     Station B.  
+         x⸺x⸺x⸺x  
+            /  
+          H/  
+          /  
+        K/  
+        /  
+      I/
+
+It will naturally be supposed that this side-line leading to the sand-pit is going to provide the explanation, the quite simple explanation of the disappearance of the express. But if the matter had been as simple as the side-line would appear to make it, I should hardly have omitted it from the first map. I could have said at once: "It is quite clear that, owing to a train of circumstances which it remains to determine, the express, instead of continuing to follow the line B A, must have turned off up the side-line H I, and buried itself in the vast mass of loose sand at the sand-pit I. Rushing along at a speed of over sixty miles an hour, it evidently plunged into the mass of sand, which covered it up; and that is the stupid but actual reason of its disappearance."
+
+But, to say nothing of the fact that this does not explain the presence, at the point D, of the guard's-van and railway-carriage, out of the window of which Signor Petito had stuck his head, this explanation could not have failed to occur to the alert intelligence of the engineers of the company. Moreover, there were points and a switch at the point H; this switch, in accordance with the rules, was padlocked; and the key had been taken away.
+
+I indeed attached no importance to the fact that *the padlock was locked*; for, it seemed to me quite probable that the key had been left in the padlock, *which had actually been the case*, and that Theophrastus, who had good reasons for stopping the train in order to join Signor Petito, had profited by the presence of that key, to shift the points. It was only a matter of thrusting over the lever of the switch; and that would explain why the train was not seen by the signal-man at A, since, instead of continuing along the line B A, it had turned off up H I towards the sand-pit. I told myself all this; and if it had explained anything, I should have stated it at once, and instead of giving two maps I should have given merely the latter with the side-line H I on it.
+
+That I have not done so is owing to the fact that the side-line H I explains nothing. I also believed at first that it was going to make the disappearance of the express clear to us, but as a matter of fact *it complicates the catastrophe instead of explaining it*; for here is the story, the true story; and that too continues to explain nothing at all.
+
+Wandering along the road which runs beside the railway, Theophrastus had noticed the little side-line, and seen that the key had been left in the padlock of the switch. This fact, which had been of no importance to him before his brief but stormy interview with Signora Petito, assumed an enormous importance when he resolved to join, at any cost, Signor Petito, who was in the train *which was about to pass under his nose*. M. Longuet said to himself: "I cannot board the express, rushing between the two stations A and B, in the usual way. But there is a little side-line H I, the key is in the padlock of the switch; I have only to turn the lever, and the express will dash up H I. Since it is broad daylight the engine-driver will see what has happened, he will stop the train, and I shall take advantage of its stopping to board it."
+
+Nothing could be more simple; and Theophrastus did it. He dragged over the lever of the switch, walked up the side-line, and waited for the express.
+
+Theophrastus, hidden behind a tree that none of the officials on the express might see him, awaited its coming at the point K, that is to say, rather more than half-way up the side-line, that is to say, *on this side of the sand-pit I*. He waited for the express coming from H, *with his eyes on the track*. If, as everyone must have been supposing ever since I mentioned the sand-pit, the train coming from H had buried itself in the sand at I, Theophrastus, who was at K, between H and I, must have seen it. But Theophrastus waited for the train and waited for the train and waited for the train. He waited for it as the signal-man at station A had waited for it; and he no more saw the express than did the signal-man at A and the rest of the officials of the line.
+
+*The express had disappeared for M. Longuet as it had disappeared for the rest of the world.*
+
+So much so that, tired of waiting, M. Longuet walked down as far as H to see what was happening. There he saw the staff of A, which was hurrying towards B in its search for the express. He asked himself sadly what could have become of the express; and finding no answer to the question, he walked up H I, and when he arrived at K, which he had just left, he found the empty guard's-van and the railway-carriage which a few minutes later the two staffs were to find at D!
+
+Once more he swore by the throttle of Mme. Phalaris, and buried his brow in his hands, asking himself how that guard's-van and that carriage came to be there, since the express itself had not come. *It had not come, since he, Theophrastus, had not quitted the track.*
+
+Suddenly he saw the head of a man waggling out of the window of the railway-carriage; and since this head had no ears, he recognised Signor Petito.
+
+He sprang up into the railway-carriage, *and without troubling to let down the window and release the head* of the unfortunate expert in handwriting, he stripped him of his clothes, and proceeded to put them on. Theophrastus, who knew himself to be tracked by the police and in whom the astuteness of Cartouche sprang to life again, was disguising himself. When he was dressed, he made a bundle of his own clothes, and descended from the carriage. He felt in Signor Petito's pockets, took out his pocket-book, sat down on the embankment, and plunged into the study of the papers it contained, hunting for the traces of his treasures. But Signor Petito had carried to the tomb the secret of the treasures of the Chopinettes; never again were the Gall, the Cock, the Chopinettes, or the treasures to be discussed: with the result that Signora Petito, who learnt a few minutes later of the extraordinary death of her husband, presently went mad, and was confined in a lunatic asylum for six months.
+
+But we are only concerned with the misfortune of Theophrastus, which so surpasses all other human misfortunes, and which is so hard to believe that we need all the assistance that Science can give us to credit it wholly. I cannot believe that the minds of my readers are so base, or their imaginations so poor, that the matter of the treasures could be of any genuine interest to them, when they are confronted by this phenomenon, of such surpassing interest, the soul of Theophrastus.
+
+Presently that unfortunate man, on failing to find anything of interest to him in the papers of Signor Petito, heaved a deep sigh. He raised his head; and lo! *the guard's-van and the railway-carriage of Signor Petito had disappeared*!

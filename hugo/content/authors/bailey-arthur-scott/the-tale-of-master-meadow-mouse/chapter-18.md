@@ -1,0 +1,33 @@
+---
+title: "Chapter 18 - Under The Snow"
+weight: 18
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-18.html"
+---
+
+WINTER had come. The snow lay deep over Pleasant Valley. But Master Meadow Mouse didn't object to that. On the contrary, he had welcomed the snow. Even Johnnie Green, peeping out of his chamber window at the first snowfall of the season, hadn't been any happier over it than Master Meadow Mouse was. To Johnnie Green the snow meant fun. To Master Meadow Mouse it meant fun and something more.
+
+At last he could scamper about the meadow without being seen by everybody. For he set to work at once to make tunnels beneath the snow. They ran in every direction from his house. And he was forever pushing them further and further.
+
+Through those tunnels Master Meadow Mouse could look for seeds and grain in the stubble. And while he was rambling along his network of halls he didn't have to worry about anybody's making trouble for him, unless it was Peter Mink, perhaps, or Grumpy Weasel.
+
+Of course Master Meadow Mouse didn't stay under the snow all the time. Now and then he liked to climb up into the open air. And he made many shafts that led to the world above.
+
+Although most of the birds had gone South to spend the winter, there were still some that Master Meadow Mouse had to shun. Old Mr. Crow was spending the winter on the farm. And there were Solomon Owl and his cousin Simon Screecher, who hunted over the meadow nightly. And at dusk sometimes a fierce hawk known as "Rough-leg" would beat his way back and forth across the snow covered stretches in the hope of catching one of the Meadow Mouse family unawares.
+
+In spite of such unpleasant neighbors, the big Meadow Mouse family managed to have many a gay frolic under the stars on crisp winter nights. Sometimes Johnnie Green, wandering over the fields on snow-shoes by day, noticed a lacy tracery on the snow. It was the tracks of the tiny toes of Master Meadow Mouse and his dozens of cousins. At first Johnnie almost thought that he had stumbled upon the scene of a revel of fairy mice. He did not know then that the Meadow Mouse family had a village of their own right under his feet.
+
+But Solomon Owl and Simon Screecher and old Rough-leg, the hawk, knew all about the habits of the villagers. In fact they sometimes complained about the way the Meadow Mouse family had built their tunnels. They agreed that there were too many holes leading down to the village streets. It gave the Meadow Mouse people too many openings into which to dive in case of a sudden surprise when they were having a moonlight party.
+
+"If they ever invited me to one of their affairs I wouldn't care what they did," Solomon Owl remarked one evening to his whistling cousin, Simon Screecher. "If they'd welcome me just once to one of their dances I'd be satisfied."
+
+"It's plain that they don't like you," his cousin remarked.
+
+"Nor you, either!" Solomon Owl boomed. And then all at once he burst forth with a peal of ghostly laughter. _"Wha, wha, whoo-ah!_"
+
+Now, Master Meadow Mouse had just crept out of one of his doorways and was looking up at the stars when that shivery sound came rolling out of the woods. When he heard it he turned quickly and hurried back where he came from.
+
+"There won't be any fun to-night," he grumbled.
+
+[Illustration]
+
+[Illustration]

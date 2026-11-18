@@ -1,0 +1,67 @@
+---
+title: "Chapter 33 - A Halt"
+weight: 33
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-33.html"
+---
+
+It was just growing light as the two canoes shoved out in the river and resumed their journey. The rapacious wolverines, enraged at the loss of their expected prey, followed them to the very edge of the stream, where their ear-splitting clamor grew more furious than ever. At one time, indeed, it looked us though they were about to jump into the water and swim out to them; and both the boys looked inquiringly at the face of the Pah Utah. The stolid, indifferent expression that they there saw relieved them, and they withdrew all further thought regarding the troublesome animals.
+
+Shasta had loosened the connection between the two boats—not, perhaps, that he was unwilling to carry them also along, but because he judged it was time that the party learned to navigate for themselves.
+
+Tim O'Rooney grasped the paddle, and his handling of it showed no ordinary skill. He had greatly improved upon his performance of yesterday, and kept his position slightly in the rear of the other canoe, whose owner, as a matter of course, timed his speed to that of his pupil.
+
+When the Irishman was tired he passed the paddle to Howard, who had been carefully studying the "style" of Shasta, and whose efforts were modeled after his. Practice alone can make perfect, no matter if the theory in absolutely so. The mind may hold the exact idea, and may send the precise message through the nerves to the muscles, but the latter must make a good many trials before they can carry out orders with exactness.
+
+And so the boy, although, as he believed, he imitated exactly the manner of their dusky friend, was not long in finding that the paddle was by no means as obedient. The reason was that the delicate play of the iron muscles of the Pah Utah could not be seen. They had done this thing so often that it became a matter of course with them.
+
+But having started upon right principles, by the time the boy was so exhausted that he could not move his arms, he could see that he had improved, or as the sovereign people say, "he was getting the knack of it." It was now Elwood's turn, and he caught the paddle with all the enthusiasm which might be expected in a youngster who had been impatiently waiting to take part in some game.
+
+By the time Elwood needed rest, Tim O'Rooney was ready, and so the paddle did unceasing work, each member having all the time necessary for rest, until after they had been to work some hours, the boys found their arms remained tired, and a longer cessation needed.
+
+Shasta seemed to look upon these essays of his friends with no little pleasure. He watched their movements all the time, and a horrible suspicion once entered the head of Tim O'Rooney that he saw him come very near smiling. Whether there were any grounds for this suspicion probably will never be known, unless the Pah Utah takes it into his head to write and tell us.
+
+Shasta remained a few feet in advance, his back being placed toward the prow of his own boat. This relative position—and our "pale faced" friends, it may be said, labored savagely—was kept by him without any effort. Now and then he touched the point of his paddle, but there was scarcely a ripple. It was as a fish is sometimes seen to move through the water with the slightest quiver of its fins.
+
+When all three of our friends were used up, red in the face, panting and sighing for a chance to take a good long rest, a tiny island came in view round a bend in the river, and to their joy they saw Shasta fix his eye upon it and then head his canoe toward the point. Cheered by the prospect, they renewed their work with greater ardor, and in a few moments the boats buried their points in the luxuriant undergrowth along the shore.
+
+The island was quite small, and offered no inducements in the way of game, unless some animal in crossing the river had paused to rest itself and make an exploration of the place. This was scarcely to be expected, and none of the party based any hopes upon it.
+
+After the inmates of the large canoe had stepped upon shore, Shasta sent his backward into the river again by a sweep of his paddle, and headed for the eastern bank, shooting over the surface with amazing speed. His movements were watched with interest and some surprise.
+
+"What can it mean?" asked Elwood.
+
+"Perhaps he is going to leave us."
+
+"I don't think he would do it in that manner. He will make an elaborate good-by for us, for we are getting to understand each other quite well by means of signs."
+
+"Arrah now!" exclaimed Tim O'Rooney, "didn't ye saa that he was disgusted wid our paddling and kaaping him back, and has gone out jist that he may enj'y the pleasure of shtretching his arms in the owld-fashioned manner, as Father O'Shaughnessy said when he tipped over his brother?"
+
+This may have satisfied the Irishman, but hardly the boys. It did not look reasonable to them that the Indian, having just finished three times the amount of work performed by each, was in so great need of additional exercise that he must abandon his friends and paddle off over the river.
+
+"I think he is going to hunt for fish," said Elwood.
+
+"But he could have caught them without going to land."
+
+"Perhaps not. I noticed yesterday that he went where there was a sort of eddy, and you see he can't find that very well unless it is close by land."
+
+Howard pointed to the lower end of the island:
+
+"What better place could he find than that? It is just the spot to catch fish."
+
+By this time Shasta's canoe had reached the bank, but instead of landing he turned the prow down stream, and slowly glided along as if in quest of something. This to Tim O'Rooney was proof of the truth of his declaration.
+
+"What did I tell yees? The thrip to shore was not enough, and he's taking a wee turn further."
+
+"He is looking for a good fishing ground," affirmed Howard. "If it were anything else he would not go so slowly."
+
+"But, see! he has stopped?"
+
+As Elwood spoke the Pah Utah rose in his canoe and stepped ashore. He stooped and employed himself a moment with the canoe and then disappeared.
+
+"It cannot be that he has left us," said Elwood, in considerable alarm.
+
+"No; I think he is hunting for game."
+
+This seemed very reasonable, and the party waited patiently for his return. No personal danger to himself could be expected, as he could not be approached undiscovered by any hostile white man, and being an Indian he could have no cause to fear anything from his own race.
+
+Still there was a vague misgiving that everything was not right—that something unusual would be the result of this separation—and each member of the little party awaited, with more anxiety than he would have confessed, some evidence of the intention of the Pah Utah.

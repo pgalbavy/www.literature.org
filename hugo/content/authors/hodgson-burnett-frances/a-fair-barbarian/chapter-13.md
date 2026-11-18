@@ -1,0 +1,93 @@
+---
+title: "Chapter 13 - Intentions"
+weight: 13
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-13.html"
+---
+
+The position in which Lady Theobald found herself placed, after these occurrences, was certainly a difficult and unpleasant one. It was Mr. Francis Barold's caprice, for the time being, to develop an intimacy with Mr. Burmistone. He had, it seemed, chosen to become interested in him during their sojourn at Broadoaks. He had discovered him to be a desirable companion, and a clever, amiable fellow. This much he condescended to explain incidentally to her ladyship's self.
+
+"I can't say I expected to meet a nice fellow or a companionable fellow," he remarked, "and I was agreeably surprised to find him both. Never says too much or too little. Never bores a man."
+
+To this Lady Theobald could make no reply. Singularly enough, she had discovered early in their acquaintance that her wonted weapons were likely to dull their edges upon the steely coldness of Mr. Francis Barold's impassibility. In the presence of this fortunate young man, before whom his world had bowed the knee from his tenderest infancy, she lost the majesty of her demeanor. He refused to be affected by it: he was even implacable enough to show openly that it bored him, and to insinuate by his manner that he did not intend to submit to it. He entirely ignored the claim of relationship, and acted according to the promptings of his own moods. He did not feel it at all incumbent upon him to remain at Oldclough Hall, and subject himself to the time-honored customs there in vogue. He preferred to accept Mr. Burmistone's invitation to become his guest at the handsome house he had just completed, in which he lived in bachelor splendor. Accordingly he installed himself there, and thereby complicated matters greatly.
+
+Slowbridge found itself in a position as difficult as, and far more delicate than, Lady Theobald's. The tea-drinkings in honor of that troublesome young person, Miss Octavia Bassett, having been inaugurated by her ladyship, must go the social rounds, according to ancient custom. But what, in discretion's name, was to be done concerning Mr. Francis Barold? There was no doubt whatever that he must not be ignored; and, in that case, what difficulties presented themselves!
+
+The mamma of the two Misses Egerton, who was a nervous and easily subjugated person, was so excited and overwrought by the prospect before her, that, in contemplating it when she wrote her invitations, she was affected to tears.
+
+"I can assure you, Lydia," she said, "that I have not slept for three nights, I have been so harassed. Here, on one hand, is Mr. Francis Barold, who must be invited; and on the other is Mr. Burmistone, whom we cannot pass over; and here is Lady Theobald, who will turn to stone the moment she sees him,--though, goodness knows, I am sure he seems a very quiet, respectable man, and said some of the most complimentary things about your playing. And here is that dreadful girl, who is enough to give one cold chills, and who may do all sorts of dreadful things, and is certainly a living example to all respectable, well-educated girls. And the blindest of the blind could see that nothing would offend Lady Theobald more fatally than to let her be thrown with Francis Barold; and how one is to invite them into the same room, and keep them apart, I'm sure I don't know how. Lady Theobald herself could not do it, and how can we be expected to? And the refreshments on my mind too; and Forbes failing on her tea-cakes, and bringing up Sally Lunns like lead."
+
+That these misgivings were equally shared by each entertainer in prospective, might be adduced from the fact that the same afternoon Mrs. Burnham and Miss Pilcher appeared upon the scene, to consult with Mrs. Egerton upon the subject.
+
+Miss Lydia and Miss Violet being dismissed up-stairs to their practising, the three ladies sat in the darkened parlor, and talked the matter over in solemn conclave.
+
+"I have consulted Miss Pilcher, and mentioned the affair to Mrs. Gibson," announced Mrs. Burnham. "And, really, we have not yet been able to arrive at any conclusion."
+
+Mrs. Egerton shook her head tearfully.
+
+"Pray don't come to me, my dears," she said,--"don't, I beg of you! I have thought about it until my circulation has all gone wrong, and Lydia has been applying hot-water bottles to my feet all the morning. I gave it up at half-past two, and set Violet to writing invitations to one and all, let the consequences be what they may."
+
+Miss Pilcher glanced at Mrs. Burnham, and Mrs. Burnham glanced at Miss Pilcher.
+
+"Perhaps," Miss Pilcher suggested to her companion, "it would be as well for you to mention your impressions."
+
+Mrs. Burnham's manner became additionally cautious. She bent forward slightly.
+
+"My dear," she said, "has it struck you that Lady Theobald has any--intentions, so to speak?"
+
+"Intentions?" repeated Mrs. Egerton.
+
+"Yes," with deep significance,--"so to speak. With regard to Lucia."
+
+Mrs. Egerton looked utterly helpless.
+
+"Dear me!" she ejaculated plaintively. "I have never had time to think of it. Dear me! With regard to Lucia!"
+
+Mrs. Burnham became more significant still.
+
+"And" she added, "Mr. Francis Barold."
+
+Mrs. Egerton turned to Miss Pilcher, and saw confirmation of the fact in her countenance.
+
+"Dear, dear!" she said. "That makes it worse than ever."
+
+"It is certain," put in Miss Pilcher, "that the union would be a desirable one; and we have reason to remark that a deep interest in Mr. Francis Barold has been shown by Lady Theobald. He has been invited to make her house his home during his stay in Slowbridge; and, though he has not done so, the fact that he has not is due only to some inexplicable reluctance upon his own part. And we all remember that Lady Theobald once plainly intimated that she anticipated Lucia forming, in the future, a matrimonial alliance."
+
+"Oh!" commented Mrs. Egerton, with some slight impatience, "it is all very well for Lady Theobald to have intentions for Lucia; but, if the young man has none, I really don't see that her intentions will be likely to result in any thing particular. And I am sure Mr. Francis Barold is not in the mood to be influenced in that way now. He is more likely to entertain himself with Miss Octavia Bassett, who will take him out in the moonlight, and make herself agreeable to him in her American style."
+
+Miss Pilcher and Mrs. Burnham exchanged glances again.
+
+"My dear," said Mrs. Burnham, "he has called upon her twice since Lady Theobald's tea. They say she invites him herself, and flirts with him openly in the garden."
+
+"Her conduct is such," said Miss Pilcher, with a shudder, "that the blinds upon the side of the seminary which faces Miss Bassett's garden are kept closed by my orders. I have young ladies under my care whose characters are in process of formation, and whose parents repose confidence in me."
+
+"Nothing but my friendship for Belinda Bassett," remarked Mrs. Burnham, "would induce me to invite the girl to my house." Then she turned to Mrs. Egerton. "But--ahem--have you included them all in your invitations?" she observed.
+
+Mrs. Egerton became plaintive again.
+
+"I don't see how I could be expected to do any thing else," she said. "Lady Theobald herself could not invite Mr. Francis Barold from Mr. Burmistone's house, and leave Mr. Burmistone at home. And, after all, I must say it is my opinion nobody would have objected to Mr. Burmistone, in the first place, if Lady Theobald had not insisted upon it."
+
+Mrs. Burnham reflected.
+
+"Perhaps that is true," she admitted cautiously at length. "And it must be confessed that a man in his position is not entirely without his advantages--particularly in a place where there are but few gentlemen, and those scarcely desirable as"--
+
+She paused there discreetly, but Mrs. Egerton was not so discreet.
+
+"There are a great many young ladies in Slowbridge," she said, shaking her head,--"a great many! And with five in a family, all old enough to be out of school, I am sure it is flying in the face of Providence to neglect one's opportunities."
+
+When the two ladies took their departure, Mrs. Burnham seemed reflective. Finally she said,--"Poor Mrs. Egerton's mind is not what it was, and it never was remarkably strong. It must be admitted, too, that there is a lack of--of delicacy. Those great plain girls of hers must be a trial to her."
+
+As she spoke they were passing the privet hedge which surrounded Miss Bassett's house and garden; and a sound caused both to glance around. The front door had just been opened; and a gentleman was descending the steps,--a young gentleman in neat clerical garb, his guileless ecclesiastical countenance suffused with mantling blushes of confusion and delight. He stopped on the gravel path to receive the last words of Miss Octavia Bassett, who stood on the threshold, smiling down upon him in the prettiest way in the world.
+
+"Tuesday afternoon," she said. "Now don't forget; because I shall ask Mr. Barold and Miss Gaston, on purpose to play against us. Even St. James can't object to croquet."
+
+"I--indeed, I shall be most happy and--and delighted," stammered her departing guest, "if you will be so kind as to--to instruct me, and forgive my awkwardness."
+
+"Oh! I'll instruct you," said Octavia. "I have instructed people before, and I know how."
+
+Mrs. Burnham clutched Miss Pilcher's arm.
+
+"Do you see who that is?" she demanded. "Would you have believed it?"
+
+Miss Pilcher preserved a stony demeanor.
+
+"I would believe any thing of Miss Octavia Bassett," she replied. "There would be nothing at all remarkable, to my mind, in her flirting with the bishop himself! Why should she hesitate to endeavor to entangle the curate of St. James?"

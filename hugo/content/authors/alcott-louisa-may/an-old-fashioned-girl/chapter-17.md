@@ -1,0 +1,239 @@
+---
+title: "Chapter 17 - Playing Grandmother"
+weight: 18
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-17.html"
+---
+
+I THINK Tom had the hardest time of all, for besides the family troubles, he had many of his own to perplex and harass him. College scrapes were soon forgotten in greater afflictions; but there were plenty of tongues to blame “that extravagant dog,” and plenty of heads to wag ominously over prophecies of the good time Tom Shaw would now make on the road to ruin. As reporters flourish in this country, of course Tom soon heard all the friendly criticisms passed upon him and his career, and he suffered more than anybody guessed; for the truth that was at the bottom of the gossip filled him with the sharp regret and impotent wrath against himself as well as others, which drives many a proud fellow, so placed, to destruction, or the effort that redeems boyish folly, and makes a man of him.
+
+Now that he had lost his heritage, Tom seemed to see for the first time how goodly it had been, how rich in power, pleasure, and gracious opportunities. He felt its worth even while he acknowledged, with the sense of justice that is strong in manly men, how little he deserved a gift which he had so misused. He brooded over this a good deal, for, like the bat in the fable, he did n't seem to find any place in the new life which had begun for all. Knowing nothing of business, he was not of much use to his father, though he tried to be, and generally ended by feeling that he was a hindrance, not a help. Domestic affairs were equally out of his line, and the girls, more frank than their father, did not hesitate to tell him he was in the way when he offered to lend a hand anywhere. After the first excitement was over, and he had time to think, heart and energy seemed to die out, remorse got hold of him, and, as generous, thoughtless natures are apt to do when suddenly confronted with conscience, he exaggerated his faults and follies into sins of the deepest dye, and fancied he was regarded by others as a villain and an outcast. Pride and penitence made him shrink out of sight as much as possible, for he could not bear pity, even when silently expressed by a friendly hand or a kindly eye. He stayed at home a good deal, and loafed about with a melancholy and neglected air, vanished when anyone came, talked very little, and was either pathetically humble or tragically cross. He wanted to do something, but nothing seemed to appear; and while he waited to get his poise after the downfall, he was so very miserable that I'm afraid, if it had not been for one thing, my poor Tom would have got desperate, and been a failure. But when he seemed most useless, outcast, and forlorn, he discovered that one person needed him, one person never found him in the way, one person always welcomed and clung to him with the strongest affection of a very feeble nature. This dependence of his mother's was Tom's salvation at that crisis of his life; and the gossips, who said softly to one another over their muffins and tea. “It really would be a relief to that whole family if poor, dear Mrs. Shaw could be ahem! mercifully removed,” did not know that the invalid's weak, idle hands were unconsciously keeping the son safe in that quiet room, where she gave him all that she had to give, mother-love, till he took heart again, and faced the world ready to fight his battles manfully.
+
+“Dear, dear! how old and bent poor father does look. I hope he won't forget to order my sweetbread,” sighed Mrs. Shaw one day, as she watched her husband slowly going down the street.
+
+Tom, who stood by her, idly spinning the curtain tassel, followed the familiar figure with his eye, and seeing how gray the hair had grown, how careworn the florid face, and how like a weary old man his once strong, handsome father walked, he was smitten by a new pang of self-reproach, and with his usual impetuosity set about repairing the omission as soon as he discovered it.
+
+“I'll see to your sweetbread, mum. Good-by, back to dinner,” and with a hasty kiss, Tom was off.
+
+He did n't know exactly what he meant to do, but it had suddenly come over him, that he was hiding from the storm, and letting his father meet it alone; for the old man went to his office every day with the regularity of a machine, that would go its usual round until it stopped, while the young man stayed at home with the women, and let his mother comfort him.
+
+“He has a right to be ashamed of me, but I act as if I was ashamed of him; dare say people think so. I'll show them that I ain't; yes, by the powers, I will!” and Tom drew on his gloves with the air of a man about to meet and conquer an enemy.
+
+“Have an arm, sir? If you don't mind I'll walk down with you. Little commission for mother, nice day, is n't it?”
+
+Tom rather broke down at the end of his speech, for the look of pleased surprise with which his father greeted him, the alacrity with which he accepted and leaned on the strong arm offered him, proved that the daily walks had been solitary and doubtless sad ones. I think Mr. Shaw understood the real meaning of that little act of respect, and felt better for the hopeful change it seemed to foretell. But he took it quietly, and leaving his face to speak for him, merely said, “Thanky, Tom; yes, mother will enjoy her dinner twice as much if you order it.”
+
+Then they began to talk business with all their might, as if they feared that some trace of sentiment might disgrace their masculine dignity. But it made no difference whether they discussed lawsuits or love, mortgages or mothers, the feeling was all right and they knew it, so Mr. Shaw walked straighter than usual, and Tom felt that he was in his proper place again. The walk was not without its trials, however; for while it did Tom's heart good to see the cordial respect paid to his father, it tried his patience sorely to see also inquisitive or disapproving glances fixed upon himself when hats were lifted to his father, and to hear the hearty “Good day, Mr. Shaw,” drop into a cool or careless, “That's the son; it's hard on him. Wild fellow, do him good.”
+
+“Granted; but you need n't hit a man when he's down,” muttered Tom to himself, feeling every moment a stronger desire to do something that should silence everybody. “I'd cut away to Australia if it was n't for mother; anything, anywhere to get out of the way of people who know me. I never can right myself here, with all the fellows watching, and laying wagers whether I sink or swim. Hang Greek and Latin! wish I'd learned a trade, and had something to fall back upon. Have n't a blessed thing now, but decent French and my fists. Wonder if old Bell don't want a clerk for the Paris branch of the business? That would n't be bad; faith, I'll try it.”
+
+And when Tom had landed his father safely at the office, to the great edification of all beholders, he screwed up his courage, and went to prefer his request, feeling that the prospect brightened a little. But Mr. Bell was not in a good humor, and only gave Tom a severe lecture on the error of his ways, which sent him home much depressed, and caused the horizon to lower again.
+
+As he roamed about the house that afternoon, trying to calculate how much an Australian outfit would cost, the sound of lively voices and clattering spoons attracted him to the kitchen. There he found Polly giving Maud lessons in cookery; for the “new help” not being a high-priced article, could not be depended on for desserts, and Mrs. Shaw would have felt as if the wolf was at the door if there was not “a sweet dish” at dinner. Maud had a genius for cooking, and Fanny hated it, so that little person was in her glory, studying receipt books, and taking lessons whenever Polly could give them.
+
+“Gracious me, Tom, don't come now; we are awful busy! Men don't belong in kitchens,” cried Maud, as her brother appeared in the doorway.
+
+“Could n't think what you were about. Mum is asleep, and Fan out, so I loafed down to see if there was any fun afoot,” said Tom, lingering, as if the prospect was agreeable. He was a social fellow, and very grateful just then to any one who helped him to forget his worries for a time. Polly knew this, felt that his society would not be a great affliction to herself at least, and whispering to Maud, “He won't know,” she added, aloud, “Come in if you like, and stir this cake for me; it needs a strong hand, and mine are tired. There, put on that apron to keep you tidy, sit here, and take it easy.”
+
+“I used to help grandma bat up cake, and rather liked it, if I remember right,” said Tom, letting Polly tie a checked apron on him, put a big bowl into his hands, and settle him near the table, where Maud was picking raisins, and she herself stirring busily about among spice-boxes, rolling-pins, and butter-pots.
+
+“You do it beautifully, Tom. I'll give you a conundrum to lighten your labor: Why are bad boys like cake?” asked Polly, anxious to cheer him up.
+
+“Because a good beating makes them better. I doubt that myself, though,” answered Tom, nearly knocking the bottom of the bowl out with his energetic demonstrations, for it really was a relief to do something.
+
+“Bright boy! here's a plum for you,” and Polly threw a plump raisin into his mouth.
+
+“Put in lots, won't you? I'm rather fond of plum-cake,” observed Tom, likening himself to Hercules with the distaff, and finding his employment pleasant, if not classical.
+
+“I always do, if I can; there's nothing I like better than to shovel in sugar and spice, and make nice, plummy cake for people. It's one of the few things I have a gift for.”
+
+“You've hit it this time, Polly; you certainly have a gift for putting a good deal of both articles into your own and other people's lives, which is lucky, as, we all have to eat that sort of cake, whether we like it or not,” observed Tom, so soberly that Polly opened her eyes, and Maud exclaimed, “I do believe he's preaching.”
+
+“Feel as if I could sometimes,” continued Tom; then his eye fell upon the dimples in Polly's elbows, and he added, with a laugh, “That's more in your line, ma'am; can't you give us a sermon?”
+
+“A short one. Life, my brethren, is like plum-cake,” began Polly, impressively folding her floury hands. “In some the plums are all on the top, and we eat them gayly, till we suddenly find they are gone. In others the plums sink to the bottom, and we look for them in vain as we go on, and often come to them when it is too late to enjoy them. But in the well-made cake, the plums are wisely scattered all through, and every mouthful is a pleasure. We make our own cakes, in a great measure, therefore let us look to it, my brethren, that they are mixed according to the best receipt, baked in a well regulated oven, and gratefully eaten with a temperate appetite.”
+
+“Good! good!” cried Tom, applauding with the wooden spoon. “That's a model sermon, Polly, short, sweet, sensible, and not a bit sleepy. I'm one of your parish, and will see that you get your'celery punctooal,' as old Deacon Morse used to say.”
+
+“'Thank you, brother, my wants is few, and ravens scurser than they used to be,' as dear old Parson Miller used to answer. Now, Maud, bring on the citron;” and Polly began to put the cake together in what seemed a most careless and chaotic manner, while Tom and Maud watched with absorbing interest till it was safely in the oven.
+
+“Now make your custards, dear; Tom may like to beat the eggs for you; it seems to have a good effect upon his constitution.”
+
+“First-rate; hand'em along,” and Tom smoothed his apron with a cheerful air. “By the way, Syd's got back. I met him yesterday, and he treated me like a man and a brother,” he added, as if anxious to contribute to the pleasures of the hour.
+
+“I'm so glad!” cried Polly, clapping her hands, regardless of the egg she held, which dropped and smashed on the floor at her feet. “Careless thing! Pick it up, Maud, I'll get some more;” and Polly whisked out of the room, glad of an excuse to run and tell Fan, who had just come in, lest, hearing the news in public, she might be startled out of the well-bred composure with which young ladies are expected to receive tidings, even of the most vital importance.
+
+“You know all about history, don't you?” asked Maud, suddenly.
+
+“Not quite,” modestly answered Tom.
+
+“I just want to know if there really was a man named Sir Philip, in the time of Queen Elizabeth.”
+
+“You mean Sir Philip Sidney? Yes, he lived then and a fine old fellow he was too.”
+
+“There; I knew the girls did n't mean him,” cried Maud, with a chop that sent the citron flying.
+
+“What mischief are you up to now, you little magpie?”
+
+“I shan't tell you what they said, because I don't remember much of it; but I heard Polly and Fan talking about some one dreadful mysterious, and when I asked who it was, Fan said, 'Sir Philip.' Ho! she need n't think I believe it! I saw'em laugh, and blush, and poke one another, and I knew it was n't about any old Queen Elizabeth man,” cried Maud, turning up her nose as far as that somewhat limited feature would go.
+
+“Look here, you are letting cats out of the bag. Never mind, I thought so. They don't tell us their secrets, but we are so sharp, we can't help finding them out, can we?” said Tom, looking so much interested, that Maud could n't resist airing her knowledge a little.
+
+“Well, I dare say, it is n't proper for you to know, but I am old enough now to be told anything, and those girls better mind what they say, for I'm not a stupid chit, like Blanche. I just wish you could have heard them go on. I'm sure there's something very nice about Mr. Sydney, they looked so pleased when they whispered and giggled on the bed, and thought I was ripping bonnets, and did n't hear a word.”
+
+“Which looked most pleased?” asked Tom, investigating the kitchen boiler with deep interest.
+
+“Well, 'pears to me Polly did; she talked most, and looked funny and very happy all the time. Fan laughed a good deal, but I guess Polly is the loveress,” replied Maud, after a moment's reflection.
+
+“Hold your tongue; she's coming!” and Tom began to pump as if the house was on fire.
+
+Down came Polly, with heightened color, bright eyes, and not a single egg. Tom took a quick look at her over his shoulder, and paused as if the fire was suddenly extinguished. Something in his face made Polly feel a little guilty, so she fell to grating nutmeg, with a vigor which made red cheeks the most natural thing in life. Maud, the traitor, sat demurely at work, looking very like what Tom had called her, a magpie with mischief in its head. Polly felt a change in the atmosphere, but merely thought Tom was tired, so she graciously dismissed him with a stick of cinnamon, as she had nothing else just then to lay upon the shrine. “Fan's got the books and maps you wanted. Go and rest now. I'm much obliged; here's your wages, Bridget.”
+
+“Good luck to your messes,” answered Tom, as he walked away meditatively crunching his cinnamon, and looking as if he did not find it as spicy as usual. He got his books, but did not read them; for, shutting himself up in the little room called “Tom's den,” he just sat down and brooded.
+
+When he came down to breakfast the next morning, he was greeted with a general “Happy birthday, Tom!” and at his place lay gifts from every member of the family; not as costly as formerly, perhaps, but infinitely dearer, as tokens of the love that had outlived the change, and only grown the warmer for the test of misfortune. In his present state of mind, Tom felt as if he did not deserve a blessed thing; so when every one exerted themselves to make it a happy day for him, he understood what it means “to be nearly killed with kindness,” and sternly resolved to be an honor to his family, or perish in the attempt. Evening brought Polly to what she called a “festive tea,” and when they gathered round the table, another gift appeared, which, though not of a sentimental nature, touched Tom more than all the rest. It was a most delectable cake, with a nosegay atop, and round it on the snowy frosting there ran a pink inscription, just as it had been every year since Tom could remember.
+
+“Name, age, and date, like a nice white tombstone,” observed Maud, complacently, at which funereal remark, Mrs. Shaw, who was down in honor of the day, dropped her napkin, and demanded her salts.
+
+“Whose doing is that?” asked Tom, surveying the gift with satisfaction; for it recalled the happier birthdays, which seemed very far away now.
+
+“I did n't know what to give you, for you've got everything a man wants, and I was in despair till I remembered that dear grandma always made you a little cake like that, and that you once said it would n't be a happy birthday without it. So I tried to make it just like hers, and I do hope it will prove a good, sweet, plummy one.”
+
+“Thank you,” was all Tom said, as he smiled at the giver, but Polly knew that her present had pleased him more than the most elegant trifle she could have made.
+
+“It ought to be good, for you beat it up yourself, Tom,” cried, Maud. “It was so funny to see you working away, and never guessing who the cake was for. I perfectly trembled every time you opened your mouth, for fear you'd ask some question about it. That was the reason Polly preached and I kept talking when she was gone.”
+
+“Very stupid of me; but I forgot all about to-day. Suppose we cut it; I don't seem to care for anything else,” said Tom, feeling no appetite, but bound to do justice to that cake, if he fell a victim to his gratitude.
+
+“I hope the plums won't all be at the bottom,” said Polly, as she rose to do the honors of the cake, by universal appointment.
+
+“I've had a good many at the top already, you know,” answered Tom, watching the operation with as much interest as if he had faith in the omen.
+
+Cutting carefully, slice after slice fell apart; each firm and dark, spicy and rich, under the frosty rime above; and laying a specially large piece in one of grandma's quaint little china plates, Polly added the flowers and handed it to Tom, with a look that said a good deal, for, seeing that he remembered her sermon, she was glad to find that her allegory held good, in one sense at least. Tom's face brightened as he took it, and after an inspection which amused the others very much he looked up, saying, with an air of relief, “Plums all through; I'm glad I had a hand in it, but Polly deserves the credit, and must wear the posy,” and turning to her, he put the rose into her hair with more gallantry than taste, for a thorn pricked her head, the leaves tickled her ear, and the flower was upside down.
+
+Fanny laughed at his want of skill, but Polly would n't have it altered, and everybody fell to eating cake, as if indigestion was one of the lost arts. They had a lively tea, and were getting on famously afterward, when two letters were brought for Tom, who glanced at one, and retired rather precipitately to his den, leaving Maud consumed with curiosity, and the older girls slightly excited, for Fan thought she recognized the handwriting on one, and Polly, on the other.
+
+One half an hour and then another elapsed, and Tom did not return. Mr. Shaw went out, Mrs. Shaw retired to her room escorted by Maud, and the two girls sat together wondering if anything dreadful had happened. All of a sudden a voice called, “Polly!” and that young lady started out of her chair, as if the sound had been a thunder-clap.
+
+“Do run! I'm perfectly fainting to know what the matter is,” said Fan.
+
+“You'd better go,” began Polly, wishing to obey, yet feeling a little shy.
+
+“He don't want me; besides, I could n't say a word for myself if that letter was from Sydney,” cried Fanny, hustling her friend towards the door, in a great flutter.
+
+Polly went without another word, but she wore a curiously anxious look, and stopped on the threshold of the den, as if a little afraid of its occupant. Tom was sitting in his favorite attitude, astride of a chair, with his arms folded and his chin on the top rail; not an elegant posture, but the only one in which, he said, he could think well.
+
+“Did you want me, Tom?”
+
+“Yes. Come in, please, and don't look scared; I only want to show you a present I've had, and ask your advice about accepting it.”
+
+“Why, Tom, you look as if you had been knocked down!” exclaimed Polly, forgetting all about herself, as she saw his face when he rose and turned to meet her.
+
+“I have; regularly floored; but I'm up again, and steadier than ever. Just you read that, and tell me what you think of it.”
+
+Tom snatched a letter off the table, put it into her hands, and began to walk up and down the little room, like a veritable bear in its cage. As Polly read that short note, all the color went out of her face, and her eyes began to kindle. When she came to the end, she stood a minute, as if too indignant to speak, then gave the paper a nervous sort of crumple and dropped it on the floor, saying, all in one breath, “I think she is a mercenary, heartless, ungrateful girl! That's what I think.”
+
+“Oh, the deuce! I did n't mean to show that one; it's the other.” And Tom took up a second paper, looking half angry, half ashamed at his own mistake. “I don't care, though; every one will know to-morrow; and perhaps you'll be good enough to keep the girls from bothering me with questions and gabble,” he added, as if, on second thoughts, he was relieved to have the communication made to Polly first.
+
+“I don't wonder you looked upset. If the other letter is as bad, I'd better have a chair before I read it,” said Polly, feeling that she began to tremble with excitement.
+
+“It's a million times better, but it knocked me worse than the other; kindness always does.” Tom stopped short there, and stood a minute turning the letter about in his hand as if it contained a sweet which neutralized the bitter in that smaller note, and touched him very much. Then he drew up an arm-chair, and beckoning Polly to take it, said in a sober, steady tone, that surprised her greatly, “Whenever I was in a quandary, I used to go and consult grandma, and she always had something sensible or comfortable to say to me. She's gone now, but somehow, Polly, you seem to take her place. Would you mind sitting in her chair, and letting me tell you two or three things, as Will does?”
+
+Mind it? Polly felt that Tom had paid her the highest and most beautiful compliment he could have devised. She had often longed to do it, for, being brought up in the most affectionate and frank relations with her brothers, she had early learned what it takes most women some time to discover, that sex does not make nearly as much difference in hearts and souls as we fancy. Joy and sorrow, love and fear, life and death bring so many of the same needs to all, that the wonder is we do not understand each other better, but wait till times of tribulation teach us that human nature is very much the same in men and women. Thanks to this knowledge, Polly understood Tom in a way that surprised and won him. She knew that he wanted womanly sympathy, and that she could give it to him, because she was not afraid to stretch her hand across the barrier which our artificial education puts between boys and girls, and to say to him in all good faith, “If I can help you, let me.”
+
+Ten minutes sooner Polly could have done this almost as easily to Tom as to Will, but in that ten minutes something had happened which made this difficult. Reading that Trix had given Tom back his freedom changed many things to Polly, and caused her to shrink from his confidence, because she felt as if it would be harder now to keep self out of sight; for, spite of maiden modesty, love and hope would wake and sing at the good news. Slowly she sat down, and hesitatingly she said, with her eyes on the ground, and a very humble voice, “I'll do my best, but I can't fill grandma's place, or give you any wise, good advice. I wish I could!”
+
+“You'll do it better than any one else. Talk troubles mother, father has enough to think of without any of my worries. Fan is a good soul, but she is n't practical, and we always get into a snarl if we try to work together, so who have I but my other sister, Polly? The pleasure that letter will give you may make up for my boring you.”
+
+As he spoke, Tom laid the other paper in her lap, and went off to the window, as if to leave her free to enjoy it unseen; but he could not help a glance now and then, and as Polly's face brightened, his own fell.
+
+“Oh, Tom, that's a birthday present worth having, for it's so beautifully given I don't see how you can refuse it. Arthur Sydney is a real nobleman!” cried Polly, looking up at last, with her fact glowing, and her eyes full of delight.
+
+“So he is! I don't know another man living, except father, who would have done such a thing, or who I could bring myself to take it from. Do you see, he's not only paid the confounded debts, but has done it in my name, to spare me all he could?”
+
+“I see, it's like him; and I think he must be very happy to be able to do such a thing.”
+
+“It is an immense weight off my shoulders, for some of those men could n't afford to wait till I'd begged, borrowed, or earned the money. Sydney can wait, but he won't long, if I know myself.” “You won't take it as a gift, then?”
+
+“Would you?”
+
+“No.”
+
+“Then don't think I will. I'm a pretty poor affair, Polly, but I'm not mean enough to do that, while I've got a conscience and a pair of hands.”
+
+A rough speech, but it pleased Polly better than the smoothest Tom had ever made in her hearing, for something in his face and voice told her that the friendly act had roused a nobler sentiment than gratitude, making the cancelled obligations of the boy, debts of honor to the man.
+
+“What will you do, Tom?”
+
+“I'll tell you; may I sit here?” And Tom took the low footstool that always stood near grandma's old chair. “I've had so many plans in my head lately, that sometimes it seems as if it would split,” continued the poor fellow, rubbing his tired forehead, as if to polish up his wits. “I've thought seriously of going to California, Australia, or some out-of-the-way place, where men get rich in a hurry.”
+
+“Oh, no!” cried Polly, putting out her hand as it to keep him, and then snatching it back again before he could turn round.
+
+“It would be hard on mother and the girls, I suppose; besides, I don't quite like it myself; looks as if I shirked and ran away.”
+
+“So it does,” said Polly, decidedly.
+
+“Well, you see I don't seem to find anything to do unless I turn clerk, and I don't think that would suit. The fact is, I could n't stand it here, where I'm known. It would be easier to scratch gravel on a railroad, with a gang of Paddies, than to sell pins to my friends and neighbors. False pride, I dare say, but it's the truth, and there's no use in dodging.”
+
+“Not a bit, and I quite agree with you.”
+
+“That's comfortable. Now I'm coming to the point where I specially want your advice, Polly. Yesterday I heard you telling Fan about your brother Ned; how well he got on; how he liked his business, and wanted Will to come and take some place near him. You thought I was reading, but I heard; and it struck me that perhaps I could get a chance out West somewhere. What do you think?”
+
+“If you really mean work, I know you could,” answered Polly, quickly, as all sorts of plans and projects went sweeping through her mind. “I wish you could be with Ned; you'd get on together, I'm sure; and he'd be so glad to do anything he could. I'll write and ask, straight away, if you want me to.”
+
+“Suppose you do; just for information, you know, then I shall have something to go upon. I want to have a feasible plan all ready, before I speak to father. There's nothing so convincing to business men as facts, you know.”
+
+Polly could not help smiling at Tom's new tone, it seemed so strange to hear him talking about anything but horses and tailors, dancing and girls. She liked it, however, as much as she did the sober expression of his face, and the way he had lately of swinging his arms about, as if he wanted to do something energetic with them.
+
+“That will be wise. Do you think your father will like this plan?”
+
+“Pretty sure he will. Yesterday, when I told him I must go at something right off, he said, 'Anything honest, Tom, and don't forget that your father began the world as a shop-boy.' You knew that, did n't you?”
+
+“Yes, he told me the story once, and I always liked to hear it, because it was pleasant to see how well he had succeeded.”
+
+“I never did like the story, a little bit ashamed, I'm afraid; but when we talked it over last night, it struck me in a new light, and I understood why father took the failure so well, and seems so contented with this poorish place. It is only beginning again, he says; and having worked his way up once, he feels as if he could again. I declare to you, Polly, that sort of confidence in himself, and energy and courage in a man of his years, makes me love and respect the dear old gentleman as I never did before.”
+
+“I'm so glad to hear you say that, Tom! I've sometimes thought you did n't quite appreciate your father, any more than he knew how much of a man you were.”
+
+“Never was till to-day, you know,” said Tom, laughing, yet looking as if he felt the dignity of his one and twenty years. “Odd, is n't it, how people live together ever so long, and don't seem to find one another out, till something comes to do it for them. Perhaps this smash-up was sent to introduce me to my own father.”
+
+“There's philosophy for you,” said Polly, smiling, even while she felt as if adversity was going to do more for Tom than years of prosperity.
+
+They both sat quiet for a minute, Polly in the big chair looking at him with a new respect in her eyes, Tom on the stool near by slowly tearing up a folded paper he had absently taken from the floor while he talked.
+
+“Did this surprise you?” he asked, as a little white shower fluttered from his hands.
+
+“No.”
+
+“Well, it did me; for you know as soon as we came to grief I offered to release Trix from the engagement, and she would n't let me,” continued Tom, as if, having begun the subject, he wished to explain it thoroughly.
+
+“That surprised me,” said Polly.
+
+“So it did me, for Fan always insisted it was the money and not the man she cared for. Her first answer pleased me very much, for I did not expect it, and nothing touches a fellow more than to have a woman stand by him through thick and thin.”
+
+“She don't seem to have done it.”
+
+“Fan was right. Trix only waited to see how bad things really were, or rather her mother did. She's as cool, hard, and worldly minded an old soul as I ever saw, and Trix is bound to obey. She gets round it very neatly in her note, 'I won't be a burden, ' 'will sacrifice her hopes,' 'and always remain my warm friend,' but the truth is, Tom Shaw rich was worth making much of, but Tom Shaw poor is in the way, and may go to the devil as fast as he likes.”
+
+“Well, he is n't going!” cried Polly, defiantly, for her wrath burned hotly against Trix, though she blessed her for setting the bondman free.
+
+“Came within an ace of it,” muttered Tom to himself; adding aloud, in a tone of calm resignation that assured Polly his heart would not be broken though his engagement was, “It never rains but it pours, 'specially in hard times, but when a man is down, a rap or two more don't matter much, I suppose. It's the first blow that hurts most.”
+
+“Glad to see you take the last blow so well.” There was an ironical little twang to that speech, and Polly could n't help it. Tom colored up and looked hurt for a minute, then seemed to right himself with a shrug, and said, in his outspoken way, “To tell the honest truth, Polly, it was not a very hard one. I've had a feeling for some time that Trix and I were not suited to one another, and it might be wiser to stop short. But she did not or would not see it; and I was not going to back out, and leave her to wear any more willows, so here we are. I don't bear malice, but hope she'll do better, and not be disappointed again, upon my word I do.”
+
+“That's very good of you, quite Sydneyesque, and noble,” said Polly, feeling rather ill at ease, and wishing she could hide herself behind a cap and spectacles, if she was to play Grandma to this confiding youth.
+
+“It will be all plain sailing for Syd, I fancy,” observed Tom, getting up as if the little cricket suddenly ceased to be comfortable.
+
+“I hope so,” murmured Polly, wondering what was coming next.
+
+“He deserves the very best of everything, and I pray the Lord he may get it,” added Tom, poking the fire in a destructive manner.
+
+Polly made no answer, fearing to pay too much, for she knew Fan had made no confidant of Tom, and she guarded her friend's secret as jealously as her own. “You'll write to Ned to-morrow, will you? I'll take anything he's got, for I want to be off,” said Tom, casting down the poker, and turning round with a resolute air which was lost on Polly, who sat twirling the rose that had fallen into her lap.
+
+“I'll write to-night. Would you like me to tell the girls about Trix and Sydney?” she asked as she rose, feeling that the council was over.
+
+“I wish you would. I don't know how to thank you for all you've done for me; I wish to heaven I did,” said Tom, holding out his hand with a look that Polly thought a great deal too grateful for the little she had done.
+
+As she gave him her hand, and looked up at him with those confiding eyes of hers, Tom's gratitude seemed to fly to his head, for, without the slightest warning, he stooped down and kissed her, a proceeding which startled Polly so that he recovered himself at once, and retreated into his den with the incoherent apology, “I beg pardon could n't help it grandma always let me on my birthday.”
+
+While Polly took refuge up stairs, forgetting all about Fan, as she sat in the dark with her face hidden, wondering why she was n't very angry, and resolving never again to indulge in the delightful but dangerous pastime of playing grandmother.

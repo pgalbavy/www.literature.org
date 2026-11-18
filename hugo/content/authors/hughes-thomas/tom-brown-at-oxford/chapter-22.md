@@ -1,0 +1,337 @@
+---
+title: "Chapter 22 - Departures Expected And Unexpected"
+weight: 24
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-22.html"
+---
+
+There was a silence of a few seconds after the Captain had finished his story, all the men sitting with eyes fixed on him, and not a little surprised at the results of their call. Drysdale was the first to break the silence, which he did with a "By George!" and a long respiration; but, as he did not seem prepared with any further remark, Tom took up the running.
+
+"What a strange story," he said; "and that really happened to you, Captain Hardy?"
+
+"To me sir, in the Mediterranean, more than forty years ago."
+
+"The strangest thing about it is that the old Commodore should have managed to get all the way to the ship, and then not have known where his nephew was," said Blake.
+
+"He only knew his nephew's berth, you see, sir," said the Captain.
+
+"But he might have beat about through the ship till he had found him."
+
+"You must remember that he was at his last breath, sir," said the Captain; "you can't expect a man to have his head clear at such a moment."
+
+"Not a man, perhaps; but I should a ghost," said Blake.
+
+"Time was everything to him," went on the Captain, without regarding the interruption, "space nothing. But the strangest part of it is that *I* should have seen the figure at all. It's true I had been thinking of the old uncle, because of the boy's illness; but I can't suppose he was thinking of me, and, as I say, he never recognized me. I have taken a great deal of interest in such matters since that time, but I have never met with just such a case as this."
+
+"No, that is the puzzle. One can fancy his appearing to his nephew well enough," said Tom.
+
+"We can't account for these things, or for a good many other things which ought to be quite as startling, only we see them every day. But now I think it is time for us to be going, eh Jack?" and the Captain and his son rose to go.
+
+Tom saw that it would be no kindness to them to try to prolong the sitting, and so he got up too, to accompany them to the gates. This broke up the party. Before going, Drysdale, after whispering to Tom, went up to Captain Hardy, and said,—
+
+"I want to ask you to do me a favour, sir. Will you and your son breakfast with me to-morrow?"
+
+"We shall be very happy, sir," said the Captain.
+
+"I think, father, you had better breakfast with me, quietly. We are much obliged to Mr. Drysdale, but I can't give up a whole morning. Besides, I have several things to talk to you about."
+
+"Nonsense, Jack," blurted out the old sailor, "leave your books alone for one morning. I'm come up here to enjoy myself, and see your friends."
+
+Hardy gave a slight shrug of his shoulder at the word friends, and Drysdale, who saw it, looked a little confused. He had never asked Hardy to his rooms before. The Captain saw that something was the matter, and hastened in his own way to make all smooth again.
+
+"Never mind Jack, sir," he said, "he shall come. It's a great treat to me to be with young men, especially when they are friends of my boy."
+
+"I hope you'll come as a personal favor to me," said Drysdale, turning to Hardy. "Brown, you'll bring him, won't you?"
+
+"Oh yes, I'm sure he'll come," said Tom.
+
+"That's all right. Good night, then;" and Drysdale went off.
+
+Hardy and Tom accompanied the Captain to the gate. During his passage across the two quadrangles, the old gentleman was full of the praises of the men and of protestations as to the improvement in social manners and customs since his day, when there could have been no such meeting, he declared, without blackguardism and drunkenness, at least among young officers; but then they had less to think of than Oxford men, no proper education. And so the Captain was evidently traveling back into the great trireme question when they reached the gate. As they could go no farther with him, however, he had to carry away his solution of the three-banks-of-oars difficulty in his own bosom to the "Mitre".
+
+"Don't let us go in," said Tom, as the gate closed on the Captain, and they turned back into the quadrangle, "let us take a turn or two;" so they walked up and down the inner quad in the starlight.
+
+Just at first they were a good deal embarrassed and confused; but before long, though not without putting considerable force on himself, Tom got back into something like his old familiar way of unbosoming himself to his re-found friend, and Hardy showed more than his old anxiety to meet him half-way. His ready and undisguised sympathy soon dispersed the remaining clouds which were still hanging between them; and Tom found it almost a pleasure, instead of a dreary task, as he had anticipated, to make a full confession, and state the case clearly and strongly against himself to one who claimed neither by word nor look the least superiority over him, and never seemed to remember that he himself had been ill-treated in the matter.
+
+"He had such a chance of lecturing me, and didn't do it," thought Tom afterwards, when he was considering why he felt so very grateful to Hardy. "It was so cunning of him, too. If he had begun lecturing, I should have begun to defend myself, and never have felt half such a scamp as I did when I was telling it all out to him in my own way."
+
+The result of Hardy's management was that Tom made a clean breast of it, telling everything down to his night at the ragged school; and what an effect his chance-opening of the "Apology" had had on him. Here for the first time Hardy came in with his usual dry, keen voice. "You needn't have gone so far back as Plato for that lesson."
+
+"I don't understand," said Tom.
+
+"Well, there's something about an indwelling spirit which guideth every man, in St. Paul, isn't there?"
+
+"Yes, a great deal," Tom answered, after a pause; "but it isn't the same thing."
+
+"Why not the same thing?"
+
+"Oh, surely you must feel it. It would be almost blasphemy in us to talk as St. Paul talked. It is much easier to face the notion, or the fact, of a daemon or spirit such as Socrates felt to be in him, than to face what St. Paul seems to be meaning."
+
+"Yes, much easier. The only question is whether we will be heathens or not."
+
+"How do you mean?" said Tom.
+
+"Why, a spirit was speaking to Socrates, and guiding him. He obeyed the guidance, but knew not whence it came. A spirit is striving with us too, and trying to guide us—we feel that just as much as he did. Do we know what spirit it is? whence it comes? Will we obey it? If we can't name it—know no more of it then he knew about his daemon, of course, we are in no better position than he—in fact, heathens."
+
+Tom made no answer, and after a slight turn or two more, Hardy said, "Let us go in;" and they went to his rooms. When the candles were lighted, Tom saw the array of books on the table, several of them open, and remembered how near the examinations were.
+
+"I see you want to work," he said. "Well, good-night. I know how fellows like you hate being thanked—there, you needn't wince; I'm not going to try it on. The best way to thank you, I know, is to go straight for the future. I'll do that, please God, this time at any rate. Now what ought I to do, Hardy?"
+
+"Well, it's very hard to say. I've thought about it a great deal this last few days—since I felt you coming round—but I can't make up my mind. How do you feel yourself? What's your own instinct about it?"
+
+"Of course, I must break it all off at once, completely," said Tom, mournfully, and half hoping that Hardy might not agree with him.
+
+"Of course," answered Hardy, "but how?"
+
+"In the way that will pain her least. I would sooner lose my hand or bite my tongue off than that she should feel lowered, or lose any self-respect, you know," said Tom, looking helplessly at his friend.
+
+"Yes, that's all right—you must take all you can on your own shoulders. It must leave a sting though for both of you, manage how you will."
+
+"But I can't bear to let her think I don't care for her —I needn't do that —I can't do that."
+
+"I don't know what to advise. However, I believe I was wrong in thinking she cared for you so much. She will be hurt, of course—she can't help being hurt—but it won't be so bad as I used to think."
+
+Tom made no answer; in spite of all his good resolutions, he was a little piqued at this last speech. Hardy went on presently. "I wish she were well out of Oxford. It's a bad town for a girl to be living in, especially as a barmaid in a place which we haunt. I don't know that she will take much harm now; but it's a very trying thing for a girl of that sort to be thrown every day amongst a dozen young men above her in rank, and not one in ten of whom has any manliness about him."
+
+"How do you mean—no manliness?"
+
+"I mean that a girl in her position isn't safe with us. If we had any manliness in us she would be—"
+
+"You can't expect all men to be blocks of ice, or milksops," said Tom, who was getting nettled.
+
+"Don't think that I meant you," said Hardy; "indeed I didn't. But surely, think a moment; is it a proof of manliness that the pure and weak should fear you and shrink from you? Which is the true—aye, and the brave—man, he who trembles before a woman or he before whom a woman trembles?"
+
+"Neither," said Tom; "but I see what you mean, and when you put it that way it's clear enough."
+
+"But you're wrong in saying 'neither' if you do see what I mean." Tom was silent. "Can there be any true manliness without purity?" went on Hardy. Tom drew a deep breath but said nothing. "And where then can you point to a place where there is so little manliness as here? It makes my blood boil to see what one must see every day. There are a set of men up here, and have been ever since I can remember the place, not one of whom can look at a modest woman without making her shudder."
+
+"There must always be some blackguards," said Tom.
+
+"Yes; but unluckily the blackguards set the fashion, and give the tone to public opinion. I'm sure both of us have seen enough to know perfectly well that up here, amongst us undergraduates, men who are deliberately and avowedly profligates, are rather admired and courted,—are said to know the world, and all that,—while a man who tries to lead a pure life, and makes no secret of it, is openly sneered at by them, looked down on more or less by the great mass of men, and, to use the word you used just now, thought a milksop by almost all."
+
+"I don't think it so bad as that," said Tom. "There are many men who would respect him, though they might not be able to follow him."
+
+"Of course, I never meant that there are not many such, but they don't set the fashion. I am sure I'm right. Let us try it by the best test. Haven't you and I in our secret hearts this cursed feeling, that the sort of man we are talking about is a milksop?"
+
+After a moment's thought, Tom answered, "I am afraid I have, but I really am thoroughly ashamed of it now, Hardy. But you haven't it. If you had it you could never have spoken to me as you have."
+
+"I beg your pardon. No man is more open than I to the bad influences of any place he lives in. God knows I am even as other men, and worse; for I have been taught ever since I could speak, that the crown of all real manliness, of all Christian manliness, is purity."
+
+Neither of the two spoke for some minutes. Then Hardy looked at his watch—
+
+"Past eleven," he said; "I must do some work. Well, Brown, this will be a day to be remembered in my calendar."
+
+Tom wrung his hand, but did not venture to reply.
+
+As he got to the door, however, he turned back, and said,—
+
+"Do you think I ought to write to her?"
+
+"Well, you can try. You'll find it a bitter business, I fear."
+
+"I'll try then. Good night."
+
+Tom went to his own rooms, and set to work to write his letter; and certainly found it as difficult and unpleasant a task as he had ever set himself to work upon. Half a dozen times he tore up sheet after sheet of his attempts; and got up and walked about, and plunged and kicked mentally against the collar and traces in which he had harnessed himself by his friend's help,—trying to convince himself that Hardy was a Puritan, who had lived quite differently from other men, and knew nothing of what a man ought to do in a case like this. That after all very little harm had been done! The world would never go on at all if people were to be so scrupulous! Probably, not another man in the college, except Grey, perhaps, would think anything of what he had done! —Done! why, what had he done? He couldn't be taking it more seriously if he had ruined her!
+
+At this point he managed to bring himself up sharp again more than once. "No thanks to *me* at any rate, that she isn't ruined. Had I any pity, any scruples? My God, what a mean, selfish rascal I have been!" and then he sat down again, and wrote, and scratched out what he had written, till the other fit came on, and something of the same process had to be gone through again.
+
+We must all recognize the process, and remember many occasions on which we have had to put bridle and bit on, and ride ourselves as if we had been horses or mules without understanding; and what a trying business it was—as bad as getting a young colt past a gipsy encampment in a narrow lane.
+
+At last, after many trials, Tom got himself well in hand, and produced something which seemed to satisfy him; for, after reading it three or four times, he put it in a cover with a small case, which he produced from his desk, sealed it, directed it, and then went to bed.
+
+Next morning, after chapel, he joined Hardy, and walked to his rooms with him, and after a few words on indifferent matters, said—
+
+"Well, I wrote my letter last night."
+
+"Did you satisfy yourself?"
+
+"Yes, I think so. I don't know, though, on second thoughts; it was very tough work."
+
+"I was afraid you would find it so."
+
+"But wouldn't you like to see it?"
+
+"No thank you. I suppose my father will be here directly."
+
+"But I wish you would read it through," said Tom, producing a copy.
+
+"Well, if you wish it, I suppose I must; but I don't see how I can do any good."
+
+Hardy took the letter, and sat down, and Tom drew a chair close to him, and watched his face while he read:—
+
+"It is best for us both that I should not see you any more, at least at present. I feel that I have done you a great wrong. I dare not say much to you, for fear of making that wrong greater. I cannot, I need not tell you how I despise myself now—how I long to make you any amends in my power. If ever I can be of any service to you, I do hope that nothing which has passed will hinder you from applying to me. You will not believe how it pains me to write this; how should you? I don't deserve that you should believe anything I say. I must seem heartless to you; I have been, I am heartless. I hardly know what I am writing. I shall long all my life to hear good news of you. I don't ask you to pardon me, but if you can prevail on yourself not to send back the enclosed, and will keep it as a small remembrance of one who is deeply sorry for the wrong he has done you, but who cannot and will not say he is sorry he ever met you, you will be adding another to the many kindnesses which I have to thank you for, and which I shall never forget."
+
+Hardy read it over several times, as Tom watched impatiently, unable to make out anything from his face.
+
+"What do you think? You don't think there's anything wrong in it, I hope?"
+
+"No, indeed, my dear fellow. I really think it does you credit. I don't know what else you could have said very well, only—"
+
+"Only what?"
+
+"Couldn't you have made it a little shorter?"
+
+"No, I couldn't; but you don't mean that. What did you mean by that 'only'?"
+
+"Why, I don't think this letter will end the business; at least, I'm afraid not."
+
+"But what more could I have said?"
+
+"Nothing *more*, certainly; but couldn't you have keep a little quieter—it's difficult to get the right word—a little cooler, perhaps. Couldn't you have made the part about not seeing her again a little more decided?"
+
+"But you said I needn't pretend I didn't care for her."
+
+"Did I?"
+
+"Yes. Besides, it would have been a lie."
+
+"I don't want you to tell a lie, certainly. But how about this 'small remembrance' that you speak of? What's that?"
+
+"Oh, nothing; only a little locket I bought for her."
+
+"With some of your hair in it?"
+
+"Well of course. Come now, there's no harm in that."
+
+"No; no harm. Do you think she will wear it?"
+
+"How can I tell?"
+
+"It may make her think it isn't all at an end, I'm afraid. If she always wears your hair—"
+
+"By Jove, you're too bad, Hardy. I wish you had had to write it yourself. It's all very easy to pull my letter to pieces, I dare say, but—"
+
+"I didn't want to read it, remember."
+
+"No more you did. I forgot. But I wish you would just write down now what you would have said."
+
+"Yes, I think I see myself at it. By the way, of course you have sent your letter?"
+
+"Yes, I sent it off before chapel."
+
+"I thought so. In that case I don't think we need trouble ourselves further with the form of the document."
+
+"Oh, that's only shirking. How do you know I may not want it for the next occasion?"
+
+"No, no! Don't let us begin laughing about it. A man never ought to have to write such letters twice in his life. If he has, why, he may get a good enough precedent for the second out of the 'Complete Letter Writer'.
+
+"So you won't correct my copy?"
+
+"No, not I."
+
+At this point in their dialogue, Captain Hardy appeared on the scene, and the party went off to Drysdale's to breakfast.
+
+Captain Hardy's visit to St. Ambrose was a great success. He stayed some four or five days, and saw everything that was to be seen, and enjoyed it all in a sort of reverent way which was almost comic. Tom devoted himself to the work of cicerone, and did his best to do the work thoroughly. Oxford was a sort of Utopia to the Captain, who was resolutely bent on seeing nothing but beauty and learning and wisdom within the precincts of the University. On one or two occasions his faith was tried sorely by the sight of young gentlemen gracefully apparelled, dawdling along two together in low easy pony carriages, or lying on their backs in punts for hours, smoking, with not even a *Bell's Life* by them to pass the time. Dawdling and doing nothing were the objects of his special abhorrence; but, with this trifling exception, the Captain continued steadily to behold towers and quadrangles, and chapels, and the inhabitants of the colleges, through rose-coloured spectacles. His respect for a "regular education" and for the seat of learning at which it was dispensed was so strong, that he invested not only the tutors, doctors and proctors (of whom he saw little except at a distance), but even the most empty-headed undergraduate whose acquaintance he made, with a sort of fancy halo of scientific knowledge, and often talked to those youths in a way which was curiously bewildering and embarrassing to them. Drysdale was particularly hit by it. He had humour and honesty enough himself to appreciate the Captain, but it was a constant puzzle to him to know what to make of it all.
+
+"He's a regular old brick, is the Captain," he said to Tom, on the last evening of the old gentleman's visit, "but by Jove, I can't help thinking he must be poking fun at us half his time. It is rather too rich to hear him talking on as if we were all as fond of Greek as he seems to be, and as if no man ever got drunk up here."
+
+"I declare I think he believes it," said Tom. "You see we're all careful enough before him."
+
+"That son of his, too, must be a good fellow. Don't you see he can never have peached? His father was telling me last night what a comfort it was to him to see that Jack's poverty had been no drawback to him. He had always told him it would be so amongst English gentlemen, and now he found him living quietly and independently, and yet on equal terms, and friends, with men far above him in rank and fortune 'like you, sir,' the old boy said. By Jove, Brown, I felt devilish foolish. I believe I blushed, and it isn't often I indulge in that sort of luxury. If I weren't ashamed of doing it now, I should try to make friends with Hardy. But I don't know how to face him, and I doubt whether he wouldn't think me too much of a rip to be intimate with."
+
+Tom, at his own special request, attended the Captain's departure, and took his seat opposite to him and his son at the back of the Southampton coach, to accompany him a few miles out of Oxford. For the first mile the Captain was full of the pleasures of his visit, and of invitations to Tom to come and see them in the vacation. If he did not mind homely quarters, he would find a hearty welcome, and there was no finer bathing or boating place on the coast. If he liked to bring his gun, there were plenty of rock-pigeons and sea-otters in the caves at the Point. Tom protested with the greatest sincerity that there was nothing he should enjoy so much. Then the young men got down to walk up Bagley Hill, and when they mounted again, found the Captain with a large leather case in his hand, out of which he took two five-pound notes, and began pressing them on his son, while Tom tried to look as if he did not know what was going on. For some time Hardy steadily refused, and the contention became animated, and it was useless to pretend any longer not to hear.
+
+"Why, Jack, you're not too proud, I hope, to take a present from you own father," the Captain said at last.
+
+"But, my dear father, I don't want the money. You make me a very good allowance already."
+
+"Now, Jack, just listen to me and be reasonable. You know a great many of your friends have been very hospitable to me; I could not return their hospitality myself, but I wish you to do so for me."
+
+"Well, father, I can do that without this money."
+
+"Now, Jack," said the Captain, pushing forward the notes again, "I insist on your taking them. You will pain me very much if you don't take them."
+
+So the son took the notes at last, looking as most men of his age would if they had just lost them, while the father's face was radiant as he replaced his pocket book in the breast pocket inside his coat. His eye caught Tom's in the midst of the operation, and the latter could not help looking a little confused, as if he had been unintentionally obtruding on their privacy. But the Captain at once laid his hand on his knee and said,—
+
+"A young fellow is never the worse for having a ten-pound note to veer and haul on, eh, Mr. Brown?"
+
+"No, indeed, sir. A great deal better I think," said Tom, and was quite comfortable again. The Captain had no new coat that summer, but he always looked like a gentleman.
+
+Soon the coach stopped to take up a parcel at a crossroad, and the young men got down. They stood watching it until it disappeared round a corner of the road, and then turned back towards Oxford, and struck into Bagley Wood, Hardy listening with evident pleasure to his friend's enthusiastic praise of his father. But he was not in a talking humour, and they were soon walking along together in silence.
+
+This was the first time they had been alone together since the morning after their reconciliation; so presently Tom seized the occasion to recur to the subject which was uppermost in his thoughts.
+
+"She has never answered my letter," he began abruptly.
+
+"I am very glad of it," said Hardy.
+
+"But why?"
+
+"Because you know, you want it all broken off completely."
+
+"Yes, but still she might have just acknowledged it. You don't know how hard it is for me to keep away from the place."
+
+"My dear fellow, I know it must be hard work, but you are doing the right thing."
+
+"Yes, I hope so," said Tom, with a sigh. "I haven't been within a hundred yards of 'The Choughs' this five days. The old lady must think it so odd."
+
+Hardy made no reply. What could he say but that no doubt she did?
+
+"Would you mind doing me a great favor?" said Tom, after a minute.
+
+"Anything I can do. —What is it?"
+
+"Why, just to step round on our way back, —I will stay as far off as you like,—and see how things are going on;—how she is."
+
+"Very well. Don't you like this view of Oxford? I always think it is the best of them all."
+
+"No. You don't see anything of half the colleges," said Tom, who was very loath to leave the other subject for the picturesque.
+
+"But you get all the spires and towers so well, and the river in the foreground. Look at that shadow of a cloud skimming over Christchurch Meadow. It's a splendid old place after all."
+
+"It may be from a distance, to an outsider," said Tom; "but I don't know—it's an awfully chilly, deadening kind of place to live in. There's something in the life of the place that sits on me like a weight, and makes me feel dreary."
+
+"How long have you felt that? You're coming out in a new line."
+
+"I wish I were. I want a new line. I don't care a straw for cricket; I hardly like pulling; and as for those wine parties day after day, and suppers night after night, they turn me sick to think of."
+
+"You have the remedy in your own hands, at any rate," said Hardy, smiling.
+
+"How do you mean?"
+
+"Why, you needn't go to them."
+
+"Oh, one can't help going to them. What else is there to do!"
+
+Tom waited for an answer, but his companion only nodded to show that he was listening, as he strolled on down the path, looking at the view.
+
+"I can say what I feel to you, Hardy. I always have been able, and it's such a comfort to me now. It was you who put these sort of thoughts into my head, too, so you ought to sympathize with me."
+
+"I do, my dear fellow. But you'll be all right again in a few days."
+
+"Don't you believe it. It isn't only what you seem to think, Hardy. You don't know me so well as I do you, after all. No, I'm not just love-sick, and hipped because I can't go and see her. That has something to do with it, I dare say, but it's the sort of shut-up selfish life we lead here that I can't stand. A man isn't meant to live only with fellows like himself, with good allowances paid quarterly, and no care but how to amuse themselves. One is old enough for something better than that, I'm sure."
+
+"No doubt," said Hardy with provoking taciturnity.
+
+"And the moment one tries to break through it, one only gets into trouble."
+
+"Yes, there's a good deal of danger of that, certainly," said Hardy.
+
+"Don't you often long to be in contact with some of the realities of life, with men and women who haven't their bread and butter already cut for them? How can a place be a university where no one can come up who hasn't two hundred a year or so to live on?"
+
+"You ought to have been at Oxford four hundred years ago, when there were more thousands here than we have hundreds."
+
+"I don't see that. It must have been ten times as bad then."
+
+"Not at all. But it must have been a very different state of things from ours; they must have been almost all poor scholars, who worked for their living, or lived on next to nothing."
+
+"How do you really suppose they lived, though?"
+
+"Oh, I don't know. But how should you like it now, if we had fifty poor scholars at St. Ambrose, besides us servitors—say ten tailors, ten shoemakers, and so on, who came up from love of learning, and attended all the lectures with us, and worked for the present undergraduates while they were hunting, and cricketing, and boating?"
+
+"Well, I think it would be a very good thing—at any rate, we should save in tailors' bills."
+
+"Even if we didn't get our coats so well built," said Hardy, laughing. "Well, Brown, you have a most catholic taste, and 'a capacity for talking in new truths', all the elements of a good Radical in you."
+
+"I tell you, I hate Radicals," said Tom indignantly.
+
+"Well, here we are in the town. I'll go round by 'The Choughs' and catch you up before you get to High Street."
+
+Tom, left, to himself, walked slowly on for a little way, and then quickly back again in an impatient, restless manner, and was within a few yards of the corner where they had parted, when Hardy appeared again. He saw at a glance that something had happened.
+
+"What is it—she is not ill?" he said quickly.
+
+"No; quite well, her aunt says."
+
+"You didn't see her then?"
+
+"No. The fact is she has gone home."

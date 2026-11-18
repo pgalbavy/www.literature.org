@@ -1,0 +1,87 @@
+---
+title: "Chapter 7 - An Alarming Discovery"
+weight: 7
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-07.html"
+---
+
+By this time the searching party began to realize the difficulties in the path of their success.
+
+If, as was believed, or rather hoped, Nellie had fallen asleep in the woods, they were liable to pass within a dozen feet of where she lay without discovering the fact. Should they call to her, or should Nick emit his resounding signal whistle, she might be awakened, provided only such a brief space separated them, but the chances were scarcely one in a thousand that they would be so fortunate.
+
+This view, at the worst, was a favorable one, and behind it rose the phantoms that caused all to shudder with a dread which they dared not utter.
+
+Only a short distance farther they came upon another path which diverged from the side of the road, returning a little ways beyond. There, an unusually careful search was made, and Nick almost split his cheeks in his efforts to send his penetrating whistle throughout the surrounding country. The three men also called out the name of Nellie in their loudest tones, but nothing except the hollow echoes came back to them.
+
+Nick examined the face of his father's watch by the light of the lantern he carried, and saw that it lacked but a few minutes of nine. They had been searching for the lost child, as this proved, for nearly two hours.
+
+"It seems to me," said Mr. Layton, as the party came to a halt, "that we are not likely to accomplish anything by hunting in this aimless fashion."
+
+"What better can we do?" asked Mr. Kilgore.
+
+"Thus far we have been forced to confine ourselves to the road, excepting when we diverge a few feet: this renders our work about the same as if done by a single person. What I propose, therefore, is that we separate."
+
+"How will that help us?"
+
+"It may not, but we shall cover three or four times the amount of space (I judge Mrs. Ribsam would prefer to remain with her husband and son on account of the single lantern), and it follows that some one of us must pass closer to the spot where Nellie is lying."
+
+This seemed a sensible suggestion, and the two men turned to the afflicted father to learn what he thought of it.
+
+He shook his head.
+
+"Not yet,—not yet; we goes a leetle furder."
+
+Nothing was added by way of explanation, and yet even little Nick knew why he had protested: he wished that all might keep together until they reached the creek. If nothing was learned of his child there, then he would follow the plan of the teacher.
+
+But something seemed to whisper to the parent that the place where they would gain tidings of little Nellie was near that dark, flowing water, which, like such streams, seemed to be always reaching out for some one to strangle in its depths.
+
+"Perhaps Mr. Ribsam is right," said the teacher, after a silence which was oppressive even though brief; "we will keep each other's company, for it is lonely work tramping through the woods, where there is no beaten path to follow."
+
+Thereupon the strange procession resumed its march toward the distant town of Dunbarton, pausing at short intervals to call and signal to the missing one.
+
+It was a vast relief to all that the weather continued so mild and pleasant. In the earlier part of the day there were some signs of an approaching storm, but the signs had vanished and the night was one of the most pleasant seen in September.
+
+Had the rain begun to fall, or had the temperature lowered, the mother would have been distracted, for nothing could have lessened the pangs caused by her knowledge that her darling one was suffering. The true mother lives for her children, and their joys and sorrows are hers.
+
+Whenever the wind rustled among the branches around them she shuddered and instinctively drew her own shawl closer about her shoulder; she would have given a year's toil could she have wrapped the thick woolen garment about the tiny form of her loved one, who never seemed so dear to her as then.
+
+"Gustav," she whispered, twitching his elbow, "I want to speak one word to you."
+
+"Speak out; they cannot understand us," he answered, alluding to the fact that they were using their own language.
+
+"Yes, but I don't want Nick to know what I say."
+
+The husband thereupon fell back beside her, and in a tremulous voice she said:
+
+"Do you remember when Nellie was three years old?"
+
+"Of course I remember further back than that: why do you ask?"
+
+"When she had the fever and was getting well?"
+
+"Yes, I cannot forget it; poor girl, her cheeks were so hot I could almost light a match by them; but, thank God, she got over it."
+
+"You remember, Gustav, how cross she was and how hard it was to please her?"
+
+"But that was because she was sick; when she was well, then she laughed all the time, just like Nick when he don't feel bad."
+
+"But—but," and there was an unmistakable tremor in the voice, "one day when she was cross she asked for a drink of water; Nick was sitting in the room and jumped up and brought it to her, but she was so out of humor she shook her head and would not take it from him; she was determined I should hand it to her. I thought she was unreasonable and I told Nick to set it on the bureau, and I let Nellie know she shouldn't have it unless she took it from him; I meant that I wouldn't hand it to her and thereby humor her impatience. She cried, but she was too stubborn to give in, and I refused to hand her the water. Nick felt so bad he left the room, and I was sorry; but Nellie was getting well, and I was resolved to be firm with her. She was very thirsty, for her fever was a terrible one. I was tired and dropped into a doze. By-and-by I heard Nellie's bare feet pattering on the floor, and softly opening my eyes, without stirring I saw her walk hastily to the bureau, catch hold of the tumbler and she drank every drop of water in it. She was so weak and dizzy that she staggered back and threw herself on the bed like one almost dead. The next day she was worse, and we thought we were going to lose her. You saw how hard I cried, but most of my tears were caused by the remembrance of my cruelty to her the night before."
+
+"But, Katrina, you did right," said the father, who heard the affecting incident for the first time. "It won't do to humor children so much: it will spoil them."
+
+"That may be, but I cannot help thinking of that all the time; it would have done no harm to humor Nellie that time, for she was a good girl."
+
+"You speak truth, but—"
+
+The poor father, who tried so bravely to keep up, broke down and was unable to speak. The story touched him as much as it did the mother.
+
+"Never mind, Katrina—"
+
+At that moment Nick called out:
+
+"Here's the bridge!"
+
+The structure loomed through the gloom as it was dimly lighted by the lanterns, and all walked rapidly forward until they stood upon the rough planking.
+
+Suddenly the mother uttered a cry, and stooping down snatched up something from the ground close to the planks.
+
+The startled friends looked affrightedly toward her, and saw that she held the lunch basket of her little daughter in her hand.

@@ -1,0 +1,13 @@
+<nav class="w3-bar" style="font-size:24px; white-space: nowrap">
+  <button class="w3-bar-item w3-button" onclick="w3_open()" type="button" title="Open navigation"><i class="material-icons md-lit">menu</i></button>
+
+  {{ with .BackURL }}
+  <a class="w3-bar-item w3-button w3-left" href="{{ . }}" title="{{ $.BackTitle }}">
+    <i class="material-icons md-lit">{{ $.BackIcon }}</i>
+  </a>
+  {{ else }}
+  <a class="w3-bar-item w3-button w3-left" href="/" title="Home"><i class="material-icons md-lit">home</i></a>
+  {{ end }}
+
+  <div class="w3-bar-item lit w3-hide-small">{{ .Title }}</div>
+</nav>

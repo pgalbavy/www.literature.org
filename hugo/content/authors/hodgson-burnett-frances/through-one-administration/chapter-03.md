@@ -1,0 +1,39 @@
+---
+title: "Chapter 3"
+weight: 3
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-03.html"
+---
+
+Two years later he found himself, one evening in March, driving along Pennsylvania avenue in a musty hack, which might have been the very one which had borne him to the depot the night he had seen the last of Bertha and her white roses. But the streets were gayer now than they had been then. He had arrived only a day or so after the occurrence of an event of no less national importance than the inauguration of a newly elected President, and there still remained traces of the festivities attendant upon this ceremony, in the shape of unremoved decorations fluttering from windows, draping doors, and swaying in lines across the streets. Groups of people, wearing a rather fatigued air of having remained after the feast for the purpose of more extended sight-seeing, gave the sidewalks a well-filled look, and here and there among them was to be seen a belated uniform which had figured effectively in the procession to the Capitol two days before.
+
+Having taken note of these things, Tredennis leaned back upon his musty cushions with a half sigh of weariness.
+
+"I come in with the Administration," he said. "I wonder if I shall go out with it, and what will have happened in the interval."
+
+He was thinking of his past and what it had paid him. He had set out in his early manhood with the fixed intention of making for himself a place in the world in which he might feel a reasonable amount of pride. He had attained every object he had aimed at, with the knowledge that he had given for every such object its due value in labor, persistent effort, and steadiness of purpose. No man of his age stood higher in his profession than he did--very few as high. He had earned distinction, honor, and not a little applause. He had found himself "a lion" on more than one occasion, and though he had not particularly enjoyed the experience, had not undervalued it as an experience. The world had used him well, and if he had been given to forming intimacies he might have had many friends. His natural tendency to silence and reserve had worked against him in this, but as it was, he had no enemies and many well-wishers. It was not his habit to bemoan even in secret his rather isolated life; there were times when he told himself that no other would suit him so well, but there were also times when he recognized that it was isolated, and the recognition was one which at such moments he roused all the force of his nature to shut out of his mind as soon as possible. He had, perhaps, never fully known the influence his one vague dream had had upon his life. When it ended he made a steady effort to adjust himself to the new condition of existing without it, and had learned much of the strength of its power over him by the strength of the endeavor it had cost him. His inward thought was, that if there had been a little more to remember the memory might have been less sad. As it was, the forgetting was a slow, vague pain, which he felt indefinitely long after he thought that it had died away. He put the old drifting fancies out of his mind, and, having no leaning toward self-indulgence, believed at last that they were done with because they returned but seldom; but he never heard of Bertha, either through the professor or through others, without being conscious for days afterward of an unrest he called by no name.
+
+He rested under the influence of this feeling as he was driven through the lighted streets toward his hotel, and his recollection of his last drive through these same streets made it stronger.
+
+"Eight years," he said. "She has been to many parties since then. Let us hope she has enjoyed them all."
+
+He made his first visit to the professor the same evening, after he had established himself in his room and dined. The professor was always at home in the evening, and, irregular as their correspondence had been, Tredennis felt that he was sure of a welcome from him.
+
+He was not mistaken in this. He found his welcome.
+
+The professor was seated in his dressing-gown, before his study-table, as if he had not stirred during the eight years. He had even the appearance of being upon the point of empaling the same corpulent beetle upon the same attenuated pin, and of engaging in the occupation with the same scientific interest Tredennis remembered so well.
+
+On hearing his visitor's name announced, he started slightly, laid his beetle aside with care, and, rising from his seat, came forward with warm pleasure in his face.
+
+"What!" he exclaimed. "What!--you, Tredennis! Well, well! I'm very glad, my dear fellow! I'm very glad."
+
+He shook his hand affectionately, at the same time holding him by the shoulder, as if to make more sure of him.
+
+"I am very glad myself," said Tredennis. "It is a great pleasure to see you again."
+
+"And it took you eight years to get round to us," said the professor, looking at him thoughtfully, and turning him round a trifle more to the light. "Eight years! That's a slice out of a man's life, too."
+
+"But you are no older, professor," said Tredennis. "I am older, but not you."
+
+The professor nodded acquiescence.
+
+"Yes, yes, I know all about that," he said. "You're an old fellow, now; I was an old fellow myself forty years ago. There, sit down, and tell me all about it. That is the chair you sat in when you were here last. You sat in it the night--the night we talked about Bertha."

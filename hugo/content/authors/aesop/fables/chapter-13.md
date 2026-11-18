@@ -1,0 +1,7 @@
+---
+title: "The Ants And The Grasshopper"
+weight: 15
+url: "/authors/aesop/fables/chapter-13.html"
+---
+
+THE ANTS were spending a fine winter's day drying grain collected in the summertime. A Grasshopper, perishing with famine, passed by and earnestly begged for a little food. The Ants inquired of him, "Why did you not treasure up food during the summer?' He replied, "I had not leisure enough. I passed the days in singing." They then said in derision: "If you were foolish enough to sing all the summer, you must dance supperless to bed in the winter."

@@ -1,0 +1,37 @@
+---
+title: "Chapter 3 - The Meddler"
+weight: 3
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-03.html"
+---
+
+"Why don't you tell the geese that it's dangerous for them to swim in the duck pond?" the rooster asked Turkey Proudfoot. "Tell them how it almost gives you a chill just to see them set out for the pond. Ask them to keep out of the water."
+
+Turkey Proudfoot drew himself up to his full height, spread his tail, and looked down at the rooster with great disdain. "Ask!" he exclaimed. "I never ask anything of anybody. I'll have you know, sir, that I give orders. And when I give 'em I expect folks to obey 'em."
+
+"Good!" cried the rooster gayly. He was really shaking in his shoes and didn't intend to let Turkey Proudfoot know it. "Order the geese to stay away from the water. Command them to stop swimming. If you don't, you'll have a terrible chill some day when you see them set out for the duck pond. And you don't want to be ill just before the holidays."
+
+"That's true," said Turkey Proudfoot. "I don't want to get a chill and be ill." And then he turned suddenly upon the startled rooster. "Look here!" cried Turkey Proudfoot. "It seems to me that you are giving me orders."
+
+"Not at all!" the rooster assured him. "No, indeed! You're mistaken."
+
+"Don't tell me I'm mistaken!" Turkey Proudfoot bawled in an angry, gobbly voice. "I'm never mistaken."
+
+"Oh, certainly not!" said the rooster, who was bold as brass with most of his neighbors, but very mild with Turkey Proudfoot.
+
+"Ha!" Turkey Proudfoot exclaimed. "You're getting yourself into a hole, sir! If I wasn't mistaken, then you were giving me orders. And in either case I should have to fight you."
+
+This was too much for the rooster. He couldn't grasp what Turkey Proudfoot was saying. He only knew that things looked bad for him because Turkey Proudfoot was getting angrier every moment.
+
+"I say!" the rooster cried. "Please don't waste your time on me just now, Mr. Turkey Proudfoot! Here come the six silly geese back from the duck pond. And I'd suggest that you speak to them at once and warn them not to enter the water again."
+
+Turkey Proudfoot glanced across the farmyard. It was as the rooster had said. The six geese were waddling around a corner of the barn in single file. Somehow the sight of them made him so furious that he forgot he had been picking a quarrel with the rooster.
+
+"I'll attend to them," he gobbled. "I'll fix them. They'll be so scared that they won't dare leave this yard again."
+
+Turkey Proudfoot hurried towards the geese. He didn't take time to strut, but ran across the yard with long strides.
+
+"Don't be silly geese!" Turkey Proudfoot called. "Keep away from the duck-pond! The weather's getting colder every day; and it makes me shiver to see you start off for a swim."
+
+Turkey Proudfoot had supposed the six geese would be very meek and most eager to obey his commands. But to his great surprise they stopped, wheeled about so that they stood in a row, facing him, and hissed loudly.
+
+It was not at all the sort of answer Turkey Proudfoot had expected.

@@ -1,0 +1,117 @@
+---
+title: "Chapter 3 - Secret Service"
+weight: 3
+url: "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-03.html"
+---
+
+In a week Paul was a favorite with the household; even prudent Hester felt the charm of his presence, and owned that Lillian was happier for a young companion in her walks. Hitherto the child had led a solitary life, with no playmates of her own age, such being the will of my lady; therefore she welcomed Paul as a new and delightful amusement, considering him her private property and soon transferring his duties from the garden to the house. Satisfied of his merits, my lady yielded to Lillian's demands, and Paul was installed as page to the young lady. Always respectful and obedient, he never forgot his place, yet seemed unconsciously to influence all who approached him, and win the goodwill of everyone.
+
+My lady showed unusual interest in the lad, and Lillian openly displayed her admiration for his accomplishments and her affection for her devoted young servitor. Hester was much flattered by the confidence he reposed in her, for to her alone did he tell his story, and of her alone asked advice and comfort in his various small straits. It was as she suspected: Paul was a gentleman's son, but misfortune had robbed him of home, friends, and parents, and thrown him upon the world to shift for himself. This sad story touched the woman's heart, and the boy's manly spirit won respect. She had lost a son years ago, and her empty heart yearned over the motherless lad. Ashamed to confess the tender feeling, she wore her usual severe manner to him in public, but in private softened wonderfully and enjoyed the boy's regard heartily.
+
+"Paul, come in. I want to speak with you a moment," said my lady, from the long window of the library to the boy who was training vines outside.
+
+Dropping his tools and pulling off his hat, Paul obeyed, looking a little anxious, for the month of trial expired that day. Lady Trevlyn saw and answered the look with a gracious smile.
+
+"Have no fears. You are to stay if you will, for Lillian is happy and I am satisfied with you."
+
+"Thank you, my lady." And an odd glance of mingled pride and pain shone in the boy's downcast eyes.
+
+"That is settled, then. Now let me say what I called you in for. You spoke of being able to illuminate on parchment. Can you restore this old book for me?"
+
+She put into his hand the ancient volume Sir Richard had been reading the day he died. It had lain neglected in a damp nook for years till my lady discovered it, and, sad as were the associations connected with it, she desired to preserve it for the sake of the weird prophecy if nothing else. Paul examined it, and as he turned it to and fro in his hands it opened at the page oftenest read by its late master. His eye kindled as he looked, and with a quick gesture he turned as if toward the light, in truth to hide the flash of triumph that passed across his face. Carefully controlling his voice, he answered in a moment, as he looked up, quite composed, "Yes, my lady, I can retouch the faded colors on these margins and darken the pale ink of the Old English text. I like the work, and will gladly do it if you like."
+
+"Do it, then, but be very careful of the book while in your hands. Provide what is needful, and name your own price for the work," said his mistress.
+
+"Nay, my lady, I am already paid - "
+
+"How so?" she asked, surprised.
+
+Paul had spoken hastily, and for an instant looked embarrassed, but answered with a sudden flush on his dark cheeks, "You have been kind to me, and I am glad to show my, gratitude in any way, my lady."
+
+"Let that pass, my boy. Do this little service for me and we will see about the recompense afterward." And with a smile Lady Trevlyn left him to begin his work.
+
+The moment the door closed behind her a total change passed over Paul. He shook his clenched hand after her with a gesture of menace, then tossed up the old book and caught it with an exclamation of delight, as he reopened it at the worn page and reread the inexplicable verse.
+
+"Another proof, another proof! The work goes bravely on, Father Cosmo; and boy as I am, I'll keep my word in spite of everything," he muttered.
+
+"What is that you'll keep, lad?" said a voice behind him.
+
+"I'll keep my word to my lady, and do my best to restore this book, Mrs. Hester," he answered, quickly recovering himself.
+
+"Ah, that's the last book poor Master read. I hid it away, but my lady found it in spite of me," said Hester, with a doleful sigh.
+
+"Did he die suddenly, then?" asked the boy.
+
+"Dear heart, yes; I found him dying in this room with the ink scarce dry on the letter he left for my lady. A mysterious business and a sad one."
+
+"Tell me about it. I like sad stories, and I already feel as if I belonged to the family, a loyal retainer as in the old times. While you dust the books and I rub the mold off this old cover, tell me the tale, please, Mrs. Hester."
+
+She shook her head, but yielded to the persuasive look and tone of the boy, telling the story more fully than she intended, for she loved talking and had come to regard Paul as her own, almost.
+
+"And the letter? What was in it?" asked the boy, as she paused at the catastrophe.
+
+"No one ever knew but my lady."
+
+"She destroyed it, then?"
+
+"I thought so, till a long time afterward, one of the lawyers came pestering me with questions, and made me ask her. She was ill at the time, but answered with a look I shall never forget, 'No, it's not burnt, but no one shall ever see it.' I dared ask no more, but I fancy she has it safe somewhere and if it's ever needed she'll bring it out. It was only some private matters, I fancy."
+
+"And the stranger?"
+
+"Oh, he vanished as oddly as he came, and has never been found. A strange story, lad. Keep silent, and let it rest."
+
+"No fear of my tattling," and the boy smiled curiously to himself as he bent over the book, polishing the brassbound cover.
+
+"What are you doing with that pretty white wax?" asked Lillian the next day, as she came upon Paul in a quiet corner of the garden and found him absorbed in some mysterious occupation.
+
+With a quick gesture he destroyed his work, and, banishing a momentary expression of annoyance, he answered in his accustomed tone as he began to work anew, "I am molding a little deer for you, Miss Lillian. See, here is a rabbit already done, and I'll soon have a stag also."
+
+"It's very pretty! How many nice things you can do, and how kind you are to think of my liking something new. Was this wax what you went to get this morning when you rode away so early?" asked the child.
+
+"Yes, Miss Lillian. I was ordered to exercise your pony and I made him useful as well. Would you like to try this? It's very easy."
+
+Lillian was charmed, and for several days wax modeling was her favorite play. Then she tired of it, and Paul invented a new amusement, smiling his inexplicable smile as he threw away the broken toys of wax.
+
+"You are getting pale and thin, keeping such late hours, Paul. Go to bed, boy, go to bed, and get your sleep early," said Hester a week afterward, with a motherly air, as Paul passed her one morning.
+
+"And how do you know I don't go to bed?" he asked, wheeling about.
+
+"My lady has been restless lately, and I sit up with her till she sleeps. As I go to my room, I see your lamp burning, and last night I got as far as your door, meaning to speak to you, but didn't, thinking you'd take it amiss. But really you are the worse for late hours, child."
+
+"I shall soon finish restoring the book, and then I'll sleep. I hope I don't disturb you. I have to grind my colors, and often make more noise than I mean to."
+
+Paul fixed his eyes sharply on the woman as he spoke, but she seemed unconscious of it, and turned to go on, saying indifferently, "Oh, that's the odd sound, is it? No, it doesn't trouble me, so grind away, and make an end of it as soon as may be."
+
+An anxious fold in the boy's forehead smoothed itself away as he left her, saying to himself with a sigh of relief, "A narrow escape; it's well I keep the door locked."
+
+The boy's light burned no more after that, and Hester was content till a new worry came to trouble her. On her way to her room late one night, she saw a tall shadow flit down one of the side corridors that branched from the main one. For a moment she was startled, but, being a woman of courage, she followed noiselessly, till the shadow seemed to vanish in the gloom of the great hall.
+
+"If the house ever owned a ghost I'd say that's it, but it never did, so I suspect some deviltry. I'll step to Paul. He's not asleep, I dare say. He's a brave and a sensible lad, and with him I'll quietly search the house."
+
+Away she went, more nervous than she would own, and tapped at the boy's door. No one answered, and, seeing that it was ajar, Hester whisked in so hurriedly that her candle went out. With an impatient exclamation at her carelessness she glided to the bed, drew the curtain, and put forth her hand to touch the sleeper. The bed was empty. A disagreeable thrill shot through her, as she assured herself of the fact by groping along the narrow bed. Standing in the shadow of the curtain, she stared about the dusky room, in which objects were visible by the light of a new moon.
+
+"Lord bless me, what is the boy about! I do believe it was him I saw in the - " She got no further in her mental exclamation for the sound of light approaching footsteps neared her. Slipping around the bed she waited in the shadow, and a moment after Paul appeared, looking pale and ghostly, with dark, disheveled hair, wide-open eyes, and a cloak thrown over his shoulders. Without a pause he flung it off, laid himself in bed, and seemed to sleep at once.
+
+"Paul! Paul!" whispered Hester, shaking him, after a pause of astonishment at the whole proceeding.
+
+"Hey, what is it?" And he sat up, looking drowsily about him.
+
+"Come, come, no tricks, boy. What are you doing, trailing about the house at this hour and in such trim?"
+
+"Why, Hester, is it you?" he exclaimed with a laugh, as he shook off her grip and looked up at her in surprise.
+
+"Yes, and well it is me. If it had been any of those silly girls, the house would have been roused by this time. What mischief is afoot that you leave your bed and play ghost in this wild fashion?"
+
+"Leave my bed! Why, my good soul, I haven't stirred, but have been dreaming with all my might these two hours. What do you mean, Hester?"
+
+She told him as she relit her lamp, and stood eyeing him sharply the while. When she finished he was silent a minute, then said, looking half vexed and half ashamed, "I see how it is, and I'm glad you alone have found me out. I walk in my sleep sometimes, Hester, that's the truth. I thought I'd got over it, but it's come back, you see, and I'm sorry for it. Don't be troubled. I never do any mischief or come to any harm. I just take a quiet promenade and march back to bed again. Did I frighten you?"
+
+"Just a trifle, but it's nothing. Poor lad, you'll have to have a bedfellow or be locked up; it's dangerous to go roaming about in this way," said Hester anxiously.
+
+"It won't last long, for I'll get more tired and then I shall sleep sounder. Don't tell anyone, please, else they'll laugh at me, and that's not pleasant. I don't mind your knowing for you seem almost like a mother, and I thank you for it with all my heart."
+
+He held out his hand with the look that was irresistible to Hester. Remembering only that he was a motherless boy, she stroked the curly hair off his forehead, and kissed him, with the thought of her own son warm at her heart.
+
+"Good night, dear. I'll say nothing, but give you something that will ensure quiet sleep hereafter."
+
+With that she left him, but would have been annoyed could she have seen the convulsion of boyish merriment which took possession of him when alone, for he laughed till the tears ran down his cheeks.

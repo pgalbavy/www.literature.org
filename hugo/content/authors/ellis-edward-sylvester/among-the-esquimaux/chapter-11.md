@@ -1,0 +1,89 @@
+---
+title: "Chapter 11 - Lively Times"
+weight: 11
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-11.html"
+---
+
+Rob's fall was not far, and his heavy clothing saved him from the bruises that otherwise might have disabled him. He stared about him and saw that he had fallen into a rough depression of the ice from six to eight feet in depth, and of about the same diameter.
+
+"Here's a go," he reflected; "I wonder whether the bear will follow me here, but he's giving his full attention to poor Jack, and won't hunt for me until he is through with him."
+
+It was characteristic of the lad that, knowing the imminent peril of his friend, he should feel more anxious about him than himself. All thought of the missing Fred was shut out for the moment.
+
+The first thing for Rob to do was to get out of the hole into which he had fallen. He did not wait, but, throwing off his outer coat, flung it upon the edge of the depression, and then, leaping upward, caught the margin with his mittened hands. As I stated at the beginning, he was a fine athlete, but the task was almost impossible. The purchase was so slight that when he put forth his strength and attempted to draw himself upward, his mittens slipped, as though they were oiled.
+
+Then he snatched off the mittens, threw them upon his coat, and again made the attempt; he failed as before.
+
+"I've got to stay here while the bear kills poor Jack," was his despairing thought; "I can do nothing, when, if I were up there, I could lay hold of one of the guns and save him."
+
+The reflection was so bitter that he could not rest. Walking rapidly around the depression, he jumped upward at every step or two and repeated the effort. Failure followed failure, and he was once more in despair.
+
+Again he made the attempt, and his hand struck a knob-like projection, which afforded just the purchase wanted. Grasping it with all his might, he quickly drew himself upward, and was once more on what might be considered the surface proper of the iceberg.
+
+At the moment of climbing into sight he heard the report of a gun.
+
+"Ah, Jack has managed to reach his rifle, and has given the brute a shot—no, he hasn't, either!"
+
+To his unbounded amazement, he saw the sailor fleeing and dodging for life, with the bear still at his heels. But he had no gun in his hand, and, casting his eye below him, Rob observed both weapons lying where they were placed by the owners a short time before.
+
+Who had fired that gun whose report he just heard?
+
+It was an absorbing question, indeed, but there was no time just then to give it a thought. Rob was much nearer the rifles than either Jack or the bear, and he now hastened thither, taking care that his last mishap was not repeated.
+
+From what has been told it will be understood that Jack Cosgrove found no time for the grass to grow under his feet. He had pulled himself through many a narrow peril, but he was sure he was never quite so hard pressed as now. He tried dodging and sudden turns in the line of his flight, and doubtless saved himself more than once by such means; but the discouraging fact was ever with him that his relentless enemy could travel tenfold faster and better than he over the ice, and sooner or later was certain to run him down unless turned aside by some one else.
+
+Jack naturally wondered what had become of Rob, who was so active only a short time before. His furtive glances showed him nothing of his friend, but he had no chance to speculate, nor did he call upon him for help, as the lad had appealed to him but a short time before.
+
+The sorely pressed fugitive drew his knife to be prepared for the final struggle that was at hand. He had met polar bears before, and he knew what such a conflict meant.
+
+He was wise enough, too, not to postpone the struggle until his own strength was exhausted by running. He whirled about, when the brute was no more than ten feet distant, and grasping his knife by the tip of the blade, drove it with all the vicious fury at his command straight at the head of the bear.
+
+The sailor was an adept at this species of throwing, and had often given exhibitions of his skill on shipboard. It was not to be expected that he could kill such a gigantic animal by flinging his sheath knife at him, but it sped so true and with such power, that, striking his neck, it inflicted a deep wound, sinking so deep, indeed, that it remained in the wound.
+
+At this juncture the rifle, whose report Rob heard, was fired. The sailor supposed, as a matter of course, that Rob discharged it, for there could be no doubt the bear was the target. The bullet struck him near the junction of the left leg, and there could be no mistake about his being hit hard. He uttered a peculiar whining moan, stopped for the moment, and then resumed his pursuit with such a marked limp that his progress was perceptibly decreased.
+
+Seeing his own advantage, Jack was wise enough to use it. In his desperation he had deprived himself of his only weapon, and he was defenseless. But with a limping bear lumbering after him, and with the short respite he had gained, he fancied he could hold his own in a foot-race. So he wheeled and went at it again.
+
+By this time, and, indeed, a minute before, Rob had reached the spot where the two guns lay, and with both in his grasp he set off in hot haste to overtake the brute. He meant to get so near that when he fired there could be no miss.
+
+To his exasperation, he stumbled and came within a hair of going into the very hole from which he had extricated himself with so much difficulty. But he escaped, and finding neither weapon injured, he resumed his pursuit, cheered by the apparent fact that the bear was no longer able to gain upon the fugitive.
+
+Jack had run as close to the edge of the iceberg as possible, and to venture nearer would be at the imminent risk of going into the icy sea. He perforce turned, and sped in the direction of the lad, who was hastening to his help.
+
+This suited Rob, for there was no call for him to continue his pursuit, since the bear was approaching "head on." The youth stopped as soon as he saw the change, and prepared to close matters.
+
+The opening could not have been better, and, dropping one rifle at his feet, Rob steadied himself and took careful aim at the beast. He pointed the gun not at his head, but at a point just below, hoping to reach his heart.
+
+He saw the snowy coat stained crimson from the wound made by Jack's knife, and he limped heavily.
+
+"Look out you don't hit me!" called the panting sailor, whose grim humor showed itself at the most inopportune times.
+
+"Get out of the way, then!" called Rob, in turn; "you're right in front of me."
+
+Jack dodged to one side, being at the moment about midway between his friend and pursuer, and less than twenty feet from either.
+
+The next instant the lad pulled trigger.
+
+But the bear did not stop, and showed no evidence of having been so much as harmed.
+
+"You missed him, you lubber! Let me have the other gun, and show you how to bring down game."
+
+There was no time for any such proceeding, and, dropping the discharged weapon, Rob instantly stooped and caught up the second.
+
+[Illustration: *JUST THEN THE REPORT OF ANOTHER GUN SOUNDED*
+
+(See page 106)]
+
+Just then another gun sounded from a point higher up the berg, and the huge brute stopped. He seemed dazed, and, half-rearing on his haunches, picked at the wound, as though he fancied a splinter was there, which he could draw from his flesh.
+
+"He's going to attack us with the knife!" called Jack, who saw that the danger was over; "and I shouldn't wonder if he knows how to do it better than you can manage your gun."
+
+"Keep out of the way, Jack, and I'll finish him."
+
+Rob had brought the second weapon to a level, and the opening was, if possible, more favorable than before.
+
+Again he pulled trigger, and this shot did the business. The monster, one of the largest and fiercest of his species, went down in a helpless mass, and expired before their eyes.
+
+"Hello, you chaps would be in a pretty scrape if it wasn't for me!"
+
+Jack and Rob turned toward the point whence the voice came and saw Fred Warburton hastening toward them with his smoking rifle in hand.

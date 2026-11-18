@@ -1,0 +1,7 @@
+---
+title: "The Mules And The Robbers"
+weight: 299
+url: "/authors/aesop/fables/chapter-297.html"
+---
+
+TWO MULES well-laden with packs were trudging along. One carried panniers filled with money, the other sacks weighted with grain. The Mule carrying the treasure walked with head erect, as if conscious of the value of his burden, and tossed up and down the clear-toned bells fastened to his neck. His companion followed with quiet and easy step. All of a sudden Robbers rushed upon them from their hiding-places, and in the scuffle with their owners, wounded with a sword the Mule carrying the treasure, which they greedily seized while taking no notice of the grain. The Mule which had been robbed and wounded bewailed his misfortunes. The other replied, "I am indeed glad that I was thought so little of, for I have lost nothing, nor am I hurt with any wound."

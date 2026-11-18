@@ -1,0 +1,81 @@
+---
+title: "Chapter 14 - In The Enemy’s Camp"
+weight: 14
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-14.html"
+---
+
+The savages, after starting the fire, allowed it to smolder and die out, for fear of guiding their enemies. Now this was the most fortunate thing that could have happened for their pursuers; for, in the first place, it burned long enough to give them a perfect knowledge of the position of Ina and Seth; and, when its light could no longer be of any assistance, but would materially injure their hopes, the Indians were kind enough to let it fade entirely out.
+
+Before giving the signal, the hunter deemed it best to ascertain the whereabouts of the savage missing at the camp-fire. Leaving his rifle in the charge of Haverland, and cautioning them not to move, he crept stealthily forward. So silent and snake-like was his approach, that the savage lying directly in his path had not the slightest suspicion of his proximity. The first thing that attracted his attention was the *thought* that he heard a slight movement in front of him. Raising his head a few inches, he peered cautiously forward. Nothing meeting his keen vision he sunk back again.
+
+The hunter and savage, both being on the ground, were in blank darkness, and although their forms, if standing on their feet, would have been plainly discernible, yet under the thick shadows of the undergrowth, they might have touched each other without knowing it. The hunter, however, as he lay, caught the outlines of the savage’s head against the fading light of the fire behind him, as he raised it. This gave him a knowledge of his position and determined his own mode of action.
+
+Without the least noise, he slid slowly forward until he was so close that he could actually hear the Indian’s breath. Then he purposely made a slight movement. The Indian raised his head, and was gradually coming to his feet, when the hunter bounded like a dark ball forward, clutched him by the throat, and bearing him like a giant to the earth, drove his hunting knife again and again to the hilt in his heart. It was a fearful act, yet there was no hesitation upon the hunter’s part. He felt that it must be done.
+
+He loosened his grip upon his victim’s throat, when there was not a spark of life left. Then casting his body to one side, he made his way back to his companions. Here, in a few words, he explained what had taken place. It was evident that the Indians were so cautious and alarmed, that the most consummate skill was required, to accomplish the work in hand.
+
+Suddenly an ingenious plan occurred to Graham. It was to dress himself in the fallen Indian’s dress, walk boldly into their camp, and be guided by circumstances. After a moment’s consultation, it was acquiesced in by all. Haldidge made his way to where the savage lay, and hastily stripping him, returned with his garments. These Graham donned in a few moments, and was ready. It was agreed that he should walk leisurely among them, while Haverland and Haldidge would follow him, and remain nigh enough to be ready at a moment’s warning. If discovered, he was to seize Ina and make off in the woods, while his two friends would rush forward, free Seth, and make an onslaught upon the others.
+
+The fire was now so low, that Graham had little fear of exposing himself unless compelled to hold a conversation. The savages started as he came to view, but fortunately said nothing, as they supposed it to be their comrade. Graham walked leisurely to the almost dead fire, and seated himself by Seth. The savages continued placidly smoking their pipes.
+
+"Ugh!" grunted Graham, peering into Seth’s face. The latter started slightly, looked up, and understood all in a moment. Seth pointed to his feet; Graham nodded.
+
+"Say, you, you was clever enough to tie up my feet, and, now just have the kindness to move ’em a little nearer the fire. Come, do, and I’ll remember you in my will."
+
+Graham mumbled something, and, stooping forward as he moved the feet slightly, dexterously cutting the thong at the same moment.
+
+"Much obliged," said Seth; "that’ll dew: needn’t take no further trouble, you old painted heathen."
+
+Graham felt that if he could now put Ina upon her guard, all would be necessary was—to act. But this was hardly possible. While ruminating upon the next step to be taken, an Indian addressed him in the Indian tongue. Here was a dilemma, and Graham was already meditating upon making the onslaught at once, when the ready wit of Seth came to his aid. Disguising most completely his voice, the eccentric fellow replied in the Indian tongue. This slight stratagem was executed so perfectly, that not a savage entertained the slightest suspicion that another than their dead comrade had spoken to them. Another question was put, but before Seth could reply, there came the startling cry of the whipporwil close at hand. All the savages sprang to their feet, and one held his tomahawk, ready to brain the captive Ina, in case they could not retain her. Another leaped toward Seth, but his surprise was great, when the man in turn sprang nimbly to his feet, and this surprise became unbounded, when, doubling himself like a ball, Seth struck him with tremendous force in the stomach, knocking him instantly senseless. Quick as thought, Graham felled the savage standing over Ina, and seizing her in his arms, plunged into the wood, setting up a loud shout at the same instant. The scene now became desperate. Haldidge and Haverland, fired almost to madness, rushed forward, and the former added his own yells to those of the savages. Ten minutes after, not an Indian was in sight. Finding it impossible to withstand this terrible onslaught, they fled precipitately, carrying with them several desperate wounds and feelings.
+
+No lives were lost on either side, and not a wound worth mentioning was received by the assailants. The rout was complete.
+
+But there was still danger, as the routed Indians would make all haste to the main body, and would in turn pursue the whites. This Haldidge remarked, as he struck into the forest, and called upon the others not to lose sight of him. There was danger of this, indeed.
+
+"By gracious! yew, Haverland, things begin to look up," exclaimed Seth.
+
+"Thank God!" responded the father, with a trembling voice.
+
+Ina, for a few moments after her recapture, was so bewildered as not to comprehend the true state of affairs. Finally, she realized that she was in the arms of friends.
+
+"Am I safe? Where is father?" she asked.
+
+"Here, my dearest child," answered the parent, pressing her to his heart.
+
+"Is mother and aunty safe?"
+
+"Yes, all—all are safe, I trust now."
+
+"And who are these, with you?"
+
+"This is Haldidge, a dear friend of ours, to whom, under Heaven, your rescue is owing, and—"
+
+"Just hold on, Alf, now, if you please; that’s plenty," interrupted the hunter.
+
+"Of course I did not mean to leave out Seth here, and—"
+
+"No, by gracious, it wouldn’t do, especially when you recollect how nice it was that me and Graham gave ’em the slip."
+
+"You, and who?" eagerly asked Ina.
+
+"Me and Mr. Graham—that fellow standing there—the one that has come out here to marry you. Haven’t you heard of him?"
+
+Ina stepped forward, and scrutinized the face before her.
+
+"Don’t you remember me?" asked Graham, pleasantly.
+
+"Oh, is it you? I am *so* glad you are here," she repeated, placing both her hands in his, and looking up into his face.
+
+"Now just see here," said Seth, stepping earnestly forward, "I ’bject to this. Cos why, you haven’t the time to go into the sparking business, and if you do, why you’ll be obsarved. I advise you to postpone it till you git home. What’s the opinion of the audience?"
+
+"Your suggestion is hardly necessary," laughed Graham. "The *business* you referred to, shall most certainly be deferred until a more convenient season."
+
+"It gives me great pleasure," remarked Haverland, "to witness this reunion of friends, and I thank God that my dear child, so nearly lost forever, has been restored to me; but, there is another, whose heart is nearly broken, who should not be kept waiting, and there is a long distance between us and perfect safety, which should be shortened as rapidly and quickly as possible."
+
+"That’s the idea," added Haldidge, "it won’t do to consider yourself safe till you *are*, and that isn’t yet."
+
+"Jest so, exactly, and consequently all fall into line of march."
+
+Our friends now set out on a rapid walk homeward. As had been remarked, there was yet a long distance to be passed, and even now, while surrounded by darkness, it was reckless to halt or lag upon the way. Haldidge, as well as Seth, resolved that they should not pause until it was evident that Ina needed rest. Both well knew that the Mohawks would not yield up their captives, as long as there was a chance to regain them.
+
+Seth’s only fear now was that they would be pursued and overtaken by some of the savages. That this apprehension was well grounded, the events which we shall now record, will plainly show.

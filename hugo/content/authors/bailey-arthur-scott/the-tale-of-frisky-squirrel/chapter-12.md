@@ -1,0 +1,29 @@
+---
+title: "Chapter 12 - Frisky Visits The Gristmill"
+weight: 12
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-12.html"
+---
+
+Frisky Squirrel was very fond of wheat-kernels. Somehow or other he heard that there was a place on Swift River called the gristmill, where there was almost all the wheat in the world--at least that is what Frisky heard. So he started out, one day, to find the gristmill. He thought he could have a very pleasant time there.
+
+Frisky had no trouble at all in finding the gristmill. It was just below the mill-dam. And everybody knew where that was.
+
+The gristmill was an old stone building with a red roof. And once inside it Frisky saw great heaps of wheat-kernels everywhere. And there were sacks and sacks too--some of them stuffed with kernels, which Frisky was so fond of, and some of them filled with a fine white powder, which Frisky didn't like so well, because it got in his eyes, and up his nose, and made him sneeze. It was the same sort of powder into which he had fallen one time at Farmer Green's house. It was flour, of course--you must have guessed that.
+
+The gristmill was a quiet sort of building. There seemed to be nobody there at all. And Frisky helped himself freely to wheat-kernels, for it was very early in the morning and he had not had his breakfast. He was just telling himself what a delightful place the gristmill was, and how glad he was that he had heard about it, when suddenly there was a terrible noise--a grinding, and whirring, and buzzing, and pounding. The very floor trembled and shook, and Frisky expected that in another instant the roof would come crashing down on him.
+
+He leaped away from the bag of wheat-kernels on which he had been breakfasting and he bounded through the great doorway and ran along the rail-fence, far up the road, thinking that each moment would be his last. For Frisky believed that the end of the world had come. And he never stopped running until he was safe inside his mother's house.
+
+Mrs. Squirrel was not at home. And it was so long before she came in and found Frisky that he had begun to think he would never see her again.
+
+"Whatever is the matter?" Mrs. Squirrel asked. Frisky was making a dreadful noise, for he was crying as if he would never stop.
+
+"It's the end of the world!" Frisky sobbed. "I didn't think you were coming back."
+
+Bit by bit Mrs. Squirrel managed to learn where Frisky had been and what had happened to him. And she smiled when she found out what had frightened him. Since it was quite dark inside their home in the hollow limb of the big hickory tree, Frisky could not see his mother smiling. But her voice sounded very cheerful when she said--
+
+"Now stop crying, my son. There's nothing to cry about. The end of the world hasn't come. And that's something you and I don't need to worry about, anyhow."
+
+"What you heard was only the mill-wheels turning. You must have reached the gristmill before the miller had come to begin his day's work. That was why everything was so still. I don't wonder you were frightened when all that noise began. But gristmills are always like that. They make a terrible noise when they grind the wheat."
+
+Frisky Squirrel stopped sobbing then. He was glad that his mother knew exactly what had happened. But he made up his mind that whenever he wanted any wheat-kernels to eat he would not go to the gristmill for them. Luckily the gristmill had not quite all the wheat in the world.

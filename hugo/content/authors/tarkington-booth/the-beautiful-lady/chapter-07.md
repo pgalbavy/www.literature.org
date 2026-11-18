@@ -1,0 +1,29 @@
+---
+title: "Chapter 7"
+weight: 7
+url: "/authors/tarkington-booth/the-beautiful-lady/chapter-07.html"
+---
+
+That Naples of mine is like a soiled coronet of white gems, sparkling only from far away. But I love it altogether, near or far, and my heart would have leaped to return to it for its own sake, but to come to it as we did, knowing that the only lady in the world was there.... Again, this is one of those things I possess no knowledge how to tell, and that those who know do know. How I had longed for the time to come, how I had feared it, how I had made pictures of it!
+
+Yet I feared not so much as my friend, for he had a dim, small hope, and I had none. How could I have? *I—*a man whose head had been painted? *I—*for whom her great heart had sorrowed as for the thin, beaten cab-horses of Paris! Hope? All I could hope was that she might never know, and I be left with some little shred of dignity in her eyes!
+
+Who cannot see that it was for my friend to fear? At times, with him, it was despair, but of that brave kind one loves to see—never a quiver of the lip, no winking of the eyes to keep tears back. And I, although of a people who express everything in every way, I understood what passed within him and found time to sorrow for him.
+
+Most of all, I sorrowed for him as we waited for her on the terrace of the Bertolini, that perch on the cliff so high that even the noises of the town are dulled and mingle with the sound of the thick surf far below.
+
+Across the city, and beyond, we saw, from the terrace, the old mountain of the warm heart, smoking amiably, and the lights of Torre del Greco at its feet, and there, across the bay, I beheld, as I had nightly so long ago, the lamps of Castellamare, of Sorrento; then, after a stretch of water, a twinkling which was Capri. How good it was to know that all these had not taken advantage of my long absence to run away and vanish, as I had half feared they would. Those who have lived here love them well; and it was a happy thought that the beautiful lady knew them now, and shared them. I had never known quite all their loveliness until I felt that she knew it too. This was something that I must never tell her—yet what happiness there was in it!
+
+I stood close to the railing, with a rambling gaze over this enchanted earth and sea and sky, while my friend walked nervously up and down behind me. We had come to Naples in the late afternoon, and had found a note from Mrs. Landry at our hotel, asking us for dinner. Poor Jr. had not spoken more than twice since he had read me this kind invitation, but now I heard a low exclamation from him, which let me know who was approaching; and that foolish trembling got hold of me again as I turned.
+
+Mrs. Landry came first, with outstretched hand, making some talk excusing delay; and, after a few paces, followed the loveliest of all the world. Beside her, in silhouette against the white window lights of the hotel, I saw the very long, thin figure of a man, which, even before I recognized it, carried a certain ominousness to my mind.
+
+Mrs. Landry, in spite of her florid contentedness, had sometimes a fluttering appearance of trivial agitations.
+
+"The Prince came down from Rome this morning," she said nervously, and I saw my friend throw back his head like a man who declines the eye-bandage when they are going to shoot him. "He is dining with us. I know you will be glad to meet him."
+
+The beautiful lady took Poor Jr.'s hand, more than he hers, for he seemed dazed, in spite of the straight way he stood, and it was easy to behold how white his face was. She made the presentation of us both at the same time, and as the other man came into the light, my mouth dropped open with wonder at the singular chances which the littleness of our world brings about.
+
+"Prince Caravacioli, Mr. Poor. And this is Signor Ansolini."
+
+It was my half-brother, that old Antonio!

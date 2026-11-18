@@ -1,0 +1,47 @@
+---
+title: "Book 1 - Chapter 1 - In Which The Prince Departs On An Adventure"
+weight: 3
+url: "/authors/stevenson-robert-louis/prince-otto/book-01-chapter-01.html"
+---
+
+You shall seek in vain upon the map of Europe for the bygone state of Grünewald. An independent principality, an infinitesimal member of the German Empire, she played, for several centuries, her part in the discord of Europe; and, at last, in the ripeness of time and at the spiriting of several bald diplomatists, vanished like a morning ghost. Less fortunate than Poland, she left not a regret behind her; and the very memory of her boundaries has faded.
+
+It was a patch of hilly country covered with thick wood. Many streams took their beginning in the glens of Grünewald, turning mills for the inhabitants. There was one town, Mittwalden, and many brown, wooden hamlets, climbing roof above roof, along the steep bottom of dells, and communicating by covered bridges over the larger of the torrents. The hum of watermills, the splash of running water, the clean odour of pine sawdust, the sound and smell of the pleasant wind among the innumerable army of the mountain pines, the dropping fire of huntsmen, the dull stroke of the wood-axe, intolerable roads, fresh trout for supper in the clean bare chamber of an inn, and the song of birds and the music of the village-bells—these were the recollections of the Grünewald tourist.
+
+North and east the foothills of Grünewald sank with varying profile into a vast plain. On these sides many small states bordered with the principality, Gerolstein, an extinct grand duchy, among the number. On the south it marched with the comparatively powerful kingdom of Seaboard Bohemia, celebrated for its flowers and mountain bears, and inhabited by a people of singular simplicity and tenderness of heart. Several intermarriages had, in the course of centuries, united the crowned families of Grünewald and Maritime Bohemia; and the last Prince of Grünewald, whose history I purpose to relate, drew his descent through Perdita, the only daughter of King Florizel the First of Bohemia. That these intermarriages had in some degree mitigated the rough, manly stock of the first Grünewalds, was an opinion widely held within the borders of the principality. The charcoal burner, the mountain sawyer, the wielder of the broad axe among the congregated pines of Grünewald, proud of their hard hands, proud of their shrewd ignorance and almost savage lore, looked with an unfeigned contempt on the soft character and manners of the sovereign race.
+
+The precise year of grace in which this tale begins shall be left to the conjecture of the reader. But for the season of the year (which, in such a story, is the more important of the two) it was already so far forward in the spring, that when mountain people heard horns echoing all day about the north-west corner of the principality, they told themselves that Prince Otto and his hunt were up and out for the last time till the return of autumn.
+
+At this point the borders of Grünewald descend somewhat steeply, here and there breaking into crags; and this shaggy and trackless country stands in a bold contrast to the cultivated plain below. It was traversed at that period by two roads alone; one, the imperial highway, bound to Brandenau in Gerolstein, descended the slope obliquely and by the easiest gradients. The other ran like a fillet across the very forehead of the hills, dipping into savage gorges, and wetted by the spray of tiny waterfalls. Once it passed beside a certain tower or castle, built sheer upon the margin of a formidable cliff, and commanding a vast prospect of the skirts of Grünewald and the busy plains of Gerolstein. The Felsenburg (so this tower was called) served now as a prison, now as a hunting-seat; and for all it stood so lonesome to the naked eye, with the aid of a good glass the burghers of Brandenau could count its windows from the lime-tree terrace where they walked at night.
+
+In the wedge of forest hillside enclosed between the roads, the horns continued all day long to scatter tumult; and at length, as the sun began to draw near to the horizon of the plain, a rousing triumph announced the slaughter of the quarry. The first and second huntsman had drawn somewhat aside, and from the summit of a knoll gazed down before them on the drooping shoulders of the hill and across the expanse of plain. They covered their eyes, for the sun was in their faces. The glory of its going down was somewhat pale. Through the confused tracery of many thousands of naked poplars, the smoke of so many houses, and the evening steam ascending from the fields, the sails of a windmill on a gentle eminence moved very conspicuously, like a donkey’s ears. And hard by, like an open gash, the imperial high-road ran straight sun-ward, an artery of travel.
+
+There is one of nature’s spiritual ditties, that has not yet been set to words or human music: ‘The Invitation to the Road’; an air continually sounding in the ears of gipsies, and to whose inspiration our nomadic fathers journeyed all their days. The hour, the season, and the scene, all were in delicate accordance. The air was full of birds of passage, steering westward and northward over Grünewald, an army of specks to the up-looking eye. And below, the great practicable road was bound for the same quarter.
+
+But to the two horsemen on the knoll this spiritual ditty was unheard. They were, indeed, in some concern of mind, scanning every fold of the subjacent forest, and betraying both anger and dismay in their impatient gestures.
+
+‘I do not see him, Kuno,’ said the first huntsman, ‘nowhere—not a trace, not a hair of the mare’s tail! No, sir, he’s off; broke cover and got away. Why, for twopence I would hunt him with the dogs!’
+
+‘Mayhap, he’s gone home,’ said Kuno, but without conviction.
+
+‘Home!’ sneered the other. ‘I give him twelve days to get home. No, it’s begun again; it’s as it was three years ago, before he married; a disgrace! Hereditary prince, hereditary fool! There goes the government over the borders on a grey mare. What’s that? No, nothing—no, I tell you, on my word, I set more store by a good gelding or an English dog. That for your Otto!’
+
+‘He’s not my Otto,’ growled Kuno.
+
+‘Then I don’t know whose he is,’ was the retort.
+
+‘You would put your hand in the fire for him to-morrow,’ said Kuno, facing round.
+
+‘Me!’ cried the huntsman. ‘I would see him hanged! I’m a Grünewald patriot—enrolled, and have my medal, too; and I would help a prince! I’m for liberty and Gondremark.’
+
+‘Well, it’s all one,’ said Kuno. ‘If anybody said what you said, you would have his blood, and you know it.’
+
+‘You have him on the brain,’ retorted his companion. ‘There he goes!’ he cried, the next moment.
+
+And sure enough, about a mile down the mountain, a rider on a white horse was seen to flit rapidly across a heathy open and vanish among the trees on the farther side.
+
+‘In ten minutes he’ll be over the border into Gerolstein,’ said Kuno. ‘It’s past cure.’
+
+‘Well, if he founders that mare, I’ll never forgive him,’ added the other, gathering his reins.
+
+And as they turned down from the knoll to rejoin their comrades, the sun dipped and disappeared, and the woods fell instantly into the gravity and greyness of the early night.

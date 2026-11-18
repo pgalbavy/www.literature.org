@@ -1,0 +1,79 @@
+---
+title: "Chapter 22"
+weight: 22
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-22.html"
+---
+
+Granet sauntered in to breakfast a few minutes late on the following morning. A little volley of questions and exclamations reached him as he stood by the sideboard.
+
+"Heard about the Zeppelin raid?"
+
+"They say there's a bomb on the ninth green!"
+
+"Market Burnham Hall is burnt to the ground!"
+
+Granet sighed as he crossed the room and took his seat at the table.
+
+"If you fellows hadn't slept like oxen last night," he remarked, "you'd have known a lot more about it. I saw the whole show."
+
+"Nonsense!" Major Harrison exclaimed.
+
+"Tell us all about it?" young Anselman begged.
+
+"I heard the thing just as I was beginning to undress," Granet explained. "I rushed downstairs and found Collins out in the garden. . . . Where the devil is Collins, by-the-bye?"
+
+They glanced at his vacant place.
+
+"Not down yet. Go on."
+
+"Well, we could hear the vibration like anything, coming from over the marsh there. I got the car out and we were no sooner on the road than I could see it distinctly, right above us--a huge, cigar-shaped thing. We raced along after it, along the road towards Market Burnham. Just before it reached the Hall it seemed to turn inland and then come back again. We pulled up to watch it and Collins jumped out. He said he'd go as far as the Hall and warn them. I sat in the car, watching. She came right round and seemed to hover over those queer sort of outbuildings there are at Market Burnham. All at once the bombs began to drop."
+
+"What are they like?" Geoffrey Anselman exclaimed.
+
+Granet poured out his coffee carefully.
+
+"I've seen 'em before--plenty of them, too," he remarked, "but they did rain them down. Then all of a sudden there was a sort of glare--I don't know what happened. It was just as though some one had lit one of those coloured lights. The Hall was just as clearly visible as at noonday. I could see the men running about, shouting, and the soldiers tumbling out of their quarters. All the time the bombs were coming down like hail and a corner of the Hall was in flames. Then the lighted stuff, whatever it was, burnt out and the darkness seemed as black as pitch. I hung around for some time, looking for Collins. Then I went up to the house to help them extinguish the fire. I didn't get back till four o'clock."
+
+"What about Collins?" young Anselman asked. "I was playing him at golf."
+
+"Better send up and see," Granet proposed. "I waited till I couldn't stick it any longer."
+
+They sent a servant up. The reply came back quickly--Mr. Collins bed had not been slept in. Granet frowned a little.
+
+"I suppose he'll think I let him down," he said. "I waited at least an hour for him."
+
+"Was any one hurt by the bombs?" Geoffrey Anselman inquired.
+
+"No one seemed to be much the worse," Granet replied. "I didn't think of anything of that sort in connection with Collins, though. Perhaps he might have got hurt."
+
+"We'll all go over and have a look for him this afternoon if he hasn't turned up," Anselman suggested. "What about playing me a round of golf this morning?"
+
+"Suit me all right," Granet agreed. "I'd meant to lay up because of my arm, but it's better this morning. We'll start early and get back for the papers."
+
+They motored down to the club-house and played their round. It was a wonderful spring morning, with a soft west wind blowing from the land. Little patches of sea lavender gave purple colour to the marshland. The creeks, winding their way from the sea to the village, shone like quicksilver beneath the vivid sunshine. It was a morning of utter and complete peace. Granet notwithstanding a little trouble with his arm, played carefully and well. When at last they reached the eighteenth green, he hold a wonderful curly putt for the hole and the match.
+
+"A great game," his cousin declared, as they left the green. "Who the devil are these fellows?"
+
+There were two soldiers standing at the gate, and a military motor-car drawn up by the side of the road. An orderly stepped forward and addressed Granet.
+
+"Captain Granet?" he asked, saluting.
+
+Granet nodded and stretched out his hand for the note. The fingers which drew it from the envelope were perfectly steady, he even lifted his head for a moment to look at a lark just overhead. Yet the few hastily scrawled lines were like a message of fate:--
+
+The officer in command at Market Burnham Hall would be obliged if Captain Granet would favour him with an immediate interview, with reference to the events of last night.
+
+"Do you mean that you want me to go at once, before luncheon?" he asked the orderly.
+
+The man pointed to the car.
+
+"My instructions were to take you back at once, sir."
+
+"Come and have a drink first, at any rate," Geoffrey Anselman insisted.
+
+The orderly shook his head, the two soldiers were barring the gateway.
+
+"Some one from the War Office has arrived and is waiting to speak to Captain Granet," he announced.
+
+"We're all coming over after lunch," young Anselman protested. "Wouldn't that do?"
+
+The man made no answer. Granet, with a shrug of the shoulders, stepped into the motor-car. The two soldiers mounted motor-cycles and the little cavalcade turned away. Granet made a few efforts at conversation with his companion, but, meeting with no response, soon relapsed into silence. In less than twenty minutes the car was slowing down before the approach to the Hall. The lane was crowded with villagers and people from the neighbouring farmhouses, who were all kept back, however, by a little cordon of soldiers. Granet, closely attended by his escort, made his way slowly into the avenue and up towards the house. A corner of the left wing of the building was in ruins, blackened and still smouldering, and there was a great hole in the sand-blown lawn, where a bomb had apparently fallen. A soldier admitted them at the front entrance and his guide led him across the hall and into a large room on the other side of the house, an apartment which seemed to be half library, half morning-room. Sir Meyville and a man in uniform were talking together near the window. They turned around at Granet's entrance and he gave a little start. For the first time a thrill of fear chilled him, his self-confidence was suddenly dissipated. The man who stood watching him with cold scrutiny was the one man on earth whom he feared--Surgeon Major Thomson.

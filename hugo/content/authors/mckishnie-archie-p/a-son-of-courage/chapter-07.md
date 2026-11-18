@@ -1,0 +1,127 @@
+---
+title: "Chapter 7 - The Rabbit Foot Charm"
+weight: 7
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-07.html"
+---
+
+The place which old Harry O'Dule called home was a crumbling log cabin on the shore of Levee Creek, just on the border of the Scroggie bush. Originally it had been built as a shelter for sheep, but with the clearing of the land it had fallen into disuse. O'Dule had found it on one of his pilgrimages and had promptly appropriated it unto himself. Nobody thought of disputing his possession, perhaps because most of the good people of Scotia inwardly feared the old man's uncanny powers of second sight, and the foreshadowing--on those who chose to cross him--of dire evils, some of which had been known to materialize. Old Harry boasted that he was the seventh son of a seventh son.
+
+"It's born under a caul was I," he told them. "An' minny a mystery has been cleared up in ould Ireland be meself, I'm tellin' ye."
+
+At which some laughed and some scoffed. Deacon Ringold had sternly advised the old man to return to the country where black magic was still countenanced, as there was no place for it in an enlightened and Christian community such as Scotia, a suggestion that old Harry took in seeming good humor. But the fact that the deacon lost two milk cows and four hogs, through sickness during the fortnight which followed, had caused considerable discussion throughout the settlement.
+
+O'Dule had cut a window in the cabin, installed an old stove, table and chairs, and succeeded in making the place home-like enough to suit his simple taste. To-night he stood by the stove, frying potatoes and humming an Irish song. On the table lay a loaf of bread and some butter in a saucer, while close beside it a coal oil lamp gave a smoky light to the room. In the center of the table reposed a huge blue-grey cat, its amber eyes on Harry and its forepaws curled contentedly beneath its furry breast. All about the room hung the skins of wild animals--deer, bear, lynx and coon. A pile of skins lay in one corner. This was O'Dule's bed.
+
+"Och! Billy O'Shune can't ye whistle t' me, Av the gurril ye loved on the Isle 'cross the sea-- Shure it's weary I am av that drear, sorry song So stop liltin', through tears, wid a visage so long-- Come, it's me ears a glad ditty would hear-- Av love 'neath th' skies av ould Ireland, dear-- Come, let us be glad--both togither, me lad-- There's good fish in the sea as has iver been had-- --Och, Billy O'Shune-- That's not much av a chune."
+
+So hummed old Harry as he stirred the potatoes and wet his vocal chords, occasionally, from the jug at his feet.
+
+Suddenly a knock fell on the door.
+
+"In ye come," invited the Irishman and there entered Billy and Maurice.
+
+"Sit ye down, lads, sit ye down," cried the hospitable Harry. "Begobs, but it's a fine brace av byes ye are, an' no mistake. Wull ye be afther suppin' a bit wid me? The repast is all but spread an' it's full welcome ye are, both."
+
+"We've had our supper," said Billy. "Thought we'd like to see you fer a minute er two, Harry," he added gravely, as he and his chum seated themselves.
+
+"Alone," said Maurice, significantly.
+
+"Faith an' ain't I alone enough to suit ye?" laughed Harry. "Would ye have me put the cat out, thin? Now, phwat is ut?"
+
+The boys glanced at each other. "You tell him," whispered Billy, but Maurice shook his head. "No, you," he whispered back.
+
+Billy braced himself and took a long breath. "We've made up our minds t' find old man Scroggie's will," he said.
+
+"An' money," said Maurice. "We want you to help us, Harry."
+
+"God love us!" ejaculated Harry, dropping the knife with which he was stirring the potatoes and reaching for the demijohn. "An' fer why should ye be out on that wild goose chase, now?"
+
+"'Cause we want Teacher Stanhope to have what belongs to him," said Billy warmly.
+
+"Do ye now? God love him but that was a hard slap in th' face he got fer playin' the man's part, so ut was. Only this night did I say as much to Caleb Spencer. Ut's meself would like t' see him get what was his by rights, byes."
+
+"We knew that," cried Billy, eagerly; "that's why we come to you, Harry. You say you've found buried treasure in Ireland; won't you help us find the lost will an' money?"
+
+O'Dule transferred the potatoes from the frying pan to a cracked plate. He sat down at the table and ate his supper without so much as another word. The boys watched him, fear in their hearts that the eccentric old Irishman would refuse their request.
+
+After a time Harry pushed his stool back from the table. "Byes," he said, producing a short black pipe from his pocket. "It's lend ye a spade and lantern I'll do an' gladly; but it's yerselves would surely not be axin' me t' test me powers ag'in a spirrut. Listen now. Old Scroggie's ghost do be guardin' his money, wheriver it lies. That you know as well as me. It's frank I'll be wid ye, an' tell ye that ag'in spirruts me powers are as nuthin'. An' go widin the unholy circle av the ha'nted grove to do favor t' aither man 'er divil I'll not."
+
+"But think of what it means to him," urged Billy. "Besides, Harry, I've got a charm that'll keep ol' Scroggie's ghost away," he added, eagerly.
+
+"An' phwat is ut?" Old Harry's interest was real. He laid his pipe down on the table and leaned towards Billy.
+
+"It's the left hind foot of a grave-yard rabbit," said Billy, proudly exhibiting the charm.
+
+O'Dule's shaggy brows met in a frown. "Ut's no good a'tall, a'tall," he said, contemptuously. "Ut's not aven a snake-bite that trinket wud save ye from, let alone a ghost."
+
+Billy felt his back-bone stiffen in resentment. Then he noted that the milk snake, which he had thought snugly asleep in his coat pocket, had awakened in the warmth of the little cabin and slipped from the pocket and now lay, soiled and happy, beneath the rusty stove. He saw his opportunity to get back at O'Dule for his scoffing.
+
+"All right, Harry," he said airily, "if that's all you know about charms, I guess you haven't any that 'ud help us much. But let me tell you that rabbit-foot charm kin do wonders. It'll not only keep you from bein' bit by snakes but by sayin' certain words to it you kin bring a snake right in to your feet with it, an' you kin pick it up an' handle it without bein' bit, too."
+
+"Och, it's a brave lad ye are, Billy bye," Harry wheezed, "an' a brave liar, too. Go on wid yer nonsense, now."
+
+"It's a fact, Harry," backed Maurice.
+
+"Fact," cried O'Dule, angrily now. "Don't ye be comin' to me, a siventh son av a siventh son, wid such nonsinse. Faith, if yon worthless rabbit-fut kin do phwat ye claim, why not prove ut t' me now?"
+
+"An' if we do," asked Billy eagerly, "will you agree to use your power to help us find the money an' will?"
+
+"That I'll do," assented Harry, unhesitatingly. "Call up yer snake an' handle ut widout bein' bit, an' I'll help ye."
+
+"All right, I'll do it," said Billy. "Jest turn the lamp down a little, Harry."
+
+"Me hands are a bit unsteady," said Harry, quickly. "We'll l'ave the light be as ut is, Billy."
+
+"It ought'a be dark," protested Billy, "but I'll try it anyway." He lifted the rabbit foot to his face and breathed some words upon it. Then in measured tones he recited:
+
+"Hokey-pokey Bamboo Brake-- Go an' gather in a snake--'
+
+Slowly Billy lowered the charm and looked at Harry. The old man sat, puffing his short pipe, a derisive grin on his unshaven lips.
+
+"It's failed ye have, as I knowed ye wud," he chuckled. "Ye best be lavin' now, both av ye, wid yer pranks."
+
+"But," said Billy quickly, "the charm did work. It brought the snake, jest as I said it would."
+
+"Brought ut? Where is ut, thin?" Harry sat up straight, his little eyes flashing in fright.
+
+"It's under the stove. See it?"
+
+Harry bent and peered beneath the stove. "Be the scales av the divil!" he shivered, "is ut a big, mottled snake I see, or have I got what always I feared I might get some day. Is ut the D.T.'s I've got, I wonder? How come the reptile here, anyhow, byes?"
+
+"You told me to bring it in, didn't you?" Billy inquired, mildly.
+
+"Yis, yis, Billy. But hivins! ut's little did I think that cat-paw av a charm had such power," groaned the wretched Irishman. "Ut's yourself said ut would let you handle reptiles widout bein' bit. Thin fer the love ov hivin pluck yon serpent from beneath the stove an' hurl ut outside into the blackness where ut belongs."
+
+Billy arose and moving softly to the stove picked up the harmless milk snake, squirming and protesting, from the warm floor. O'Dule watched him with fascinated eyes. The big cat had risen and with back fur and tail afluff spit vindictively as Billy passed out through the door.
+
+When he returned O'Dule was seated on the edge of the table, his feet on a stool. He was taking a long sup from the demijohn.
+
+"Well, do you believe in my charm now?" Billy asked.
+
+"I do," said Harry unhesitatingly.
+
+"An' you'll help us, as you promised?"
+
+"Did ye iver hear av Harry O'Dule goin' back on a promise?" said the old man, reproachfully. "Help you wull I shurely, an' I'll be tellin' ye how. Go ye over t' the corner, Billy, an' pull up the loose board av the flure. Ye'll be findin' a box there. Yis, that's right. Now fetch ut here. Look ye both, byes."
+
+Harry lifted the little tin box to his knees and opened it. From it he brought forth a conglomeration of articles. There were queer little disks of hammered brass and copper, an egg-shaped object that sparkled like crystal in the lamplight, a crotch-shaped branch of a tree. As he handled those objects tenderly the old man's face was tense and he mumbled something entirely meaningless to the watchers. Finally, with an exclamation of triumph, he brought forth a piece of metal the size and shape of an ordinary lead pencil.
+
+"Look ye," he cried, holding it aloft. "The fairies' magic arrer, ut is, an' ut niver fails t' fall on the spot where the treasure lies hidden. Foind Scroggie's buried money ut would have long ago if ut wasn't fer the ould man's spirrut that roams the grove. As I told ye afore, ut's no charm ag'in the spirruts av the departed, as yon grave-yard rabbit's fut is."
+
+"But with the two of 'em," cried Billy eagerly, "we kin surely find the will, Harry."
+
+"It's right true ye spake," nodded Harry. "An' mebbe sooner than we think. An' ut's the young t'acher wid the blindness that gets it all, ye say?"
+
+"Ol' Scroggie left it all to him," said Billy.
+
+"Begobs, so I've heard before." Harry scratched his head reflectively.
+
+"Well, God love his gentle heart, ut's himself now'll hardly be carin' phwat becomes o' the money, let alone he gets possession av the thousand acre hardwoods, I'm thinkin'," he said, fastening his eyes on Billy's face. "I'd be wishin' the young t'acher to be ginerous, byes."
+
+"He will," cried Billy, "I know he will."
+
+"Thin God bless him," cried Harry. "Now grasp tight t' yer rabbit fut, an' we'll be afther goin' on our way t' tempt Satan, over beyant in the evil cedars."
+
+Five minutes later the trio were out on the forest path, passing in Indian file towards the haunted grove. The wind had risen and now swept through the great trees with ghostly sound. A black cloud, creeping up out of the west, was wiping out the stars. Throughout the forest the notes of the night-prowlers were strangely hushed. No word was spoken between the treasure-seekers until the elm-bridged creek was reached. Then old Harry paused, with labored breath, his head bent as though listening.
+
+"Hist," he whispered and Billy and Maurice felt their flesh creep. "Ut's hear that swishin' av feet above, ye do? Ut's the Black troup houldin' their course 'twixt the seared earth an' the storm. The witches of Ballyclue, ut is, an' whin they be out on their mad run the ghoste av dead min hould wild carnival. Ut'll be needin' that rabbit-fut sure we wull, if the ha'nted grove we enter this night."

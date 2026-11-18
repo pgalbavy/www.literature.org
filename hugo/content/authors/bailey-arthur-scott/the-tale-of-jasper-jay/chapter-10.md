@@ -1,0 +1,41 @@
+---
+title: "Chapter 10 - The Nutting Party"
+weight: 10
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-10.html"
+---
+
+FOR a long time Jasper Jay had been waiting for something. It was fall; and he impatiently watched the tree-tops on the side of Blue Mountain change from their quiet summer green to hues of flaming gold and red. Though they were beautiful, to tell the truth Jasper did not in the least care what color a tree was. So long as it bore nuts, he was satisfied. And to him the turning leaves meant only that the autumn was lengthening--and the nuts were growing ripe.
+
+That was what Jasper Jay was waiting for. And as soon as the frosts came and burst open the prickly pods that covered the beechnuts he intended to lead the first nutting party of the season to the place where the beeches grew.
+
+Now, going a-nutting with a crowd is much more fun than gathering nuts alone. And Jasper usually preferred a nutting party of a dozen blue jays. Then he always had twelve times as much fun as he could have just by himself--because there was twelve times the noise.
+
+So on the very first day that the nuts were ready to be eaten Jasper Jay asked eleven friends to join him. As it happened, Jasper found a company of twelve waiting for him at the appointed time on the edge of the woods. Somehow, Noisy Jake (whom Jasper hadn't invited) had heard of the party. And he invited himself.
+
+Jasper was not at all pleased when he found that Noisy Jake intended to go a-nutting too. He had not yet forgiven that boisterous rowdy for not having warned him, when Mr. Red-shouldered Hawk was sailing about over Farmer Green's barnyard, and Jasper had to seek safety in the chicken house.
+
+Jasper gave Jake a cool nod and turned his back on him. But it would have taken a great deal more than that to hurt Noisy Jake's feelings. Indeed, he was so impudent that he immediately imitated Mr. Hawk's cry, "_Kee-you! kee-you!_"
+
+It gave Jasper a great start to hear that screech behind his back. He jumped into the air and alighted with his face toward Noisy Jake, having turned around while his feet were off the ground.
+
+Jake was laughing loudly at his own joke, while all the rest--except Jasper--squalled with delight.
+
+Jasper Jay thought for a moment that he would have to fight Jake on the spot. But he was in such a hurry to get to the place where the beeches grew that he decided to pay no more attention to the rude fellow.
+
+"Come on!" Jasper cried. "Follow me!" And he made for the beech grove at top speed, with the nutting party following close behind him.
+
+There was a great squawking and screaming and whistling as the nutting party flew into the tops of the beech trees and the nuts began rattling down upon the ground.
+
+But their fun did not last long. Another nutting party, led by Johnnie Green, arrived at the grove soon after them; and, of course, that put an end to their sport. They knew that boys not only whistled but threw stones as well.
+
+It was most disappointing. And Jasper and his friends were feeling quite peevish when Noisy Jake suddenly cried:
+
+"Let's go over to the oak woods! There are plenty of acorns there; and we can have lots of fun!"
+
+All the crowd--except Jasper Jay--shouted something that sounded like "Hurrah!" And before Jasper knew what was happening everybody had started for the oak woods. This time it was Noisy Jake that led the nutting party. And all Jasper could do was to follow with the others.
+
+He was no longer the leader. And he was very, very angry. It had been his party, in the first place. And there was Noisy Jake, whom he had not even invited to it, acting as if he were the one who should say what should--or shouldn't--be done.
+
+Jasper could see Jake talking with some of the others. And he couldn't help feeling that they were talking about him. Jake laughed loudly now and then; and although he was flying fast, he looked around occasionally, to make sure that the party was following him. Seeing that Jasper was the last of the procession, Jake shouted to him that he had better hurry, if he didn't want to be left behind.
+
+And that made Jasper Jay more indignant than ever.

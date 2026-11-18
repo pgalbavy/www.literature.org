@@ -1,0 +1,85 @@
+---
+title: "Chapter 20 - Shasta, The Pah Utah"
+weight: 20
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-20.html"
+---
+
+All three paused and listened. For a moment all was still; and then the suppressed groan of distress was heard, as though the sufferer were seeking to keep back the outcry that was forced from him.
+
+"There it is!" whispered Howard, pointing to a clump of bushes near the edge of the river.
+
+"It strikes me we had better leave!" replied Elwood, looking forward to the canoe as if fearful that that would be taken from them and all escape be thus cut off.
+
+"Do you sind the dog forward and let him smell out the difficulty," suggested Tim O'Rooney.
+
+Terror stood there between the boys, his head raised and his whole appearance indicating that he had scented something unusual, but was awaiting orders before advancing upon it. The Newfoundland looked up as if asking for directions. Elwood simply pointed toward the brush and the dog galloped to it. Instead of entering, he stopped by it and gave a low growl of discovery.
+
+"What is it, Terror?" asked Howard.
+
+The brute whined and ran to his masters and then back to the bushes.
+
+"It maybe a trap to catch us," said Elwood. "I prefer very much taking to the canoe and getting away from the island."
+
+"But it may be some one suffering and needing help. He may perish if we leave him here."
+
+"Yez spakes the truth," said Tim. "The blessed Father would never forgive us if we should desart one of his creatures when he needed hilp."
+
+Tim now advanced straight to the bushes, paused, and then parted them and looked in. He was heard to mutter something to himself; then he came back.
+
+"It's an Injin, a-layin' on the ground, a-groanin' and a-rollin' over. I guess the poor fellow has got his last sickness, and we can't help him any."
+
+All feelings were at once merged into that of pity. The three advanced and parted the bushes. There, sure enough, lay an Indian apparently nigh unto death. He turned his black eyes up to the white people in a manner that would have melted the heart of a Nero. He lay doubled up on his blanket, with his gun a short distance from him. He belonged to the Pah Utah tribe, although their hunting-grounds are further to the southwest. This fact, as a matter of course, was unknown to our friends.
+
+The first impression was that he had been badly wounded, but a second glance showed that he was deadly sick.
+
+Elwood Brandon had placed his hand upon the dusky forehead, and the heat and throbbing temples told him at once that he was possessed with a burning fever.
+
+The poor Indian muttered something unintelligible, but which bore some resemblance to the word "Shasta," and he made a motion toward his mouth and then threw his head back and imitated the act of drinking.
+
+"He must be suffering with thirst," said Howard. "How shall we manage to give him water?"
+
+"God save the poor fellow! I will soon fix that!" exclaimed the kind-hearted Tim, rising to his feet and hurrying to the river's edge. Here he speedily constructed quite a capacious cup of leaves, and carefully filling it with cool water he as carefully carried it back to where he lay.
+
+"Now, me good felly, just tip up his noddle and we'll make him faal aisy."
+
+Elwood carefully raised his head, and the trembling sufferer eagerly reached forward for the cooling fluid. It was placed to his parched lips and swallowed hastily, when he immediately motioned for more.
+
+"Will it do to give it?" asked Howard. "Will it not injure him?"
+
+"Niver a bit," replied Tim, hurrying away for another supply.
+
+In a moment it was brought and swallowed with the same avidity. He then lay his head back upon the blanket of the boys, which had been folded into a pillow by Howard. His great black eyes looked the thanks which his tongue was unable to express.
+
+"Now he will slaap," said Tim. "Lave him alone."
+
+He was relinquished to slumber while our friends retired a short distance to consult.
+
+"How providential that we landed here," said Howard. "He was too feeble to help himself, and might have died in great distress."
+
+"Yes, I am glad that we found him, for if he does die we may be the means of robbing his last moments of great suffering."
+
+"Boys," said Tim, hitching up his pantaloons and scratching his head, "me mind is made up to one thing."
+
+The boys looked inquiringly at him.
+
+"I stays here till that poor copper-skin gets well or dies."
+
+This decision pleased his companions, who declared their resolve of doing all they could for the sufferer.
+
+"How much more pleasant than shooting at him," said Elwood. "I never felt better in my life than when I found I was able to do something for this Indian."
+
+What a happiness it is indeed to minister to the wants of the suffering and distressed! What purer joy than to wipe away the damp from the brow of the dying and to speak words of consolation in their ears? That last agony must come to us all sooner or later, and oh how deeply we shall then appreciate the kindness of the friend who stands beside us, ministering to our wants and doing all possible to cheer and soothe our suffering! True, we must go alone through the Dark Valley, but others may lead us down to the border, and their cheering words may yet linger with us as the day closes and we step into that awful gloom through which we must pass before we can enter into the eternal day beyond. Though we know that He stands waiting to take our hand in His and lead us through the solemn darkness, yet the soul, hovering in its flight, longs for the companionship of the dear ones, until the final adieu must come! Oh, loving Father, whose sympathizing arms reach out to enfold us all, grant that such may be mine and the lot of all my friends.
+
+Upon looking at the Indian an hour later, he was seen to be sleeping as calmly as an infant, while his face was covered with a mild, healthful moisture.
+
+"He will git well!" said Tim. "Did I not stand by the bedside of my poor mother and give her the cowld water that brought her back to life agin?"
+
+"The crisis of the fever has passed, or is passing," said Howard. "He must have an iron constitution, like all his people, and he will rally, I have no doubt."
+
+"Yes," added Elwood, with much feeling, "there is one thing certain; *all* are not our enemies; we have made one friend at least."
+
+"True, an Indian never forgets an injury nor a kindness, and his friendship may be of benefit to us before we reach home."
+
+"I b'laves you, boys; that Injin will remember us as long as he lives, and will sarve us a good turn if the chances for the same be iver given him."
+
+"But see, he has awaked!"

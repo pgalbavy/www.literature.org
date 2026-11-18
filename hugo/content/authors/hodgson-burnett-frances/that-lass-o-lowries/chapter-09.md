@@ -1,0 +1,77 @@
+---
+title: "Chapter 9 - The News At The Rectory"
+weight: 9
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-09.html"
+---
+
+If she did not hear of the incident from Grace, Anice heard of it from another quarter.
+
+The day following, the village was ringing with the particulars of “th' feight betwix' th' Lunnon chap an' Dan Lowrie.”
+
+Having occasion to go out in the morning, Mr. Barholm returned to luncheon in a state of great excitement.
+
+“Dear me!” he began, almost as soon as he entered the room. “Bless my life! what ill-conditioned animals these colliers are!”
+
+Anice and her mother regarded him questionably.
+
+“What do you suppose I have just heard?” he went on. “Mr. Derrick has had a very unpleasant affair with one of the men who work under him--no other than that Lowrie--the young woman's father. They are a bad lot it seems, and Lowrie had a spite against Derrick, and attacked him openly, and in the most brutal manner, as he was going through the village yesterday evening.”
+
+“Are you sure?” cried Anice. “Oh! papa,” and she put her hand upon the table as if she needed support.
+
+“There is not the slightest doubt,” was the answer, “everybody is talking about it. It appears that it is one of the strictest rules of the mine that the men shall keep their Davy lamps locked while they are in the pit--indeed they are directed to deliver up their keys before going down, and Derrick having strong suspicions that Lowrie had procured a false key, gave him a rather severe rating about it, and threatened to report him, and the end of the matter was the trouble of yesterday. The wonder is, that Derrick came off conqueror. They say he gave the fellow a sound thrashing. There is a good deal of force in that young man,” he said, rubbing his hands. “There is a good deal of--of pluck in him--as we used to say at Oxford.”
+
+Anice shrank from her father's evident enjoyment, feeling a mixture of discomfort and dread. Suppose the tables had turned the other way. Suppose it had been Lowrie who had conquered. She had heard of horrible things done by such men in their blind rage. Lowrie would not have paused where Derrick did. The newspapers told direful tales of such struggles ending in the conquered being stamped upon, maimed, beaten out of life.
+
+“It is very strange,” she said, almost impatiently. “Mr. Grace must have known, and yet he said nothing. I wish he would come.”
+
+As chance had it, the door opened just at that moment, and the Curate was announced. He was obliged to drop in at all sorts of unceremonious hours, and to-day some school business had brought him. The Rector turned to greet him with unwonted warmth. “The very man we want,” he exclaimed. “Anice was just wishing for you. We have been talking of this difficulty between Derrick and Lowrie, and we are anxious to hear what you know about it.”
+
+Grace glanced at Anice uneasily.
+
+“We wanted to know if Mr. Derrick was quite uninjured,” she said. “Papa did not hear that he was hurt at all, but you will be able to tell us.”
+
+There was an expression in her upraised eyes the Curate had never seen there.
+
+“He met with an injury,” he answered, “but it was not a severe one. He came to my rooms last night and remained with me. His wrist is fractured.”
+
+He was not desirous of discussing the subject very freely, it was evident, even to Mr. Barholm, who was making an effort to draw him out. He seemed rather to avoid it, after he had made a brief statement of what he knew. In his secret heart, he shrank from it with a dread far more nervous than Anice's. He had doubts of his own concerning Lowrie's action in the future. Thus the Rector's excellent spirits grated on him, and he said but little.
+
+Anice was silent too. After luncheon, however, she went into a small conservatory adjoining the room, and before Grace took his departure, she called him to her.
+
+“It is very strange that you did not tell us last night,” she said; “why did you not?”
+
+“It was Derrick's forethought for you,” he answered. “He was afraid that the story would alarm you, and as I agreed with him that it might, I remained silent. I might as well have spoken, it appears.”
+
+“He thought it would frighten me?” she said.
+
+“Yes.”
+
+“Has this accident made him ill?”
+
+“No, not ill, though the fracture is a very painful and inconvenient one.”
+
+“I am very sorry; please tell him so. And, Mr. Grace, when he feels able to come here, I have something to say to him.”
+
+Derrick marched into the Barholm parlor that very night with his arm in splints and bandages.
+
+It was a specially pleasant and homelike evening to him; Mrs. Barholm's gentle heart went out to the handsome invalid. She had never had a son of her own, though it must be confessed she had yearned for one, strong and deep as was her affection for her girl.
+
+But it was not till Derrick bade Anice good-night, that he heard what she intended to say to him. When he was going, just as he stepped across the threshold of the entrance door, she stopped him.
+
+“Wait a minute, if you will be so good,” she said, “I have something to ask of you.”
+
+He paused, half smiling.
+
+“I thought you had forgotten,” he returned.
+
+“Oh! no, I had not forgotten,” she answered. “But it will only seem a very slight thing to you perhaps.” Then she began again, after a pause. “If you please, do not think I am a coward,” she said.
+
+“A coward!” he repeated.
+
+“You were afraid to let Mr. Grace tell me about your accident last night and though it was very kind of you, I did not like it. You must not think that because these things are new and shock me, I am not strong enough to trust in. I am stronger than I look.”
+
+“My dear Miss Barholm,” he protested, “I am sure of that. I ought to have known better. Forgive me if--”
+
+“Oh,” she interposed, “you must not blame yourself. But I wanted to ask you to be so kind as to think better of me than that. I want to be sure that if ever I can be of use to anybody, you will not stop to think of the danger or annoyance. Such a time may never come, but if it does--”
+
+“I shall certainly remember what you have said,” Fergus ended for her.

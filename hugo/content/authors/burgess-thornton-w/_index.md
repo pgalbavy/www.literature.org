@@ -1,0 +1,3 @@
+---
+title: "Thornton W. BURGESS"
+---

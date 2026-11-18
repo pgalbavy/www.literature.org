@@ -1,0 +1,97 @@
+---
+title: "Chapter 9 - Harriet And Lovat At Sea In Marriage"
+weight: 9
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-09.html"
+---
+
+When a sincere man marries a wife, he has one or two courses open to him, which he can pursue with that wife. He can propose to himself to be (a) the lord and master who is honoured and obeyed, (b) the perfect lover, (c) the true friend and companion. Of these (a) is now rather out of date. The lord and master has been proved, by most women quite satisfactorily, to be no more than a grown-up child, and his arrogance is to be tolerated just as a little boy's arrogance is tolerated, because it is rather amusing, and up to a certain point becoming. The case of (b), the perfect lover, is the crux of all ideal marriage to-day. But alas, not even the lord and master turns out such a fiasco as does the perfect lover, ninety-nine times out of a hundred. The perfect-lover marriage ends usually in a quite ghastly anti-climax, divorce and horrors and the basest vituperation. Alas for the fact, as compared with the ideal. A marriage of the perfect-lover type is bound either to end in catastrophe, or to slide away towards (a) or (c). It must either revert to a mild form of the lord-and-master marriage, and a wise woman, who knows the sickeningness of catastrophes and the ridiculous futility of second shots at the perfect-love paradise, often wisely pushes the marriage back gradually into one of the little bays or creeks of this Pacific ocean of marriage, lord-and-masterdom. Not that either party really believes in the lordship of man. But you've got to get into still water some time or other. The perfect-love business inevitably turns out to be a wildly stormy strait, like the Straits of Magellan, where two fierce and opposing currents meet and there is the devil of a business trying to keep the bark of marriage, with the flag of perfect-love at the mast, from dashing on a rock or foundering in the heavy seas. Two fierce and opposing currents meet in the narrows of perfect love. They may meet in blue and perfect weather, when the albatross hovers in the great sky like a permanent benediction, and the sea shimmers a second heaven. But you needn't wait long. The seas will soon begin to rise, the ship to roll. And the waters of perfect love - when once this love is consummated in marriage - become inevitably a perfect hell of storms and furies.
+
+Then, as I say, the hymeneal bark either founders, or dashes on a rock, or more wisely gets out of the clash of meeting oceans and takes one tide or the other, where the flood has things all its own way. The woman being to-day the captain of the marriage bark, either steers into the vast Pacific waters of lord-and-masterdom, though never, of course, hauling down the flag of perfect love; or else, much more frequently these latter days, she steers into the rather grey Atlantic of true friendship and companionship, still keeping the flag of perfect love bravely afloat.
+
+And now the bark is fairly safe. In the great Pacific, the woman can take the ease and warm repose of her new dependence, but she is usually laughing up her sleeve. She lets the lord and master manage the ship, but woe betide him if he seeks to haul down the flag of perfect love. There is mutiny in a moment. And his chief officers and his crew, namely his children and his household servants, are up and ready to put him in irons at once, at a word from that wondrous goddess of the bark, the wife of his bosom. It is Aphrodite, mistress of the seas, in her grand capacity of motherhood and attendant wifehood. None the less, with a bit of managing the hymeneal bark sails on across the great waters into port. A lord and master is not much more than an upper servant while the flag of perfect love is flying and the sea-mother is on board. But a servant with the name of captain, and the pleasant job of sailing the ship and giving the necessary orders. He feels it is quite all right. He is supreme servant-in-command, while the mistress of mistresses smiles as she suckles his children. She is suckling him too.
+
+Nevertheless, this is the course I would recommend young married women to DRIFT INTO, after the first two years of "perfect love".
+
+They won't often take my advice, I know that. Ha-ha! they will say. We see through your lord-and-master tricks. Course East-North-East, helmsman, into the safer and more populous waters of perfect companionship. If we can't have one thing perfect we'll have another. If it isn't exactly perfect love, it is perfect companionship, and the two are pretty nearly one and the same.
+
+For woman, even more than man, when once she gets an idea into her head, or worse, when once she gets HERSELF into her head, will have nothing short of perfection. She simply will tolerate nothing short of perfection. East-north-east then, into the democratic Atlantic of PERFECT companionship.
+
+Well, they are grey waters, and the perfect companionship usually resolves, subtly, and always under the perfect love flag, into a very nearly perfect limited liability company, the bark steering nicely according to profit and loss, and usually "getting on" fabulously. The Golden Vanity. If this perfect love flag is a vanity, the perfect-companionship management is certainly Golden. I would recommend perfect-companionship to all those married couples who truly and sincerely want TO GET ON.
+
+Now the good bark Harriet and Lovat had risen from the waves, like Aphrodite's shell as well as Aphrodite, in the extremest waters of perfect love. Love and love alone! Wide, wild, lonely waters, with the great albatross like a sign of the cross, sloping in the immense heavens. A sea to themselves, the waters of perfect love. And the good ship Harriet and Lovat, with white sails spread, sailing with never a master, like the boat of Dionysus, which steered of its own accord across the waters, in the right direction mark you, to the sound of the music of the dolphins, while the master of the ship put forth tendrils of vine and purple bunches of grapes, and the grapes of themselves dripped vinous down the throats of the true Dionysians. So sailed the fair ship Harriet and Lovat in the waters of perfect love.
+
+I have not made up my mind whether she was a ship, or a bark, or a schooner, technically speaking. Let us imagine her as any one of them. Or perhaps she was a clipper, or a frigate, or a brig. All I insist is that she was not a steam-boat with a funnel, as most vessels are nowadays, sailing because they are stoked.
+
+Fair weather and foul alternated. Sometimes the brig Harriet and Lovat skimmed along the path of the moon like a phantom: sometimes she lay becalmed, while sharks flicked her bottom: then she drove into the most awful hurricanes, and spun round in a typhoon: and yet behold her sailing out through the glowing arch of a rainbow into halcyon waters again. And so for years, till she began to look rather worn, but always attractive. Her paint had gone, so her timbers now were sea-silvery. Her sails were thin, but very white. The mainsail also was slit, and the stun-sails had been carried away in a blizzard. As for the flag of perfect love, the flag of the red-and-white rose upon the cross of thorns, all on a field of azure, it was woefully frayed and faded. The azure field was nearly tattered away, and the rose was fading into invisibility.
+
+She had some awful weather, did the poor bark Harriet and Lovat. The seas opened great jaws to swallow her, the treacherous seas of perfect love, while cynical rocks gnashed their teeth at her, and unstable heavens opened chasms of wind on her, and fierce, full-blooded lusty bull-whales rushed at her and all but burst her timbers. Dazed and battered, she wandered hither and thither on the seas of perfect love, that she always had all to herself. Never another sail in sight, never another ship in hail. Only sometimes the smoke of a steamer skirting the horizon, making for one of the oceans.
+
+And now the Harriet and Lovat began to feel the pull of the two opposing currents. It was as if she had a certain homesickness for one or other of the populous oceans: she was weary of the lone and wasteful waters of the sea of perfect love. Sometimes she drifted east-north-east towards the Atlantic of true companionship. And then Lovat, seeing the long swell of that grey sea, and the funnels of ships like a city suburb, put the helm hard aport, and turned the ship about, and beat against a horrible sea and wind till they got into the opposite drift. Then things went a little easier, till Harriet saw before her the awful void opening of the other ocean, and the great, dark-blue, dominant swell of the waters, and the loneliness and the vastness and the feeling of being overwhelmed. She looked at the mast and saw the flag of perfect love falling limp, the faded rose of all roses dying at last.
+
+And in a moment when he was asleep, her almost lord-and-master, she whipped the ship about and steered east-south-east into the heart of the sea of perfect love, hoping to get into the current east-north-east and so out into the open Atlantic. Then storms intolerable.
+
+Then they took to cruising the far, lone, desert fringes of the sea of perfect love, utterly lonely and near the ice, the fringe of the seas of death. There they cruised, in the remote waters on the edge of extinction. And then they looked at one another.
+
+"We will be perfect companions: you know how I love you," said Harriet, of the good ship Harriet and Lovat.
+
+"Never," said Lovat, of the same ship. "I will be lord and master, but ah, such a wonderful lord and master that it will be your bliss to belong to me. Look, I have been sewing a new flag."
+
+She didn't even look at the flag.
+
+"You!" she exclaimed. "You a lord and master! Why, don't you know that I love you as no man ever was loved? You a lord and master! Ph! you look it! Let me tell you I love you far, far more than ever you ought to be loved, and you should acknowledge it."
+
+"I would rather," said he, "that you deferred your loving of me for a while, and considered the new proposition. We shall never sail any straight course at all, until you realise that I am lord and master, and you my blissful consort. Supposing, now, you had the real Hermes for a husband, Trismegistus. Would you not hold your tongue for fear you lost him, and change from being a lover, and be a worshipper? Well, I am not Hermes or Dionysus, but I am a little nearer to it than you allow. And I want you to yield to my mastery and my divination, and let me put my flag of a phoenix rising from a nest in flames in place of that old rose on a field azure. The gules are almost faded out,"
+
+"It's a LOVELY design!" she cried, looking at the new flag. "I might make a cushion-embroidery of it. But as a flag it's absurd. Of course, you lonely phoenix, you are the bird and the ashes and the flames all by yourself! You would be. Nobody else enters in at all. I - I am just nowhere - I don't exist."
+
+"Yes," he said, "you are the nest."
+
+"I'll watch it!" she cried. "Then you shall sleep on thorns, Mister."
+
+"But consider," he said.
+
+"That's what I am doing," she replied. "Mr. Dionysus and Mr. Hermes and Mr. Thinks-himself-grand. I've got one thing to tell you. Without ME you'd be nowhere, you'd be nothing, you'd not be THAT," and she snapped her fingers under his nose, a movement he particularly disliked.
+
+"I agree," he replied, "that without the nest the phoenix would be - would be up a tree - would be in the air - would be nowhere, and couldn't find a stable spot to resurrect in. The nest is as the body to the soul: the cup that holds the fire, and in which the ashes fall to take form again. The cup is the container and the sustainer."
+
+"Yes, I've done enough containing and sustaining of you, my gentleman, in the years I've known you. It's almost time you left off wanting so much mothering. You can't live a moment without me."
+
+"I admit that the phoenix without a nest is a bird absolutely without a perch, he must dissipate in the air. But - ."
+
+"Then I'll make a cushion-cover of your flag, and you can rest on that."
+
+"No, I'm going to haul down the flag of perfect love."
+
+"Oh, are you! And sail without a flag? Just like you, destroy, destroy, and nothing to put in its place."
+
+"Yes, I want to put in its place this crowned phoenix rising from the nest in flames. I want to set fire to our bark, Harriet and Lovat, and out of the ashes construct the frigate, Hermes, which name still contains the same reference, 'her' and 'me', but which has a higher total significance."
+
+She looked at him speechless for some time. Then she merely said:
+
+"You're mad," and left him with his flag in his hands.
+
+Nevertheless he was a determined little devil, as she knew to her cost, and once he'd got an idea into his head not heaven nor hell nor Harriet would ever batter it out. And now he'd got into his head this idea of being lord and master, and Harriet's acknowledging him as such. Not just verbally. No. Not under the flag of perfect love. No. Obstinate and devilish as he was, he wanted to haul down the flag of perfect love, to set fire to the bark Harriet and Lovat, to seat himself in glory on the ashes, like a resurrected phoenix, with an imaginary crown on his head. And she was to be a comfortable nest for his impertinence.
+
+In short, he was to be the lord and master, and she the humble slave. Thank you. Or at the very best, she was to be a sort of domestic Mrs. Gladstone, the Mrs. Gladstone of that old chestnut - who, when a female friend was lamenting over the terrible state of affairs, in Ireland or somewhere, and winding up her lament with: "Terrible, terrible. But there is One above" - replied: "Yes, he's just changing his socks. He'll be down in a minute." Mr. Lovat was to be the One above, and she was to be happy downstairs thinking that this lord, this master, this Hermes cum Dionysus wonder, was comfortably changing his socks. Thank you again. The man was mad.
+
+Yet he stuck to his guns. She was to submit to the mystic man and male in him, with reverence, and even a little awe, like a woman before the altar of the great Hermes. She might remember that he WAS only human, that he had to change his socks if he got his feet wet, and that he would make a fool of himself nine times out of ten. But - and the but was emphatic as a thunderbolt - there was in him also the mystery and lordship of - of Hermes, if you like - but the mystery and the lordship of the forward-seeking male. That she must emphatically realise and bow down to. Yes, bow down to. You can't have two masters of one ship: neither can you have a ship without a master. The Harriet and Lovat had been an experiment of ten years' endurance. Now she was to be broken up, or burnt, so he said, and the non-existent Hermes was to take her place.
+
+You can't have two masters to one ship. And if it IS a ship: that is, if it has a voyage to sail, a port to make, even a far direction to take, into the unknown, then a master it must have. Harriet said it wasn't a ship, it was a houseboat, and they could lie so perfectly here by the Pacific for the rest of time - or be towed away to some other lovely spot to house in. She could imagine no fairer existence. It was a houseboat.
+
+But he with his no, no, he almost drove her mad. The bark of their marriage was a ship that must sail into uncharted seas, and he must be the master, and she must be the crew, sworn on. She was to believe in his adventure and deliver herself over to it; she was to believe in his mystic vision of a land beyond this charted world, where new life rose again.
+
+And she just couldn't. His land beyond the land men knew, where men were more than they are now: she couldn't believe in it. "Then believe in ME," he said desperately. "I know you too well," she replied. And so, it was an impasse.
+
+Him, a lord and master! Why, he was not really lord of his own bread and butter; next year they might both be starving. And he was not even master of himself, with his ungovernable furies and his uncritical intimacies with people: even people like Jack Callcott, whom Harriet quite liked, but whom she would never have taken seriously. Yet there was Lovat pouring himself out to him. Pah - believe! How could one believe in such a man! If he had been naturally a master of men, general of an army, or manager of some great steel works, with thousands of men under him - then, yes, she could have acknowledged the MASTER part of the bargain, if not the lord. Whereas, as it was, he was the most forlorn and isolated creature in the world, without even a dog to his command. He was so isolated he was hardly a man at all, among men. He had absolutely nothing but her. Among men he was like some unbelievable creature - an emu, for example. Like an emu in the streets or in a railway carriage. He might well say phoenix.
+
+All he could do was to try and come it over her with this revolution rubbish and a stunt of "male" activity. If it were even real!
+
+He had nothing but her, absolutely. And that was why, presumably, he wanted to establish this ascendancy over her, assume this arrogance. And so that he could refute her, deny her, and imagine himself a unique male. He WANTED to be male and unique, like a freak of a phoenix. And then go prancing off into connections with men like Jack Callcott and Kangaroo, and saving the world. She could NOT stand these world-saviours. And she, she must be safely there, as a nest for him, when he came home with his feathers pecked. That was it. So that he could imagine himself absolutely and arrogantly It, he would turn her into a nest, and sit on her and overlook her, like the one and only phoenix in the desert of the world, gurgling hymns of salvation.
+
+Poor Harriet! No wonder she resented it. Such a man, such a man to be tied to and tortured by!
+
+And poor Richard! To be a man, and to have a man's uneasy soul for his bed-fellow.
+
+But he kicked against the pricks. He did not yet submit to the fact which he HALF knew: that before mankind would accept any man for a king, and before Harriet would ever accept him, Richard Lovat, as a lord and master, he, the selfsame Richard who was so strong on kingship, must open the doors of his soul and let in a dark Lord and Master for himself, the dark god he had sensed outside the door. Let him once truly submit to the dark majesty, break open his doors to this fearful god who is master, and enters us from below, the lower doors; let himself once admit a Master, the unspeakable god: and the rest would happen.
+
+The fire began to burn the stick, The stick began to beat the dog. The dog began to bite the pig. The pig began to go over the bridge, And so the old woman got home that night...

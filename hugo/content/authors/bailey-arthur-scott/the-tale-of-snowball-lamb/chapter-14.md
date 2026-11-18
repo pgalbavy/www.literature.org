@@ -1,0 +1,39 @@
+---
+title: "Chapter 14 - Teasing Uncle Jerry"
+weight: 14
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-14.html"
+---
+
+Farmer Green's flock of sheep had followed Snowball over the stone wall and back into the pasture. And soon every one of them was grazing again as if nothing had happened.
+
+Now, Snowball was greatly pleased. It was the first time he had ever started that game called Follow My Leader. And there wasn't a sheep nor a lamb that hadn't gone chasing after him when he showed them the way.
+
+Snowball saw many merry games ahead of him. "I'll give them some good runs!" he promised himself.
+
+And he did. Before that morning was over he led the flock up to the furthest corner of the pasture in a mad scramble. And before the afternoon was over he took them on a brisk run to the bars.
+
+That made three times for the day.
+
+On each summer's day that followed Snowball played Follow My Leader oftener than he had the day before. So it happened that by the end of a week, when evening came, the older sheep were weary from all the running they had done, all the scrambling over the stone wall. For Snowball's favorite trick was to lead the sheep over the wall and into the tangle of raspberry bushes where Uncle Jerry Chuck lived.
+
+Snowball had soon learned that there was nothing to fear over there. He discovered that it was the noise the flock made when leaping down upon the ledge that alarmed Uncle Jerry Chuck. Drowsing in his underground chamber Uncle Jerry had thought there must be an earthquake. That was why his teeth chattered. That was why his nose twitched, when he peeped out of his doorway.
+
+As soon as Snowball learned all this he took great pains to land upon the ledge as heavily as he could. He liked to hear Uncle Jerry Chuck's teeth chatter; he liked to see Uncle Jerry shiver; he liked the sound of Uncle Jerry's squeaky voice asking what was the matter.
+
+So Snowball enjoyed his days in the pasture--or in and out of it. In fact he enjoyed them more than anybody else in the flock. For the others began to grow tired of being led helter-skelter in a headlong flight. And the old folks especially became annoyed because Snowball took them so often over the stone wall.
+
+At last the old dame known as "Aunt Nancy," all hung with great folds of thick fleece, spoke her mind plainly to Snowball himself.
+
+"You're making a nuisance of yourself," she told him. "In all my days I never knew another youngster--a mere lamb!--to lead the flock. And here you're making us run our legs off every day! When I was your age we children never started a game of Follow My Leader. We followed behind the rest of the flock. We never led."
+
+All this was a great surprise for Snowball. "D-don't you like the game?" he stammered.
+
+"The game's all right," the old lady said. "But nobody cares to play it a dozen times a day. And nobody enjoys having to clamber over the stone wall again and again."
+
+Snowball said nothing for a few minutes. He was thinking.
+
+"When I run, why do you follow me if you don't wish to?" he inquired at last.
+
+"I don't know," the old lady confessed. "Maybe I fell into the habit of following when I was young. Anyhow, I can't help myself now. I just have to go along with the others."
+
+Poor lady!

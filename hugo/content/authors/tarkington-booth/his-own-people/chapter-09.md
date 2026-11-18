@@ -1,0 +1,21 @@
+---
+title: "Chapter 9 - Expiation"
+weight: 9
+url: "/authors/tarkington-booth/his-own-people/chapter-09.html"
+---
+
+A multitudinous clangor of bells and a dozen neighboring chimes rang noon; then the rectangular oblongs of hot sunlight that fell from the windows upon the carpet of Mellin's room began imperceptibly to shift their angles and move eastward. From the stone pavement of the street below came the sound of horses pawing and the voices of waiting cabmen; then bells again, and more bells; clamoring the slow and cruel afternoon into the past. But all was silent in Mellin's room, save when, from time to time, a long, shuddering sigh came from the bed.
+
+The unhappy young man had again drawn the coverlet over his head, but not to sleep: it was more like a forlorn and desperate effort to hide, as if he crept into a hole, seeking darkness to cover the shame and fear that racked his soul. For though his shame had been too great to let him confess to young Cooley and ask for help, his fear was as great as his shame; and it increased as the hours passed. In truth his case was desperate. Except the people who had stripped him, Cooley was the only person in all of Europe with whom he had more than a very casual acquaintance. At home, in Cranston, he had no friends susceptible to such an appeal as it was vitally necessary for him to make. His relatives were not numerous: there were two aunts, the widows of his father's brothers, and a number of old-maid cousins; and he had an uncle in Iowa, a country minister whom he had not seen for years. But he could not cable to any of these for money; nor could he quite conjure his imagination into picturing any of them sending it if he did. And even to cable he would have to pawn his watch, which was an old-fashioned one of silver and might not bring enough to pay the charges.
+
+He began to be haunted by fragmentary, prophetic visions—confused but realistic in detail, and horridly probable—of his ejectment from the hotel, perhaps arrest and trial. He wondered what they did in Italy to people who "beat" hotels; and, remembering what some one had told him of the dreadfulness of Italian jails, convulsive shudderings seized upon him.
+
+The ruddy oblongs of sunlight crawled nearer to the east wall of the room, stretching themselves thinner and thinner, until finally they were not there at all, and the room was left in deepening grayness. Carriages, one after the other, in unintermittent succession, rumbled up to the hotel-entrance beneath the window, bringing goldfish for the Pincio and the fountains of Villa Borghese. Wild strains from the Hungarian orchestra, rhapsodical twankings of violins, and the runaway arpeggios of a zither crazed with speed-mania, skipped along the corridors and lightly through Mellin's door. In his mind's eye he saw the gay crowd in the watery light, the little tables where only five days ago he had sat with the loveliest of all the anemone-like ladies....
+
+The beautifully-dressed tea-drinkers were there now, under the green glass dome, prattling and smiling, those people he had called his own. And as the music sounded louder, faster, wilder and wilder with the gipsy madness—then in that darkening bedchamber his soul became articulate in a cry of humiliation—
+
+"God in His mercy forgive me, how raw I was!"
+
+A vision came before his closed eyes; the maple-bordered street in Cranston, the long, straight, wide street where Mary Kramer lived; a summer twilight; Mary in her white muslin dress on the veranda steps, and a wistaria vine climbing the post beside her, half-embowering her. How cool and sweet and good she looked! How dear—and how *kind*!—she had always been to him.
+
+Dusk stole through the windows: the music ceased and the tea-hour was over. The carriages were departing, bearing the gay people who went away laughing, calling last words to one another, and, naturally, quite unaware that a young man, who, five days before, had adopted them and called them "his own," was lying in a darkened room above them, and crying like a child upon his pillow.
